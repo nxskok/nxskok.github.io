@@ -9,8 +9,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ken’s website",
+    "title": "Ken Butler’s website",
     "section": "",
-    "text": "This is the front page for Ken Butler’s websites.\nSee for example:\n\nSTAC32\nBlog"
+    "text": "picture of Megan and me"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Ken Butler’s website",
+    "section": "What I do",
+    "text": "What I do\nWelcome to Ken Butler’s website. I teach applied statistics in the Department of Computer and Mathematical Sciences at UTSC.\nClick on one of the tabs at the top to investigate further."
   }
 ]
