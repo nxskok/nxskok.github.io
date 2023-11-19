@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Ken Butler teaches [Applied Statistics](https://ritsokiguess.site/home/faq.html) in the [Department of Computer and Mathematical Sciences](https://utsc.utoronto.ca/cms/) at the [University of Toronto Scarborough](https://www.utsc.utoronto.ca/home/).

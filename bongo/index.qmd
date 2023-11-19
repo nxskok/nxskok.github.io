@@ -1,0 +1,12 @@
+---
+title: "bongo"
+---
+
+bongo bongo bongo catfish
+
+```{r}
+library(tidyverse)
+z <- tibble(x = rnorm(10))
+ggplot(z, aes(x = x)) + geom_density()
+```
+

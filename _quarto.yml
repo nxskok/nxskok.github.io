@@ -2,12 +2,14 @@ project:
   type: website
 
 website:
-  title: "nxskok.github.io"
+  title: "Ken's websites"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  sidebar:
+    contents: auto
 
 format:
   html:

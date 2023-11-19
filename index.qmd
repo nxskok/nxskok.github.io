@@ -1,14 +1,10 @@
 ---
-title: "nxskok.github.io"
+title: "Ken's website"
 ---
 
-This is a Quarto website.
+This is the front page for Ken Butler's websites.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+See for example:
 
-```{r}
-1 + 1
-```
-
-hello worldlings
-
+- [STAC32](https://ritsokiguess.site/STAC32/)
+- [Blog](https://ritsokiguess.site/blogg)
