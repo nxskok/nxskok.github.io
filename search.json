@@ -7,6 +7,13 @@
     "text": "Ken Butler teaches Applied Statistics in the Department of Computer and Mathematical Sciences at the University of Toronto Scarborough."
   },
   {
+    "objectID": "home/index.html",
+    "href": "home/index.html",
+    "title": "thing",
+    "section": "",
+    "text": "rpois(5, 2)\n\n[1] 0 4 4 2 1"
+  },
+  {
     "objectID": "programs-and-courses/faq.html",
     "href": "programs-and-courses/faq.html",
     "title": "Frequently Asked Questions about the Applied Statistics Minor program",
