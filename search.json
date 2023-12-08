@@ -222,12 +222,5 @@
     "title": "R code",
     "section": "",
     "text": "Go to File and New Project. Click Version Control, then Git. In the box asking for a URL, enter https://github.com/nxskok/lecture-notes. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like, and choose which subfolder it will live in."
-  },
-  {
-    "objectID": "STAC32/notes.html",
-    "href": "STAC32/notes.html",
-    "title": "Lecture notes",
-    "section": "",
-    "text": "Lecture notes\nwith slides and the code that made the slides, by lecture / video:\n\n\n\nSection\nSlides\nPDF\nCode\n\n\n\n\nSTAC32 course outline\nSlides\nPDF\nCode\n\n\nRunning R\nSlides\nPDF\nCode\n\n\nReading data files\nSlides\nPDF\nCode\n\n\nDrawing graphs\nSlides\nPDF\nCode\n\n\nNumerical summaries\nSlides\nPDF\nCode\n\n\nChoosing things from dataframes\nSlides\nPDF\nCode\n\n\nInference: one and two-sample t\nSlides\nPDF\nCode\n\n\nBootstrap for sample mean\nSlides\nPDF\nCode\n\n\nInference: power\nSlides\nPDF\nCode\n\n\nInference: sign test\nSlides\nPDF\nCode\n\n\nInference: normal quantile plot\nSlides\nPDF\nCode\n\n\nInference: matched pairs\nSlides\nPDF\nCode\n\n\nInference: Mood’s median test\nSlides\nPDF\nCode\n\n\nInference: analysis of variance\nSlides\nPDF\nCode\n\n\nWriting reports\nSlides\nPDF\nCode\n\n\nTidying data\nSlides\nPDF\nCode\n\n\nTidying data: extras\nSlides\nPDF\nCode\n\n\nWhen pivot_wider goes wrong\nSlides\nPDF\nCode\n\n\nCase study: windmill\nSlides\nPDF\nCode\n\n\nCase study: asphalt\nSlides\nPDF\nCode\n\n\nRegression with categorical variables\nSlides\nPDF\nCode\n\n\nFunctions\nSlides\nPDF\nCode"
   }
 ]
