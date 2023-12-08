@@ -1,0 +1,33 @@
+---
+title: "Old exams"
+---
+
+- My exams come with a booklet of questions (with space to write your answers). In the exam, there are references to Figures which are in a separate booklet (in the column Figures below). Print that out, or otherwise have it available as you work through each exam. 
+- Here are old midterm and final exams going back to 2015. You will notice that the best way of doing things *has changed over time*. Be guided by how things are done now rather than in the past.
+- I now teach R only in my courses. 2018 was the first year that I started with R and finished with SAS. Before that, I did R and SAS both for each statistical technique. Thus, for example, you will see some SAS in old midterms, which you won't see now. Make allowances for this.
+- One of the *most effective* ways to find out whether you know something is to answer questions on it. (Another way is to explain it to someone else.) Thus, your best use of these exams is to *do them under exam conditions* without looking at the solutions, and *then* look at the solutions and grade yourself. This is the fastest way to find out what you don't understand. Read through your notes and work through examples on what you missed, then tackle another exam.
+- I would recommend starting with last year's exams (the most similar to the exams you'll see) and working backwards.
+- If all you do is read through the solutions, you have *wasted a huge learning opportunity*, because you will not be prepared to deal with what you face on exam day.
+
+## Old midterm exams
+
+Year  | Exam                          | Figures                         | Solutions
+------|-------------------------------|---------------------------------|-------------------------------------------
+2015  | [exam](midterm-20159-q.pdf)  | [figures](midterm-20159-f.pdf)   | [solutions](midterm-20159-s.pdf) |
+2016  | [exam](midterm-20169-q.pdf)  | [figures](midterm-20169-f.pdf)   | [solutions](midterm-20169-s.pdf) |
+2017  | [exam](midterm-20179-q.pdf)  | [figures](midterm-20179-f.pdf)   | [solutions](midterm-20179-s.pdf) |
+2018  | [exam](midterm-20189-q.pdf)  | [figures](midterm-20189-f.pdf)   | [solutions](midterm-20189-s.pdf) |
+2019  | [exam](midterm-20199-q.pdf)  | [figures](midterm-20199-f.pdf)   | [solutions](midterm-20199-s.pdf) |
+2022  | [exam](midterm-20229-q.pdf)  | [figures](midterm-20229-f.pdf)   | [solutions](midterm-20229-s.pdf) |
+
+ 
+## Old final exams
+
+Year  | Exam                       | Figures                       | Solutions
+------|----------------------------|-------------------------------|------------------------------------------
+2015  | [exam](final-20159-q.pdf)  | [figures](final-20159-f.pdf)  | [solutions](final-20159-s.pdf)
+2016  | [exam](final-20169-q.pdf)  | [figures](final-20169-f.pdf)  | [solutions](final-20169-s.pdf)
+2017  | [exam](final-20179-q.pdf)  | [figures](final-20179-f.pdf)  | [solutions](final-20179-s.pdf)
+2018  | [exam](final-20189-q.pdf)  | [figures](final-20189-f.pdf)  | [solutions](final-20189-s.pdf)
+2019  | [exam](final-20199-q.pdf)  | [figures](final-20199-f.pdf)  | [solutions](final-20199-s.pdf)
+2022  | [exam](final-20229-q.pdf)  | [figures](final-20229-f.pdf)  | [solutions](final-20229-s.pdf)

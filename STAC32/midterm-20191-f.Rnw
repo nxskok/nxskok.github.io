@@ -1,0 +1,61 @@
+\documentclass[titlepage]{article}
+
+\usepackage[utf8]{inputenc}
+%\DeclareUnicodeCharacter{00D7}{$\times$}
+\usepackage{multicol}
+
+\title{Booklet of Code and Output\\
+for\\
+STAD29/STA 1007 Midterm Exam\\
+}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+List of Figures in this document by page:
+
+\listoffigures
+
+\vspace{1cm}
+
+
+\newpage
+
+% figures enclosed in figure environments in child documents
+
+
+\begin{figure}
+<<>>=
+library(MASS)
+library(tidyverse)
+library(broom)
+library(survival)
+library(survminer)
+@   
+  \caption{Packages}
+  \label{fig:packages}
+\end{figure}
+
+<<copiers-f, child="copiers-f.Rnw">>=
+@
+
+<<bottles-f, child="bottles-f.Rnw">>=
+@ 
+
+<<arthritis-f, child="arthritis-f.Rnw">>=
+@ 
+
+<<patients-f, child="patients-f.Rnw">>=
+@ 
+
+<<relieftime-f, child="relieftime-f.Rnw">>=
+@ 
+
+<<meat-f, child="meat-f.Rnw">>=
+@ 
+
+<<appendix-f, child="appendix-20191-f.Rnw">>=
+@ 
+\end{document}

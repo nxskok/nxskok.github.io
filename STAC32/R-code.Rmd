@@ -1,0 +1,5 @@
+---
+title: "R code"
+---
+
+Go to File and New Project. Click Version Control, then Git. In the box asking for a URL, enter `https://github.com/nxskok/lecture-notes`. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like, and choose which subfolder it will live in.
