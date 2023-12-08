@@ -7,6 +7,62 @@
     "text": "Ken Butler teaches Applied Statistics in the Department of Computer and Mathematical Sciences at the University of Toronto Scarborough."
   },
   {
+    "objectID": "STAC33/old_exams.html",
+    "href": "STAC33/old_exams.html",
+    "title": "Old exams",
+    "section": "",
+    "text": "This course is relatively new, and the old exams don’t go back very far. If you want more practice, especially for midterms, you can try the STAC32 old exam page.\nMy exams come with a booklet of questions (with space to write your answers). In the exam, there are references to Figures which are in a separate booklet (in the column Figures below). Print that out, or otherwise have it available as you work through each exam.\nHere are the old midterm and final exams that I have. You will notice that the best way of doing things has changed over time. Be guided by how things are done now rather than in the past.\nOne of the most effective ways to find out whether you know something is to answer questions on it. (Another way is to explain it to someone else.) Thus, your best use of these exams is to do them under exam conditions without looking at the solutions, and then look at the solutions and grade yourself. This is the fastest way to find out what you don’t understand. Read through your notes and work through examples on what you missed, then tackle another exam.\nIf all you do is read through the solutions, you have wasted a huge learning opportunity, because you will not be prepared to deal with what you face on exam day."
+  },
+  {
+    "objectID": "STAC33/old_exams.html#old-midterm-exams",
+    "href": "STAC33/old_exams.html#old-midterm-exams",
+    "title": "Old exams",
+    "section": "Old midterm exams",
+    "text": "Old midterm exams\n\n\n\nYear\nExam\nFigures\nSolutions\n\n\n\n\n2019\nexam\nfigures\nsolutions\n\n\n\nIn 2021 the course was online with no exams; in 2022, the course was partly online, with an online assignment-like midterm. I actually think the course was first run in 2020, but the exam is dated 2019, so we’ll go with that. (I remember the midterm in 2020 happening just before COVID did.)"
+  },
+  {
+    "objectID": "STAC33/old_exams.html#old-final-exams",
+    "href": "STAC33/old_exams.html#old-final-exams",
+    "title": "Old exams",
+    "section": "Old final exams",
+    "text": "Old final exams\n\n\n\nYear\nExam\nFigures\nSolutions\n\n\n\n\n2022\nexam\nfigures\nsolutions\n\n\n\nThis was the first post-COVID in-person final exam."
+  },
+  {
+    "objectID": "STAC33/index.html",
+    "href": "STAC33/index.html",
+    "title": "STAC33",
+    "section": "",
+    "text": "bad picture\n\n\nWelcome to the home page for STAC33. This is the place to look for all things course-related (notes, announcements etc.) except for assignment hand-ins and marks, which will be on Quercus.\nIn this course, we learn R, and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to get the answers, but you also need to be able to explain to others what the results mean, and convince others why what you have done is sensible. This is what a real-world data analyst does, and so you will need to demonstrate an ability to do that as well.\n\n\n\n\n2022-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.\n2022-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. Do not appeal to me for special treatment. The choice of students to add is mine."
+  },
+  {
+    "objectID": "STAC33/index.html#ken-butler",
+    "href": "STAC33/index.html#ken-butler",
+    "title": "STAC33",
+    "section": "",
+    "text": "bad picture\n\n\nWelcome to the home page for STAC33. This is the place to look for all things course-related (notes, announcements etc.) except for assignment hand-ins and marks, which will be on Quercus.\nIn this course, we learn R, and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to get the answers, but you also need to be able to explain to others what the results mean, and convince others why what you have done is sensible. This is what a real-world data analyst does, and so you will need to demonstrate an ability to do that as well."
+  },
+  {
+    "objectID": "STAC33/index.html#news-most-recent-at-the-top",
+    "href": "STAC33/index.html#news-most-recent-at-the-top",
+    "title": "STAC33",
+    "section": "",
+    "text": "2022-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.\n2022-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. Do not appeal to me for special treatment. The choice of students to add is mine."
+  },
+  {
+    "objectID": "STAC33/R-code.html",
+    "href": "STAC33/R-code.html",
+    "title": "R code",
+    "section": "",
+    "text": "One of these:\n\nDatatools/jupyter, File and New Project. Click on the down arrow, and select New Project from Git Repo. In the box asking for a URL, enter https://github.com/nxskok/lecture-notes.git. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like.\nIn R Studio on your own computer, select File and New Project. In the pop-up, click Version Control and Git. In the Repository URL box, enter https://github.com/nxskok/lecture-notes.git. Enter a name for the project in the next box, and if you don’t like R Studio’s choice of the place this will be a subfolder of, click Browse to change it. Click Create Project when you are happy.\n\n\nThese are actually lecture notes for all my courses. To follow along with a lecture, find out what the lecture slides are called (eg graphs_R_slides.pdf), and replace the _slides.pdf with .Rmd (eg. graphs_R.Rmd). There should be a _slides.pdf and a .Rmd file for each section of a course you are taking from me.\nIf you have any problems with access (eg. you are asked for a password), let me know."
+  },
+  {
+    "objectID": "STAC33/notes.html",
+    "href": "STAC33/notes.html",
+    "title": "Lecture notes",
+    "section": "",
+    "text": "Lecture notes\nin chronological order, with slies and the code that produced the slides (that I run in class):\n\n\n\nSection\nSlides\nPDF\nCode\n\n\n\n\nSTAC33 course outline\nSlides\nPDF\nCode\n\n\nRunning R\nSlides\nPDF\nCode\n\n\nReading data files\nSlides\nPDF\nCode\n\n\nDrawing graphs\nSlides\nPDF\nCode\n\n\nNumerical summaries\nSlides\nPDF\nCode\n\n\nChoosing things from dataframes\nSlides\nPDF\nCode\n\n\nInference: one and two-sample t\nSlides\nPDF\nCode\n\n\nBootstrap for sample mean\nSlides\nPDF\nCode\n\n\nInference: power\nSlides\nPDF\nCode\n\n\nInference: sign test\nSlides\nPDF\nCode\n\n\nInference: normal quantile plot\nSlides\nPDF\nCode\n\n\nInference: matched pairs\nSlides\nPDF\nCode\n\n\nInference: Mood’s median test\nSlides\nPDF\nCode\n\n\nInference: analysis of variance\nSlides\nPDF\nCode\n\n\nWriting reports\nSlides\nPDF\nCode\n\n\nTidying data\nSlides\nPDF\nCode\n\n\nTidying data: extras\nSlides\nPDF\nCode\n\n\nWhen pivot_wider goes wrong\nSlides\nPDF\nCode\n\n\nCase study: windmill\nSlides\nPDF\nCode\n\n\nCase study: asphalt\nSlides\nPDF\nCode\n\n\nRegression with categorical variables\nSlides\nPDF\nCode\n\n\nFunctions\nSlides\nPDF\nCode\n\n\nVector and matrix algebra\nSlides\nPDF\nCode\n\n\nBootstrap revisited\nSlides\nPDF\nCode\n\n\nBayesian statistics with Stan\nSlides\nPDF\nCode"
+  },
+  {
     "objectID": "programs-and-courses/faq.html",
     "href": "programs-and-courses/faq.html",
     "title": "Frequently Asked Questions about the Applied Statistics Minor program",
