@@ -1,0 +1,26 @@
+---
+title: "Old exams"
+---
+
+## Old midterm exams
+
+Year  | Exam                       | Figures                        | Solutions
+------|----------------------------|--------------------------------|------------------------------
+2016  | [exam](midterm-20161-q.pdf)  | [figures](midterm-20161-f.pdf) | [solutions](midterm-20161-s.pdf)
+2017  | [exam](midterm-20171-q.pdf)  | [figures](midterm-20171-f.pdf) | [solutions](midterm-20171-s.pdf)
+2018  | [exam](midterm-20181-q.pdf)  | [figures](midterm-20181-f.pdf) | [solutions](midterm-20181-s.pdf)
+2019  | [exam](midterm-20191-q.pdf)  | [figures](midterm-20191-f.pdf) | [solutions](midterm-20191-s.pdf)
+2020  | [exam](midterm-20201-q.pdf)  | [figures](midterm-20201-f.pdf) | [solutions](midterm-20201-s.pdf)
+2022  | [exam](midterm-20221-q.pdf)  | [figures](midterm-20221-f.pdf) | [solutions](midterm-20221-s.pdf)
+2023  | to be added                  |                                |   
+
+
+## Old final exams
+
+Year  | Exam                     | Figures                      | Solutions
+------|--------------------------|------------------------------|---------------------------------
+2016  | [exam](final-20161-q.pdf)  | [figures](final-20161-f.pdf) | [solutions](final-20161-s.pdf) 
+2017  | [exam](final-20171-q.pdf)  | [figures](final-20171-f.pdf) | [solutions](final-20171-s.pdf) 
+2018  | [exam](final-20181-q.pdf)  | [figures](final-20181-f.pdf) | [solutions](final-20181-s.pdf) 
+2019  | [exam](final-20191-q.pdf)  | [figures](final-20191-f.pdf) | [solutions](final-20191-s.pdf) 
+2022  | [exam](final-20221-q.pdf)  | [figures](final-20221-f.pdf) | [solutions](final-20221-s.pdf) 

@@ -1,0 +1,37 @@
+---
+title: "Frequently Asked Questions about the Applied Statistics Minor program"
+---
+
+The Applied Statistics Minor and Statistics Minor are two very different programs, intended for students with different preparations:
+
+- the Applied Statistics Minor is for students who have taken STAB22 and STAB27 (or an equivalent pair of courses such as PSYB07 & PSYC08, or MGEB11 & MGEB12), with a relatively limited mathematical background. The program is based on a conceptual and computational (with software) approach to the subject matter, and you will be expected to explain and justify your answers.
+
+- the Statistics Minor is for students who have taken STAB52 and STAB57 and who thus have a background in calculus. This program is based on mainly theoretical understanding of statistical methods, but a student who completes this program should be able to develop the practical skills needed in the real world.
+
+The choice between programs therefore depends on which introductory Statistics courses you took. 
+
+If you try to take the "wrong" program based on your preparation, you will run into a *lot* of problems with course exclusions. This is especially true if you try to take the Applied Minor when you should be taking the Minor. A consequence of this is that you may end up with too few distinct credits to graduate. (Excluded courses, ones marked Extra on your transcript and in Degree Explorer, do not count as distinct credits.)
+
+Specific questions you might have are listed below.
+
+0. **How long does it take?** Two academic years. Suggested timetable: 
+  - academic year 1 fall: STAB22 or equivalent, CSCA20
+  - year 1 winter: STAB27 or equivalent (PSYC08 and MGEB12 are sometimes offered in the summer)
+  - year 2 fall: STAC32, STAC53
+  - year 2 winter: STAD29
+  - as offered: your courses for the last requirement.
+1. **What is the difference between STAB22, STAB23, PSYB07, and MGEB11?** These are all first Statistics courses aimed at students with relatively little mathematics. PSYB07 and MGEB11 are intended for students in psychology and economics for management respectively. STAB23 is intended for students in the social sciences. STAB22 is for everybody else. I only recommend taking PSYB07, MGEB11, or STAB23 if you are in one of the programs that uses those courses specifically; you will find that those courses use examples from psychology, economics and the social sciences (respectively), and so if you are studying something else, you will find the course material confusing, and you do better to take the more general STAB22 (whose examples are from a variety of fields).
+1. **Which second Statistics course should I take?** Take the one that matches the first course you took: if you took PSYB07, take PSYC08; if you took MGEB11, take MGEB12; if you took STAB22 or STAB23, take STAB27. You may be able to take mis-matching courses, but if you do, you may find that material you need in your second course includes things you did not do in your first course.
+1. **My Degree Explorer says that I need STAC50, which I cannot get into, but the program requirements say STAC53. What should I do?** You should take STAC53, and you should also <a href="mailto:ken.butler@utoronto.ca">email me</a> with your student number so that I can change your Degree Explorer for you.
+1. **Can I take STAB27 and STAC32 out of order to complete the program quicker?** No. Prerequisites are enforced and you will be removed from STAC32 if you enrol. The same applies if you try to take STAD29 without having taken STAC32. Read the prerequisites carefully. The program is designed to take two academic years to complete. See question 0.
+1. **Can I substitute other courses for STAC32, STAC53, STAD29?** You can take STA 304 in place of STAC53, but otherwise no. If you want to use STA 304, you need to <a href="mailto:ken.butler@utoronto.ca">email me</a> so that I can update your Degree Explorer. You should also be aware that STA 304 has a prerequisite STA 255, which itself requires a calculus course (which could be MATA33). 
+1. **I'm having trouble finding courses for requirement 5. Can I substitute something else?** Maybe. The point of requirement 5 is that the two courses should have a *significant* quantitative component, for example actual math courses (such as calculus), actual other STA courses (STAC51 is your best bet), or a course in or near your discipline that has a significant quantitative component. PSYC09 and GGRC42 are examples of other courses I would accept. If you wish me to consider another course beyond the ones listed in the Calendar or on your Degree Explorer, <a href="mailto:ken.butler@utoronto.ca">email me</a>, if necessary making your case that the course in question has a *significant* quantitative compenent.
+1. **Can I take a Statistics Specialist/Major/Minor and an Applied Statistics Minor?** No.
+1. **Can I use STAB52 and/or STAB57 to satisfy any requirements for the Applied Statistics Minor?** No. You should be taking the [Statistics Minor](https://utsc.calendar.utoronto.ca/minor-program-statistics-science) instead.
+1. **I have taken MATA32 and MAT33, and also MGEB11 and MGEB12. Can I take the Applied Statistics Minor?** Yes.
+1. **I have taken, or plan to take, MATA30/A31 and MATA36/37. Should I take the Applied Statistics Minor?** No. The [Statistics Minor](https://utsc.calendar.utoronto.ca/minor-program-statistics-science) is a better fit for you. 
+1. **I have taken other first-year calculus courses, such as MATA29. Can I take the Applied Statistics Minor?** If you want. You will need to take STAB22 (or equivalent) and STAB27 (or equivalent).
+1. **I am taking a Computer Science Minor. Can I also take the Applied Statistics Minor?** Yes.
+1. **I am in Statistics Specialist, Major, Minor, or the Math Specialist, Statistics Stream. Can I also take the Applied Statistics Minor, or any of STAC32, STAC53, STAD29 for credit?** No and no.
+1. **I have questions about the Statistics Minor. Can I ask you?** No. <a href="mailto:mahinda.samarakoon@utoronto.ca">Email the Supervisor of Studies</a> for that program.
+1. **I want to learn some SAS. Will I be learning that in any of your courses?** No, not as they are currently arranged, but you might find [this site](http://ritsokiguess.site/SAS/) useful. You will probably recognize the data sets used there, if you have taken any of my courses.

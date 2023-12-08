@@ -1,0 +1,28 @@
+---
+title: "Lecture notes"
+---
+
+Lecture notes by section, in chronological order, with slides and the code that produced the slides (that I run in class):
+
+| Section | Slides | PDF | Code |
+|:--------|:--------|:--------------|:----------|
+|STAD29 course outline | [Slides](http://ritsokiguess.site/lecture-notes/outline_d29.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/outline_d29.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/outline_d29.qmd) |
+|Regression revisited | [Slides](http://ritsokiguess.site/lecture-notes/regression.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/regression.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/regression.qmd) |
+|Logistic regression | [Slides](http://ritsokiguess.site/lecture-notes/logistic.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/logistic.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/logistic.qmd) |
+|Dates and Times | [Slides](http://ritsokiguess.site/lecture-notes/dates_and_times.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/dates_and_times.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/dates_and_times.qmd) |
+|Durations, intervals and periods | [Slides](http://ritsokiguess.site/lecture-notes/dip.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/dip.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/dip.qmd) |
+|Survival analysis| [Slides](http://ritsokiguess.site/lecture-notes/survival.html) |[PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/survival.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/survival.qmd) |
+|ANOVA revisited | [Slides](http://ritsokiguess.site/lecture-notes/anova.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/anova.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/anova.qmd) |
+|Analysis of Covariance | [Slides](http://ritsokiguess.site/lecture-notes/ancova.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/ancova.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/ancova.qmd) |
+|Multivariate ANOVA | [Slides](http://ritsokiguess.site/lecture-notes/manova.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/manova.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/manova.qmd) |
+|Repeated measures | [Slides](http://ritsokiguess.site/lecture-notes/profile.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/profile.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/profile.qmd) |
+|Discriminant analysis | [Slides](http://ritsokiguess.site/lecture-notes/discrim.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/discrim.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/discrim.qmd) |
+|Cluster analysis | [Slides](http://ritsokiguess.site/lecture-notes/cluster.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/cluster.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/cluster.qmd) |
+|Drawing maps | [Slides](http://ritsokiguess.site/lecture-notes/mapping.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/mapping.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/mapping.qmd) |
+|Principal components | [Slides](http://ritsokiguess.site/lecture-notes/princomp.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/princomp.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/princomp.qmd) |
+|Factor analysis| [Slides](http://ritsokiguess.site/lecture-notes/factor.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/factor.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/factor.qmd) |
+|Multiway frequency tables| [Slides](http://ritsokiguess.site/lecture-notes/multiway.html) | [PDF](https://raw.githubusercontent.com/nxskok/lecture-notes/master/multiway.pdf) | [Code](https://raw.githubusercontent.com/nxskok/lecture-notes/master/multiway.qmd) |
+
+
+
+

@@ -1,0 +1,11 @@
+---
+title: "R code"
+---
+
+- One of these:
+  - **Datatools/jupyter**,  File and New Project. Click on the down arrow, and select New Project from Git Repo. In the box asking for a URL, enter `https://github.com/nxskok/lecture-notes.git`. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like.
+  - **In R Studio on your own computer**, select File and New Project. In the pop-up, click Version Control and Git. In the Repository URL box, enter `https://github.com/nxskok/lecture-notes.git`. Enter a name for the project in the next box, and if you don't like R Studio's choice of the place this will be a subfolder of, click Browse to change it. Click Create Project when you are happy. 
+
+These are actually lecture notes for all my courses. To follow along with a lecture, find out what the lecture slides are called (eg `graphs_R_slides.pdf`), and replace the `_slides.pdf` with `.Rmd` (eg. `graphs_R.Rmd`). There should be a `_slides.pdf` and a `.Rmd` file for each section of a course you are taking from me.
+
+If you have any problems with access (eg. you are asked for a password), let me know.

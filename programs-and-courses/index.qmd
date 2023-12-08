@@ -1,0 +1,16 @@
+---
+title: "Programs and Courses"
+---
+
+
+
+
+## Applied Statistics Minor program
+
+- I am Supervisor of Studies for the [Statistics Applied Minor program](https://utsc.calendar.utoronto.ca/minor-program-applied-statistics-science). [FAQ](faq.html). This program is intended for students in some Major or Specialist *other than* Mathematics, Statistics, or Computer Science (examples: Psychology, Health Studies), and provides a conceptual and computational overview of some intermediate and advanced statistical methods. The program is intended to be combined with a Major or Specialist program in some other field with a quantitative component, for which an applied knowledge of statistical methods will be an advantage.
+
+## My courses
+
+- [STAC32 Applications of Statistical Methods](/STAC32/).  For students with a second non-mathematical statistics course such as UTSC's [STAB27](https://utsc.calendar.utoronto.ca/course/stab27h3). Part of the [Statistics Applied Minor](https://utsc.calendar.utoronto.ca/minor-program-applied-statistics-science) program. [Calendar entry](https://utsc.calendar.utoronto.ca/course/stac32h3).
+- [STAC33 Introduction to Applied Statistics](/STAC33/).  For students with a second mathematical statistics course such as UTSC's [STAB57](https://utsc.calendar.utoronto.ca/course/stab57h3). [Calendar entry](https://utsc.calendar.utoronto.ca/course/stac33h3).
+- [STAD29 Statistics for the Life and Social Sciences](/STAD29/).  Advanced statistical methods from a how-to point of view. Part of the [Statistics Applied Minor](https://utsc.calendar.utoronto.ca/minor-program-applied-statistics-science) program. [Calendar entry](https://utsc.calendar.utoronto.ca/course/stad29h3).

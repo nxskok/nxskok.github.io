@@ -1,0 +1,21 @@
+---
+title: "STAC33"
+---
+
+#  Introduction to Applied Statistics
+
+## Ken Butler
+
+![bad picture](ken.jpg){width=400px}
+
+Welcome to the home page for STAC33. This is the place to look for all things course-related (notes, announcements etc.) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
+
+In this course, we learn R, and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to *get* the answers, but you also need to be able to *explain to others* what the results mean, and *convince others why* what you have done is sensible. This is what a real-world data analyst does, and so you will need to demonstrate an ability to do that as well.
+
+
+## News (most recent at the top)
+
+- 2022-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.
+
+- 2022-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. *Do not* appeal to me for special treatment. The choice of students to add is mine.
+

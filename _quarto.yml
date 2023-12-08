@@ -2,12 +2,24 @@ project:
   type: website
 
 website:
-  title: "Ken's websites"
+  title: "Ken's website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: programs-and-courses/
+        text: Programs and courses
+      - href: http://ritsokiguess.site/STAC32
+        text: STAC32
+      - href: http://ritsokiguess.site/STAC33
+        text: STAC33
+      - href: http://ritsokiguess.site/STAD29
+        text: STAD29
+      - href: http://ritsokiguess.site/pasias2/
+        text: PASIAS
+      - text: "Quercus"
+        href: http://q.utoronto.ca
+
   sidebar:
     contents: auto
 

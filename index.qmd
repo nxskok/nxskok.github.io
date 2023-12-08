@@ -1,10 +1,12 @@
 ---
-title: "Ken's website"
+title: "Ken Butler's website"
 ---
 
-This is the front page for Ken Butler's websites.
+![picture of Megan and me](https://www.utsc.utoronto.ca/~butler/c32/ken-megan-2.jpg) 
 
-See for example:
+## What I do
 
-- [STAC32](https://ritsokiguess.site/STAC32/)
-- [Blog](https://ritsokiguess.site/blogg)
+Welcome to Ken Butler's website. I teach applied statistics in the [Department of Computer and Mathematical Sciences](https://www.utsc.utoronto.ca/cms/) at [UTSC](https://www.utsc.utoronto.ca/home/). 
+
+
+Click on one of the tabs at the top to investigate further.
