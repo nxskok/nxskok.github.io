@@ -9,11 +9,11 @@ website:
         text: Home
       - href: programs-and-courses/
         text: Programs and courses
-      - href: http://ritsokiguess.site/STAC32
+      - href: STAC32/
         text: STAC32
-      - href: http://ritsokiguess.site/STAC33
+      - href: STAC33/
         text: STAC33
-      - href: http://ritsokiguess.site/STAD29
+      - href: STAD29/
         text: STAD29
       - href: http://ritsokiguess.site/pasias2/
         text: PASIAS
@@ -22,6 +22,7 @@ website:
 
   sidebar:
     contents: auto
+
 
 format:
   html:

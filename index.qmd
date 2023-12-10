@@ -9,4 +9,5 @@ title: "Ken Butler's website"
 Welcome to Ken Butler's website. I teach applied statistics in the [Department of Computer and Mathematical Sciences](https://www.utsc.utoronto.ca/cms/) at [UTSC](https://www.utsc.utoronto.ca/home/). 
 
 
-Click on one of the tabs at the top or a link down the side to investigate further.
+Click on one of the tabs at the top or a link down the side 
+to investigate further.
