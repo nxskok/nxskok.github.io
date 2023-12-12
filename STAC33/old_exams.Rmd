@@ -14,16 +14,18 @@ title: "Old exams"
 Year  | Exam                          | Figures                         | Solutions
 :-----|:------------------------------|:--------------------------------|:-------------------------------------------
 2019 | [exam](midterm-20201-q.pdf)  | [figures](midterm-20201-f.pdf)   | [solutions](midterm-20201-s.pdf) |
-2022  | [exam](midterm-20221-c33.pdf) | needs sorting out               |
-2023  | [exam](midterm-20231-c33.pdf) | needs sorting out               |
+2022  | [exam](midterm-20221-c33-questions.pdf) | [figures](midterm-20221-c33-figures.pdf)               | [solutions](midterm-20221-c33-answers.pdf)
+2023  | [exam](midterm-20231-c33-q.pdf) | [figures](midterm-20231-c33-f.pdf) | [solutions](midterm-20231-c33.pdf)
 
 
-In 2021 the course was online with no exams; in 2022, the course was partly online, with an online assignment-like midterm. I actually think the course was first run in 2020, but the exam is dated 2019, so we'll go with that. (I remember the midterm in 2020 happening just before COVID did.)
+In 2021 the course was online with no exams; in 2022, the course was partly online, with an online assignment-like midterm. This means that, in 2022, you had to generate most of what would normally be a booklet of figures yourself, as on an assignment. 
+
+I actually think the course was first run in 2020, but the exam is dated 2019, so we'll go with that. (I remember the midterm in 2020 happening just before COVID did.)
  
 ## Old final exams
 
 Year  | Exam                       | Figures                       | Solutions
 :-----|:---------------------------|:------------------------------|:------------------------------------------
 2022  | [exam](final-20221-q.pdf)  | [figures](final-20221-f.pdf)  | [solutions](final-20221-s.pdf)
-2023  | [exam](final-20231-c33.pdf)| needs sorting out
+2023  | [exam](final-20231-c33-questions.pdf)| [figures](final-20231-c33-figures.pdf) | [solutions](final-20231-c33-answers.pdf)
 

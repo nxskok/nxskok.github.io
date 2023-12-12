@@ -12,7 +12,9 @@ Year  | Exam                       | Figures                        | Solutions
 2019  | [exam](midterm-20191-q.pdf)  | [figures](midterm-20191-f.pdf) | [solutions](midterm-20191-s.pdf)
 2020  | [exam](midterm-20201-q.pdf)  | [figures](midterm-20201-f.pdf) | [solutions](midterm-20201-s.pdf)
 2022  | [exam](midterm-20221-q.pdf)  | [figures](midterm-20221-f.pdf) | [solutions](midterm-20221-s.pdf)
-2023  | to be added                  |                                |   
+2023  | [exam](midterm-20231-d29-questions.pdf)  | [figures](midterm-20231-d29-figures.pdf) | [solutions](midterm-20231-d29-answers.pdf)
+
+We had a very late midterm in 2023, so there is more material on there than you can expect to see in other midterms. 
 
 
 ## Old final exams
@@ -24,3 +26,4 @@ Year  | Exam                     | Figures                      | Solutions
 2018  | [exam](final-20181-q.pdf)  | [figures](final-20181-f.pdf) | [solutions](final-20181-s.pdf) 
 2019  | [exam](final-20191-q.pdf)  | [figures](final-20191-f.pdf) | [solutions](final-20191-s.pdf) 
 2022  | [exam](final-20221-q.pdf)  | [figures](final-20221-f.pdf) | [solutions](final-20221-s.pdf) 
+2023  | [exam](final-20231-d29_q.pdf)  | [figures](final-20231-d29_f.pdf) | [solutions](final-20231-d29_s.pdf) 
