@@ -168,6 +168,13 @@
     "text": "What I do\nWelcome to Ken Butler’s website. I teach applied statistics in the Department of Computer and Mathematical Sciences at UTSC.\nClick on one of the tabs at the top or a link down the side to investigate further."
   },
   {
+    "objectID": "STAC32/all_worksheets.html",
+    "href": "STAC32/all_worksheets.html",
+    "title": "Worksheets",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          File Name\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nModified\n\n\nFile Name\n\n\n\n\n\n\n9/6/23, 10:56:21 AM\n\n\nworksheet_1_c32.html\n\n\n\n\n9/15/23, 1:51:55 PM\n\n\nworksheet_2_c32.html\n\n\n\n\n9/25/23, 6:10:38 PM\n\n\nworksheet_3_c32.html\n\n\n\n\n9/25/23, 6:19:59 PM\n\n\nworksheet_4_c32.html\n\n\n\n\n9/29/23, 11:56:02 AM\n\n\nworksheet_5_c32.html\n\n\n\n\n10/16/23, 11:43:50 AM\n\n\nworksheet_6_c32.html\n\n\n\n\n10/30/23, 12:05:18 PM\n\n\nworksheet_7_c32.html\n\n\n\n\n10/30/23, 12:12:51 PM\n\n\nworksheet_8_c32.html\n\n\n\n\n11/6/23, 2:01:42 PM\n\n\nworksheet_9_c32.html\n\n\n\n\n11/13/23, 3:19:03 PM\n\n\nworksheet_10_c32.html\n\n\n\n\n11/20/23, 2:22:19 PM\n\n\nworksheet_11_c32.html\n\n\n\n\n11/27/23, 11:49:04 AM\n\n\nworksheet_12_c32.html\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "STAC32/old_exams.html",
     "href": "STAC32/old_exams.html",
     "title": "Old exams",
@@ -187,6 +194,13 @@
     "title": "Old exams",
     "section": "Old final exams",
     "text": "Old final exams\n\n\n\nYear\nExam\nFigures\nSolutions\n\n\n\n\n2015\nexam\nfigures\nsolutions\n\n\n2016\nexam\nfigures\nsolutions\n\n\n2017\nexam\nfigures\nsolutions\n\n\n2018\nexam\nfigures\nsolutions\n\n\n2019\nexam\nfigures\nsolutions\n\n\n2022\nexam\nfigures\nsolutions"
+  },
+  {
+    "objectID": "STAC32/all.html",
+    "href": "STAC32/all.html",
+    "title": "Worksheets",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          File Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nFile Name\n\n\n\n\n\n\nworksheet_10_c32.html\n\n\n\n\nworksheet_11_c32.html\n\n\n\n\nworksheet_12_c32.html\n\n\n\n\nworksheet_1_c32.html\n\n\n\n\nworksheet_2_c32.html\n\n\n\n\nworksheet_3_c32.html\n\n\n\n\nworksheet_4_c32.html\n\n\n\n\nworksheet_5_c32.html\n\n\n\n\nworksheet_6_c32.html\n\n\n\n\nworksheet_7_c32.html\n\n\n\n\nworksheet_8_c32.html\n\n\n\n\nworksheet_9_c32.html\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "STAC32/lecture-notes.html",
@@ -224,10 +238,17 @@
     "text": "Go to File and New Project. Click Version Control, then Git. In the box asking for a URL, enter https://github.com/nxskok/lecture-notes. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like, and choose which subfolder it will live in."
   },
   {
+    "objectID": "STAC32/all_assignments.html",
+    "href": "STAC32/all_assignments.html",
+    "title": "Assignment solutions",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          File Name\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nModified\n\n\nFile Name\n\n\n\n\n\n\n9/25/23, 6:10:37 PM\n\n\na1_c32_2023.html\n\n\n\n\n9/29/23, 11:57:16 AM\n\n\na2_c32_2023.html\n\n\n\n\n10/30/23, 12:05:18 PM\n\n\na3_c32_2023.html\n\n\n\n\n10/30/23, 12:05:18 PM\n\n\na4_c32_2023.html\n\n\n\n\n11/6/23, 1:56:35 PM\n\n\na5-c32-2023.html\n\n\n\n\n11/13/23, 3:24:33 PM\n\n\na6-c32-2023.html\n\n\n\n\n11/20/23, 2:16:12 PM\n\n\na7-c32-2023.html\n\n\n\n\n11/27/23, 11:48:41 AM\n\n\na8-c32-2023.html\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "STAC32/extra.html",
     "href": "STAC32/extra.html",
     "title": "Extra datafiles",
     "section": "",
-    "text": "Order By\n       Default\n         \n          File Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nFile Name\n\n\n\n\n\n\nanchoring.csv\n\n\n\n\nblood_pressure.csv\n\n\n\n\nblood_pressure1.csv\n\n\n\n\nblood_pressure2.csv\n\n\n\n\nbrand_m.csv\n\n\n\n\ncholest.csv\n\n\n\n\ndolphins.csv\n\n\n\n\neditorials.csv\n\n\n\n\ngpa.csv\n\n\n\n\ngss_tv.csv\n\n\n\n\nheightfoot.csv\n\n\n\n\njays15-home.csv\n\n\n\n\njocko_tidy.csv\n\n\n\n\npop.csv\n\n\n\n\nproggo.csv\n\n\n\n\npulsemarch.csv\n\n\n\n\nreggae.csv\n\n\n\n\nroethlisberger.csv\n\n\n\n\nstopping.csv\n\n\n\n\nstudent0405.csv\n\n\n\n\nstudent_relig.csv\n\n\n\n\ntest1.csv\n\n\n\n\ntoronto_weather.csv\n\n\n\n\ntreediameter.csv\n\n\n\n\nutils_tidy.csv\n\n\n\n\nwhitefly_tidy.csv\n\n\n\n\nwriters.csv\n\n\n\n\nalgebra.txt\n\n\n\n\nanchoring.txt\n\n\n\n\ncoffee.txt\n\n\n\n\ndandruff.txt\n\n\n\n\ndisease.txt\n\n\n\n\nexercise.txt\n\n\n\n\nfrenchtest.txt\n\n\n\n\nhandspan.txt\n\n\n\n\nisoflavones.txt\n\n\n\n\njocko.txt\n\n\n\n\nmercury.txt\n\n\n\n\nmigraine.txt\n\n\n\n\npigs1.txt\n\n\n\n\nrainfall.txt\n\n\n\n\nrepmes.txt\n\n\n\n\nsas_lecture_code.txt\n\n\n\n\nutils.txt\n\n\n\n\nweekly.txt\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          File Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nFile Name\n\n\n\n\n\n\nalgebra.txt\n\n\n\n\nanchoring.csv\n\n\n\n\nanchoring.txt\n\n\n\n\nblood_pressure.csv\n\n\n\n\nblood_pressure1.csv\n\n\n\n\nblood_pressure2.csv\n\n\n\n\nbrand_m.csv\n\n\n\n\ncholest.csv\n\n\n\n\ncoffee.txt\n\n\n\n\ndandruff.txt\n\n\n\n\ndisease.txt\n\n\n\n\ndolphins.csv\n\n\n\n\neditorials.csv\n\n\n\n\nexercise.txt\n\n\n\n\nfrenchtest.txt\n\n\n\n\ngpa.csv\n\n\n\n\ngss_tv.csv\n\n\n\n\nhandspan.txt\n\n\n\n\nheightfoot.csv\n\n\n\n\nisoflavones.txt\n\n\n\n\njays15-home.csv\n\n\n\n\njocko.txt\n\n\n\n\njocko_tidy.csv\n\n\n\n\nmercury.txt\n\n\n\n\nmigraine.txt\n\n\n\n\npigs1.txt\n\n\n\n\npop.csv\n\n\n\n\nproggo.csv\n\n\n\n\npulsemarch.csv\n\n\n\n\nrainfall.txt\n\n\n\n\nreggae.csv\n\n\n\n\nrepmes.txt\n\n\n\n\nroethlisberger.csv\n\n\n\n\nsas_lecture_code.txt\n\n\n\n\nstopping.csv\n\n\n\n\nstudent0405.csv\n\n\n\n\nstudent_relig.csv\n\n\n\n\ntest1.csv\n\n\n\n\ntoronto_weather.csv\n\n\n\n\ntreediameter.csv\n\n\n\n\nutils.txt\n\n\n\n\nutils_tidy.csv\n\n\n\n\nweekly.txt\n\n\n\n\nwhitefly_tidy.csv\n\n\n\n\nwriters.csv\n\n\n\n\n\n\nNo matching items"
   }
 ]

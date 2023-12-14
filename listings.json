@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/STAC32/all_worksheets.html",
+    "items": []
+  },
+  {
+    "listing": "/STAC32/all.html",
+    "items": []
+  },
+  {
+    "listing": "/STAC32/all_assignments.html",
+    "items": []
+  },
+  {
     "listing": "/STAC32/extra.html",
     "items": []
   }
