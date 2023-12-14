@@ -1,0 +1,8 @@
+Dept 	Males:admitted 	Males:rejected 	Females:admitted 	Females:rejected
+A 	512 	313 	89 	19
+B 	353 	207 	17 	8
+C 	120 	205 	202 	391
+D 	139 	279 	131 	244
+E 	53 	138 	94 	299
+F 	22 	351 	24 	317
+

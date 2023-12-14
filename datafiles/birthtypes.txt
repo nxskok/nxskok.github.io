@@ -1,0 +1,13 @@
+month cesarean vaginal
+Jan 11 68
+Feb 9 63
+Mar 10 72
+Apr 18 105
+May 10 90
+Jun 10 92
+Jul 11 78
+Aug 9 83
+Sep 9 90
+Oct 15 101
+Nov 12 130
+Dec 8 101

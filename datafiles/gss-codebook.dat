@@ -1,0 +1,232 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+                          GSS 1972-2008 Cumulative Dataset
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      GSS 1972-2008 Cumulative Dataset                                  Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      CASEID             CASE IDENTIFICATION NUMBER                          1
+      SEX                RESPONDENTS SEX                                     1
+      WRKSTAT            LABOR FRCE STATUS                                   1
+      FECHLD             MOTHER WORKING DOESNT HURT CHILDREN                 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 1, 2011
+
+
+
+      GSS 1972-2008 Cumulative Dataset                                  Page 1
+
+
+      CASEID             CASE IDENTIFICATION NUMBER
+
+           Data type: character
+           Record/columns: 1/1-8
+
+      ________________________________________________________________________
+
+      SEX                RESPONDENTS SEX
+
+           23. Code respondent's sex
+
+           VALUE  LABEL
+               1  MALE
+               2  FEMALE
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/column: 1/10
+
+      ________________________________________________________________________
+
+      WRKSTAT            LABOR FRCE STATUS
+
+           1. Last week were you working full time, part time, going to
+           school, keeping house, or what?
+
+           VALUE  LABEL
+               0  IAP
+               1  WORKING FULLTIME
+               2  WORKING PARTTIME
+               3  TEMP NOT WORKING
+               4  UNEMPL, LAID OFF
+               5  RETIRED
+               6  SCHOOL
+               7  KEEPING HOUSE
+               8  OTHER
+               9  NA
+
+           Data type: numeric
+           Missing-data codes: 0,9
+           Record/column: 1/12
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 1, 2011
+
+
+
+      GSS 1972-2008 Cumulative Dataset                                  Page 2
+
+
+      FECHLD             MOTHER WORKING DOESNT HURT CHILDREN
+
+           252. Now I'm going to read several more statements. As I read
+           each one, please tell me whether you strongly agree, agree,
+           disagree, or strongly disagree with it. a. A working mother can
+           establish just as warm and secure a relationship with her
+           children as a mother who does not work.
+
+           VALUE  LABEL
+               0  IAP
+               1  STRONGLY AGREE
+               2  AGREE
+               3  DISAGREE
+               4  STRONGLY DISAGREE
+               8  DK
+               9  NA
+
+           Data type: numeric
+           Missing-data codes: 0,8,9
+           Record/column: 1/14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 1, 2011

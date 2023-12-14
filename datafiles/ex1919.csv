@@ -1,0 +1,17 @@
+Speed,Make,Cause,Freq
+0-40,Ford,Other,171
+0-40,Ford,Tire,0
+0-40,Other,Other,465
+0-40,Other,Tire,2
+41-55,Ford,Other,243
+41-55,Ford,Tire,0
+41-55,Other,Other,753
+41-55,Other,Tire,3
+56-65,Ford,Other,98
+56-65,Ford,Tire,3
+56-65,Other,Other,325
+56-65,Other,Tire,3
+>65,Ford,Other,108
+>65,Ford,Tire,21
+>65,Other,Other,273
+>65,Other,Tire,8

@@ -1,0 +1,7 @@
+subj y group
+1 10 a
+2 11 a
+3 13 a
+1 9 b
+2 7 b
+3 11 b

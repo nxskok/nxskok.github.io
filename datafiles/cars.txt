@@ -1,0 +1,39 @@
+car                          ,  MPG   ,   weight , cylinders  ,    hp  ,country
+Buick Skylark                ,  28.4  ,   2.670  ,       4    ,    90  ,U.S.        
+Dodge Omni                   ,  30.9  ,   2.230  ,       4    ,    75  ,U.S.        
+Mercury Zephyr               ,  20.8  ,   3.070  ,       6    ,    85  ,U.S.        
+Fiat Strada                  ,  37.3  ,   2.130  ,       4    ,    69  ,Italy       
+Peugeot 694 SL               ,  16.2  ,   3.410  ,       6    ,   133  ,France      
+VW Rabbit                    ,  31.9  ,   1.925  ,       4    ,    71  ,Germany     
+Plymouth Horizon             ,  34.2  ,   2.200  ,       4    ,    70  ,U.S.        
+Mazda GLC                    ,  34.1  ,   1.975  ,       4    ,    65  ,Japan       
+Buick Estate Wagon           ,  16.9  ,   4.360  ,       8    ,   155  ,U.S.        
+Audi 5000                    ,  20.3  ,   2.830  ,       5    ,   103  ,Germany     
+Chevy Malibu Wagon           ,  19.2  ,   3.605  ,       8    ,   125  ,U.S.        
+Dodge Aspen                  ,  18.6  ,   3.620  ,       6    ,   110  ,U.S.        
+VW Dasher                    ,  30.5  ,   2.190  ,       4    ,    78  ,Germany     
+Ford Mustang 4               ,  26.5  ,   2.585  ,       4    ,    88  ,U.S.        
+Dodge Colt                   ,  35.1  ,   1.915  ,       4    ,    80  ,Japan       
+Datsun 810                   ,  22.0  ,   2.815  ,       6    ,    97  ,Japan       
+VW Scirocco                  ,  31.5  ,   1.990  ,       4    ,    71  ,Germany     
+Chevy Citation               ,  28.8  ,   2.595  ,       6    ,   115  ,U.S.        
+Olds Omega                   ,  26.8  ,   2.700  ,       6    ,   115  ,U.S.        
+Chrysler LeBaron Wagon       ,  18.5  ,   3.940  ,       8    ,   150  ,U.S.        
+Datsun 510                   ,  27.2  ,   2.300  ,       4    ,    97  ,Japan       
+AMC Concord D/L              ,  18.1  ,   3.410  ,       6    ,   120  ,U.S.        
+Buick Century Special        ,  20.6  ,   3.380  ,       6    ,   105  ,U.S.        
+Saab 99 GLE                  ,  21.6  ,   2.795  ,       4    ,   115  ,Sweden      
+Datsun 210                   ,  31.8  ,   2.020  ,       4    ,    65  ,Japan       
+Ford LTD                     ,  17.6  ,   3.725  ,       8    ,   129  ,U.S.        
+Volvo 240 GL                 ,  17.0  ,   3.140  ,       6    ,   125  ,Sweden      
+Dodge St Regis               ,  18.2  ,   3.830  ,       8    ,   135  ,U.S.        
+Toyota Corona                ,  27.5  ,   2.560  ,       4    ,    95  ,Japan       
+Chevette                     ,  30.0  ,   2.155  ,       4    ,    68  ,U.S.        
+Ford Mustang Ghia            ,  21.9  ,   2.910  ,       6    ,   109  ,U.S.        
+AMC Spirit                   ,  27.4  ,   2.670  ,       4    ,    80  ,U.S.        
+Ford Country Squire Wagon    ,  15.5  ,   4.054  ,       8    ,   142  ,U.S.        
+BMW 320i                     ,  21.5  ,   2.600  ,       4    ,   110  ,Germany     
+Pontiac Phoenix              ,  33.5  ,   2.556  ,       4    ,    90  ,U.S.        
+Honda Accord LX              ,  29.5  ,   2.135  ,       4    ,    68  ,Japan       
+Mercury Grand Marquis        ,  16.5  ,   3.955  ,       8    ,   138  ,U.S.        
+Chevy Caprice Classic        ,  17.0  ,   3.840  ,       8    ,   130  ,U.S.        

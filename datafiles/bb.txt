@@ -1,0 +1,48 @@
+Nov 9 2023
+Indiana_126
+Milwaukee_124
+Nov 9 2023
+Orlando_119
+Atlanta_120
+Nov 8 2023
+Charlotte_116
+Washington_132
+Nov 8 2023
+Indiana_134
+Utah_116
+Nov 8 2023
+Philadelphia_106
+Boston_103
+Nov 8 2023
+Brooklyn_100
+LA Clippers_93
+Nov 8 2023
+New York_126
+San Antonio_105
+Nov 8 2023
+Chicago_115
+Phoenix_116
+Nov 8 2023
+Houston_128
+LA Lakers_94
+Nov 8 2023
+Memphis_102
+Miami_108
+Nov 8 2023
+Milwaukee_120
+Detroit_118
+Nov 8 2023
+Minnesota_122
+Detroit_118
+Nov 8 2023
+Oklahoma City_128
+Cleveland_120
+Nov 8 2023
+Dallas_116
+Toronto_127
+Nov 8 2023
+Denver_108
+Golden State_105
+Nov 8 2023
+Sacramento_121
+Portland_118

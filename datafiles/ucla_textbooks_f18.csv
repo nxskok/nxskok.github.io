@@ -1,0 +1,77 @@
+subject,subject_abbr,bookstore_new,arts_science
+American Indian Studies,AM IND,47.97,arts
+Anthropology,ANTHRO,14.26,arts
+Arts and Architecture,ART&ARC,13.5,arts
+Astronomy,ASTR,119.97,science
+Chemistry and Biochemistry,CHEM,188.1,science
+Chemistry and Biochemistry,CHEM,215.75,science
+Communication,COMM,16.95,arts
+Comparative Literature,COM LIT,11.96,arts
+Ecology and Evolutionary Biology,EE BIOL,37,science
+English,ENGL,9.96,arts
+English Composition,ENGCOMP,20,arts
+English Composition,ENGCOMP,39.97,arts
+Film and Television,FILM TV,132.75,arts
+French,FRNCH,149.97,arts
+French,FRNCH,149.97,arts
+History,HIST,43.96,arts
+History,HIST,12.77,arts
+History,HIST,114.96,arts
+Law,Undergraduate,19.95,arts
+Life Sciences,LIFESCI,11.96,science
+Linguistics,LING,17.26,arts
+Management,MGMT,124.96,arts
+Mathematics,MATH,109.97,science
+Mathematics,MATH,103.97,science
+Mathematics,MATH,103.97,science
+Mechanical and Aerospace Engineering,MECH&AE,72.96,science
+Middle Eastern Studies,M E STD,12.46,arts
+"Molecular, Cell, and Developmental Biology",MCD BIO,50.96,science
+Musicology,MUSCLG,22,arts
+Musicology,MUSCLG,55.46,arts
+Musicology,MUSCLG,89.96,arts
+Political Science,POL SCI,106.97,arts
+Portuguese,PORTGSE,219.97,arts
+Portuguese,PORTGSE,133.96,arts
+Spanish,SPAN,229.27,arts
+Spanish,SPAN,145.97,arts
+World Arts and Cultures,WL ARTS,47.97,arts
+Astronomy,ASTR,56.96,science
+Chemistry and Biochemistry,CHEM,200.75,science
+Comparative Literature,COM LIT,11.96,arts
+English,ENGL,15.27,arts
+English,ENGL,12.26,arts
+English Composition,ENGCOMP,71.97,arts
+English Composition,ENGCOMP,78.97,arts
+Ethnomusicology,ETHNMUS,89.96,arts
+History,HIST,102.75,arts
+Japanese,JAPAN,53.96,arts
+Life Sciences,LIFESCI,159.96,science
+Linguistics,LING,45.96,arts
+Linguistics,LING,17.26,arts
+Mathematics,MATH,109.97,science
+Musicology,MUSCLG,29.5,arts
+Philosophy,PHILOS,14.76,arts
+Philosophy,PHILOS,89.97,arts
+Political Science,POL SCI,89.97,arts
+Sociology,SOCIOL,27.46,arts
+Spanish,SPAN,229.27,arts
+Spanish,SPAN,145.97,arts
+Spanish,SPAN,169.97,arts
+African American Studies,AF AMER,6.97,arts
+"Earth, Planetary, and Space Sciences",EPS SCI,179.97,science
+Art History,ART HIS,19.95,arts
+Asian American Studies,ASIA AM,14.96,arts
+Atmospheric and Oceanic Sciences,A&O SCI,99.99,science
+Chinese,CHIN,59.99,arts
+Chinese,CHIN,66.96,arts
+Clusters,CLUSTER,139.96,arts
+Clusters,CLUSTER,10.96,arts
+Labor and Workplace Studies,LBR&WS,15,arts
+Psychology,PSYCH,256.75,arts
+Russian,RUSSN,19.96,arts
+Russian,RUSSN,34.26,arts
+"Religion, Study of",RELIGN,35.96,arts
+Korean,KOREA,24.96,arts
+Korean,KOREA,24.96,arts
+Jewish Studies,JEWISH,35.96,arts

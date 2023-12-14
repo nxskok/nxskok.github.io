@@ -1,0 +1,5 @@
+. n 60 . . .
+calories corr 1 . . . 
+sweet corr 0.649 1 . .
+quench corr 0.067 -0.08 1 .
+pop corr 0.037 -0.018 0.446 1

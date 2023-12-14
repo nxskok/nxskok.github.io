@@ -1,0 +1,201 @@
+id,date,code,text
+232,2016-09-08,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+231,2016-09-07,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+230,2016-09-06,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+228,2016-08-13,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+227,2016-08-12,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+226,2016-08-11,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+225,2016-08-10,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+224,2016-08-09,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+222,2016-08-05,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+221,2016-08-04,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+219,2016-07-24,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+218,2016-07-23,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+217,2016-07-22,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+216,2016-07-21,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+214,2016-07-14,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+213,2016-07-13,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+212,2016-07-12,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+210,2016-07-07,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+209,2016-07-06,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+208,2016-07-05,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+206,2016-06-20,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+205,2016-06-19,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+203,2015-09-08,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+202,2015-09-07,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+201,2015-09-06,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+200,2015-09-05,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+198,2015-08-17,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+197,2015-08-16,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+195,2015-07-30,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+194,2015-07-29,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+193,2015-07-28,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+192,2015-07-27,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+190,2015-07-19,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+189,2015-07-18,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+187,2014-09-05,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+185,2013-09-11,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+184,2013-09-10,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+182,2013-07-19,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+181,2013-07-18,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+180,2013-07-17,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+179,2013-07-16,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+178,2013-07-15,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+176,2013-06-26,EHAD,Toronto's Medical Officer of Health has downgraded the Extreme Heat Warning to a Heat Warning
+175,2013-06-25,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+174,2013-06-24,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+173,2013-06-23,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+171,2013-05-31,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+170,2013-05-30,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+168,2012-08-31,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+166,2012-08-04,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+164,2012-08-02,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+162,2012-07-23,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+160,2012-07-18,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+159,2012-07-17,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+158,2012-07-16,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+156,2012-07-14,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+155,2012-07-13,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+154,2012-07-12,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+152,2012-07-06,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+151,2012-07-05,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+150,2012-07-04,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+149,2012-07-03,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+147,2012-06-30,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+146,2012-06-29,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+145,2012-06-28,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+143,2012-06-21,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+142,2012-06-20,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+141,2012-06-19,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+139,2012-05-28,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+137,2011-09-03,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+135,2011-08-01,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+133,2011-07-24,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+132,2011-07-23,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+131,2011-07-22,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+130,2011-07-21,EHAE,Toronto's Medical Officer of Health has continued the Extended Heat Warning for today
+129,2011-07-20,HAU,Toronto's Medical Officer of Health has upgraded the Heat Warning to an Extended Heat Warning
+128,2011-07-19,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+126,2011-07-17,HAE,Toronto's Medical Officer of Health has continued the Heat Warning for today
+125,2011-07-16,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+123,2011-06-08,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+121,2011-05-31,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+119,2010-09-02,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+118,2010-09-01,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+117,2010-08-31,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+116,2010-08-30,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+115,2010-08-29,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+114,2010-07-08,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+113,2010-07-07,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+112,2010-07-06,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+111,2010-07-05,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+110,2010-07-04,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+109,2010-05-31,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+108,2010-05-30,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+107,2010-05-27,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+106,2010-05-26,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+105,2010-05-25,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+104,2010-05-24,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+103,2009-08-17,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+102,2009-06-25,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+101,2009-06-24,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+100,2008-08-23,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+99,2008-07-18,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+98,2008-07-17,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+97,2008-07-16,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+96,2008-07-08,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+95,2008-07-07,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+94,2008-07-02,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+93,2008-06-09,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+92,2008-06-08,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+91,2007-08-06,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+90,2007-08-03,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+89,2007-08-02,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+88,2007-08-01,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+87,2007-07-31,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+86,2007-07-09,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+85,2007-07-08,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+84,2007-06-27,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+83,2007-06-26,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+82,2007-06-25,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+81,2007-06-13,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+80,2007-06-12,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+79,2007-06-01,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+78,2007-05-31,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+77,2007-05-24,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+76,2006-08-02,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+75,2006-08-01,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+74,2006-07-31,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+73,2006-07-30,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+72,2006-07-29,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+71,2006-07-27,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+70,2006-07-26,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+69,2006-07-17,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+68,2006-07-16,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+67,2006-07-03,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+66,2006-07-02,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+65,2006-06-22,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+64,2006-06-18,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+63,2006-06-17,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+62,2006-05-31,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+61,2006-05-30,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+60,2006-05-29,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+59,2005-08-08,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+58,2005-08-05,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+57,2005-08-04,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+56,2005-08-02,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+55,2005-07-18,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+54,2005-07-17,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+53,2005-07-16,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+52,2005-07-15,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+51,2005-07-14,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+50,2005-07-13,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+49,2005-07-12,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+48,2005-07-11,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+47,2005-07-10,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+46,2005-06-30,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+45,2005-06-29,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+44,2005-06-28,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+43,2005-06-27,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+42,2005-06-25,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+41,2005-06-14,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+40,2005-06-13,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+39,2005-06-12,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+38,2005-06-11,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+37,2005-06-10,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+36,2005-06-09,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+35,2005-06-07,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+34,2005-06-06,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+33,2004-07-09,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+32,2004-07-08,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+31,2003-07-04,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+30,2003-07-03,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+29,2003-06-26,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+28,2003-06-25,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+27,2003-06-24,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+26,2003-06-23,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+25,2002-08-14,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+24,2002-08-13,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+23,2002-08-12,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+22,2002-08-11,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+21,2002-08-01,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+20,2002-07-29,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+19,2002-07-28,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+18,2002-07-22,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+17,2002-07-21,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+16,2002-07-17,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+15,2002-07-16,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+14,2002-07-15,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+13,2002-07-08,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+12,2002-07-03,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+11,2002-07-02,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+10,2002-07-01,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+9,2001-08-09,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+8,2001-08-08,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+7,2001-08-07,EHA,Toronto's Medical Officer of Health has issued an Extended Heat Warning
+6,2001-08-06,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+5,2001-07-24,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+4,2001-07-23,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+3,2001-06-30,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+2,2001-06-29,HA,Toronto's Medical Officer of Health has issued a Heat Warning
+1,2001-06-15,HA,Toronto's Medical Officer of Health has issued a Heat Warning

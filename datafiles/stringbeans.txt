@@ -1,0 +1,13 @@
+insecticide plot seedlings
+a p1 56
+a p2 49
+a p3 65
+a p4 60
+b p1 84
+b p2 78
+b p3 94
+b p4 93
+c p1 80
+c p2 72
+c p3 83
+c p4 85

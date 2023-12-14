@@ -1,0 +1,5 @@
+Property    Apple Orange Banana Pear Strawberry Blueberry
+Round.shape   1      1     0      0        0        1
+Sweet         1      1     0      0        1        0
+Crunchy       1      0     0      1        0        0
+Berry         0      0     0      0        1        1

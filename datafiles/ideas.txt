@@ -1,0 +1,49 @@
+in no particular order
+
+"hello world" in R and SAS: entering a small amount of data and
+computing means, drawing boxplots/histograms (aim is demo, so can use
+tapply)
+(do I want to use real data for this?)
+
+installation (R and RStudio)
+connection (SAS on Mathlab)
+
+descriptives including pictures
+collecting output into reports (use SAS output window, copy/paste)
+
+getting data into R and SAS, particularly starting from spreadsheets
+(for SAS, via copy/paste; for both, via CSV)
+
+data preformatting
+data checking
+
+data handling in R after reading in
+data handling in SAS while reading in
+
+writing reports: tell story, answering questions.
+
+exploratory analysis with graphs
+
+inferential methods: drawing conclusion
+review of ci and testing
+
+go through applied approach with inference, interpretation, model
+checking, remedial measures, for comparing means, regression, anova
+
+
+model checking via especially graphs for all models known by students
+
+review of regression ditto
+
+some simple anova ditto with Tukey
+
+remedial measures if assumptions not met
+
+
+
+literate programming (knitr)
+command-line running of SAS
+
+latex?
+
+(getting word output via rtf from sas?)
