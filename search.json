@@ -222,5 +222,12 @@
     "title": "R code",
     "section": "",
     "text": "Go to File and New Project. Click Version Control, then Git. In the box asking for a URL, enter https://github.com/nxskok/lecture-notes. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like, and choose which subfolder it will live in."
+  },
+  {
+    "objectID": "STAC32/extra.html",
+    "href": "STAC32/extra.html",
+    "title": "Extra datafiles",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          File Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nFile Name\n\n\n\n\n\n\nanchoring.csv\n\n\n\n\nblood_pressure.csv\n\n\n\n\nblood_pressure1.csv\n\n\n\n\nblood_pressure2.csv\n\n\n\n\nbrand_m.csv\n\n\n\n\ncholest.csv\n\n\n\n\ndolphins.csv\n\n\n\n\neditorials.csv\n\n\n\n\ngpa.csv\n\n\n\n\ngss_tv.csv\n\n\n\n\nheightfoot.csv\n\n\n\n\njays15-home.csv\n\n\n\n\njocko_tidy.csv\n\n\n\n\npop.csv\n\n\n\n\nproggo.csv\n\n\n\n\npulsemarch.csv\n\n\n\n\nreggae.csv\n\n\n\n\nroethlisberger.csv\n\n\n\n\nstopping.csv\n\n\n\n\nstudent0405.csv\n\n\n\n\nstudent_relig.csv\n\n\n\n\ntest1.csv\n\n\n\n\ntoronto_weather.csv\n\n\n\n\ntreediameter.csv\n\n\n\n\nutils_tidy.csv\n\n\n\n\nwhitefly_tidy.csv\n\n\n\n\nwriters.csv\n\n\n\n\nalgebra.txt\n\n\n\n\nanchoring.txt\n\n\n\n\ncoffee.txt\n\n\n\n\ndandruff.txt\n\n\n\n\ndisease.txt\n\n\n\n\nexercise.txt\n\n\n\n\nfrenchtest.txt\n\n\n\n\nhandspan.txt\n\n\n\n\nisoflavones.txt\n\n\n\n\njocko.txt\n\n\n\n\nmercury.txt\n\n\n\n\nmigraine.txt\n\n\n\n\npigs1.txt\n\n\n\n\nrainfall.txt\n\n\n\n\nrepmes.txt\n\n\n\n\nsas_lecture_code.txt\n\n\n\n\nutils.txt\n\n\n\n\nweekly.txt\n\n\n\n\n\n\nNo matching items"
   }
 ]

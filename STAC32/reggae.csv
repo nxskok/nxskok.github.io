@@ -1,0 +1,730 @@
+home,rating
+big city,1
+big city,2
+big city,2
+big city,2
+big city,2
+big city,2
+big city,2
+big city,2
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,3
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,4
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,5
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+big city,6
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,1
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,2
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,3
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,4
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,5
+rural,6
+rural,6
+rural,6
+rural,6
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,1
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,2
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,3
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,4
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,5
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+small town,6
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,1
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,2
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,3
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,4
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,5
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6
+suburban,6

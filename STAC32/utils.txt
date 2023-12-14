@@ -1,0 +1,8 @@
+8cents   temperature 31 34 39 42 47 56
+8cents   temperature 62 66 68 71 75 78
+8cents   consumption 55 49 46 47 40 43
+8cents   consumption 41 46 44 51 62 73
+10cents  temperature 32 36 39 42 48 56
+10cents  temperature 62 66 68 72 75 79
+10cents  consumption 50 44 42 42 36 40
+10cents  consumption 39 44 40 44 50 55
