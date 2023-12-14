@@ -24,7 +24,7 @@ future.
 
 ## News (most recent at the top):
 
-- 2023-12-08 16:45:
+- 2023-12-08 16:45:  
   - The final exam has gone for printing. I decided to keep all the questions I had, and I think it actually adds up to exactly 100 points (I didn't add anything). 
   - The final exam is more than 50% longer than the (very short) midterm, so if you were running short of time on the midterm, be aware that you will need to be more organized for the final. (On the midterm, as far as I could tell, most people seemed to have plenty of time.)
   - As a guide, you have about 4 minutes per part and a bit less than 2 minutes per point. (Some of the parts and points will be a lot quicker than that if you are well prepared.)

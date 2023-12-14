@@ -1,0 +1,3 @@
+Species  present_x present_y    absent_x  absent_y
+A            44         12          38        10
+B            28         22          20        18
