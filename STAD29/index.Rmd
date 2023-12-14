@@ -13,12 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2023-12-08 14:30: here is this year's version of the site. Class meets once a week for two hours, starting on Wed January 10, 2024.
 - 2023-12-12 18:30: a bit more detail:
   - lectures are once a week on Wednesdays for 2 hours
   - there is a "practical" on Mondays at 4, starting in week 2, probably on zoom. This is a sort of combined office hour / tutorial to which you can bring questions about the previous week's material.
   - weekly assignments (that you are used to from C32), opening Monday night, due the following Sunday night.
   - a 2-hour midterm and a 3-hour final as usual, on dates to be announced.
+
+- 2023-12-08 14:30: here is this year's version of the site. Class meets once a week for two hours, starting on Wed January 10, 2024.
 
 ## Last year
 
