@@ -1,0 +1,9 @@
+age,vax,severe,frequency
+<50,no,yes,43
+<50,no,no,1116791
+<50,yes,yes,11
+<50,yes,no,3501107
+>50,no,yes,171
+>50,no,no,185907
+>50,yes,yes,290
+>50,yes,no,2133226

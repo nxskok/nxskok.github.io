@@ -1,0 +1,13 @@
+Disease,Gender,Occup,n
+Disease,Male,Unempl,254
+None,Male,Unempl,759
+Disease,Female,Unempl,431
+None,Female,Unempl,10283
+Disease,Male,WhiteCol,158
+None,Male,WhiteCol,3155
+Disease,Female,WhiteCol,52
+None,Female,WhiteCol,3082
+Disease,Male,BlueCol,87
+None,Male,BlueCol,2829
+Disease,Female,BlueCol,16
+None,Female,BlueCol,416

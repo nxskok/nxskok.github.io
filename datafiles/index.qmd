@@ -1,0 +1,12 @@
+---
+title: "Data files"
+listing:
+  type: table
+  contents: 
+    - "*.csv" 
+    - "*.dat"
+    - "*.txt"
+  fields: [filename]
+  sort: filename
+---
+

@@ -1,0 +1,13 @@
+bolt moisture chemical
+x 9.9 c
+x 10.1 a
+x 11.4 b
+x 12.1 d
+y 13.4 d
+y 12.9 b
+y 12.2 a
+y 12.3 c
+z 12.7 b
+z 12.9 d
+z 11.4 c
+z 11.9 a

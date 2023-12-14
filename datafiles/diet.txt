@@ -1,0 +1,6 @@
+  id first       last   diet ht  wt m_date     b_date
+1024 Alice       Smith     1 65 125 12/1/2005  01/01/1960
+1167 Maryann     White     1 68 140 12/01/2005 01/01/1959
+1168 Thomas      Jones     2 70 190 12/2/2005  06/15/1960
+1201 Benedictine Arnold    2 68 190 11/30/2005 12/31/1960
+1302 Felicia     Ho        1 63 115 1/1/2006   06/15/1958

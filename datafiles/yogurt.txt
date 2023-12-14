@@ -1,0 +1,13 @@
+yogurt strawberry vanilla
+AmericaChoice 210 200
+BreyerLowFat 220 220
+Columbo 220 180
+DannonLightnFit 120 120
+DannonLowFat 210 230
+DannonLaCreme 140 140
+GreatValue 180 80
+LaYogurt 170 160
+MountainHigh 200 170
+StonyfieldFarm 100 120
+YoplaitCustard 190 190
+YoplaitLight 100 100

@@ -1,0 +1,61 @@
+light.regime,dose,serum
+Constant,dose   0,72
+Constant,dose   0,64
+Constant,dose   0,78
+Constant,dose   0,20
+Constant,dose   0,56
+Constant,dose   0,70
+Constant,dose  10,74
+Constant,dose  10,82
+Constant,dose  10,40
+Constant,dose  10,87
+Constant,dose  10,78
+Constant,dose  10,88
+Constant,dose  50,130
+Constant,dose  50,187
+Constant,dose  50,133
+Constant,dose  50,185
+Constant,dose  50,107
+Constant,dose  50,98
+Constant,dose 250,159
+Constant,dose 250,167
+Constant,dose 250,193
+Constant,dose 250,196
+Constant,dose 250,174
+Constant,dose 250,250
+Constant,dose1250,137
+Constant,dose1250,426
+Constant,dose1250,178
+Constant,dose1250,208
+Constant,dose1250,196
+Constant,dose1250,251
+Intermittent,dose   0,212
+Intermittent,dose   0,27
+Intermittent,dose   0,68
+Intermittent,dose   0,72
+Intermittent,dose   0,130
+Intermittent,dose   0,153
+Intermittent,dose  10,32
+Intermittent,dose  10,98
+Intermittent,dose  10,148
+Intermittent,dose  10,186
+Intermittent,dose  10,203
+Intermittent,dose  10,188
+Intermittent,dose  50,294
+Intermittent,dose  50,306
+Intermittent,dose  50,234
+Intermittent,dose  50,219
+Intermittent,dose  50,281
+Intermittent,dose  50,288
+Intermittent,dose 250,515
+Intermittent,dose 250,340
+Intermittent,dose 250,348
+Intermittent,dose 250,205
+Intermittent,dose 250,505
+Intermittent,dose 250,432
+Intermittent,dose1250,296
+Intermittent,dose1250,545
+Intermittent,dose1250,630
+Intermittent,dose1250,418
+Intermittent,dose1250,396
+Intermittent,dose1250,227

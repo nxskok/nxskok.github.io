@@ -1,0 +1,12 @@
+class score
+ken 78
+ken 62
+ken 59
+ken 69
+ken 81
+thomas 83
+thomas 77
+thomas 63
+thomas 61
+thomas 79
+thomas 72

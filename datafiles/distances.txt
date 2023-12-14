@@ -1,0 +1,11 @@
+Atlanta 	Chicago 	Denver 	Houston 	"Los Angeles" Miami 	"New York" "San Francisco" 	Seattle "Washington DC" 	City
+0 	NA 	NA 	NA 	NA 	NA 	NA 	NA 	NA 	NA 	Atlanta
+587 	0 	NA 	NA 	NA 	NA 	NA 	NA 	NA 	NA 	Chicago
+1212 	920 	0 	NA 	NA 	NA 	NA 	NA 	NA 	NA 	Denver
+701 	940 	879 	0 	NA 	NA 	NA 	NA 	NA 	NA 	Houston
+1936 	1745 	831 	1374 	0 	NA 	NA 	NA 	NA NA 	"Los Angeles"
+604 	1188 	1726 	968 	2339 	0 	NA 	NA 	NA 	NA 	Miami
+748 	713 	1631 	1420 	2451 	1092 	0 	NA 	NA NA 	"New York"
+2139 	1858 	949 	1645 	347 	2594 	2571 	0 	NA NA 	"San Francisco"
+2182 	1737 	1021 	1891 	959 	2734 	2408 	678 	0 	NA 	Seattle
+543 	597 	1494 	1220 	2300 	923 	205 	2442  2329 0 "Washington DC"

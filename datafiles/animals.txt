@@ -1,0 +1,6 @@
+ lion giraffe cow sheep human
+lion    0 2 3 3 3
+giraffe 2 0 3 3 5
+cow     3 3 0 0 4
+sheep   3 3 0 0 4
+human   3 5 4 4 0

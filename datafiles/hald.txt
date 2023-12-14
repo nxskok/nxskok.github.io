@@ -1,0 +1,6 @@
+x1: calcium aluminate
+x2: tricalcium silicate
+x3: tetracalcium alumino ferrite
+x4: dicalcium silicate
+
+percent by weight 

@@ -1,0 +1,115 @@
+ShoeType,Socks,Clothing,DressType,AgeGroup,n
+boots,yes,long pants,business,26-40,4
+boots,yes,long pants,casual,17-25,2
+boots,yes,long pants,casual,26-40,2
+boots,yes,long skirt,alternative,26-40,1
+boots,yes,short skirt,casual,17-25,1
+business,no,long pants,business,26-40,2
+business,no,long skirt,business,26-40,1
+business,no,long skirt,casual,26-40,1
+business,no,short skirt,casual,41-60,1
+business,stockings,long skirt,dressy,26-40,1
+business,yes,long pants,business,26-40,3
+business,yes,long pants,business,41-60,2
+business,yes,long pants,casual,26-40,2
+business,yes,long pants,casual,41-60,1
+business,yes,long pants,dressy,17-25,1
+casual,no,long pants,business,17-25,1
+casual,no,long pants,business,26-40,5
+casual,no,long pants,casual,0-16,3
+casual,no,long pants,casual,17-25,12
+casual,no,long pants,casual,26-40,6
+casual,no,long pants,casual,41-60,5
+casual,no,long pants,casual,60+,2
+casual,no,long pants,dressy,17-25,1
+casual,no,long pants,dressy,26-40,2
+casual,no,long pants,dressy,41-60,3
+casual,no,long skirt,business,26-40,1
+casual,no,long skirt,casual,17-25,1
+casual,no,short skirt,casual,17-25,2
+casual,no,shorts,casual,17-25,4
+casual,no,shorts,casual,26-40,1
+casual,yes,long pants,casual,17-25,19
+casual,yes,long pants,casual,26-40,6
+casual,yes,long pants,casual,41-60,1
+casual,yes,long pants,dressy,17-25,1
+casual,yes,long skirt,casual,26-40,2
+casual,yes,other,alternative,17-25,1
+casual,yes,short skirt,casual,17-25,3
+heels,no,long pants,business,26-40,22
+heels,no,long pants,business,41-60,8
+heels,no,long pants,casual,17-25,8
+heels,no,long pants,casual,26-40,12
+heels,no,long pants,casual,41-60,4
+heels,no,long pants,casual,60+,1
+heels,no,long pants,dressy,17-25,5
+heels,no,long pants,dressy,26-40,5
+heels,no,long pants,dressy,41-60,4
+heels,no,long skirt,business,26-40,10
+heels,no,long skirt,business,41-60,3
+heels,no,long skirt,casual,26-40,2
+heels,no,long skirt,casual,41-60,1
+heels,no,long skirt,dressy,26-40,1
+heels,no,long skirt,dressy,41-60,3
+heels,no,other,alternative,26-40,1
+heels,no,short skirt,business,26-40,7
+heels,no,short skirt,business,41-60,1
+heels,no,short skirt,casual,17-25,1
+heels,no,short skirt,casual,26-40,2
+heels,no,short skirt,dressy,17-25,3
+heels,no,short skirt,dressy,26-40,4
+heels,no,short skirt,dressy,41-60,2
+heels,stockings,short skirt,business,41-60,1
+heels,stockings,short skirt,dressy,26-40,1
+heels,stockings,short skirt,dressy,41-60,1
+heels,yes,long skirt,business,26-40,1
+joggers,no,short skirt,casual,17-25,1
+joggers,no,shorts,casual,26-40,1
+joggers,yes,long pants,business,26-40,3
+joggers,yes,long pants,business,41-60,2
+joggers,yes,long pants,casual,0-16,1
+joggers,yes,long pants,casual,17-25,8
+joggers,yes,long pants,casual,26-40,4
+joggers,yes,long pants,casual,41-60,1
+joggers,yes,long pants,dressy,41-60,1
+joggers,yes,long skirt,business,26-40,1
+joggers,yes,short skirt,casual,17-25,1
+joggers,yes,short skirt,casual,26-40,1
+joggers,yes,shorts,casual,17-25,4
+joggers,yes,shorts,casual,26-40,2
+joggers,yes,shorts,casual,60+,1
+sandals,no,long pants,business,26-40,5
+sandals,no,long pants,business,41-60,2
+sandals,no,long pants,casual,17-25,9
+sandals,no,long pants,casual,26-40,5
+sandals,no,long pants,casual,41-60,3
+sandals,no,long pants,dressy,26-40,1
+sandals,no,long pants,dressy,41-60,1
+sandals,no,long skirt,business,26-40,2
+sandals,no,long skirt,business,41-60,3
+sandals,no,long skirt,casual,17-25,1
+sandals,no,long skirt,casual,26-40,4
+sandals,no,long skirt,casual,41-60,1
+sandals,no,long skirt,dressy,17-25,1
+sandals,no,long skirt,dressy,26-40,1
+sandals,no,long skirt,dressy,41-60,3
+sandals,no,short skirt,business,26-40,1
+sandals,no,short skirt,business,41-60,1
+sandals,no,short skirt,casual,17-25,1
+sandals,no,short skirt,casual,26-40,3
+sandals,no,short skirt,dressy,26-40,1
+sandals,no,short skirt,dressy,41-60,1
+sandals,no,shorts,business,26-40,1
+sandals,no,shorts,casual,26-40,1
+sandals,no,shorts,casual,60+,1
+sandals,yes,long pants,casual,26-40,1
+thongs,no,long pants,business,26-40,1
+thongs,no,long pants,casual,17-25,37
+thongs,no,long pants,casual,26-40,4
+thongs,no,long pants,dressy,17-25,2
+thongs,no,long skirt,business,41-60,1
+thongs,no,long skirt,casual,17-25,1
+thongs,no,long skirt,dressy,17-25,1
+thongs,no,short skirt,casual,17-25,13
+thongs,no,short skirt,casual,26-40,2
+thongs,no,shorts,casual,17-25,3

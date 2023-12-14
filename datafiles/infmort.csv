@@ -1,0 +1,102 @@
+country,region,oil,log_income,log_mortality
+Australia          ,Asia,no oil exports,8.139148678884066,3.2846635654062037
+Austria            ,Europe,no oil exports,8.116715624819111,3.1654750481410856
+Belgium            ,Europe,no oil exports,8.11552088154677,2.833213344056216
+Canada             ,Americas,no oil exports,8.46611040118692,2.8213788864092133
+Denmark            ,Europe,no oil exports,8.522976436171964,2.6026896854443837
+Finland            ,Europe,no oil exports,8.10530751550515,2.3125354238472138
+France             ,Europe,no oil exports,8.132412674500905,2.5572273113676265
+West_Germany       ,Europe,no oil exports,8.525161361065415,3.0155349008501706
+Ireland            ,Europe,no oil exports,7.605392364814935,2.8791984572980396
+Italy              ,Europe,no oil exports,7.739794458408701,3.246490991901174
+Japan              ,Europe,no oil exports,8.09925056179696,2.4595888418037104
+Netherlands        ,Europe,no oil exports,8.319473692442186,2.451005098112319
+New_Zealand        ,Asia,no oil exports,8.222285073872717,2.785011242238338
+Norway             ,Europe,no oil exports,8.319229938632326,2.424802725718295
+Portugal           ,Europe,no oil exports,6.862757913051401,3.8022081394209395
+South_Africa       ,Africa,no oil exports,6.907755278982137,4.269697449699962
+Sweden             ,Europe,no oil exports,8.629807335785372,2.2617630984737906
+Switzerland        ,Europe,no oil exports,7.993957547573565,2.5494451709255714
+Britain            ,Europe,no oil exports,7.8252452914317745,2.8622008809294686
+United_States      ,Americas,no oil exports,8.616676469901188,2.8678989020441064
+Algeria            ,Africa,oil exports,5.991464547107982,4.457829598089382
+Ecuador            ,Americas,oil exports,5.521460917862246,4.363098624788363
+Indonesia          ,Asia,oil exports,4.700480365792417,4.8283137373023015
+Iraq               ,Asia,oil exports,6.327936783729195,3.3357695763397
+Libya              ,Africa,oil exports,8.009695357742922,5.703782474656201
+Nigeria            ,Africa,oil exports,5.393627546352362,4.060443010546419
+Saudi_Arabia       ,Asia,oil exports,7.333023014386481,6.476972362889683
+Venezuela          ,Americas,oil exports,7.122866658599083,3.9454577815143836
+Argentina          ,Americas,no oil exports,7.0825485693553,4.087655574071304
+Brazil             ,Americas,no oil exports,6.052089168924417,5.135798437050262
+Chile              ,Americas,no oil exports,6.380122536899765,4.356708826689592
+Colombia           ,Americas,no oil exports,6.054439346269371,4.139955073474153
+Costa_Rica         ,Americas,no oil exports,6.586171654854675,3.996364153861897
+Dominican_Republic ,Americas,no oil exports,6.0063531596017325,3.8877303128591016
+Greece             ,Europe,no oil exports,7.473069088032197,3.3250360206965914
+Guatemala          ,Americas,no oil exports,5.71042701737487,4.370712874773608
+Israel             ,Asia,no oil exports,7.8343923029104365,3.095577608523707
+Jamaica            ,Americas,no oil exports,6.588926477533519,3.265759410767051
+Lebanon            ,Asia,no oil exports,6.447305862541213,2.6100697927420065
+Malaysia           ,Asia,no oil exports,5.68697535633982,3.4657359027997265
+Mexico             ,Americas,no oil exports,6.52795791762255,4.109233174715851
+Nicaragua          ,Americas,no oil exports,6.2285110035911835,3.828641396489095
+Panama             ,Americas,no oil exports,6.625392368007956,3.529297384289471
+Peru               ,Americas,no oil exports,5.814130531825066,4.175924549214524
+Singapore          ,Asia,no oil exports,7.145196134997171,3.0155349008501706
+Spain              ,Europe,no oil exports,7.135687347028144,2.714694743820879
+Taiwan             ,Asia,no oil exports,5.564520407322694,2.9496883350525844
+Trinidad_and_Tobago,Americas,no oil exports,6.595780513961311,3.265759410767051
+Tunisia            ,Africa,no oil exports,6.073044534100405,4.334672938290411
+Uruguay            ,Americas,no oil exports,6.683360945766275,3.6988297849671046
+Yugoslavia         ,Europe,no oil exports,6.0063531596017325,3.768152635008444
+Zambia             ,Africa,no oil exports,5.736572297479192,5.556828061699537
+Bolivia            ,Americas,no oil exports,5.298317366548036,4.100989104940769
+Cameroon           ,Africa,no oil exports,4.605170185988092,4.919980925828125
+Congo              ,Africa,no oil exports,5.638354669333745,5.19295685089021
+Egypt              ,Africa,no oil exports,5.3471075307174685,4.736198448394496
+El_Salvador        ,Americas,no oil exports,5.765191102784844,4.063885354737392
+Ghana              ,Africa,no oil exports,5.37989735354046,4.154184562578117
+Honduras           ,Americas,no oil exports,5.648974238161206,3.6712245188752153
+Ivory_Coast        ,Africa,no oil exports,5.958424693029782,4.927253685157205
+Jordan             ,Asia,no oil exports,5.811140992976701,3.0587070727153796
+South_Korea        ,Asia,no oil exports,5.840641657373398,4.060443010546419
+Liberia            ,Africa,no oil exports,5.2832037287379885,5.0701612734102826
+Moroco             ,Africa,no oil exports,5.631211781821365,5.003946305945459
+Papua_New_Guinea   ,Asia,no oil exports,6.1675164908883415,2.3223877202902252
+Paraguay           ,Americas,no oil exports,5.849324779946859,3.653252276470785
+Philippines        ,Asia,no oil exports,5.438079308923196,4.21803603456465
+Syria              ,Asia,no oil exports,5.811140992976701,3.077312260546414
+Thailand           ,Asia,no oil exports,5.3471075307174685,3.295836866004329
+Turkey             ,Asia,no oil exports,6.075346031088684,5.030437921392435
+South_Vietnam      ,Asia,no oil exports,4.867534450455582,4.605170185988092
+Afganistan         ,Asia,no oil exports,4.31748811353631,5.991464547107982
+Bangladesh         ,Asia,no oil exports,4.605170185988092,4.822697998516666
+Burma              ,Asia,no oil exports,4.290459441148391,5.298317366548036
+Burundi            ,Africa,no oil exports,4.219507705176107,5.0106352940962555
+Cambodia           ,Asia,no oil exports,4.812184355372417,4.605170185988092
+Central_African_Rep,Africa,no oil exports,4.804021044733257,5.247024072160486
+Chad               ,Africa,no oil exports,4.248495242049359,5.075173815233827
+Dahomey            ,Africa,no oil exports,4.394449154672439,4.696837374513915
+Ethiopia           ,Africa,no oil exports,4.3694478524670215,4.4331949212482815
+Guinea             ,Africa,no oil exports,4.3694478524670215,5.375278407684165
+India              ,Asia,no oil exports,4.532599493153256,4.104294893075269
+Kenya              ,Africa,no oil exports,5.1298987149230735,4.007333185232471
+Madagascar         ,Africa,no oil exports,4.787491742782046,4.624972813284271
+Malawi             ,Africa,no oil exports,4.867534450455582,4.999237249143887
+Mali               ,Africa,no oil exports,3.912023005428146,4.787491742782046
+Mauritania         ,Africa,no oil exports,5.159055299214529,5.231108616854587
+Niger              ,Africa,no oil exports,4.248495242049359,5.298317366548036
+Pakistan           ,Asia,no oil exports,4.624972813284271,4.822697998516666
+Rwanda             ,Africa,no oil exports,4.110873864173311,4.8895969657192
+Sierra_Leone       ,Africa,no oil exports,4.997212273764115,5.135798437050262
+Somalia            ,Africa,no oil exports,4.442651256490317,5.062595033026967
+Sri_Lanka          ,Asia,no oil exports,5.087596335232384,3.8088822465086327
+Sudan              ,Africa,no oil exports,4.8283137373023015,4.8629083820668
+Tanzania           ,Africa,no oil exports,4.787491742782046,5.090678001769792
+Togo               ,Africa,no oil exports,5.075173815233827,4.844187086458591
+Uganda             ,Africa,no oil exports,4.897839799950911,5.075173815233827
+Upper_Volta        ,Africa,no oil exports,4.406719247264253,5.19295685089021
+Southern_Yemen     ,Asia,no oil exports,4.564348191467836,4.382026634673881
+Yemen              ,Asia,no oil exports,4.343805421853684,3.912023005428146
+Zaire              ,Africa,no oil exports,4.770684624465665,4.6443908991413725

@@ -1,0 +1,7 @@
+geoid name    variable    estimate error
+01    Alabama pop_housed   4731852 48312
+01    Alabama pop_renter   1434765 16736
+01    Alabama median_rent      747     3
+13    Georgia pop_housed   9943137 51307
+13    Georgia pop_renter   3592422 33385
+13    Georgia median_rent      927     3

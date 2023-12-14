@@ -1,0 +1,5 @@
+rat1T 8
+rat2T11
+rat3C 7
+rat4C 4
+rat5T12

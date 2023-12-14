@@ -1,0 +1,21 @@
+date event light_loss
+1995-08-02 eclipse 65
+1995-08-04 eclipse 61
+1995-08-05 occult 1
+1995-08-06 eclipse 56
+1995-08-08 eclipse 46
+1995-08-08 occult 2
+1995-08-09 occult 9
+1995-08-11 occult 5
+1995-08-12 occult 39
+1995-08-14 occult 1
+1995-08-14 eclipse 100
+1995-08-15 occult 5
+1995-08-15 occult 4
+1995-08-16 occult 13
+1995-08-20 occult 11
+1995-08-23 occult 3
+1995-08-23 occult 20
+1995-08-25 occult 20
+1995-08-28 occult 12
+

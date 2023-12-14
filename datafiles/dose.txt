@@ -1,0 +1,29 @@
+dose response
+dose5 10
+dose5 11
+dose5 14
+dose5 13
+dose5 9
+dose5 8
+dose5 11
+dose5 10
+dose10 10
+dose10 15
+dose10 19
+dose10 18
+dose10 17
+dose10 15
+dose10 13
+dose10 21
+dose10 18
+dose15 20
+dose15 21
+dose15 19
+dose15 17
+dose15 26
+dose15 37
+dose15 18
+dose15 21
+dose15 24
+
+

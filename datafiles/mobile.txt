@@ -1,0 +1,9 @@
+gender age.group very.unsat unsat sat very.sat
+male 0-17 3 9 18 24
+male 18-24 6 13 16 28
+male 25-30 9 13 17 20
+male 31+ 5 7 16 16
+female 0-17 4 8 11 25
+female 18-24 8 14 20 18
+female 25-30 10 15 16 12
+female 31+ 5 14 12 8
