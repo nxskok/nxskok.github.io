@@ -15,7 +15,15 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2022-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.
+- 2023-12-12 16:30: I've been doing some planning for this course. Here's what to expect:
+  - lectures Tuesday and Thursday (1 hour each)
+  - tutorial Monday, in a computer lab, in which you will get a worksheet to work through on the material from the previous week's lecture, with a TA or two around to help if you get stuck or confused. Tutorials start in week 2.
+  - weekly assignments open on Monday night, on the same material as the worksheet you just did, and are due the following Sunday night. The first assignment will open in week 2.
+  - there will be about 8 assignments.
+  - a midterm (2 hours) and a final exam (3 hours) as usual, on dates to be announced. I will move any assignments with due dates close to the midterm, as needed. My exams are always open book.
+  - the worksheets will help you with the assignments, and the assignments will help you with the exams, provided you do them yourself.
 
-- 2022-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. *Do not* appeal to me for special treatment. The choice of students to add is mine.
+- 2023-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.
+
+- 2023-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. *Do not* appeal to me for special treatment. The choice of students to add is mine.
 
