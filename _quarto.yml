@@ -15,6 +15,8 @@ website:
         text: STAC33
       - href: STAD29/
         text: STAD29
+      - href: datafiles/
+        text: Data files
       - href: http://ritsokiguess.site/pasias2/
         text: PASIAS
       - text: "Quercus"
