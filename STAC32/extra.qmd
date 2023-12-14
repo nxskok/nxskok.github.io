@@ -1,0 +1,12 @@
+---
+title: "Extra datafiles"
+listing:
+  type: table
+  contents: 
+    - "*.csv" 
+    - "*.txt"
+  fields: [filename]
+  sort: filename
+---
+
+
