@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2023-12-18 14:05: Our final exam, like the midterm, is a Crowdmark exam, so it needs to be scanned first, and then we can grade it (online). There were several exams on Saturday that will need to be scanned, so we will have to wait our turn. After that, the grading can start. Expect to see occasional updates here on our progress.
+
 - 2023-12-14 14:10: a reminder that our final exam is on Saturday morning at 9:00am. See [the Quercus announcement](https://q.utoronto.ca/courses/313623/discussion_topics/2420761) for where to be.
 
 - 2023-12-13 23:30: tonight I discovered that Quarto websites can have things called "listings pages" (actually, while trying to figure out why those data files with STAC32 in their URLs were not showing up). As a result, we now have [all the worksheets](all_worksheets.qmd) and [all the assignment solutions](all_assignments.qmd) in one place. This is much easier for you, and also for me to keep updated.
