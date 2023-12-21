@@ -24,11 +24,7 @@ future.
 
 ## News (most recent at the top):
 
-- 2023-12-20 21:50: today's progress report: 69% done as I write. Question 1 is done, 2 is done apart from (g), 3 is underway, half of 5 is done, question 6 is done (by me, today), and 7 is about half done. [My solutions](final-20239-c32-solutions.pdf) as amended today.
-
-- 2023-12-19 23:00: progress report: 42% done. This includes almost all of question 1, almost all of question 2, and most of the other odd bits that I gave myself to grade. I have to tackle question 6 tomorrow, along with one bit of question 7 that I forgot.
-
-- 2023-12-18 22:30: we have a scanned exam, and grading has begun. We are 18% done: part of questions 1 and 2, and my two parts of question 7. (I wanted to get warmed up with something easier to grade.) I am about done for tonight, and will get back to it tomorrow. [My solutions](final-20239-c32-solutions.pdf), with the Figures at the end.
+- 2023-12-18 22:30: we have a scanned exam, and grading has begun. We are 18% done: part of questions 1 and 2, and my two parts of question 7. (I wanted to get warmed up with something easier to grade.) I am about done for tonight, and will get back to it tomorrow. [My solutions](final-20239- c32-solutions.pdf), with the Figures at the end.
 
 - 2023-12-18 14:05: Our final exam, like the midterm, is a Crowdmark exam, so it needs to be scanned first, and then we can grade it (online). There were several exams on Saturday that will need to be scanned, so we will have to wait our turn. After that, the grading can start. Expect to see occasional updates here on our progress.
 
