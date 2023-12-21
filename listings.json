@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/STAC32/all_worksheets.html",
+    "listing": "/datafiles/index.html",
     "items": []
   },
   {
@@ -8,11 +8,11 @@
     "items": []
   },
   {
-    "listing": "/STAC32/extra.html",
+    "listing": "/STAC32/all_worksheets.html",
     "items": []
   },
   {
-    "listing": "/datafiles/index.html",
+    "listing": "/STAC32/extra.html",
     "items": []
   }
 ]
