@@ -24,6 +24,24 @@ future.
 
 ## News (most recent at the top):
 
+- 2023-12-26 16:30: Hope you are enjoying whatever it may be that you are celebrating (which might be some well-deserved rest), and I wish you a happy new year. Our final exam is graded, and I am about to submit the course grades that you earned. Before I do that, though, some things I need to say:
+  - To calculate your course grade: 
+    - I turn each assignment mark into a percentage, find the top 6 of those, and take the mean of them.
+    - I turn the midterm and final exam marks into percentages (out of 57 and 99 respectively).
+    - I calculate course grades by two schemes: the one announced in the syllabus, and counting the final exam in place of the midterm (for everyone, whether you wrote the midterm or not). You automatically get whichever scheme gives you the higher course grade.
+    - If you get less than 40% on the final exam but would otherwise have passed, your course grade is 45.
+    - 0.5 and above is rounded up; below that is rounded down.
+  - Course grades need to be be submitted and approved before they reach you. I don't know how much human intervention that requires, but it may be that you don't get your course grades until the university re-opens in January.
+  - Some of the work done on the final exam was very good, and there will be several A+ grades.
+  - We were, for the most part, generous in marking the final exam.
+  - I have reviewed grades close to key grade boundaries and am happy that I have things in the right places.
+  - If you are under investigation for an academic offence in this course, your grade is GWR until the investigation is concluded.
+  - Course grades are based *only* on the work you have done and the understanding you have displayed. Your personal circumstances do not, and cannot, figure into your grade. It does not matter how hard you worked, or that you need a certain grade for a scholarship or to graduate. If you want those things, it is up to *you* to do work of sufficient quality to earn them.
+  - If you don't like your grade, you have exactly two options: a [clerical check](https://www.utsc.utoronto.ca/registrar/clerical-check) and, after obtaining a copy of your marked exam, a [petition for re-reading of your final exam](https://www.utsc.utoronto.ca/registrar/re-read-petitions). If you file this petition, I have the right to re-grade your entire exam, and I may find places where the grading has been too generous.
+  - There is no extra credit. See [detailed course policies](policies.pdf), item 5.3.
+  - Contacting me about your grade is *not* one of your options, and to do so is a waste of your time. Doing so may also contravene [the Code of Behaviour on Academic Matters](https://governingcouncil.utoronto.ca/secretariat/policies/code-behaviour-academic-matters-july-1-2019); for example, if you ask for a grade you did not earn, you are asking me to commit an offence under B.I.3(a) on your behalf.
+  - It is no longer possible to appeal any course work, such as assignments or the midterm.
+
 - 2023-12-21 21:15: we are now 82% done. What remains is mostly question 4 and some odd other things. I think I am done marking.
 
 - 2023-12-20 21:50: today's progress report: 69% done as I write. Question 1 is done, 2 is done apart from (g), 3 is underway, half of 5 is done, question 6 is done (by me, today), and 7 is about half done. [My solutions](final-20239-c32-solutions.pdf) as amended today.   
