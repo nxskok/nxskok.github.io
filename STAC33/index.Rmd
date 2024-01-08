@@ -15,7 +15,15 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2024-03-01 11:10: lecture 1 is just under a week away. I am assuming that you are completely familiar with basic statistical techniques, such as:
+- 2024-01-08 12:25: first lecture is tomorrow; your ACORN has the location. Here is a short description of how things will go:
+  - Two lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture.
+  - You should be registered in one of the three tutorials (on Mondays, starting next week, in week 2 of classes).
+  - In tutorial, you will get a worksheet to work through yourself (with my answers and extra discussion). There will be at least one TA in attendance. Ask for help if you get stuck or confused.
+  - There will be weekly assignments, with the first one opening on January 15 after tutorial (and due the following Sunday night). There will be about eight assignments altogether, with no assignments due during reading week or around the midterm.
+  - Each item helps you with the next on the list: doing the worksheet will help you with the corresponding assignment, and doing the assignments will help you with the exams.
+  - The first part of the [lecture notes](https://ritsokiguess.site/STAC33/notes.html) contains the course outline. Read this now, to get a more detailed idea of what to expect.
+
+- 2024-01-03 11:10: lecture 1 is just under a week away. I am assuming that you are completely familiar with basic statistical techniques, such as:
   - what graphs are available to you for each kind of data, and how to interpret them
   - what a hypothesis test does and does not do
   - tests for one and two and more than two means ($t$-tests for the first two and ANOVA for the third)
