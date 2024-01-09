@@ -15,6 +15,10 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-01-09 10:40: campus is open, I am here, and the weather looks worse than it actually is, so class goes ahead today. On the agenda for this week:
+  - today: course outline and running R
+  - Thursday: reading data from files.
+
 - 2024-01-08 12:25: first lecture is tomorrow; your ACORN has the location. Here is a short description of how things will go:
   - Two lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture.
   - You should be registered in one of the three tutorials (on Mondays, starting next week, in week 2 of classes).
