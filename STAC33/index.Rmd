@@ -16,7 +16,7 @@ In this course, we learn R, and how to use this software for data organization a
 ## News (most recent at the top)
 
 - 2024-01-08 12:25: first lecture is tomorrow; your ACORN has the location. Here is a short description of how things will go:
-  - Two lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture.
+  - Two one-hour lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture, or you can post in the Quercus discussions for the course.
   - You should be registered in one of the three tutorials (on Mondays, starting next week, in week 2 of classes).
   - In tutorial, you will get a worksheet to work through yourself (with my answers and extra discussion). There will be at least one TA in attendance. Ask for help if you get stuck or confused.
   - There will be weekly assignments, with the first one opening on January 15 after tutorial (and due the following Sunday night). There will be about eight assignments altogether, with no assignments due during reading week or around the midterm.
@@ -33,7 +33,7 @@ In this course, we learn R, and how to use this software for data organization a
   
   There is very little actual math in this course, but there are a lot of ideas, and there is a lot of explanation of those ideas as they apply to data. Thus, you need to understand the theory that you have learned, but you also need to know how it applies to the data in front of you.
   
-  If you have learned some R before, you may see that I do things differently from what you learned before. I am expecting you to do things in this course as I teach them. All the work in this course can be done using ideas from this course, except where I say otherwise.
+  If you have learned some R before, you may see that I do things differently from what you learned before. I am expecting you to do things in this course *as I teach them*. All the work in this course can be done using ideas from this course, except where I say otherwise.
 
 - 2023-12-14 14:05: I found room for a few more students, 4th years in either our Major or Specialist programs. I know there are not very many C or D level courses in the winter semester, so these seemed to be the people whose need was greatest.
 

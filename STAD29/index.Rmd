@@ -13,6 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-01-08 12:45: Our course begins this week:
+  - expect things to be structured a lot like they were in C32.
+  - one two-hour lecture a week, on Wednesdays (I will give you a break in the middle). Your ACORN has the location.
+  - one hour of tutorial-slash-office hour on Mondays, starting *next* week, probably on zoom. You can also catch me after lecture, or post in the Quercus discussions.
+  - weekly assignments, with the first one going out on January 15 (out Monday night, due the following Sunday night), in the same style as for C32.
+  - D29 is more about the statistics and less about the coding than C32 was; you will be learning some statistical methods that are definitely new to you, and I will assume that you are keeping up with the coding part.
+
 - 2024-01-03 11:00: lecture 1 is a week away:
   - Quercus page is up (for assignments, discussion board etc)
   - be ready to learn some new statistics (there will be stuff you haven't seen before)
