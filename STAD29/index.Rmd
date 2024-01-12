@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-01-11 20:45: we have a Zoom meeting set up for Monday's tutorial. The coordinates are in a Quercus announcement (I am not announcing it publicly).
+
 - 2024-01-11 11:45: Here is [a worksheet](worksheet_1_d29.html) on the material we looked at in class yesterday. I'm not promising a worksheet every week, but I will point you at some practice problems for each section of the course. Look out for information about Monday's session tomorrow (once I have sorted that out).
 
 - 2024-01-08 12:45: Our course begins this week:
