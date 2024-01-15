@@ -15,6 +15,29 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-01-15 11:00: On the agenda this week:
+  - Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).
+  - Lectures:
+    - making graphs (Tuesday)
+    - numerical summaries, choosing things from dataframes (start) (Thursday)
+  - next week's tutorial (on Monday, a week from today) will feature a worksheet on the things in this week's lectures.
+  - Assignment 2 (opening Monday next week) will also be on those things.
+
+- 2024-01-15 09:30: reminder: your tutorial is *today*, for practice on Worksheet 1 and handing in "Assignment 0" (the first "real assignment" will be due next week).
+
+- 2024-01-11 15:15: 
+  - [Worksheet 1](worksheet_1_c33.html), for practice on this week's material. 
+  - The two datafiles I forgot earlier: [coffee.txt](coffee.txt), [migraine.txt](migraine.txt). You should be able to find course datafiles at a URL like `http://ritsokiguess.site/datafiles/filename.txt` where you replace `filename.txt` by whatever the file is called.
+
+- 2024-01-11 11:45: looking out of my office window, I might as well repeat Tuesday's announcement!
+  - after today's lecture, I will post Worksheet 1, which gives you a chance to work through some of the stuff we've seen so far. You can work through it during tutorial, or before (and bring any problems or confusions to tutorial).
+  - Assignment 1 will open after Monday's tutorial, and will be due the following Sunday night (Jan 21). Expect the same structure each week: working through the worksheet, with help available in tutorial, will prepare you for the next assignment, and doing the assignments (yourself!) will prepare you for the exams.
+  - Data files for today's lecture: [test1.xls](test1.xls), [test1.csv](test1.csv), [test2.xls](test2.xls)
+
+- 2024-01-09 10:40: campus is open, I am here, and the weather looks worse than it actually is, so class goes ahead today. On the agenda for this week:
+  - today: course outline and running R
+  - Thursday: reading data from files.
+
 - 2024-01-08 12:25: first lecture is tomorrow; your ACORN has the location. Here is a short description of how things will go:
   - Two one-hour lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture, or you can post in the Quercus discussions for the course.
   - You should be registered in one of the three tutorials (on Mondays, starting next week, in week 2 of classes).
