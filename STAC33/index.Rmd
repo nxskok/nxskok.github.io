@@ -15,6 +15,16 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-01-15 11:00: On the agenda this week:
+  - Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).
+  - Lectures:
+    - making graphs (Tuesday)
+    - numerical summaries, choosing things from dataframes (start) (Thursday)
+  - next week's tutorial (on Monday, a week from today) will feature a worksheet on the things in this week's lectures.
+  - Assignment 2 (opening Monday next week) will also be on those things.
+
+- 2024-01-15 09:30: reminder: your tutorial is today, for practice on Worksheet 1 and handing in "Assignment 0" (the first "real assignment" will be due next week).
+
 - 2024-01-11 15:15: 
   - [Worksheet 1](worksheet_1_c33.html), for practice on this week's material. 
   - The two datafiles I forgot earlier: [coffee.txt](coffee.txt), [migraine.txt](migraine.txt). You should be able to find course datafiles at a URL like `http://ritsokiguess.site/datafiles/filename.txt` where you replace `filename.txt` by whatever the file is called.
