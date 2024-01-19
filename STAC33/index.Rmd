@@ -15,7 +15,14 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2024-01-18 22:00: I just took a look through the assignment 0's that were handed in. If you seemed to have done the right thing and I could see it including your graph, you should have 1 mark (out of 1). If you handed something in and for some reason it didn't work, you won't have a mark but you will have a comment. Mostly this was that I couldn't see your graph. If that happened to you, figure out how to fix it before you hand in assignment 1.
+- 2024-01-18 22:00: I just took a look through the assignment 0's that were handed in:
+    - If you seemed to have done the right thing and I could see it including your graph, you should have 1 mark (out of 1). If you handed something in and for some reason it didn't work, you'll have a mark of zero plus a comment. Mostly this was that I couldn't see your graph. If that happened to you, figure out how to fix it before you hand in assignment 1. (Hint: did you include the "embed-resources" thing described in 2(j) on Worksheet 1? If you had re-downloaded the file you handed in, you would have been able to see that your graph did not make it.)
+    - You can have as many attempts at Assignment 0 as you wish. If you didn't get it the first time, I encourage you to have another go. I intend to take a look in the next day or two at any more that are handed in since I looked just now. 
+    - My past experience is that most of the people who have trouble handing in Assignment 1 properly did not even attempt assignment 0. You have a free chance here to make sure that you understand the procedure.
+
+- 2024-01-18 15:30: 
+  - [Worksheet 2](worksheet_2_c33.html), on this week's material, for tutorial on Monday.
+  - The waitlist for this course is now closed. The course is full, so I am not able to enrol any extra people in the class (and bear in mind that *everyone* on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn't make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible.
 
 - 2024-01-15 11:00: On the agenda this week:
   - Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).
