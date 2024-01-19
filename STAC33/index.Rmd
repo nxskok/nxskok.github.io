@@ -22,7 +22,7 @@ In this course, we learn R, and how to use this software for data organization a
 
 - 2024-01-18 15:30: 
   - [Worksheet 2](worksheet_2_c33.html), on this week's material, for tutorial on Monday.
-  - The waitlist for this course is now closed. The course is full, so I am not able to enrol any extra people in the class (and bear in mind that *everyone* on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn't make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible.
+  - The waitlist for this course is now closed. The course is full, so I will not enrol any extra people in the class (and bear in mind that *everyone* on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn't make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible.
 
 - 2024-01-15 11:00: On the agenda this week:
   - Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).

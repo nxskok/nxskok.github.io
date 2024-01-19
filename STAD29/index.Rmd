@@ -13,8 +13,6 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2024-01-17 13:30: practice problems for this week's material: [PASIAS](https://ritsokiguess.site/pasias/) chapter 26 and maybe 27 (depending on how far we get today).
-
 - 2024-01-15 11:15: on the agenda this week:
   - tutorial today at 4:00pm, on zoom (link in Quercus announcement), on the regression stuff we did in lecture last week.
   - The stuff in the slides that I didn't talk about is regression review. Read through those if you feel you need more review.
