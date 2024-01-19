@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ken Butler">
+<meta name="dcterms.date" content="2015-10-20">
 
-<title>Ken’s website - Lecture notes</title>
+<title>Ken’s website - my little document</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +22,60 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -59,6 +114,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -101,10 +158,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">STAD29</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../datafiles/" rel="" target="">
- <span class="menu-text">Data files</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="http://ritsokiguess.site/pasias2/" rel="" target="">
  <span class="menu-text">PASIAS</span></a>
   </li>  
@@ -123,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../STAC32/index.html">STAC32</a></li><li class="breadcrumb-item"><a href="../STAC32/lecture-notes.html">Lecture notes</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../datafiles/index.html">Data files</a></li><li class="breadcrumb-item"><a href="../datafiles/little.html">my little document</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -139,12 +192,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../about.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../datafiles/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data files</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -172,12 +219,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../STAC33/R-code.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">R code</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAC33/testing1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Untitled</span></a>
   </div>
 </li>
       </ul>
@@ -257,7 +298,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../STAC32/lecture-notes.html" class="sidebar-item-text sidebar-link active">
+  <a href="../STAC32/lecture-notes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lecture notes</span></a>
   </div>
 </li>
@@ -275,27 +316,103 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../datafiles/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data files</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../datafiles/bmi.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Analysis of Australian Athletes’ BMI values</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../datafiles/carp.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Endogenous nitrogen excretion in carp</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../datafiles/carp.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Endogenous nitrogen excretion in carp</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../datafiles/fruit_veg.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fruit Veg</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../datafiles/list-them.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">List Them</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../datafiles/little.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">my little document</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../datafiles/tidy_bb.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tidying basketball data</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#inventing-some-data" id="toc-inventing-some-data" class="nav-link active" data-scroll-target="#inventing-some-data">Inventing some data</a>
+  <ul class="collapse">
+  <li><a href="#this-is-a-subheading" id="toc-this-is-a-subheading" class="nav-link" data-scroll-target="#this-is-a-subheading">this is a <em>subheading</em></a></li>
+  </ul></li>
+  <li><a href="#a-random-literature-review" id="toc-a-random-literature-review" class="nav-link" data-scroll-target="#a-random-literature-review">A random literature review</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lecture notes</h1>
+<h1 class="title">my little document</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Ken Butler </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 20, 2015</p>
+    </div>
+  </div>
   
     
   </div>
@@ -303,167 +420,63 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Here are my lecture notes, all of them, in chronological order, with the slideshows, PDF versions of those (for printing) and the Quarto documents with the code that made the slides:</p>
-<table class="table">
-<thead>
-<tr class="header">
-<th style="text-align: left;">Section</th>
-<th style="text-align: left;">Slides</th>
-<th style="text-align: left;">PDF</th>
-<th style="text-align: left;">Code</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">STAC32 course outline</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/outline_c32.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/outline_c32.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/outline_c32.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Running R</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/running.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/running.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/running.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Reading data files</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/readfile.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/readfile.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/readfile.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Drawing graphs</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/graphs.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/graphs.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/graphs.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Numerical summaries</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/numsum.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/numsum.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/numsum.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Choosing things from dataframes</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/choosing.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/choosing.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/choosing.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Inference: one and two-sample t</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/inference_1.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_1.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_1.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Bootstrap for sample mean</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/bootstrap_R.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/bootstrap_R.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/bootstrap_R.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Inference: power</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/inference_2.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_2.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_2.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Inference: sign test</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/inference_3.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_3.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_3.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Inference: normal quantile plot</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/inference_4a.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_4a.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_4a.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Inference: matched pairs</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/inference_4b.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_4b.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_4b.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Inference: Mood’s median test</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/inference_5a.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_5a.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_5a.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Inference: analysis of variance</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/inference_5b.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_5b.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/inference_5b.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Writing reports</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/reports.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/reports.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/reports.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Tidying data</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/tidying.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/tidying.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/tidying.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Tidying data: extras</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/tidy_extra.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/tidy_extra.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/tidy_extra.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">When <code>pivot_wider</code> goes wrong</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/wider_wrong.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/wider_wrong.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/wider_wrong.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Case study: windmill</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/windmill.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/windmill.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/windmill.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Case study: asphalt</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/asphalt.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/asphalt.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/asphalt.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Regression with categorical variables</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/with_categ.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/with_categ.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/with_categ.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Functions</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/functions.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/functions.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/functions.qmd">Code</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Dates and Times</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/dates_and_times.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/dates_and_times.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/dates_and_times.qmd">Code</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Durations, intervals and periods</td>
-<td style="text-align: left;"><a href="http://ritsokiguess.site/lecture-notes/dip.html">Slides</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/dip.pdf">PDF</a></td>
-<td style="text-align: left;"><a href="https://raw.githubusercontent.com/nxskok/lecture-notes/master/dip.qmd">Code</a></td>
-</tr>
-</tbody>
-</table>
+<section id="inventing-some-data" class="level1">
+<h1>Inventing some data</h1>
+<section id="this-is-a-subheading" class="level2">
+<h2 class="anchored" data-anchor-id="this-is-a-subheading">this is a <em>subheading</em></h2>
+<p>Let’s invent some data (using <code>set.seed</code> so that the result is reproducible):</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">457299</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>x<span class="ot">=</span><span class="fu">rnorm</span>(<span class="dv">50</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>What kind of distribution does <code>x</code> actually have?</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(x)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-2.15848 -0.73446  0.06205  0.01743  0.77072  1.62187 </code></pre>
+</div>
+</div>
+<p>or a boxplot:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(x)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="little_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>Since <code>x</code> actually came from a normal distribution, it should be at least approximately normal:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">qqnorm</span>(x)</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">qqline</span>(x)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="little_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>The upper tail of this distribution happens to be too short.</p>
+</section>
+</section>
+<section id="a-random-literature-review" class="level1">
+<h1>A random literature review</h1>
+<p><span class="citation" data-cites="jien15">Jien, Gough, and Butler (<a href="#ref-jien15" role="doc-biblioref">2015</a>)</span> has nothing to do with this work. The original paper on the <span class="math inline">\(t\)</span> distribution is <span class="citation" data-cites="student1908probable">Student (<a href="#ref-student1908probable" role="doc-biblioref">1908</a>)</span>. Thunder is here: <span class="citation" data-cites="huryn2015evaluation">Huryn et al. (<a href="#ref-huryn2015evaluation" role="doc-biblioref">2015</a>)</span>.</p>
+</section>
+<section id="references" class="level1">
 
 
 
-</main> <!-- /main -->
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-huryn2015evaluation" class="csl-entry" role="listitem">
+Huryn, Steven, William Gough, Ken Butler, and Tanzina Mohsin. 2015. <span>“An Evaluation of Thunderstorm Observations in Southern Ontario Using Automated Lightning Detection Data.”</span> <em>Journal of Applied Meteorology and Climatology</em>, no. 2015.
+</div>
+<div id="ref-jien15" class="csl-entry" role="listitem">
+Jien, Jerry Y., William A. Gough, and Ken Butler. 2015. <span>“The Influence of El Niño–Southern Oscillation on Tropical Cyclone Activity in the Eastern North Pacific Basin.”</span> <em>Journal of Climate</em> 28 (6): 2459–74. <a href="https://doi.org/10.1175/JCLI-D-14-00248.1">https://doi.org/10.1175/JCLI-D-14-00248.1</a>.
+</div>
+<div id="ref-student1908probable" class="csl-entry" role="listitem">
+Student. 1908. <span>“The Probable Error of a Mean.”</span> <em>Biometrika</em>, 1–25.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
