@@ -15,6 +15,16 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-01-24 13:40: this week:
+  - Assignment 1 was due last night, and remains open until Tuesday with late penalty.
+  - tutorial today, to work through [Worksheet 2](worksheet_2_c33.html).
+  - Assignment 2, on the same material as worksheet 2, opens tonight and is due next Sunday night.
+  - in lectures this week:
+    - Choosing things from dataframes (this is a lot, but it goes fast)
+    - the first part of statistical inference.
+  - More practice problems: chapters 1 through about 6 of [PASIAS](https://ritsokiguess.site/pasias2/).
+  
+
 - 2024-01-18 22:00: I just took a look through the assignment 0's that were handed in:
     - If you seemed to have done the right thing and I could see it including your graph, you should have 1 mark (out of 1). If you handed something in and for some reason it didn't work, you'll have a mark of zero plus a comment. Mostly this was that I couldn't see your graph. If that happened to you, figure out how to fix it before you hand in assignment 1. (Hint: did you include the "embed-resources" thing described in 2(j) on Worksheet 1? If you had re-downloaded the file you handed in, you would have been able to see that your graph did not make it.)
     - You can have as many attempts at Assignment 0 as you wish. If you didn't get it the first time, I encourage you to have another go. I intend to take a look in the next day or two at any more that are handed in since I looked just now. 
@@ -22,7 +32,7 @@ In this course, we learn R, and how to use this software for data organization a
 
 - 2024-01-18 15:30: 
   - [Worksheet 2](worksheet_2_c33.html), on this week's material, for tutorial on Monday.
-  - The waitlist for this course is now closed. The course is full, so I will not enrol any extra people in the class (and bear in mind that *everyone* on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn't make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible.
+  - The waitlist for this course is now closed. The course is full, so I will not enrol any extra people in the class (and bear in mind that *everyone* on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn't make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible. I try to save some places for 4th years (by UTSC's definition: 14 or more credits).
 
 - 2024-01-15 11:00: On the agenda this week:
   - Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).
