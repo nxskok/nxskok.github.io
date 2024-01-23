@@ -13,7 +13,18 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+
+- 2024-01-22 13:30: upcoming, this week:
+  - tutorial today at 4 on zoom, same coordinates as last week. As I write, Accuweather is telling me "periods of heavy snow for at least 60 minutes", so I am quite happy to not be travelling today! I plan to pick a problem from [PASIAS](https://ritsokiguess.site/pasias2/logistic-regression.html) to talk about, and of course bring other questions if you have them.
+  - in lecture this week, some or all of:
+    - log-odds and odds ratios and relative risk (partly in response to last week's question about what those slope and intercept numbers actually *mean*)
+    - logistic regression with a multi-category response when the response categories are ordered (the coal miners lung disease example)
+    - logistic regression with a multi-category response when the response categories are *not* ordered (the brand preference example)
+  - extra examples: chapters 28 and 29 of PASIAS.
+  - Assignment 2, on the logistic regression stuff from last week's lecture, opens tonight and is due next Sunday.
+
 - 2024-01-17 13:30: practice problems for this week's material: [PASIAS](https://ritsokiguess.site/pasias/) chapter 26 (edited 2024-01-18: we'll get to chapter 27 next week).
+
 
 - 2024-01-15 11:15: on the agenda this week:
   - tutorial today at 4:00pm, on zoom (link in Quercus announcement), on the regression stuff we did in lecture last week.
