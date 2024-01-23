@@ -15,7 +15,7 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2024-01-24 13:40: this week:
+- 2024-01-22 13:40: this week:
   - Assignment 1 was due last night, and remains open until Tuesday with late penalty.
   - tutorial today, to work through [Worksheet 2](worksheet_2_c33.html).
   - Assignment 2, on the same material as worksheet 2, opens tonight and is due next Sunday night.
