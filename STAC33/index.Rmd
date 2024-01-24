@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-01-24 11:25: We have a midterm date. See the announcement on Quercus for date, time, and place.
+
 - 2024-01-23 11:30: hint for one of the parts of Assignment 2: `geom_line` joins neighbouring points on a graph with a line.
 
 - 2024-01-22 13:40: this week:
