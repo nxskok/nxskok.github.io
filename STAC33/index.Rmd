@@ -15,7 +15,7 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2024-01-25 12:20: [my solutions](a1-c33-2024.html) to Assignment 1.
+- 2024-01-26 12:00: [Worksheet 3](worksheet_3_c33.html) for tutorial on Monday.
 
 - 2024-01-24 23:30: if you seem to be unable to create new Quarto documents, this is probably because you are running an old version of R Studio on your own computer. You can check what version you are currently running by selecting Help and About R Studio. Mine is 2023.12.0. Versions 2022.07.1 and newer include Quarto in them (including the ability to create new Quarto documents). If yours is older than that, now is a good time to upgrade.
 
