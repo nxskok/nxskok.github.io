@@ -15,6 +15,21 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-01-29 13:15: Monday update:
+  - Assignment 1 has been graded (see below for appeal procedure)
+  - Assignment 2 was due last night and is open (with late penalty) until Tuesday night
+  - Assignment 3 opens tonight, and is due next Sunday night.
+  - Tutorials are happening today as usual; you'll be working on [worksheet 3](worksheet_3_c33.html).
+  - In lectures this week:
+    - Tuesday: the rest of one-sample inference
+    - Thursday: two-sample inference (which is a bit more complicated than you learned in B57). I might get into the bootstrap sampling distribution of the sample mean this week, or it might be next week.
+  - Practice problems for this week's material: chapters 6 and 7 of [PASIAS](https://ritsokiguess.site/pasias2/).
+
+- 2024-01-29 11:00: Assignment 1 has been graded, and I am about to post the marks. 
+  - If you wish to appeal your mark, first read sections 3.19 through 3.23 of the detailed [course policies](policies.pdf). For your appeal to be successful, you will need to demonstrate an *error* in the grading: that is to say, you will need to *demonstrate* that your work was actually correct despite not receiving full marks. Read carefully the last sentence of 3.19 as well as the whole of 3.20 in the detailed course policies. You are also warned that I have the right to regrade your entire assignment, and so your mark can go down as well as up.
+  - To appeal your mark on an assignment, write me an email with the word "appeal", the course code, and the assignment number in the subject line, for assignment 1 *between February 2 and February 9 inclusive*, in which you explain how there was *an error* in the grading of your assignment: that is to say, the grader missed something you wrote that was completely correct according to my solutions or that you argue also was a complete answer to the question. This also includes such things as addition errors in your assignment mark.
+
+
 - 2024-01-26 12:00: [Worksheet 3](worksheet_3_c33.html) for tutorial on Monday. (Edit 2024-01-27 20:20: thanks to the eagle eyes of one of your TAs, a typo has been corrected.)
 
 - 2024-01-24 23:30: if you seem to be unable to create new Quarto documents, this is probably because you are running an old version of R Studio on your own computer. You can check what version you are currently running by selecting Help and About R Studio. Mine is 2023.12.0. Versions 2022.07.1 and newer include Quarto in them (including the ability to create new Quarto documents). If yours is older than that, now is a good time to upgrade.
