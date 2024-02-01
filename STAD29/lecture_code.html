@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.3.340">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ken’s website - STAD29</title>
+<title>Ken’s website - R code</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -45,13 +45,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -60,10 +54,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-submit-button-title": "Submit"
   }
 }</script>
 
@@ -75,9 +67,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Ken’s website</span>
     </a>
@@ -89,70 +81,60 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../programs-and-courses/"> 
-<span class="menu-text">Programs and courses</span></a>
+    <a class="nav-link" href="../programs-and-courses/" rel="" target="">
+ <span class="menu-text">Programs and courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../STAC32/"> 
-<span class="menu-text">STAC32</span></a>
+    <a class="nav-link" href="http://ritsokiguess.site/STAC32" rel="" target="">
+ <span class="menu-text">STAC32</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../STAC33/"> 
-<span class="menu-text">STAC33</span></a>
+    <a class="nav-link" href="http://ritsokiguess.site/STAC33" rel="" target="">
+ <span class="menu-text">STAC33</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../STAD29/"> 
-<span class="menu-text">STAD29</span></a>
+    <a class="nav-link" href="http://ritsokiguess.site/STAD29" rel="" target="">
+ <span class="menu-text">STAD29</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../datafiles/"> 
-<span class="menu-text">Data files</span></a>
+    <a class="nav-link" href="http://ritsokiguess.site/pasias2/" rel="" target="">
+ <span class="menu-text">PASIAS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="http://ritsokiguess.site/pasias2/"> 
-<span class="menu-text">PASIAS</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="http://q.utoronto.ca"> 
-<span class="menu-text">Quercus</span></a>
+    <a class="nav-link" href="http://q.utoronto.ca" rel="" target="">
+ <span class="menu-text">Quercus</span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools ms-auto">
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../STAD29/index.html">STAD29</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../STAD29/index.html">STAD29</a></li><li class="breadcrumb-item"><a href="../STAD29/lecture_code.html">R code</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../about.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../datafiles/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data files</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -182,12 +164,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">R code</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAC33/testing1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Untitled</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -209,13 +185,19 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../STAD29/index.html" class="sidebar-item-text sidebar-link active">
+            <a href="../STAD29/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">STAD29</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../STAD29/lecture_code.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">R code</span></a>
+  </div>
+</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../STAD29/notes.html" class="sidebar-item-text sidebar-link">
@@ -226,12 +208,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../STAD29/old_exams.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Old exams</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAD29/R-code.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">R code</span></a>
   </div>
 </li>
       </ul>
@@ -245,24 +221,6 @@ ul.task-list li input[type="checkbox"] {
           </a> 
       </div>
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAC32/all_assignments.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Assignment solutions</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAC32/all_worksheets.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Worksheets</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAC32/extra.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Extra datafiles</span></a>
-  </div>
-</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../STAC32/lecture-notes.html" class="sidebar-item-text sidebar-link">
@@ -286,27 +244,17 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#statistics-for-the-life-and-social-sciences" id="toc-statistics-for-the-life-and-social-sciences" class="nav-link active" data-scroll-target="#statistics-for-the-life-and-social-sciences">Statistics for the Life and Social Sciences</a>
-  <ul class="collapse">
-  <li><a href="#ken-butler" id="toc-ken-butler" class="nav-link" data-scroll-target="#ken-butler">Ken Butler</a></li>
-  <li><a href="#news-newest-first" id="toc-news-newest-first" class="nav-link" data-scroll-target="#news-newest-first">News (newest first)</a></li>
-  </ul></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">STAD29</h1>
+<h1 class="title">R code</h1>
 </div>
 
 
@@ -319,91 +267,19 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
-
 </header>
 
-
-<section id="statistics-for-the-life-and-social-sciences" class="level1">
-<h1>Statistics for the Life and Social Sciences</h1>
-<section id="ken-butler" class="level2">
-<h2 class="anchored" data-anchor-id="ken-butler">Ken Butler</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="ken.jpg" class="img-fluid figure-img" width="400"></p>
-<figcaption>bad picture</figcaption>
-</figure>
-</div>
-<p>Welcome to the home page for STA 1007 / STAD29. This is the place to look for things course-related (notes, code, old exams etc., linked above) except for lecture videos, assignment hand-ins and marks, which will be on <a href="http://q.utoronto.ca">Quercus</a>.</p>
-</section>
-<section id="news-newest-first" class="level2">
-<h2 class="anchored" data-anchor-id="news-newest-first">News (newest first)</h2>
 <ul>
-<li><p>2024-01-29 13:20: Monday update:</p>
+<li>One of these:
 <ul>
-<li>Tutorial on zoom this afternoon at 4 (link in Quercus announcement)</li>
-<li>Assignments: #2 was due yesterday; #3 opens tonight. I will let you know when #1 is graded.</li>
-<li>Lecture this week:
-<ul>
-<li>logistic regression with multi-category but <em>unordered</em> response</li>
-<li>dates and times (in which you learn just how fiddly dates and times are to handle, and how useful it is to have packages that handle them for us)</li>
+<li><strong>Datatools/jupyter</strong>, File and New Project. Click on the down arrow, and select New Project from Git Repo. In the box asking for a URL, enter <code>https://github.com/nxskok/lecture-notes.git</code>. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like.</li>
+<li><strong>In R Studio on your own computer</strong>, select File and New Project. In the pop-up, click Version Control and Git. In the Repository URL box, enter <code>https://github.com/nxskok/lecture-notes.git</code>. Enter a name for the project in the next box, and if you don’t like R Studio’s choice of the place this will be a subfolder of, click Browse to change it. Click Create Project when you are happy.</li>
 </ul></li>
-<li>extra practice problems on this week’s material: <a href="https://ritsokiguess.site/pasias2/">PASIAS</a> chapters 29 and 21 (respectively).</li>
-</ul></li>
-<li><p>2024-01-25 20:30: After Wednesday’s class, I decided that you might like some extra practice on the stuff we did in the first half of class (the log-odds stuff), so I added a short question on that to the next assignment. If that material is still confusing you, we can talk about that on Monday. (It is probably not giving much away to say that the second question on that assignment is on the stuff we did after half-time in class this week.)</p></li>
-<li><p>2024-01-25 12:20: <a href="a1-d29-2024.html">my solutions</a> to Assignment 1.</p></li>
-<li><p>2024-01-24 11:25: We have a midterm date. See the announcement on Quercus for date, time, and place (not until early March).</p></li>
-<li><p>2024-01-22 13:30: upcoming, this week:</p>
-<ul>
-<li>tutorial today at 4 on zoom, same coordinates as last week. As I write, Accuweather is telling me “periods of heavy snow for at least 60 minutes”, so I am quite happy to not be travelling today! I plan to pick a problem from <a href="https://ritsokiguess.site/pasias2/logistic-regression.html">PASIAS</a> to talk about, and of course bring other questions if you have them.</li>
-<li>in lecture this week, some or all of:
-<ul>
-<li>log-odds and odds ratios and relative risk (partly in response to last week’s question about what those slope and intercept numbers actually <em>mean</em>)</li>
-<li>logistic regression with a multi-category response when the response categories are ordered (the coal miners lung disease example)</li>
-<li>logistic regression with a multi-category response when the response categories are <em>not</em> ordered (the brand preference example)</li>
-</ul></li>
-<li>extra examples: chapters 28 and 29 of PASIAS.</li>
-<li>Assignment 2, on the logistic regression stuff from last week’s lecture, opens tonight and is due next Sunday.</li>
-</ul></li>
-<li><p>2024-01-17 13:30: practice problems for this week’s material: <a href="https://ritsokiguess.site/pasias/">PASIAS</a> chapter 26 (edited 2024-01-18: we’ll get to chapter 27 next week).</p></li>
-<li><p>2024-01-15 11:15: on the agenda this week:</p>
-<ul>
-<li>tutorial today at 4:00pm, on zoom (link in Quercus announcement), on the regression stuff we did in lecture last week.</li>
-<li>The stuff in the slides that I didn’t talk about is regression review. Read through those if you feel you need more review.</li>
-<li>Assignment 1 opens tonight, is due next Sunday night (the 21st), on the stuff we did in lecture last week.</li>
-<li>This week’s lecture is on logistic regression. The thing that distinguishes this from regular regression is that the response variable is categorical rather than quantitative. There are three parts (that we won’t do all of this week): when the outcome is a success/failure, when the outcome is several categories but ordered, when the outcome is several categories that are not ordered. There are also variations in how the data come to us (and therefore how we have to deal with it).</li>
-<li>Next week’s tutorial (the 22nd) is on the stuff in this week’s lecture, and Assignment 2 (opens on the 22nd and is due on the 28th) is on the same material.</li>
-</ul></li>
-<li><p>2024-01-11 20:45: we have a Zoom meeting set up for Monday’s tutorial. The coordinates are in a Quercus announcement (I am not announcing it publicly).</p></li>
-<li><p>2024-01-11 11:45: Here is <a href="worksheet_1_d29.html">a worksheet</a> on the material we looked at in class yesterday. I’m not promising a worksheet every week, but I will point you at some practice problems for each section of the course. Look out for information about Monday’s session tomorrow (once I have sorted that out).</p></li>
-<li><p>2024-01-08 12:45: Our course begins this week:</p>
-<ul>
-<li>expect things to be structured a lot like they were in C32.</li>
-<li>one two-hour lecture a week, on Wednesdays (I will give you a break in the middle). Your ACORN has the location.</li>
-<li>one hour of tutorial-slash-office hour on Mondays, starting <em>next</em> week, probably on zoom. You can also catch me after lecture, or post in the Quercus discussions.</li>
-<li>weekly assignments, with the first one going out on January 15 (out Monday night, due the following Sunday night), in the same style as for C32.</li>
-<li>D29 is more about the statistics and less about the coding than C32 was; you will be learning some statistical methods that are definitely new to you, and I will assume that you are keeping up with the coding part.</li>
-</ul></li>
-<li><p>2024-01-03 11:00: lecture 1 is a week away:</p>
-<ul>
-<li>Quercus page is up (for assignments, discussion board etc)</li>
-<li>be ready to learn some new statistics (there will be stuff you haven’t seen before)</li>
-<li>I will assume that you are familiar with the R stuff, and the statistical ideas, that you learned in C32. (If you are not, be prepared to do some catching up.)</li>
-<li>we begin with some new ideas in regression.</li>
-<li>I don’t think there is anyone taking the course as STA 1007 (graduate course) this year; if you are, let me know.</li>
-</ul></li>
-<li><p>2023-12-12 18:30: a bit more detail:</p>
-<ul>
-<li>lectures are once a week on Wednesdays for 2 hours</li>
-<li>there is a “practical” on Mondays at 4, starting in week 2, probably on zoom. This is a sort of combined office hour / tutorial to which you can bring questions about the previous week’s material.</li>
-<li>weekly assignments (that you are used to from C32), opening Monday night, due the following Sunday night.</li>
-<li>a 2-hour midterm and a 3-hour final as usual, on dates to be announced.</li>
-</ul></li>
-<li><p>2023-12-08 14:30: here is this year’s version of the site. Class meets once a week for two hours, starting on Wed January 10, 2024.</p></li>
 </ul>
+<p>These are actually lecture notes for all my courses. To follow along with a lecture, find out what the lecture slides are called (eg <code>graphs_R_slides.pdf</code>), and replace the <code>_slides.pdf</code> with <code>.Rmd</code> (eg. <code>graphs_R.Rmd</code>). There should be a <code>_slides.pdf</code> and a <code>.Rmd</code> file for each section of a course you are taking from me.</p>
+<p>If you have any problems with access (eg. you are asked for a password), let me know.</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -485,9 +361,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -497,17 +374,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -520,125 +388,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -682,7 +431,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -708,32 +456,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -794,7 +516,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-
 
 
 

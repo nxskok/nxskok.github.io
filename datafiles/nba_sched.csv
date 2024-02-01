@@ -1,0 +1,1201 @@
+date,road,home,start_eastern,TV
+10/24/23,L.A. Lakers,Denver,7:30 PM,TNT
+10/24/23,Phoenix,Golden State,10:00 PM,TNT
+10/25/23,Atlanta,Charlotte,7:00 PM,
+10/25/23,Washington,Indiana,7:00 PM,
+10/25/23,Boston,New York,7:00 PM,ESPN
+10/25/23,Houston,Orlando,7:00 PM,
+10/25/23,Cleveland,Brooklyn,7:30 PM,
+10/25/23,Detroit,Miami,7:30 PM,
+10/25/23,Minnesota,Toronto,7:30 PM,
+10/25/23,Oklahoma City,Chicago,8:00 PM,
+10/25/23,New Orleans,Memphis,8:00 PM,
+10/25/23,Sacramento,Utah,9:00 PM,
+10/25/23,Dallas,San Antonio,9:30 PM,ESPN
+10/25/23,Portland,LA Clippers,10:30 PM,
+10/26/23,Philadelphia,Milwaukee,7:30 PM,TNT
+10/26/23,Phoenix,L.A. Lakers,10:00 PM,TNT
+10/27/23,Detroit,Charlotte,7:00 PM,
+10/27/23,Denver,Memphis,7:00 PM,
+10/27/23,New York,Atlanta,7:30 PM,
+10/27/23,Miami,Boston,7:30 PM,ESPN
+10/27/23,Oklahoma City,Cleveland,7:30 PM,
+10/27/23,Toronto,Chicago,8:00 PM,
+10/27/23,Houston,San Antonio,8:00 PM,
+10/27/23,Brooklyn,Dallas,8:30 PM,
+10/27/23,LA Clippers,Utah,9:30 PM,
+10/27/23,Orlando,Portland,10:00 PM,
+10/27/23,Golden State,Sacramento,10:00 PM,ESPN
+10/28/23,Chicago,Detroit,7:00 PM,
+10/28/23,Memphis,Washington,7:00 PM,
+10/28/23,New York,New Orleans,7:00 PM,NBA TV
+10/28/23,Indiana,Cleveland,7:30 PM,
+10/28/23,Philadelphia,Toronto,7:30 PM,
+10/28/23,Miami,Minnesota,8:00 PM,
+10/28/23,Utah,Phoenix,10:00 PM,NBA TV
+10/29/23,Denver,Oklahoma City,3:30 PM,
+10/29/23,Golden State,Houston,7:00 PM,
+10/29/23,Atlanta,Milwaukee,7:00 PM,
+10/29/23,Portland,Philadelphia,7:30 PM,
+10/29/23,San Antonio,LA Clippers,9:00 PM,
+10/29/23,L.A. Lakers,Sacramento,9:00 PM,
+10/30/23,Brooklyn,Charlotte,7:00 PM,
+10/30/23,Chicago,Indiana,7:00 PM,
+10/30/23,Boston,Washington,7:00 PM,
+10/30/23,Minnesota,Atlanta,7:30 PM,
+10/30/23,Portland,Toronto,7:30 PM,
+10/30/23,Dallas,Memphis,8:00 PM,
+10/30/23,Miami,Milwaukee,8:00 PM,
+10/30/23,Golden State,New Orleans,8:00 PM,NBA TV
+10/30/23,Detroit,Oklahoma City,8:00 PM,
+10/30/23,Utah,Denver,9:00 PM,
+10/30/23,Orlando,L.A. Lakers,10:30 PM,NBA TV
+10/31/23,New York,Cleveland,7:30 PM,TNT
+10/31/23,San Antonio,Phoenix,10:00 PM,TNT
+10/31/23,Orlando,LA Clippers,10:30 PM,
+11/1/23,Portland,Detroit,7:00 PM,
+11/1/23,Milwaukee,Toronto,7:00 PM,
+11/1/23,Washington,Atlanta,7:30 PM,
+11/1/23,Indiana,Boston,7:30 PM,
+11/1/23,Brooklyn,Miami,7:30 PM,
+11/1/23,Cleveland,New York,7:30 PM,
+11/1/23,New Orleans,Oklahoma City,7:30 PM,ESPN
+11/1/23,Charlotte,Houston,8:00 PM,
+11/1/23,Denver,Minnesota,8:00 PM,
+11/1/23,Chicago,Dallas,8:30 PM,
+11/1/23,Memphis,Utah,9:00 PM,
+11/1/23,Sacramento,Golden State,10:00 PM,
+11/1/23,LA Clippers,L.A. Lakers,10:00 PM,ESPN
+11/2/23,Toronto,Philadelphia,7:00 PM,NBA TV
+11/2/23,Detroit,New Orleans,8:00 PM,
+11/2/23,Orlando,Utah,9:00 PM,
+11/2/23,San Antonio,Phoenix,10:00 PM,NBA TV
+11/3/23,Cleveland,Indiana,7:00 PM,I
+11/3/23,New York,Milwaukee,7:30 PM,ESPN
+11/3/23,Washington,Miami,8:00 PM,I
+11/3/23,Brooklyn,Chicago,8:00 PM,I
+11/3/23,Golden State,Oklahoma City,8:00 PM,I
+11/3/23,Dallas,Denver,10:00 PM,ESPN
+11/3/23,Memphis,Portland,10:00 PM,I
+11/4/23,Phoenix,Philadelphia,1:00 PM,
+11/4/23,Charlotte,Indiana,7:00 PM,
+11/4/23,L.A. Lakers,Orlando,7:00 PM,
+11/4/23,Atlanta,New Orleans,7:00 PM,
+11/4/23,Boston,Brooklyn,8:00 PM,
+11/4/23,Sacramento,Houston,8:00 PM,
+11/4/23,Utah,Minnesota,8:00 PM,
+11/4/23,Chicago,Denver,9:00 PM,NBA TV
+11/5/23,Phoenix,Detroit,3:00 PM,
+11/5/23,Toronto,San Antonio,3:30 PM,
+11/5/23,Golden State,Cleveland,6:00 PM,
+11/5/23,Charlotte,Dallas,7:30 PM,
+11/5/23,Memphis,Portland,9:00 PM,
+11/6/23,Golden State,Detroit,7:00 PM,
+11/6/23,San Antonio,Indiana,7:00 PM,
+11/6/23,Dallas,Orlando,7:00 PM,
+11/6/23,Washington,Philadelphia,7:00 PM,
+11/6/23,Milwaukee,Brooklyn,7:30 PM,
+11/6/23,L.A. Lakers,Miami,7:30 PM,NBA TV
+11/6/23,LA Clippers,New York,7:30 PM,
+11/6/23,Utah,Chicago,8:00 PM,
+11/6/23,Sacramento,Houston,8:00 PM,
+11/6/23,Boston,Minnesota,8:00 PM,
+11/6/23,Atlanta,Oklahoma City,8:00 PM,
+11/6/23,New Orleans,Denver,9:00 PM,
+11/8/23,Washington,Charlotte,7:00 PM,
+11/8/23,Utah,Indiana,7:00 PM,
+11/8/23,Boston,Philadelphia,7:00 PM,
+11/8/23,LA Clippers,Brooklyn,7:30 PM,
+11/8/23,San Antonio,New York,7:30 PM,ESPN
+11/8/23,Phoenix,Chicago,8:00 PM,
+11/8/23,L.A. Lakers,Houston,8:00 PM,
+11/8/23,Miami,Memphis,8:00 PM,
+11/8/23,Detroit,Milwaukee,8:00 PM,
+11/8/23,New Orleans,Minnesota,8:00 PM,
+11/8/23,Cleveland,Oklahoma City,8:00 PM,
+11/8/23,Toronto,Dallas,8:30 PM,
+11/8/23,Golden State,Denver,10:00 PM,ESPN
+11/8/23,Portland,Sacramento,10:00 PM,
+11/9/23,Milwaukee,Indiana,7:00 PM,NBA TV
+11/9/23,Atlanta,Orlando,9:30 PM,NBA TV
+11/10/23,Philadelphia,Detroit,7:00 PM,I
+11/10/23,Charlotte,Washington,7:00 PM,I
+11/10/23,Brooklyn,Boston,7:30 PM,ESPN
+11/10/23,New Orleans,Houston,8:00 PM,I
+11/10/23,Utah,Memphis,8:00 PM,I
+11/10/23,Minnesota,San Antonio,8:00 PM,I
+11/10/23,LA Clippers,Dallas,8:30 PM,I
+11/10/23,L.A. Lakers,Phoenix,10:00 PM,ESPN
+11/10/23,Oklahoma City,Sacramento,10:00 PM,I
+11/11/23,Milwaukee,Orlando,6:00 PM,
+11/11/23,Toronto,Boston,7:00 PM,
+11/11/23,Miami,Atlanta,7:30 PM,
+11/11/23,Cleveland,Golden State,8:30 PM,NBA TV
+11/12/23,Charlotte,New York,12:00 PM,
+11/12/23,Washington,Brooklyn,3:00 PM,
+11/12/23,Memphis,LA Clippers,3:30 PM,
+11/12/23,Indiana,Philadelphia,6:00 PM,
+11/12/23,Detroit,Chicago,7:00 PM,
+11/12/23,Denver,Houston,7:00 PM,
+11/12/23,Dallas,New Orleans,7:00 PM,
+11/12/23,Miami,San Antonio,7:00 PM,
+11/12/23,Oklahoma City,Phoenix,8:00 PM,
+11/12/23,Minnesota,Golden State,8:30 PM,
+11/12/23,Portland,L.A. Lakers,10:00 PM,
+11/13/23,New York,Boston,7:30 PM,NBA TV
+11/13/23,Washington,Toronto,7:30 PM,
+11/13/23,Chicago,Milwaukee,8:00 PM,
+11/13/23,Cleveland,Sacramento,10:00 PM,NBA TV
+11/14/23,Miami,Charlotte,7:00 PM,I
+11/14/23,Atlanta,Detroit,7:00 PM,I
+11/14/23,Indiana,Philadelphia,7:00 PM,I
+11/14/23,Orlando,Brooklyn,7:30 PM,I
+11/14/23,San Antonio,Oklahoma City,7:30 PM,TNT
+11/14/23,Dallas,New Orleans,8:00 PM,I
+11/14/23,Portland,Utah,9:00 PM,I
+11/14/23,LA Clippers,Denver,10:00 PM,TNT
+11/14/23,Minnesota,Golden State,10:00 PM,I
+11/14/23,Memphis,L.A. Lakers,10:30 PM,I
+11/15/23,Dallas,Washington,7:00 PM,
+11/15/23,New York,Atlanta,7:30 PM,
+11/15/23,Boston,Philadelphia,7:30 PM,ESPN
+11/15/23,Milwaukee,Toronto,7:30 PM,
+11/15/23,Orlando,Chicago,8:00 PM,
+11/15/23,Minnesota,Phoenix,9:00 PM,
+11/15/23,Sacramento,L.A. Lakers,10:00 PM,ESPN
+11/15/23,Cleveland,Portland,10:00 PM,
+11/16/23,Brooklyn,Miami,7:30 PM,NBA TV
+11/16/23,Oklahoma City,Golden State,10:00 PM,NBA TV
+11/17/23,Milwaukee,Charlotte,7:00 PM,I
+11/17/23,New York,Washington,7:00 PM,I
+11/17/23,Philadelphia,Atlanta,7:30 PM,I
+11/17/23,Detroit,Cleveland,7:30 PM,I
+11/17/23,Boston,Toronto,7:30 PM,I
+11/17/23,Sacramento,San Antonio,7:30 PM,ESPN
+11/17/23,Orlando,Chicago,8:00 PM,I
+11/17/23,Denver,New Orleans,8:00 PM,I
+11/17/23,Phoenix,Utah,10:00 PM,ESPN
+11/17/23,L.A. Lakers,Portland,10:00 PM,I
+11/17/23,Houston,LA Clippers,10:30 PM,I
+11/18/23,New York,Charlotte,6:00 PM,
+11/18/23,Minnesota,New Orleans,7:00 PM,
+11/18/23,Miami,Chicago,8:00 PM,
+11/18/23,Dallas,Milwaukee,8:00 PM,NBA TV
+11/18/23,Memphis,San Antonio,8:00 PM,
+11/18/23,Oklahoma City,Golden State,8:30 PM,
+11/19/23,Philadelphia,Brooklyn,3:00 PM,
+11/19/23,Orlando,Indiana,5:00 PM,
+11/19/23,Denver,Cleveland,6:00 PM,
+11/19/23,Detroit,Toronto,6:00 PM,
+11/19/23,Sacramento,Dallas,7:30 PM,
+11/19/23,Boston,Memphis,8:00 PM,
+11/19/23,Phoenix,Utah,8:00 PM,NBA TV
+11/19/23,Oklahoma City,Portland,9:00 PM,
+11/19/23,Houston,L.A. Lakers,9:30 PM,
+11/20/23,Boston,Charlotte,7:00 PM,
+11/20/23,Denver,Detroit,7:00 PM,
+11/20/23,Milwaukee,Washington,7:00 PM,
+11/20/23,Miami,Chicago,8:00 PM,
+11/20/23,New York,Minnesota,8:00 PM,
+11/20/23,Sacramento,New Orleans,8:00 PM,
+11/20/23,LA Clippers,San Antonio,8:00 PM,
+11/20/23,Houston,Golden State,10:00 PM,
+11/21/23,Toronto,Orlando,7:00 PM,I
+11/21/23,Indiana,Atlanta,7:30 PM,I
+11/21/23,Cleveland,Philadelphia,7:30 PM,TNT
+11/21/23,Portland,Phoenix,9:00 PM,I
+11/21/23,Utah,L.A. Lakers,10:00 PM,TNT
+11/22/23,Washington,Charlotte,7:00 PM,
+11/22/23,Denver,Orlando,7:00 PM,
+11/22/23,Brooklyn,Atlanta,7:30 PM,
+11/22/23,Milwaukee,Boston,7:30 PM,ESPN
+11/22/23,Miami,Cleveland,7:30 PM,
+11/22/23,Toronto,Indiana,7:30 PM,
+11/22/23,Memphis,Houston,8:00 PM,
+11/22/23,Philadelphia,Minnesota,8:00 PM,
+11/22/23,Sacramento,New Orleans,8:00 PM,
+11/22/23,Chicago,Oklahoma City,8:00 PM,
+11/22/23,LA Clippers,San Antonio,8:00 PM,
+11/22/23,Golden State,Phoenix,10:00 PM,ESPN
+11/22/23,Utah,Portland,10:00 PM,
+11/22/23,Dallas,L.A. Lakers,10:30 PM,
+11/24/23,Boston,Orlando,2:30 PM,NBA TV
+11/24/23,Phoenix,Memphis,5:00 PM,NBA TV
+11/24/23,Miami,New York,7:30 PM,ESPN
+11/24/23,Chicago,Toronto,7:30 PM,I
+11/24/23,Detroit,Indiana,8:00 PM,I
+11/24/23,Denver,Houston,8:00 PM,I
+11/24/23,Washington,Milwaukee,8:00 PM,I
+11/24/23,Sacramento,Minnesota,8:00 PM,I
+11/24/23,San Antonio,Golden State,10:00 PM,ESPN
+11/24/23,New Orleans,LA Clippers,10:30 PM,I
+11/25/23,Philadelphia,Oklahoma City,5:00 PM,
+11/25/23,Miami,Brooklyn,6:00 PM,
+11/25/23,Atlanta,Washington,7:00 PM,
+11/25/23,L.A. Lakers,Cleveland,7:30 PM,
+11/25/23,New Orleans,Utah,9:30 PM,
+11/25/23,Dallas,LA Clippers,10:30 PM,NBA TV
+11/26/23,Portland,Milwaukee,3:30 PM,
+11/26/23,Atlanta,Boston,6:00 PM,
+11/26/23,Phoenix,New York,6:00 PM,
+11/26/23,Charlotte,Orlando,6:00 PM,
+11/26/23,Minnesota,Memphis,6:00 PM,
+11/26/23,Chicago,Brooklyn,7:30 PM,
+11/26/23,Toronto,Cleveland,7:30 PM,
+11/26/23,San Antonio,Denver,8:00 PM,
+11/27/23,Washington,Detroit,7:00 PM,
+11/27/23,Portland,Indiana,7:00 PM,
+11/27/23,L.A. Lakers,Philadelphia,7:00 PM,NBA TV
+11/27/23,New Orleans,Utah,9:00 PM,
+11/27/23,Denver,LA Clippers,10:30 PM,NBA TV
+11/28/23,Chicago,Boston,7:30 PM,I
+11/28/23,Toronto,Brooklyn,7:30 PM,I
+11/28/23,Atlanta,Cleveland,7:30 PM,I
+11/28/23,Milwaukee,Miami,7:30 PM,TNT
+11/28/23,Charlotte,New York,7:30 PM,I
+11/28/23,Oklahoma City,Minnesota,8:00 PM,I
+11/28/23,Houston,Dallas,8:30 PM,I
+11/28/23,Golden State,Sacramento,10:00 PM,TNT
+11/29/23,L.A. Lakers,Detroit,7:00 PM,NBA TV
+11/29/23,Washington,Orlando,7:00 PM,
+11/29/23,Phoenix,Toronto,7:30 PM,
+11/29/23,Utah,Memphis,8:00 PM,
+11/29/23,Philadelphia,New Orleans,8:00 PM,
+11/29/23,Houston,Denver,9:00 PM,
+11/29/23,LA Clippers,Sacramento,10:00 PM,NBA TV
+11/30/23,Portland,Cleveland,7:00 PM,
+11/30/23,Charlotte,Brooklyn,7:30 PM,
+11/30/23,Indiana,Miami,7:30 PM,NBA TV
+11/30/23,Detroit,New York,7:30 PM,
+11/30/23,Milwaukee,Chicago,8:00 PM,
+11/30/23,Utah,Minnesota,8:00 PM,
+11/30/23,L.A. Lakers,Oklahoma City,8:00 PM,
+11/30/23,Atlanta,San Antonio,8:00 PM,
+11/30/23,LA Clippers,Golden State,10:00 PM,
+12/1/23,Washington,Orlando,7:00 PM,
+12/1/23,Philadelphia,Boston,7:30 PM,
+12/1/23,New York,Toronto,7:30 PM,
+12/1/23,Memphis,Dallas,7:30 PM,ESPN
+12/1/23,San Antonio,New Orleans,8:00 PM,
+12/1/23,Denver,Phoenix,10:00 PM,ESPN
+12/2/23,Golden State,LA Clippers,4:00 PM,
+12/2/23,Minnesota,Charlotte,5:00 PM,
+12/2/23,Orlando,Brooklyn,7:00 PM,
+12/2/23,Cleveland,Detroit,7:00 PM,
+12/2/23,Indiana,Miami,8:00 PM,
+12/2/23,New Orleans,Chicago,8:00 PM,
+12/2/23,Atlanta,Milwaukee,8:00 PM,
+12/2/23,Oklahoma City,Dallas,9:00 PM,
+12/2/23,Memphis,Phoenix,9:00 PM,
+12/2/23,Portland,Utah,9:30 PM,
+12/2/23,Denver,Sacramento,10:00 PM,NBA TV
+12/2/23,Houston,L.A. Lakers,10:30 PM,
+12/11/23,Miami,Charlotte,7:00 PM,
+12/11/23,Indiana,Detroit,7:00 PM,
+12/11/23,Cleveland,Orlando,7:00 PM,
+12/11/23,Washington,Philadelphia,7:00 PM,
+12/11/23,Denver,Atlanta,7:30 PM,
+12/11/23,Toronto,New York,7:30 PM,
+12/11/23,San Antonio,Houston,8:00 PM,
+12/11/23,Dallas,Memphis,8:00 PM,NBA TV
+12/11/23,Chicago,Milwaukee,8:00 PM,
+12/11/23,Minnesota,New Orleans,8:00 PM,
+12/11/23,Utah,Oklahoma City,8:00 PM,
+12/11/23,Brooklyn,Sacramento,10:00 PM,
+12/11/23,Portland,LA Clippers,10:30 PM,
+12/12/23,Cleveland,Boston,7:30 PM,
+12/12/23,L.A. Lakers,Dallas,7:30 PM,TNT
+12/12/23,Denver,Chicago,8:00 PM,
+12/12/23,Golden State,Phoenix,10:00 PM,TNT
+12/12/23,Sacramento,LA Clippers,10:30 PM,
+12/13/23,Philadelphia,Detroit,7:00 PM,
+12/13/23,New Orleans,Washington,7:00 PM,
+12/13/23,Charlotte,Miami,7:30 PM,
+12/13/23,Atlanta,Toronto,7:30 PM,
+12/13/23,Memphis,Houston,8:00 PM,
+12/13/23,Indiana,Milwaukee,8:00 PM,
+12/13/23,L.A. Lakers,San Antonio,8:00 PM,NBA TV
+12/13/23,Brooklyn,Phoenix,9:00 PM,
+12/13/23,New York,Utah,9:00 PM,
+12/14/23,Cleveland,Boston,7:30 PM,NBA TV
+12/14/23,Chicago,Miami,7:30 PM,
+12/14/23,Minnesota,Dallas,8:30 PM,
+12/14/23,Brooklyn,Denver,9:00 PM,
+12/14/23,Utah,Portland,10:00 PM,
+12/14/23,Oklahoma City,Sacramento,10:00 PM,
+12/14/23,Golden State,LA Clippers,10:30 PM,NBA TV
+12/15/23,New Orleans,Charlotte,7:00 PM,
+12/15/23,Detroit,Philadelphia,7:00 PM,
+12/15/23,Indiana,Washington,7:00 PM,
+12/15/23,Orlando,Boston,7:30 PM,
+12/15/23,Atlanta,Toronto,7:30 PM,
+12/15/23,L.A. Lakers,San Antonio,7:30 PM,ESPN
+12/15/23,Houston,Memphis,8:00 PM,
+12/15/23,New York,Phoenix,10:00 PM,ESPN
+12/16/23,Detroit,Milwaukee,6:00 PM,
+12/16/23,Philadelphia,Charlotte,7:00 PM,
+12/16/23,Atlanta,Cleveland,7:30 PM,NBA TV
+12/16/23,Chicago,Miami,8:00 PM,
+12/16/23,Indiana,Minnesota,8:00 PM,
+12/16/23,Brooklyn,Golden State,8:30 PM,
+12/16/23,Oklahoma City,Denver,9:00 PM,
+12/16/23,Dallas,Portland,9:00 PM,
+12/16/23,Utah,Sacramento,10:00 PM,NBA TV
+12/16/23,New York,LA Clippers,10:30 PM,
+12/17/23,Orlando,Boston,3:00 PM,
+12/17/23,New Orleans,San Antonio,3:30 PM,
+12/17/23,Houston,Milwaukee,7:00 PM,
+12/17/23,Washington,Phoenix,8:00 PM,
+12/17/23,Golden State,Portland,9:00 PM,
+12/18/23,Houston,Cleveland,7:00 PM,
+12/18/23,LA Clippers,Indiana,7:00 PM,
+12/18/23,Chicago,Philadelphia,7:00 PM,
+12/18/23,Detroit,Atlanta,7:30 PM,
+12/18/23,Minnesota,Miami,7:30 PM,
+12/18/23,Charlotte,Toronto,7:30 PM,
+12/18/23,Memphis,Oklahoma City,8:00 PM,
+12/18/23,Dallas,Denver,9:00 PM,NBA TV
+12/18/23,Brooklyn,Utah,9:00 PM,
+12/18/23,Washington,Sacramento,10:00 PM,
+12/18/23,New York,L.A. Lakers,10:30 PM,
+12/19/23,Memphis,New Orleans,7:30 PM,TNT
+12/19/23,San Antonio,Milwaukee,8:00 PM,
+12/19/23,Boston,Golden State,10:00 PM,TNT
+12/19/23,Phoenix,Portland,10:00 PM,
+12/20/23,Utah,Cleveland,7:00 PM,
+12/20/23,Charlotte,Indiana,7:00 PM,
+12/20/23,Miami,Orlando,7:00 PM,
+12/20/23,Minnesota,Philadelphia,7:00 PM NBA TV,
+12/20/23,New York,Brooklyn,7:30 PM,
+12/20/23,Denver,Toronto,7:30 PM,
+12/20/23,L.A. Lakers,Chicago,8:00 PM,
+12/20/23,Atlanta,Houston,8:00 PM,
+12/20/23,LA Clippers,Dallas,8:30 PM,
+12/20/23,Boston,Sacramento,10:00 PM NBA TV,
+12/21/23,Utah,Detroit,7:00 PM NBA TV,
+12/21/23,New Orleans,Cleveland,7:30 PM,
+12/21/23,San Antonio,Chicago,8:00 PM,
+12/21/23,Indiana,Memphis,8:00 PM,
+12/21/23,Orlando,Milwaukee,8:00 PM,
+12/21/23,LA Clippers,Oklahoma City,8:00 PM,
+12/21/23,L.A. Lakers,Minnesota,9:00 PM,
+12/21/23,Washington,Portland,10:00 PM NBA TV,
+12/22/23,Toronto,Philadelphia,7:00 PM,
+12/22/23,Denver,Brooklyn,7:30 PM NBA TV,
+12/22/23,Atlanta,Miami,8:00 PM,
+12/22/23,Dallas,Houston,8:00 PM,
+12/22/23,Washington,Golden State,10:00 PM,ESPN
+12/22/23,Phoenix,Sacramento,10:00 PM,
+12/23/23,Milwaukee,New York,12:30 PM NBA TV,
+12/23/23,Boston,LA Clippers,3:30 PM,
+12/23/23,Denver,Charlotte,7:00 PM,
+12/23/23,Orlando,Indiana,7:00 PM,
+12/23/23,Houston,New Orleans,7:00 PM,
+12/23/23,Memphis,Atlanta,7:30 PM,
+12/23/23,Detroit,Brooklyn,7:30 PM,
+12/23/23,Utah,Toronto,7:30 PM,
+12/23/23,Cleveland,Chicago,8:00 PM,
+12/23/23,L.A. Lakers,Oklahoma City,8:00 PM,
+12/23/23,San Antonio,Dallas,8:30 PM,
+12/23/23,Portland,Golden State,8:30 PM,
+12/23/23,Minnesota,Sacramento,10:00 PM,
+12/25/23,Milwaukee,New York,12:00 PM,ESPN
+12/25/23,Golden State,Denver,2:30 PM ABC/ESPN,
+12/25/23,Boston,L.A. Lakers,5:00 PM ABC/ESPN,
+12/25/23,Philadelphia,Miami,8:00 PM,ESPN
+12/25/23,Dallas,Phoenix,10:30 PM,ESPN
+12/26/23,Brooklyn,Detroit,7:00 PM,
+12/26/23,Orlando,Washington,7:00 PM,
+12/26/23,Atlanta,Chicago,8:00 PM,
+12/26/23,Indiana,Houston,8:00 PM NBA TV,
+12/26/23,Memphis,New Orleans,8:00 PM,
+12/26/23,Minnesota,Oklahoma City,8:00 PM,
+12/26/23,Utah,San Antonio,8:00 PM,
+12/26/23,Sacramento,Portland,10:00 PM,
+12/26/23,Charlotte,LA Clippers,10:30 PM NBA TV,
+12/27/23,Philadelphia,Orlando,7:00 PM,
+12/27/23,Toronto,Washington,7:00 PM NBA TV,
+12/27/23,Milwaukee,Brooklyn,7:30 PM,
+12/27/23,Phoenix,Houston,8:00 PM,
+12/27/23,New York,Oklahoma City,8:00 PM,
+12/27/23,Cleveland,Dallas,8:30 PM,
+12/28/23,Detroit,Boston,7:30 PM,NBA TV
+12/28/23,Indiana,Chicago,8:00 PM,
+12/28/23,Dallas,Minnesota,8:00 PM,
+12/28/23,Utah,New Orleans,8:00 PM,
+12/28/23,Memphis,Denver,9:00 PM,
+12/28/23,Miami,Golden State,10:00 PM,NBA TV
+12/28/23,San Antonio,Portland,10:00 PM,
+12/28/23,Charlotte,L.A. Lakers,10:30 PM,
+12/29/23,New York,Orlando,7:00 PM,
+12/29/23,Brooklyn,Washington,7:00 PM,
+12/29/23,Sacramento,Atlanta,7:30 PM,
+12/29/23,Toronto,Boston,7:30 PM,
+12/29/23,Milwaukee,Cleveland,7:30 PM,NBA TV
+12/29/23,Philadelphia,Houston,8:00 PM,
+12/29/23,Oklahoma City,Denver,9:00 PM,
+12/29/23,Charlotte,Phoenix,9:00 PM,
+12/29/23,San Antonio,Portland,10:00 PM,
+12/29/23,Memphis,LA Clippers,10:30 PM,NBA TV
+12/30/23,Miami,Utah,5:00 PM,
+12/30/23,Toronto,Detroit,6:00 PM,
+12/30/23,New York,Indiana,7:00 PM,
+12/30/23,Philadelphia,Chicago,8:00 PM,
+12/30/23,L.A. Lakers,Minnesota,8:00 PM,
+12/30/23,Dallas,Golden State,8:30 PM,
+12/31/23,Atlanta,Washington,3:00 PM,
+12/31/23,L.A. Lakers,New Orleans,7:00 PM,
+12/31/23,Brooklyn,Oklahoma City,7:00 PM,
+12/31/23,Boston,San Antonio,7:00 PM,
+12/31/23,Sacramento,Memphis,8:00 PM,
+12/31/23,Orlando,Phoenix,8:00 PM,
+1/1/24,Minnesota,New York,3:00 PM,NBA TV
+1/1/24,Cleveland,Toronto,7:30 PM,
+1/1/24,Detroit,Houston,8:00 PM,
+1/1/24,Indiana,Milwaukee,8:00 PM,
+1/1/24,Charlotte,Denver,9:00 PM,
+1/1/24,Portland,Phoenix,9:00 PM,
+1/1/24,Dallas,Utah,9:00 PM,
+1/1/24,Miami,LA Clippers,10:30 PM,
+1/2/24,Chicago,Philadelphia,7:00 PM,NBA TV
+1/2/24,San Antonio,Memphis,8:00 PM,
+1/2/24,Brooklyn,New Orleans,8:00 PM,
+1/2/24,Boston,Oklahoma City,8:00 PM,
+1/2/24,Orlando,Golden State,10:00 PM,NBA TV
+1/2/24,Charlotte,Sacramento,10:00 PM,
+1/3/24,Washington,Cleveland,7:00 PM,
+1/3/24,Milwaukee,Indiana,7:00 PM,
+1/3/24,Oklahoma City,Atlanta,7:30 PM,
+1/3/24,Chicago,New York,7:30 PM,ESPN
+1/3/24,Brooklyn,Houston,8:00 PM,
+1/3/24,Toronto,Memphis,8:00 PM,
+1/3/24,New Orleans,Minnesota,8:00 PM,
+1/3/24,Portland,Dallas,8:30 PM,
+1/3/24,LA Clippers,Phoenix,9:00 PM,
+1/3/24,Detroit,Utah,9:00 PM,
+1/3/24,Miami,L.A. Lakers,10:00 PM,ESPN
+1/3/24,Orlando,Sacramento,10:00 PM,
+1/4/24,Milwaukee,San Antonio,7:30 PM,TNT
+1/4/24,Denver,Golden State,10:00 PM,TNT
+1/5/24,Utah,Boston,7:00 PM,
+1/5/24,Atlanta,Indiana,7:00 PM,
+1/5/24,Oklahoma City,Brooklyn,7:30 PM,
+1/5/24,Washington,Cleveland,7:30 PM,
+1/5/24,New York,Philadelphia,7:30 PM,ESPN
+1/5/24,Charlotte,Chicago,8:00 PM,
+1/5/24,Minnesota,Houston,8:00 PM,
+1/5/24,LA Clippers,New Orleans,8:00 PM,
+1/5/24,Portland,Dallas,8:30 PM,
+1/5/24,Orlando,Denver,9:00 PM,
+1/5/24,Miami,Phoenix,9:00 PM,
+1/5/24,Detroit,Golden State,10:00 PM,
+1/5/24,Memphis,L.A. Lakers,10:00 PM,ESPN
+1/5/24,Toronto,Sacramento,10:00 PM,
+1/6/24,Boston,Indiana,7:00 PM,
+1/6/24,New York,Washington,7:00 PM,
+1/6/24,Utah,Philadelphia,7:30 PM,
+1/6/24,Milwaukee,Houston,8:00 PM,
+1/7/24,San Antonio,Cleveland,1:00 PM,
+1/7/24,Portland,Brooklyn,3:00 PM,
+1/7/24,Atlanta,Orlando,6:00 PM,
+1/7/24,New Orleans,Sacramento,6:00 PM,
+1/7/24,Minnesota,Dallas,7:30 PM,
+1/7/24,Detroit,Denver,8:00 PM,
+1/7/24,Memphis,Phoenix,8:00 PM,
+1/7/24,Toronto,Golden State,8:30 PM,
+1/7/24,LA Clippers,L.A. Lakers,9:30 PM,
+1/8/24,Chicago,Charlotte,7:00 PM,
+1/8/24,Boston,Indiana,7:00 PM,
+1/8/24,Oklahoma City,Washington,7:00 PM,
+1/8/24,Houston,Miami,7:30 PM,
+1/8/24,Utah,Milwaukee,8:00 PM,
+1/8/24,Phoenix,LA Clippers,10:30 PM,NBA TV
+1/9/24,Sacramento,Detroit,7:00 PM,
+1/9/24,Minnesota,Orlando,7:00 PM,
+1/9/24,Portland,New York,7:30 PM,
+1/9/24,Memphis,Dallas,8:30 PM,NBA TV
+1/9/24,Toronto,L.A. Lakers,10:30 PM,
+1/10/24,Minnesota,Boston,7:00 PM,
+1/10/24,Sacramento,Charlotte,7:00 PM,
+1/10/24,San Antonio,Detroit,7:00 PM,
+1/10/24,Washington,Indiana,7:00 PM,
+1/10/24,Philadelphia,Atlanta,7:30 PM,ESPN
+1/10/24,Oklahoma City,Miami,7:30 PM,
+1/10/24,Houston,Chicago,8:00 PM,
+1/10/24,Denver,Utah,9:00 PM,
+1/10/24,New Orleans,Golden State,10:00 PM,ESPN
+1/10/24,Toronto,LA Clippers,10:30 PM,
+1/11/24,Brooklyn,Cleveland,2:00 PM,NBA TV
+1/11/24,Boston,Milwaukee,7:30 PM,TNT
+1/11/24,Portland,Oklahoma City,8:00 PM,
+1/11/24,New York,Dallas,8:30 PM,
+1/11/24,Phoenix,L.A. Lakers,10:00 PM,TNT
+1/12/24,Sacramento,Philadelphia,7:00 PM,
+1/12/24,Indiana,Atlanta,7:30 PM,
+1/12/24,Houston,Detroit,7:30 PM,ESPN
+1/12/24,Orlando,Miami,8:00 PM,
+1/12/24,Golden State,Chicago,8:00 PM,
+1/12/24,LA Clippers,Memphis,8:00 PM,
+1/12/24,Portland,Minnesota,8:00 PM,
+1/12/24,New Orleans,Denver,9:00 PM,
+1/12/24,Toronto,Utah,9:30 PM,
+1/12/24,Charlotte,San Antonio,10:00 PM,ESPN
+1/13/24,Houston,Boston,7:00 PM,
+1/13/24,Washington,Atlanta,7:30 PM,
+1/13/24,New York,Memphis,8:00 PM,
+1/13/24,Golden State,Milwaukee,8:00 PM,NBA TV
+1/13/24,Orlando,Oklahoma City,8:00 PM,
+1/13/24,New Orleans,Dallas,8:30 PM,
+1/13/24,Chicago,San Antonio,8:30 PM,
+1/13/24,L.A. Lakers,Utah,9:30 PM,
+1/14/24,Indiana,Denver,3:30 PM,
+1/14/24,Charlotte,Miami,6:00 PM,
+1/14/24,Sacramento,Milwaukee,7:00 PM,
+1/14/24,LA Clippers,Minnesota,7:00 PM,
+1/14/24,Phoenix,Portland,9:00 PM,
+1/15/24,Houston,Philadelphia,1:00 PM,NBA TV
+1/15/24,New Orleans,Dallas,2:30 PM,
+1/15/24,Orlando,New York,3:00 PM,
+1/15/24,Detroit,Washington,3:00 PM,
+1/15/24,San Antonio,Atlanta,3:30 PM,TNT
+1/15/24,Golden State,Memphis,6:00 PM,TNT
+1/15/24,Chicago,Cleveland,7:00 PM,
+1/15/24,Miami,Brooklyn,7:30 PM,
+1/15/24,Boston,Toronto,7:30 PM,
+1/15/24,Indiana,Utah,9:00 PM,
+1/15/24,Oklahoma City,L.A. Lakers,10:30 PM,NBA TV
+1/16/24,Denver,Philadelphia,7:30 PM,TNT
+1/16/24,Sacramento,Phoenix,9:00 PM,
+1/16/24,Oklahoma City,LA Clippers,10:00 PM,TNT
+1/17/24,Minnesota,Detroit,7:00 PM,
+1/17/24,Orlando,Atlanta,7:30 PM,
+1/17/24,San Antonio,Boston,7:30 PM,
+1/17/24,Milwaukee,Cleveland,7:30 PM,ESPN
+1/17/24,Houston,New York,7:30 PM,
+1/17/24,Miami,Toronto,7:30 PM,
+1/17/24,Charlotte,New Orleans,8:00 PM,
+1/17/24,Golden State,Utah,9:00 PM,
+1/17/24,Dallas,L.A. Lakers,10:00 PM,ESPN
+1/17/24,Brooklyn,Portland,10:00 PM,
+1/18/24,Washington,New York,7:30 PM,
+1/18/24,Chicago,Toronto,7:30 PM,TNT
+1/18/24,Oklahoma City,Utah,9:00 PM,
+1/18/24,Memphis,Minnesota,10:00 PM,TNT
+1/18/24,Indiana,Sacramento,10:00 PM,
+1/19/24,San Antonio,Charlotte,7:00 PM,
+1/19/24,Philadelphia,Orlando,7:00 PM,
+1/19/24,Denver,Boston,7:30 PM,ESPN
+1/19/24,Atlanta,Miami,8:00 PM,
+1/19/24,Phoenix,New Orleans,8:00 PM,
+1/19/24,Dallas,Golden State,10:00 PM,ESPN
+1/19/24,Indiana,Portland,10:00 PM,
+1/19/24,Brooklyn,L.A. Lakers,10:30 PM,
+1/20/24,Milwaukee,Detroit,3:00 PM,
+1/20/24,Philadelphia,Charlotte,7:00 PM,
+1/20/24,San Antonio,Washington,7:00 PM,
+1/20/24,Cleveland,Atlanta,7:30 PM,
+1/20/24,Toronto,New York,7:30 PM,
+1/20/24,Memphis,Chicago,8:00 PM,
+1/20/24,Utah,Houston,8:00 PM,
+1/20/24,Oklahoma City,Minnesota,8:00 PM,
+1/21/24,Brooklyn,LA Clippers,3:30 PM,
+1/21/24,Miami,Orlando,6:00 PM,
+1/21/24,Denver,Washington,6:00 PM,
+1/21/24,Boston,Houston,7:00 PM,
+1/21/24,Indiana,Phoenix,8:00 PM,
+1/21/24,Portland,L.A. Lakers,10:00 PM,
+1/22/24,Milwaukee,Detroit,7:00 PM,
+1/22/24,Cleveland,Orlando,7:00 PM,
+1/22/24,San Antonio,Philadelphia,7:00 PM,NBA TV
+1/22/24,Memphis,Toronto,7:30 PM,
+1/22/24,Charlotte,Minnesota,8:00 PM,
+1/22/24,Boston,Dallas,8:30 PM,
+1/22/24,Chicago,Phoenix,9:00 PM,
+1/22/24,Atlanta,Sacramento,10:00 PM,NBA TV
+1/23/24,Denver,Indiana,7:00 PM,
+1/23/24,New York,Brooklyn,7:30 PM,TNT
+1/23/24,Utah,New Orleans,8:00 PM,
+1/23/24,Portland,Oklahoma City,8:00 PM,
+1/23/24,L.A. Lakers,LA Clippers,10:00 PM,TNT
+1/24/24,Charlotte,Detroit,7:00 PM,
+1/24/24,Minnesota,Washington,7:00 PM,
+1/24/24,Memphis,Miami,7:30 PM,
+1/24/24,Oklahoma City,San Antonio,7:30 PM,ESPN
+1/24/24,Portland,Houston,8:00 PM,
+1/24/24,Cleveland,Milwaukee,8:00 PM,
+1/24/24,Phoenix,Dallas,10:00 PM,ESPN
+1/24/24,Atlanta,Golden State,10:00 PM,
+1/25/24,Philadelphia,Indiana,7:00 PM,
+1/25/24,Utah,Washington,7:00 PM,
+1/25/24,Minnesota,Brooklyn,7:30 PM,
+1/25/24,Boston,Miami,7:30 PM,TNT
+1/25/24,Denver,New York,7:30 PM,
+1/25/24,Sacramento,Golden State,10:00 PM,TNT
+1/25/24,Chicago,L.A. Lakers,10:30 PM,
+1/26/24,Dallas,Atlanta,7:00 PM,NBA TV
+1/26/24,Houston,Charlotte,7:00 PM,
+1/26/24,Phoenix,Indiana,7:00 PM,
+1/26/24,LA Clippers,Toronto,7:30 PM,
+1/26/24,Orlando,Memphis,8:00 PM,
+1/26/24,Cleveland,Milwaukee,8:00 PM,
+1/26/24,Oklahoma City,New Orleans,8:00 PM,
+1/26/24,Portland,San Antonio,9:30 PM,NBA TV
+1/27/24,Washington,Detroit,12:00 PM,
+1/27/24,Miami,New York,3:00 PM,ABC
+1/27/24,Philadelphia,Denver,5:30 PM,ABC
+1/27/24,Houston,Brooklyn,6:00 PM,
+1/27/24,LA Clippers,Boston,7:00 PM,
+1/27/24,Utah,Charlotte,7:00 PM,
+1/27/24,New Orleans,Milwaukee,8:00 PM,
+1/27/24,Minnesota,San Antonio,8:30 PM,
+1/27/24,L.A. Lakers,Golden State,8:30 PM,ABC
+1/27/24,Sacramento,Dallas,9:00 PM,
+1/28/24,Memphis,Indiana,3:30 PM,
+1/28/24,Toronto,Atlanta,6:00 PM,
+1/28/24,Oklahoma City,Detroit,6:00 PM,
+1/28/24,Phoenix,Orlando,6:00 PM,
+1/28/24,Chicago,Portland,9:00 PM,
+1/29/24,New York,Charlotte,7:00 PM,
+1/29/24,LA Clippers,Cleveland,7:00 PM,
+1/29/24,New Orleans,Boston,7:30 PM,
+1/29/24,Utah,Brooklyn,7:30 PM,
+1/29/24,Phoenix,Miami,7:30 PM,NBA TV
+1/29/24,L.A. Lakers,Houston,8:00 PM,
+1/29/24,Sacramento,Memphis,8:00 PM,
+1/29/24,Minnesota,Oklahoma City,8:00 PM,
+1/29/24,Washington,San Antonio,8:00 PM,
+1/29/24,Orlando,Dallas,8:30 PM,
+1/29/24,Milwaukee,Denver,9:00 PM,
+1/29/24,Philadelphia,Portland,10:00 PM,NBA TV
+1/30/24,L.A. Lakers,Atlanta,7:30 PM,
+1/30/24,Indiana,Boston,7:30 PM,TNT
+1/30/24,Utah,New York,7:30 PM,
+1/30/24,Toronto,Chicago,8:00 PM,
+1/30/24,Philadelphia,Golden State,10:00 PM,TNT
+1/31/24,Chicago,Charlotte,7:00 PM,
+1/31/24,Detroit,Cleveland,7:00 PM,
+1/31/24,LA Clippers,Washington,7:00 PM,
+1/31/24,Phoenix,Brooklyn,7:30 PM,ESPN
+1/31/24,Sacramento,Miami,7:30 PM,
+1/31/24,New Orleans,Houston,8:00 PM,
+1/31/24,Dallas,Minnesota,8:00 PM,
+1/31/24,Orlando,San Antonio,8:00 PM,
+1/31/24,Denver,Oklahoma City,10:00 PM,ESPN
+1/31/24,Milwaukee,Portland,10:00 PM,
+2/1/24,L.A. Lakers,Boston,7:30 PM,TNT
+2/1/24,Indiana,New York,7:30 PM,
+2/1/24,Philadelphia,Utah,9:00 PM,
+2/1/24,Cleveland,Memphis,10:00 PM,TNT
+2/2/24,LA Clippers,Detroit,7:00 PM,
+2/2/24,Miami,Washington,7:00 PM,
+2/2/24,Phoenix,Atlanta,7:30 PM,
+2/2/24,Sacramento,Indiana,7:30 PM,
+2/2/24,Toronto,Houston,8:00 PM,
+2/2/24,Golden State,Memphis,8:00 PM,NBA TV
+2/2/24,Orlando,Minnesota,8:00 PM,
+2/2/24,Charlotte,Oklahoma City,8:00 PM,
+2/2/24,New Orleans,San Antonio,8:00 PM,
+2/2/24,Portland,Denver,9:00 PM,
+2/3/24,Brooklyn,Philadelphia,6:00 PM,
+2/3/24,Golden State,Atlanta,7:30 PM,
+2/3/24,Sacramento,Chicago,8:00 PM,
+2/3/24,L.A. Lakers,New York,8:30 PM,ABC
+2/3/24,Milwaukee,Dallas,8:30 PM,
+2/3/24,Cleveland,San Antonio,8:30 PM,
+2/4/24,Orlando,Detroit,3:00 PM,
+2/4/24,Phoenix,Washington,3:30 PM,NBA TV
+2/4/24,Memphis,Boston,6:00 PM,ESPN
+2/4/24,Indiana,Charlotte,6:00 PM,
+2/4/24,LA Clippers,Miami,6:00 PM,
+2/4/24,Houston,Minnesota,7:00 PM,
+2/4/24,Toronto,Oklahoma City,7:00 PM,
+2/4/24,Milwaukee,Utah,8:00 PM,
+2/4/24,Portland,Denver,8:30 PM,NBA TV
+2/5/24,L.A. Lakers,Charlotte,7:00 PM,
+2/5/24,Sacramento,Cleveland,7:00 PM,
+2/5/24,Dallas,Philadelphia,7:00 PM,
+2/5/24,LA Clippers,Atlanta,7:30 PM,
+2/5/24,Golden State,Brooklyn,7:30 PM,NBA TV
+2/5/24,Toronto,New Orleans,8:00 PM,
+2/6/24,Houston,Indiana,7:00 PM,
+2/6/24,Dallas,Brooklyn,7:30 PM,TNT
+2/6/24,Orlando,Miami,7:30 PM,
+2/6/24,Memphis,New York,7:30 PM,
+2/6/24,Minnesota,Chicago,8:00 PM,
+2/6/24,Oklahoma City,Utah,9:00 PM,
+2/6/24,Milwaukee,Phoenix,10:00 PM,TNT
+2/7/24,Toronto,Charlotte,7:00 PM,
+2/7/24,Golden State,Philadelphia,7:00 PM,
+2/7/24,Cleveland,Washington,7:00 PM,
+2/7/24,Atlanta,Boston,7:30 PM,ESPN
+2/7/24,San Antonio,Miami,7:30 PM,
+2/7/24,New Orleans,LA Clippers,10:00 PM,ESPN
+2/7/24,Detroit,Sacramento,10:00 PM,
+2/8/24,Golden State,Indiana,7:00 PM,
+2/8/24,San Antonio,Orlando,7:00 PM,
+2/8/24,Cleveland,Brooklyn,7:30 PM,
+2/8/24,Dallas,New York,7:30 PM,TNT
+2/8/24,Chicago,Memphis,8:00 PM,
+2/8/24,Minnesota,Milwaukee,8:00 PM,
+2/8/24,Utah,Phoenix,9:00 PM,
+2/8/24,Denver,L.A. Lakers,10:00 PM,TNT
+2/8/24,Detroit,Portland,10:00 PM,
+2/9/24,Atlanta,Philadelphia,7:00 PM,NBA TV
+2/9/24,Washington,Boston,7:30 PM,
+2/9/24,Houston,Toronto,7:30 PM,
+2/9/24,Charlotte,Milwaukee,8:00 PM,
+2/9/24,Denver,Sacramento,10:00 PM,
+2/9/24,New Orleans,L.A. Lakers,10:30 PM,NBA TV
+2/10/24,Oklahoma City,Dallas,3:00 PM,NBA TV
+2/10/24,Detroit,LA Clippers,3:30 PM,
+2/10/24,San Antonio,Brooklyn,6:00 PM,
+2/10/24,Memphis,Charlotte,7:00 PM,
+2/10/24,Chicago,Orlando,7:00 PM,
+2/10/24,Philadelphia,Washington,7:00 PM,
+2/10/24,Houston,Atlanta,7:30 PM,
+2/10/24,Indiana,New York,7:30 PM,
+2/10/24,Cleveland,Toronto,7:30 PM,
+2/10/24,Phoenix,Golden State,8:30 PM,ABC
+2/10/24,New Orleans,Portland,10:00 PM,
+2/11/24,Boston,Miami,2:00 PM,ABC
+2/11/24,Sacramento,Oklahoma City,3:00 PM,
+2/12/24,Indiana,Charlotte,7:00 PM,
+2/12/24,Philadelphia,Cleveland,7:00 PM,
+2/12/24,Chicago,Atlanta,7:30 PM,
+2/12/24,San Antonio,Toronto,7:30 PM,
+2/12/24,New York,Houston,8:00 PM,
+2/12/24,New Orleans,Memphis,8:00 PM,
+2/12/24,Denver,Milwaukee,8:00 PM,
+2/12/24,Washington,Dallas,8:30 PM,
+2/12/24,Golden State,Utah,9:00 PM,NBA TV
+2/12/24,Minnesota,LA Clippers,10:30 PM,
+2/13/24,Boston,Brooklyn,7:30 PM,
+2/13/24,Oklahoma City,Orlando,7:30 PM,TNT
+2/13/24,Miami,Milwaukee,8:00 PM,
+2/13/24,Sacramento,Phoenix,10:00 PM,TNT
+2/13/24,Minnesota,Portland,10:00 PM,
+2/13/24,Detroit,L.A. Lakers,10:30 PM,
+2/14/24,Atlanta,Charlotte,7:00 PM,
+2/14/24,New York,Orlando,7:00 PM,
+2/14/24,Miami,Philadelphia,7:00 PM,
+2/14/24,Brooklyn,Boston,7:30 PM,
+2/14/24,Chicago,Cleveland,7:30 PM,ESPN
+2/14/24,Indiana,Toronto,7:30 PM,
+2/14/24,Houston,Memphis,8:00 PM,
+2/14/24,Washington,New Orleans,8:00 PM,
+2/14/24,San Antonio,Dallas,8:30 PM,
+2/14/24,Sacramento,Denver,9:00 PM,
+2/14/24,Detroit,Phoenix,9:00 PM,
+2/14/24,L.A. Lakers,Utah,9:00 PM,
+2/14/24,LA Clippers,Golden State,10:00 PM,ESPN
+2/15/24,Milwaukee,Memphis,8:30 PM,TNT
+2/15/24,Minnesota,Portland,10:00 PM,
+2/22/24,Orlando,Cleveland,7:00 PM,
+2/22/24,Detroit,Indiana,7:00 PM,
+2/22/24,New York,Philadelphia,7:00 PM,
+2/22/24,Brooklyn,Toronto,7:00 PM,
+2/22/24,Phoenix,Dallas,7:30 PM,TNT
+2/22/24,Boston,Chicago,8:00 PM,
+2/22/24,Houston,New Orleans,8:00 PM,
+2/22/24,LA Clippers,Oklahoma City,8:00 PM,
+2/22/24,Washington,Denver,9:00 PM,
+2/22/24,Charlotte,Utah,9:00 PM,
+2/22/24,L.A. Lakers,Golden State,10:00 PM,TNT
+2/22/24,San Antonio,Sacramento,10:00 PM,
+2/23/24,Toronto,Atlanta,7:30 PM,
+2/23/24,Cleveland,Philadelphia,7:30 PM,ESPN
+2/23/24,Phoenix,Houston,8:00 PM,
+2/23/24,LA Clippers,Memphis,8:00 PM,
+2/23/24,Milwaukee,Minnesota,8:00 PM,
+2/23/24,Washington,Oklahoma City,8:00 PM,
+2/23/24,Miami,New Orleans,10:00 PM,ESPN
+2/23/24,Charlotte,Golden State,10:00 PM,
+2/23/24,Denver,Portland,10:00 PM,
+2/23/24,San Antonio,L.A. Lakers,10:30 PM,
+2/24/24,Orlando,Detroit,8:00 PM,
+2/24/24,Brooklyn,Minnesota,8:00 PM,
+2/24/24,Boston,New York,8:30 PM,ABC
+2/25/24,Milwaukee,Philadelphia,1:00 PM,ABC
+2/25/24,L.A. Lakers,Phoenix,3:30 PM,ABC
+2/25/24,Dallas,Indiana,5:00 PM,
+2/25/24,Cleveland,Washington,6:00 PM,
+2/25/24,Orlando,Atlanta,7:00 PM,
+2/25/24,Oklahoma City,Houston,7:00 PM,
+2/25/24,Chicago,New Orleans,7:00 PM,
+2/25/24,Denver,Golden State,7:00 PM,ESPN
+2/25/24,San Antonio,Utah,8:00 PM,
+2/25/24,Charlotte,Portland,9:00 PM,
+2/25/24,Sacramento,LA Clippers,9:30 PM,ESPN
+2/26/24,New York,Detroit,7:00 PM,
+2/26/24,Toronto,Indiana,7:00 PM,NBA TV
+2/26/24,Brooklyn,Memphis,8:00 PM,
+2/26/24,Miami,Sacramento,10:00 PM,NBA TV
+2/27/24,Dallas,Cleveland,7:00 PM,
+2/27/24,Brooklyn,Orlando,7:00 PM,
+2/27/24,Golden State,Washington,7:00 PM,
+2/27/24,Utah,Atlanta,7:30 PM,
+2/27/24,Philadelphia,Boston,7:30 PM,TNT
+2/27/24,New Orleans,New York,7:30 PM,
+2/27/24,San Antonio,Minnesota,7:30 PM,
+2/27/24,Detroit,Chicago,8:00 PM,
+2/27/24,Charlotte,Milwaukee,8:00 PM,
+2/27/24,Houston,Oklahoma City,8:00 PM,
+2/27/24,Miami,Portland,10:00 PM,TNT
+2/28/24,New Orleans,Indiana,7:00 PM,
+2/28/24,Dallas,Toronto,7:30 PM,
+2/28/24,Memphis,Minnesota,7:30 PM,ESPN
+2/28/24,Cleveland,Chicago,8:00 PM,
+2/28/24,Sacramento,Denver,9:00 PM,
+2/28/24,L.A. Lakers,LA Clippers,10:00 PM,ESPN
+2/29/24,Milwaukee,Charlotte,7:00 PM,
+2/29/24,Utah,Orlando,7:00 PM,
+2/29/24,Atlanta,Brooklyn,7:30 PM,
+2/29/24,Golden State,New York,7:30 PM,TNT
+2/29/24,Oklahoma City,San Antonio,8:30 PM,
+2/29/24,Houston,Phoenix,9:00 PM,
+2/29/24,Miami,Denver,10:00 PM,TNT
+2/29/24,Washington,L.A. Lakers,10:30 PM,
+3/1/24,Cleveland,Detroit,7:00 PM,
+3/1/24,Charlotte,Philadelphia,7:00 PM,
+3/1/24,Dallas,Boston,7:30 PM,ESPN
+3/1/24,Golden State,Toronto,7:30 PM,
+3/1/24,Portland,Memphis,8:00 PM,
+3/1/24,Sacramento,Minnesota,8:00 PM,
+3/1/24,Indiana,New Orleans,8:00 PM,
+3/1/24,Milwaukee,Chicago,10:00 PM,ESPN
+3/1/24,Washington,LA Clippers,10:30 PM,
+3/2/24,Atlanta,Brooklyn,3:00 PM,
+3/2/24,Utah,Miami,5:00 PM,NBA TV
+3/2/24,Portland,Memphis,8:00 PM,
+3/2/24,Denver,L.A. Lakers,8:30 PM,ABC
+3/2/24,Houston,Phoenix,9:00 PM,
+3/3/24,Philadelphia,Dallas,1:00 PM,ABC
+3/3/24,Golden State,Boston,3:30 PM,ABC
+3/3/24,LA Clippers,Minnesota,3:30 PM,
+3/3/24,Detroit,Orlando,6:00 PM,
+3/3/24,Charlotte,Toronto,6:00 PM,
+3/3/24,New York,Cleveland,7:00 PM,ESPN
+3/3/24,Indiana,San Antonio,7:00 PM,
+3/3/24,Oklahoma City,Phoenix,9:30 PM,ESPN
+3/4/24,Memphis,Brooklyn,7:30 PM,
+3/4/24,LA Clippers,Milwaukee,8:00 PM,NBA TV
+3/4/24,Portland,Minnesota,8:00 PM,
+3/4/24,Washington,Utah,9:00 PM,
+3/4/24,Chicago,Sacramento,10:00 PM,
+3/4/24,Oklahoma City,L.A. Lakers,10:30 PM,NBA TV
+3/5/24,Orlando,Charlotte,7:00 PM,
+3/5/24,Boston,Cleveland,7:00 PM,
+3/5/24,Philadelphia,Brooklyn,7:30 PM,
+3/5/24,Detroit,Miami,7:30 PM,
+3/5/24,Atlanta,New York,7:30 PM,TNT
+3/5/24,New Orleans,Toronto,7:30 PM,
+3/5/24,San Antonio,Houston,8:00 PM,
+3/5/24,Indiana,Dallas,8:30 PM,
+3/5/24,Phoenix,Denver,10:00 PM,TNT
+3/6/24,Orlando,Washington,7:00 PM,
+3/6/24,Cleveland,Atlanta,7:30 PM,
+3/6/24,Memphis,Philadelphia,7:30 PM,ESPN
+3/6/24,LA Clippers,Houston,8:00 PM,
+3/6/24,Chicago,Utah,9:00 PM,
+3/6/24,Milwaukee,Golden State,10:00 PM,ESPN
+3/6/24,Oklahoma City,Portland,10:00 PM,
+3/6/24,Sacramento,L.A. Lakers,10:30 PM,
+3/7/24,Brooklyn,Detroit,7:00 PM,
+3/7/24,Minnesota,Indiana,7:00 PM,
+3/7/24,Miami,Dallas,7:30 PM,TNT
+3/7/24,Toronto,Phoenix,9:00 PM,
+3/7/24,Boston,Denver,10:00 PM,TNT
+3/7/24,Chicago,Golden State,10:00 PM,
+3/7/24,San Antonio,Sacramento,10:00 PM,
+3/8/24,New Orleans,Philadelphia,7:00 PM,
+3/8/24,Charlotte,Washington,7:00 PM,
+3/8/24,Minnesota,Cleveland,7:30 PM,
+3/8/24,Orlando,New York,7:30 PM,
+3/8/24,Atlanta,Memphis,7:30 PM,ESPN
+3/8/24,Miami,Oklahoma City,8:00 PM,
+3/8/24,Milwaukee,L.A. Lakers,10:00 PM,ESPN
+3/8/24,Houston,Portland,10:00 PM,
+3/9/24,Chicago,LA Clippers,4:00 PM,NBA TV
+3/9/24,Brooklyn,Charlotte,7:00 PM,
+3/9/24,Dallas,Detroit,7:00 PM,
+3/9/24,Boston,Phoenix,8:30 PM,ABC
+3/9/24,San Antonio,Golden State,8:30 PM,
+3/9/24,Utah,Denver,9:00 PM,
+3/9/24,Toronto,Portland,10:00 PM,
+3/10/24,Milwaukee,LA Clippers,3:00 PM,
+3/10/24,New Orleans,Atlanta,6:00 PM,
+3/10/24,Washington,Miami,6:00 PM,
+3/10/24,Philadelphia,New York,6:00 PM,
+3/10/24,Indiana,Orlando,6:00 PM,
+3/10/24,Houston,Sacramento,6:00 PM,
+3/10/24,Brooklyn,Cleveland,7:00 PM,ESPN
+3/10/24,Memphis,Oklahoma City,7:00 PM,
+3/10/24,Minnesota,L.A. Lakers,9:30 PM,ESPN
+3/11/24,Charlotte,Detroit,7:00 PM,
+3/11/24,Phoenix,Cleveland,7:30 PM,
+3/11/24,Dallas,Chicago,8:00 PM,
+3/11/24,Golden State,San Antonio,8:00 PM,NBA TV
+3/11/24,Toronto,Denver,9:00 PM,
+3/11/24,Boston,Portland,10:30 PM,NBA TV
+3/12/24,Philadelphia,New York,7:30 PM,TNT
+3/12/24,Washington,Memphis,8:00 PM,
+3/12/24,Indiana,Oklahoma City,8:00 PM,
+3/12/24,Houston,San Antonio,8:30 PM,
+3/12/24,Boston,Utah,9:00 PM,
+3/12/24,Minnesota,LA Clippers,10:00 PM,TNT
+3/12/24,Milwaukee,Sacramento,10:00 PM,
+3/13/24,Toronto,Detroit,7:00 PM,
+3/13/24,Brooklyn,Orlando,7:00 PM,
+3/13/24,Chicago,Indiana,7:30 PM,
+3/13/24,Denver,Miami,7:30 PM,ESPN
+3/13/24,Charlotte,Memphis,8:00 PM,
+3/13/24,Cleveland,New Orleans,8:00 PM,
+3/13/24,Golden State,Dallas,8:30 PM,
+3/13/24,Atlanta,Portland,10:00 PM,
+3/13/24,L.A. Lakers,Sacramento,10:00 PM,ESPN
+3/14/24,Phoenix,Boston,7:30 PM,TNT
+3/14/24,LA Clippers,Chicago,8:00 PM,
+3/14/24,Washington,Houston,8:00 PM,
+3/14/24,Philadelphia,Milwaukee,8:00 PM,
+3/14/24,Dallas,Oklahoma City,10:00 PM,TNT
+3/14/24,New York,Portland,10:00 PM,
+3/15/24,Phoenix,Charlotte,7:00 PM,NBA TV
+3/15/24,Miami,Detroit,7:00 PM,
+3/15/24,Orlando,Toronto,7:30 PM,
+3/15/24,LA Clippers,New Orleans,8:00 PM,
+3/15/24,Denver,San Antonio,8:30 PM,C
+3/15/24,Atlanta,Utah,9:30 PM,NBA TV
+3/16/24,Cleveland,Houston,5:00 PM,
+3/16/24,Brooklyn,Indiana,7:00 PM,
+3/16/24,Charlotte,Philadelphia,7:00 PM,
+3/16/24,Portland,New Orleans,7:00 PM,
+3/16/24,Washington,Chicago,8:00 PM,
+3/16/24,Oklahoma City,Memphis,8:00 PM,
+3/16/24,Golden State,L.A. Lakers,8:30 PM,ABC
+3/16/24,Minnesota,Utah,9:30 PM,
+3/16/24,New York,Sacramento,10:00 PM,
+3/17/24,Phoenix,Milwaukee,1:00 PM,ABC
+3/17/24,Miami,Detroit,3:00 PM,
+3/17/24,Denver,Dallas,3:30 PM,ABC
+3/17/24,Toronto,Orlando,6:00 PM,
+3/17/24,Boston,Washington,6:00 PM,
+3/17/24,Brooklyn,San Antonio,7:00 PM,NBA TV
+3/17/24,Atlanta,LA Clippers,9:30 PM,NBA TV
+3/18/24,Cleveland,Indiana,7:00 PM,
+3/18/24,Detroit,Boston,7:30 PM,
+3/18/24,Miami,Philadelphia,7:30 PM,ESPN
+3/18/24,Portland,Chicago,8:00 PM,
+3/18/24,Minnesota,Utah,9:00 PM,
+3/18/24,New York,Golden State,10:00 PM,ESPN
+3/18/24,Memphis,Sacramento,10:00 PM,
+3/18/24,Atlanta,L.A. Lakers,10:30 PM,
+3/19/24,Charlotte,Orlando,7:00 PM,
+3/19/24,Houston,Washington,7:00 PM,
+3/19/24,New Orleans,Brooklyn,7:30 PM,
+3/19/24,Dallas,San Antonio,8:00 PM,
+3/19/24,Denver,Minnesota,9:00 PM,NBA TV
+3/20/24,Miami,Cleveland,7:00 PM,
+3/20/24,Indiana,Detroit,7:00 PM,
+3/20/24,Milwaukee,Boston,7:30 PM,ESPN
+3/20/24,Sacramento,Toronto,7:30 PM,
+3/20/24,Utah,Oklahoma City,8:00 PM,
+3/20/24,Memphis,Golden State,10:00 PM,ESPN
+3/20/24,Philadelphia,Phoenix,10:00 PM,
+3/20/24,LA Clippers,Portland,10:00 PM,
+3/21/24,New Orleans,Orlando,7:00 PM,
+3/21/24,Sacramento,Washington,7:00 PM,
+3/21/24,Chicago,Houston,8:00 PM,
+3/21/24,Brooklyn,Milwaukee,8:00 PM,NBA TV
+3/21/24,Utah,Dallas,8:30 PM,
+3/21/24,New York,Denver,9:00 PM,
+3/21/24,Atlanta,Phoenix,10:30 PM,NBA TV
+3/22/24,Boston,Detroit,7:00 PM,
+3/22/24,Oklahoma City,Toronto,7:00 PM,
+3/22/24,New Orleans,Miami,8:00 PM,NBA TV
+3/22/24,Cleveland,Minnesota,8:00 PM,
+3/22/24,Memphis,San Antonio,8:00 PM,
+3/22/24,Indiana,Golden State,10:00 PM,
+3/22/24,LA Clippers,Portland,10:00 PM,
+3/22/24,Philadelphia,L.A. Lakers,10:30 PM,NBA TV
+3/23/24,Brooklyn,New York,1:00 PM,
+3/23/24,Sacramento,Orlando,7:00 PM,
+3/23/24,Charlotte,Atlanta,7:30 PM,
+3/23/24,Toronto,Washington,8:00 PM,
+3/23/24,Boston,Chicago,8:00 PM,
+3/23/24,Utah,Houston,8:00 PM,
+3/23/24,Phoenix,San Antonio,8:00 PM,NBA TV
+3/23/24,Denver,Portland,10:00 PM,
+3/24/24,New Orleans,Detroit,3:00 PM,
+3/24/24,Philadelphia,LA Clippers,3:30 PM,
+3/24/24,Cleveland,Miami,6:00 PM,
+3/24/24,Oklahoma City,Milwaukee,7:00 PM,NBA TV
+3/24/24,Golden State,Minnesota,7:00 PM,
+3/24/24,Indiana,L.A. Lakers,10:00 PM,NBA TV
+3/25/24,Charlotte,Cleveland,7:00 PM,
+3/25/24,Boston,Atlanta,7:30 PM,NBA TV
+3/25/24,Detroit,New York,7:30 PM,
+3/25/24,Brooklyn,Toronto,7:30 PM,
+3/25/24,Washington,Chicago,8:00 PM,
+3/25/24,Portland,Houston,8:00 PM,
+3/25/24,Phoenix,San Antonio,8:00 PM,
+3/25/24,Memphis,Denver,9:00 PM,
+3/25/24,Dallas,Utah,9:00 PM,
+3/25/24,Philadelphia,Sacramento,10:00 PM,NBA TV
+3/25/24,Indiana,LA Clippers,10:30 PM,
+3/26/24,Golden State,Miami,7:30 PM,
+3/26/24,L.A. Lakers,Milwaukee,7:30 PM,TNT
+3/26/24,Oklahoma City,New Orleans,8:00 PM,
+3/26/24,Dallas,Sacramento,10:00 PM,TNT
+3/27/24,Cleveland,Charlotte,7:00 PM,
+3/27/24,Golden State,Orlando,7:00 PM,
+3/27/24,Brooklyn,Washington,7:00 PM,
+3/27/24,Portland,Atlanta,7:30 PM,
+3/27/24,LA Clippers,Philadelphia,7:30 PM,ESPN
+3/27/24,New York,Toronto,7:30 PM,
+3/27/24,Indiana,Chicago,8:00 PM,
+3/27/24,L.A. Lakers,Memphis,8:00 PM,
+3/27/24,Detroit,Minnesota,8:00 PM,
+3/27/24,Houston,Oklahoma City,8:00 PM,
+3/27/24,San Antonio,Utah,9:00 PM,
+3/27/24,Phoenix,Denver,10:00 PM,ESPN
+3/28/24,Boston,Atlanta,7:30 PM,
+3/28/24,Milwaukee,New Orleans,8:00 PM,NBA TV
+3/29/24,Golden State,Charlotte,7:00 PM,
+3/29/24,L.A. Lakers,Indiana,7:00 PM,
+3/29/24,LA Clippers,Orlando,7:00 PM,
+3/29/24,Detroit,Washington,7:00 PM,
+3/29/24,Chicago,Brooklyn,7:30 PM,
+3/29/24,Philadelphia,Cleveland,7:30 PM,NBA TV
+3/29/24,Portland,Miami,8:00 PM,
+3/29/24,Phoenix,Oklahoma City,8:00 PM,
+3/29/24,New York,San Antonio,8:00 PM,
+3/29/24,Minnesota,Denver,9:00 PM,
+3/29/24,Houston,Utah,9:30 PM,
+3/29/24,Dallas,Sacramento,10:00 PM,NBA TV
+3/30/24,Boston,New Orleans,5:00 PM,NBA TV
+3/30/24,Memphis,Orlando,7:00 PM,
+3/30/24,Milwaukee,Atlanta,7:30 PM,NBA TV
+3/31/24,Cleveland,Denver,3:30 PM,NBA TV
+3/31/24,L.A. Lakers,Brooklyn,6:00 PM,
+3/31/24,LA Clippers,Charlotte,6:00 PM,
+3/31/24,Philadelphia,Toronto,6:00 PM,
+3/31/24,Miami,Washington,6:00 PM,
+3/31/24,Oklahoma City,New York,7:00 PM,
+3/31/24,Dallas,Houston,7:00 PM,
+3/31/24,Chicago,Minnesota,7:00 PM,
+3/31/24,Golden State,San Antonio,7:00 PM,NBA TV
+3/31/24,Utah,Sacramento,9:00 PM,
+4/1/24,Boston,Charlotte,7:00 PM,NBA TV
+4/1/24,Memphis,Detroit,7:00 PM,
+4/1/24,Brooklyn,Indiana,7:00 PM,
+4/1/24,Portland,Orlando,7:00 PM,
+4/1/24,Atlanta,Chicago,8:00 PM,
+4/1/24,Phoenix,New Orleans,8:00 PM,
+4/2/24,Oklahoma City,Philadelphia,7:00 PM,
+4/2/24,L.A. Lakers,Toronto,7:00 PM,
+4/2/24,Milwaukee,Washington,7:00 PM,
+4/2/24,New York,Miami,7:30 PM,
+4/2/24,Golden State,Dallas,7:30 PM,TNT
+4/2/24,Houston,Minnesota,8:00 PM,
+4/2/24,San Antonio,Denver,9:00 PM,
+4/2/24,Cleveland,Utah,9:00 PM,
+4/2/24,LA Clippers,Sacramento,10:00 PM,TNT
+4/3/24,Portland,Charlotte,7:00 PM,
+4/3/24,L.A. Lakers,Washington,7:00 PM,
+4/3/24,Detroit,Atlanta,7:30 PM,
+4/3/24,Oklahoma City,Boston,7:30 PM,
+4/3/24,Indiana,Brooklyn,7:30 PM,
+4/3/24,Memphis,Milwaukee,7:30 PM,ESPN
+4/3/24,Toronto,Minnesota,8:00 PM,
+4/3/24,Orlando,New Orleans,8:00 PM,
+4/3/24,Cleveland,Phoenix,10:00 PM,ESPN
+4/4/24,Philadelphia,Miami,7:30 PM,TNT
+4/4/24,Sacramento,New York,7:30 PM,
+4/4/24,Golden State,Houston,8:00 PM,
+4/4/24,Denver,LA Clippers,10:00 PM,TNT
+4/5/24,Orlando,Charlotte,7:00 PM,
+4/5/24,Oklahoma City,Indiana,7:00 PM,
+4/5/24,Portland,Washington,7:00 PM,
+4/5/24,Sacramento,Boston,7:30 PM,NBA TV
+4/5/24,New York,Chicago,8:00 PM,
+4/5/24,Miami,Houston,8:00 PM,
+4/5/24,Detroit,Memphis,8:00 PM,
+4/5/24,Toronto,Milwaukee,8:00 PM,
+4/5/24,San Antonio,New Orleans,8:00 PM,
+4/5/24,Atlanta,Dallas,8:30 PM,
+4/5/24,Minnesota,Phoenix,10:00 PM,NBA TV
+4/5/24,Utah,LA Clippers,10:30 PM,
+4/6/24,Cleveland,L.A. Lakers,3:30 PM,
+4/6/24,Detroit,Brooklyn,7:00 PM,
+4/6/24,Philadelphia,Memphis,8:00 PM,
+4/6/24,Atlanta,Denver,9:00 PM,
+4/7/24,Houston,Dallas,3:30 PM,NBA TV
+4/7/24,Cleveland,LA Clippers,3:30 PM,
+4/7/24,Miami,Indiana,5:00 PM,
+4/7/24,Portland,Boston,6:00 PM,
+4/7/24,Oklahoma City,Charlotte,6:00 PM,
+4/7/24,Chicago,Orlando,6:00 PM,
+4/7/24,Washington,Toronto,6:00 PM,
+4/7/24,New Orleans,Phoenix,6:00 PM,
+4/7/24,New York,Milwaukee,7:00 PM,NBA TV
+4/7/24,Philadelphia,San Antonio,7:00 PM,
+4/7/24,Sacramento,Brooklyn,7:30 PM,
+4/7/24,Utah,Golden State,8:30 PM,
+4/7/24,Minnesota,L.A. Lakers,10:00 PM,NBA TV
+4/9/24,Dallas,Charlotte,7:00 PM,
+4/9/24,Detroit,Philadelphia,7:00 PM,
+4/9/24,Indiana,Toronto,7:00 PM,
+4/9/24,Miami,Atlanta,7:30 PM,
+4/9/24,Boston,Milwaukee,7:30 PM,TNT
+4/9/24,New York,Chicago,8:00 PM,
+4/9/24,Orlando,Houston,8:00 PM,
+4/9/24,San Antonio,Memphis,8:00 PM,
+4/9/24,Washington,Minnesota,8:00 PM,
+4/9/24,Sacramento,Oklahoma City,8:00 PM,
+4/9/24,Denver,Utah,9:00 PM,
+4/9/24,Golden State,L.A. Lakers,10:00 PM,TNT
+4/9/24,LA Clippers,Phoenix,10:00 PM,
+4/9/24,New Orleans,Portland,10:00 PM,
+4/10/24,Memphis,Cleveland,7:00 PM,
+4/10/24,Charlotte,Atlanta,7:30 PM,
+4/10/24,Toronto,Brooklyn,7:30 PM,
+4/10/24,Dallas,Miami,7:30 PM,ESPN
+4/10/24,Orlando,Milwaukee,8:00 PM,
+4/10/24,San Antonio,Oklahoma City,8:00 PM,
+4/10/24,Minnesota,Denver,10:00 PM,ESPN
+4/10/24,Phoenix,LA Clippers,10:30 PM,
+4/11/24,Chicago,Detroit,7:00 PM,
+4/11/24,New York,Boston,7:30 PM,TNT
+4/11/24,Houston,Utah,9:00 PM,
+4/11/24,Golden State,Portland,10:00 PM,
+4/11/24,New Orleans,Sacramento,10:00 PM,TNT
+4/12/24,Orlando,Philadelphia,7:00 PM,
+4/12/24,Chicago,Washington,7:00 PM,
+4/12/24,Charlotte,Boston,7:30 PM,
+4/12/24,Indiana,Cleveland,7:30 PM,
+4/12/24,Brooklyn,New York,7:30 PM,
+4/12/24,Toronto,Miami,8:00 PM,
+4/12/24,L.A. Lakers,Memphis,8:00 PM,NBA TV
+4/12/24,Atlanta,Minnesota,8:00 PM,
+4/12/24,Milwaukee,Oklahoma City,8:00 PM,
+4/12/24,Denver,San Antonio,8:00 PM,
+4/12/24,Detroit,Dallas,8:30 PM,
+4/12/24,New Orleans,Golden State,10:00 PM,
+4/12/24,Houston,Portland,10:00 PM,
+4/12/24,Utah,LA Clippers,10:30 PM,
+4/12/24,Phoenix,Sacramento,10:30 PM,NBA TV
+4/14/24,Washington,Boston,1:00 PM,
+4/14/24,Charlotte,Cleveland,1:00 PM,
+4/14/24,Atlanta,Indiana,1:00 PM,
+4/14/24,Toronto,Miami,1:00 PM,
+4/14/24,Chicago,New York,1:00 PM,
+4/14/24,Milwaukee,Orlando,1:00 PM,
+4/14/24,Brooklyn,Philadelphia,1:00 PM,
+4/14/24,Denver,Memphis,3:30 PM,
+4/14/24,Phoenix,Minnesota,3:30 PM,
+4/14/24,L.A. Lakers,New Orleans,3:30 PM,
+4/14/24,Dallas,Oklahoma City,3:30 PM,
+4/14/24,Detroit,San Antonio,3:30 PM,
+4/14/24,Utah,Golden State,3:30 PM,
+4/14/24,Houston,LA Clippers,3:30 PM,
+4/14/24,Portland,Sacramento,3:30 PM,
