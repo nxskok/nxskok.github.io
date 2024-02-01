@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-02-01 10:30: My solutions to [Assignment 2](a2_d29_2024.html).
+
 - 2024-01-29 13:20: Monday update:
   - Tutorial on zoom this afternoon at 4 (link in Quercus announcement)
   - Assignments: #2 was due yesterday; #3 opens tonight. I will let you know when #1 is graded.

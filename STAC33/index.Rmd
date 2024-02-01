@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-01 10:30: My solutions to [Assignment 2](a2_c33_2024.html).
+
 - 2024-01-29 13:15: Monday update:
   - Assignment 1 has been graded (see below for appeal procedure)
   - Assignment 2 was due last night and is open (with late penalty) until Tuesday night
