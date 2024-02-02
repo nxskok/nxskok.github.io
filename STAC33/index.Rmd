@@ -15,6 +15,7 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-02 12:45: [Worksheet 4](worksheet_4_c33.html), for tutorial on Monday.
 
 - 2024-02-01 10:30: My solutions to [Assignment 2](a2_c33_2024.html).
 - 2024-01-30 13:45: I was sure I had posted [my solutions to assignment 1](a1-c33-2024.html), but they seemed to have disappeared. Click the link just above to see them.
