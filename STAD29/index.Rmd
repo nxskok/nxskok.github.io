@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-02-05 11:30: Monday update:
+  - Assignments: #1 is marked, appeals by usual procedure between Feb 8 and 15; #2 is being marked; #3 was due yesterday; #4 opens tonight.
+  - Tutorial on zoom this afternoon as usual (usual link)
+  - Lecture this week: survival analysis. (I'll decide whether I want to do any more of the dates and times stuff, but I think we have all we need of that.) Content warning on the survival analysis: often the data is on people that will die of something (often cancer), and we will be investigating treatments that will help them live longer, but some of them will die of whatever-it-is. I think that will take up our two hours this week.
+
 - 2024-02-01 10:30: My solutions to [Assignment 2](a2_d29_2024.html).
 
 - 2024-01-29 13:20: Monday update:
