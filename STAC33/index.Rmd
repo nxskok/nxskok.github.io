@@ -15,9 +15,10 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-05 15:15: assignment planning: there will be no assignments due during reading week or the weekend of the midterm. That means you'll get two weeks to do each of Assignment 5 (due the Sunday night at the end of reading week) and Assignment 6 (due March 10). The eighth and final assignment will be due on March 24, so you'll get a break at the end of the course.
 - 2024-02-05 11:45: Monday update:
   - Tutorials happening today as usual; see the note three days ago for the worksheet.
-  - Assignments: there will be a delay in marking assignment #2 (which is my fault), but I have graders for #2 and #3. #3 was due yesterday, but remains open until Tuesday with late penalty. #4 opens tonight.
+  - Assignments: there will be a delay in marking assignment #2 (which is my fault), but I now have graders for #2 and #3. #3 was due yesterday, but remains open until Tuesday with late penalty. #4 opens tonight.
   - Lectures: 
     - Tuesday: the rest of the bootstrap stuff, including the code that we skipped last week.
     - Thursday: power of hypothesis tests. In with both of those is a procedure for how you might do simulations in general. My take is that statistical theory will only take you so far; you will run into places where the math is beyond you and simulation is the only way to understand what is happening.
