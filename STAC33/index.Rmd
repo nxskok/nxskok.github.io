@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-06 11:30: On assignment 4, question 2, I was a little bit eager on the delete key! I just put back the actual question and the link to the data file, so that you now know what you were supposed to be doing. Re-download the questions from Quercus if you need to.
+
 - 2024-02-05 15:15: assignment planning: there will be no assignments due during reading week or the weekend of the midterm. That means you'll get two weeks to do each of Assignment 5 (due the Sunday night at the end of reading week) and Assignment 6 (due March 10). The eighth and final assignment will be due on March 24, so you'll get a break at the end of the course.
 - 2024-02-05 11:45: Monday update:
   - Tutorials happening today as usual; see the note three days ago for the worksheet.
