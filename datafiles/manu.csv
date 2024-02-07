@@ -1,0 +1,30 @@
+number,name,nationality,date_of_birth,age,country_of_birth,place_of_birth,position,height,weight,foot
+1,David de Gea Quintana,Spain,7 November 1990,29,Spain,Madrid,Goalkeeper,192 cm,76 kg,Right
+13,Lee Grant,England,27 January 1983,36,England,Hemel Hempstead,Goalkeeper,193 cm,83 kg,Right
+22,Sergio Germán Romero,Argentina,22 February 1987,32,Argentina,Bernardo de Irigoyen,Goalkeeper,192 cm,87 kg,Right
+2,Victor Nilsson Lindelöf,Sweden,17 July 1994,25,Sweden,Västerås,Defender,187 cm,80 kg,Right
+3,Eric Bertrand  Bailly,Côte d'Ivoire,12 April 1994,25,Côte d'Ivoire,Bingerville,Defender,187 cm,77 kg,Right
+4,Phil Jones,England,21 February 1992,27,England,Preston,Defender,180 cm,71 kg,Right
+5,Harry Maguire,England,5 March 1993,26,England,Sheffield,Defender,194 cm,100 kg,Right
+16,Faustino Marcos Alberto Rojo,Argentina,20 March 1990,29,Argentina,La Plata,Defender,187 cm,85 kg,Left
+18,Ashley Young,England,9 July 1985,34,England,Stevenage,Defender,175 cm,65 kg,Both
+20,José Diogo Dalot Teixeira,Portugal,18 March 1999,20,Portugal,Braga,Defender,183 cm,76 kg,Right
+23,Luke Shaw,England,12 July 1995,24,England,Kingston upon Thames,Defender,185 cm,75 kg,Left
+24,Timothy Evans Fosu-Mensah,Netherlands,2 January 1998,21,Netherlands,Amsterdam,Defender,190 cm,78 kg,Right
+29,Aaron Wan-Bissaka,England,26 November 1997,22,England,London,Defender,183 cm,72 kg,Right
+38,Axel Tuanzebe,England,14 November 1997,22,Congo DR,Bunia,Defender,182 cm,75 kg,Right
+53,Brandon Williams,England,3 September 2000,19,England,NA,Defender,171 cm,63 kg,NA
+6,Paul Pogba,France,15 March 1993,26,France,Langny-sur-Marne,Midfielder,191 cm,84 kg,Both
+8,Juan Manuel Mata García,Spain,28 April 1988,31,Spain,Burgos,Midfielder,170 cm,63 kg,Left
+14,Jesse Lingard,England,15 December 1992,26,England,Warrington,Midfielder,175 cm,62 kg,Right
+15,Andreas Hoelgebaum Pereira,Brazil,1 January 1996,23,Belgium,Duffel,Midfielder,178 cm,71 kg,Right
+17,Frederico Rodrigues Santos,Brazil,5 March 1993,26,Brazil,Belo Horizonte,Midfielder,169 cm,64 kg,Left
+21,Daniel James,Wales,10 November 1997,22,England,Kingston upon Hull,Midfielder,170 cm,76 kg,Right
+28,Angel Gomes,England,31 August 2000,19,England,London,Midfielder,161 cm,61 kg,Right
+31,Nemanja Matić,Serbia,1 August 1988,31,Serbia,Šabac,Midfielder,194 cm,85 kg,Left
+37,James Garner,England,13 March 2001,18,England,Birkenhead,Midfielder,182 cm,NA,Right
+39,Scott McTominay,Scotland,8 December 1996,23,England,Lancaster,Midfielder,193 cm,88 kg,Right
+9,Anthony Martial,France,5 December 1995,24,France,Massy,Attacker,181 cm,76 kg,Right
+10,Marcus Rashford,England,31 October 1997,22,England,Manchester,Attacker,180 cm,70 kg,Right
+26,Mason Greenwood,England,1 October 2001,18,England,NA,Attacker,181 cm,70 kg,Left
+44,Tahith Chong,Netherlands,4 December 1999,20,Curaçao,Willemstad,Attacker,185 cm,NA,Left
