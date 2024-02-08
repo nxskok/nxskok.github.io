@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-02-08 10:50: my solutions to [assignment 3](a3_d29_2024.html).S
+
 - 2024-02-05 15:15: assignment planning: there will be no assignments due during reading week or the weekend of the midterm. That means you'll get two weeks to do each of Assignment 5 (due the Sunday night at the end of reading week) and Assignment 6 (due March 10). The eighth and final assignment will be due on March 24, so you'll get a break at the end of the course.
 - 2024-02-05 11:30: Monday update:
   - Assignments: #1 is marked, appeals by usual procedure between Feb 8 and 15; #2 is being marked; #3 was due yesterday; #4 opens tonight.
