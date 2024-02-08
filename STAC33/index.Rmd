@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-08 12:00: [Worksheet 5](worksheet_5_c33.html) for Monday's tutorial.
+
 - 2024-02-08 10:50: my solutions to [Assignment 3](a3_c33_2024.html).
 
 - 2024-02-06 11:30: On assignment 4, question 2, I was a little bit eager on the delete key! I just put back the actual question and the link to the data file, so that you now know what you were supposed to be doing. Re-download the questions from Quercus if you need to.
