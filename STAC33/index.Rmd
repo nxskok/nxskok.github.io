@@ -16,6 +16,20 @@ In this course, we learn R, and how to use this software for data organization a
 ## News (most recent at the top)
 
 - 2024-02-12 10:50: Monday update:
+  - tutorials today; the [worksheet](worksheet_5_c33.html).
+  - assignments: 
+    - Assignment 2 is graded; I will release the marks shortly. Appeals by the same procedure as Assignment 1 between Feb 15 and Feb 22.
+    - Assignment 3 is almost graded.
+    - Assignment 4 was due last night. Reminders: the late penalty is *1% per hour*; if you are a few minutes late, you will lose 1%, and it is not worth your time or mine to quibble about that. Also, a complete submission is the rendered version of your Quarto document; if your document does not render, it is up to you to find out why and to fix it.
+    - Assignment 5 opens tonight. You have two weeks to do this one (it is due on Sunday night at the end of reading week).
+  - lectures: I think I am done with power of hypothesis tests. There are some more examples in the lecture notes, which you can read if you want to gain some extra understanding.
+    - Tuesday: sign test
+    - Thursday: normal quantile plot, matched pairs
+  - Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 8 (power and sample size), 9 (sign test), 11 (matched pairs), 12 (normal quantile plots).
+
+- 2024-02-08 12:00: [Worksheet 5](worksheet_5_c33.html) for Monday's tutorial.
+
+- 2024-02-08 10:50: my solutions to [Assignment 3](a3_c33_2024.html).
 
 - 2024-02-06 11:30: On assignment 4, question 2, I was a little bit eager on the delete key! I just put back the actual question and the link to the data file, so that you now know what you were supposed to be doing. Re-download the questions from Quercus if you need to.
 

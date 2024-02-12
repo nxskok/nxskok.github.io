@@ -13,6 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-02-12 11:25: Monday update:
+  - Assignment 4 was due last night; Assignment 5 opens tonight. You will have two weeks to do Assignment 5, since it is due on Sunday at the end of reading week.
+  - Tutorial this afternoon on Zoom as usual. I will find a survival analysis example from PASIAS to talk about.
+  - Lecture: there is a little more material at the end of the Survival Analysis slides that you would probably do well to look through, but this week I'll be moving on to ANOVA Revisited. This is followed (probably after reading week) by some other ideas that are based on ANOVA: MANOVA, repeated measures, discriminant analysis and so on.
+  
+
+- 2024-02-08 10:50: my solutions to [assignment 3](a3_d29_2024.html).
+
 - 2024-02-07 20:10: I updated the [lecture notes](notes.html) to reflect what I added for class today (the slides "behind the scenes" and the one after that). This now seems to be working for both the .html and the .pdf versions of the slides.
 
 - 2024-02-05 15:15: assignment planning: there will be no assignments due during reading week or the weekend of the midterm. That means you'll get two weeks to do each of Assignment 5 (due the Sunday night at the end of reading week) and Assignment 6 (due March 10). The eighth and final assignment will be due on March 24, so you'll get a break at the end of the course.
