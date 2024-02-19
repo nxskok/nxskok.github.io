@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-18 22:15: A Sunday night "Monday update" to remind you that this upcoming week is Reading Week, so there are no tutorials tomorrow or lectures on Tuesday or Thursday. We resume on the 26th.
+
 - 2024-02-14 13:30: My solutions to [Assignment 4](a4_c33_2024.html).
 
 - 2024-02-12 10:50: Monday update:

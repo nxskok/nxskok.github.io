@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-02-18 22:15: A Sunday night "Monday update", to remind you that the upcoming week is Reading Week, and there is therefore no tutorial on Monday or lecture on Wednesday. (I will be spending the time sorting out your midterm.) We resume on the 26th.
+
 - 2024-02-14 13:30: a couple of things:
   - My solutions to [Assignment 4](a4_d29_2024.html)
   - The lecture notes for ANOVA Revisited are rather long, and I won't be talking about all of it. The beginning is review; today, I plan to start with the Rats and Vitamin B example.
