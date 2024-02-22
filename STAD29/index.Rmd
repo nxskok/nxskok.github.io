@@ -13,6 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-02-22 11:50: 
+    - As I think I mentioned at the end of the last lecture, coverage for the midterm includes the last lecture before reading week (the "ANOVA revisited" stuff, as much as we saw in class).
+    - The midterm has gone for printing. It has five questions, with a total of 23 parts worth 53 points altogether. Expect to be doing more explanation than coding (since the focus of this course is the understanding of the statistics).
+    - The exam is open book, same rules as STAC32, and with the same expectation that you will organize your materials before the exam (or else you can expect to run out of time).
+    - Suggestion: bring a calculator to the exam (an actual calculator, not your phone). You might find it helpful in a couple of places.
+    - There will be a lecture next week before the midterm. That material will not be on the midterm, but you can count on it being on the final exam (and it will help you understand what follows in the course).
+    - re Assignment 2, I have asked the grader to add some explanation to the grading so that you know where you didn't get full marks. In the meanwhile, compare your answers with [my solutions](a2_d29_2024.html). The same applies to [Assignment 3](a3_d29_2024.html) and [Assignment 4](a4_d29_2024.html) that you don't have back yet.
+
 - 2024-02-20 14:00: Assignment 2 is graded, and I am about to post the marks. Appeals by the usual procedure between Feb 23 and Mar 1.
 
 - 2024-02-18 22:15: A Sunday night "Monday update", to remind you that the upcoming week is Reading Week, and there is therefore no tutorial on Monday or lecture on Wednesday. (I will be spending the time sorting out your midterm.) We resume on the 26th.
