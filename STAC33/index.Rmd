@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-22 21:00: one more thing today: [Worksheet 6](worksheet_6_c33.html), for tutorial on Monday. If you have subject-matter questions about the material on the exam, you can also ask your TA about those on Monday. If you have administrative questions about the exam that are not answered elsewhere, put them on the Quercus discussion board.
+
 - 2024-02-22 12:05: 
   - the midterm is open-book. You can bring what you wish, such as your lecture notes, assignments, my slides, assignment solutions, etc, **printed** (no computers or other devices at the exam). You will need to organize whatever you bring, so that you can quickly find what you are looking for (and so there is an upper limit on what there is any point in bringing). If you are not well prepared, you can expect to run out of time; you will not have time to look everything up or go searching for things.
   - the exam is on its way to be printed. There are 6 questions, with a total of 30 parts worth 73 points altogether (the parts are typically worth 2 or 3 points and are about as much work as you would do on an assignment for 2 or 3 points). Expect to be writing code and explanations (for example, I might ask for code to do a task, or give you code or output and ask questions about it).
