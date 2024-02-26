@@ -15,6 +15,21 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-02-26 11:35: Monday update:
+  - Midterm time and location is on an announcement on Quercus labelled Midterm. See the notes from Feb 20 and 22 for course coverage and exam procedures.
+  - Assignment 5 was due last night. Assignment 6 opens tonight; you have two weeks to complete this (so that it is not due the same weekend as the midterm), but the material on it is on the midterm, so you would do well to work on it as part of your preparation.
+  - Tutorial today, where you have the chance to ask subject-matter questions of your TAs as well as work on [worksheet 6](worksheet_6_c33.html), which will prepare you for Assignment 6, which will help you prepare for the midterm.
+  - See the Feb 20 note for what is on the midterm.
+  - Lectures this week:
+    - Tuesday: matched pairs sign test, Mood median test
+    - Thursday: analysis of variance
+  - Extra practice problems in [PASIAS](https://ritsokiguess.site/pasias2/) (the chapters get out of order here):
+    - Chapter 12: normal quantile plots
+    - Chapter 11: matched pairs
+    - Chapter 10: Mood's median test
+    - Chapter 13: analysis of variance.
+  - if you have questions as you prepare for the midterm, post them on the [Quercus discussion board](https://q.utoronto.ca/courses/333288/discussion_topics) or catch me after lecture.
+
 - 2024-02-22 21:00: one more thing today: [Worksheet 6](worksheet_6_c33.html), for tutorial on Monday. If you have subject-matter questions about the material on the exam, you can also ask your TA about those on Monday. If you have administrative questions about the exam that are not answered elsewhere, put them on the Quercus discussion board.
 
 - 2024-02-22 12:05: 

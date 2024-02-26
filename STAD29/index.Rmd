@@ -13,6 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-02-26 11:30: Monday update:
+  - Midterm: location and date is on an announcement on Quercus labelled "Midterm". My reply to that announcement tells you which room you need to be in.
+  - Assignment 5 was due last night. Assignment 6 opens tonight; you once again have 2 weeks to complete it, so that the midterm and an assignment are not due the same weekend. You may find it useful to start Assignment 6, however, as part of your midterm preparation (the material on it is on the exam).
+  - Tutorial this afternoon. I will find something from the lecture before reading week.
+  - Lecture this week: analysis of covariance (short), multivariate analysis of variance (longer), maybe some of repeated measures.
+  - If you have questions as you prepare for the exam, post them on the [Quercus discussion board](https://q.utoronto.ca/courses/333396/discussion_topics) or catch me after lecture.
+
 - 2024-02-22 11:50: 
     - As I think I mentioned at the end of the last lecture, coverage for the midterm includes the last lecture before reading week (the "ANOVA revisited" stuff, as much as we saw in class).
     - The midterm has gone for printing. It has five questions, with a total of 23 parts worth 53 points altogether. Expect to be doing more explanation than coding (since the focus of this course is the understanding of the statistics).
