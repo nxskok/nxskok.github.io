@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-01 12:20:
+  - my solutions to [Assignment 5](a5_d29_2024.html)
+  - if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an [absence declaration](https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn) so that there is a record.
+  - conversely, if your final exam is better than your midterm, the final exam counts instead of your midterm.
+
 - 2024-02-26 11:30: Monday update:
   - Midterm: location and date is on an announcement on Quercus labelled "Midterm". My reply to that announcement tells you which room you need to be in.
   - Assignment 5 was due last night. Assignment 6 opens tonight; you once again have 2 weeks to complete it, so that the midterm and an assignment are not due the same weekend. You may find it useful to start Assignment 6, however, as part of your midterm preparation (the material on it is on the exam).

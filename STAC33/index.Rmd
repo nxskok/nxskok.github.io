@@ -15,6 +15,12 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-03-01 12:20:
+  - my solutions to [Assignment 5](a5_c33_2024.html)
+  - if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an [absence declaration](https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn) so that there is a record.
+  - conversely, if your final exam is better than your midterm, the final exam counts instead of your midterm.
+
+
 - 2024-02-26 11:35: Monday update:
   - Midterm time and location is on an announcement on Quercus labelled Midterm. See the notes from Feb 20 and 22 for course coverage and exam procedures.
   - Assignment 5 was due last night. Assignment 6 opens tonight; you have two weeks to complete this (so that it is not due the same weekend as the midterm), but the material on it is on the midterm, so you would do well to work on it as part of your preparation.
