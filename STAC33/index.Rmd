@@ -19,6 +19,7 @@ In this course, we learn R, and how to use this software for data organization a
   - my solutions to [Assignment 5](a5_c33_2024.html)
   - if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an [absence declaration](https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn) so that there is a record.
   - conversely, if your final exam is better than your midterm, the final exam counts instead of your midterm.
+  - there will be *no tutorials* on Monday (regardless of whether the TAs are on strike) because if the TAs are working, they will be marking your midterm.
 
 
 - 2024-02-26 11:35: Monday update:
