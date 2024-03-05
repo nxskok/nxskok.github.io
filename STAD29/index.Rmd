@@ -13,7 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+<<<<<<< HEAD
 - 2024-02-15 13:30: the midterm is at the end of the first week back after reading week. With that in mind, it seems best to say that we have now covered everything that could appear on the midterm (up to the end of ANOVA Revisited that we did yesterday). The material in between now and the midterm (ANCOVA, MANOVA and possibly some of repeated measures) can certainly appear on the final exam, and provides the foundation for some of the other things we do after that, so you won't want to miss it.
+=======
+- 2024-02-18 22:15: A Sunday night "Monday update", to remind you that the upcoming week is Reading Week, and there is therefore no tutorial on Monday or lecture on Wednesday. (I will be spending the time sorting out your midterm.) We resume on the 26th.
+>>>>>>> 3aa799fa563d95beac4df19825d1865c3c6b3add
 
 - 2024-02-14 13:30: a couple of things:
   - My solutions to [Assignment 4](a4_d29_2024.html)
