@@ -13,9 +13,19 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-04 11:00: Monday update:
+  - there is *no TA strike*. Last night, the university and the TA union came to a "tentative agreement", which the TAs still have to vote on (so we are not safe yet), but for now there is no strike.
+  - [My exam solutions](midterm-20241-d29-answers.pdf).
+  - exam marking will begin once the exams have been scanned and uploaded to Crowdmark.
+  - tutorial this afternoon as usual, with some problems on ANCOVA and MANOVA (don't you love these acronyms?)
+  - lecture this week: repeated measures, maybe the start of discriminant analysis.
+  - extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 34 (repeated measures), 35 (discriminant analysis).
+  - reminder that Assignment 6 is due on March 10.
+ 
+
 - 2024-03-01 12:20:
   - my solutions to [Assignment 5](a5_d29_2024.html)
-  - if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an [absence declaration](https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn) so that there is a record.
+  - if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an [absence declaration](https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn) so that there is a record. (added 2024-03-04 11:30: if you already used your absence declaration, I do not need to see any additional documentation, but any other professors affected by your absence might, so be prepared.)
   - conversely, if your final exam is better than your midterm, the final exam counts instead of your midterm.
 
 - 2024-02-26 11:30: Monday update:
