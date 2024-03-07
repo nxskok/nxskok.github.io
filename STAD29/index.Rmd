@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-06 23:00: the midterms are scanned and marking is underway. We are 31% done (some of question 2, and I did most of question 3 until I ran out of juice tonight).
+
 - 2024-03-04 11:00: Monday update:
   - there is *no TA strike*. Last night, the university and the TA union came to a "tentative agreement", which the TAs still have to vote on (so we are not safe yet), but for now there is no strike.
   - [My exam solutions](midterm-20241-d29-answers.pdf).
