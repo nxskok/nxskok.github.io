@@ -15,6 +15,10 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-03-08 21:15: two updates:
+  - the midterm is now 62% marked. I spent today working on my other midterm, but tomorrow I plan to get to my marking on this one. The TAs are most of the way through their shares of the marking.
+  - there is tutorial on Monday, in which you'll be working on [this worksheet](worksheet_7_c33.html), which will prepare you for Assignment 7 (that opens on Monday night).
+
 - 2024-03-07 22:15: a little bit of progress today: we are now at 33% done. I have been focusing on my other midterm, which I gave myself more of to mark.
 
 - 2024-03-06 23:00: the midterms are scanned and marking is underway. We are at 29% done.

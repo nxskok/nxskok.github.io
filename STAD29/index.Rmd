@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-08 21:15: We have more exam-marking progress: we are up to 83% done. I have marked my part; we are now waiting on one of the TAs to finish their part. I have been updating [my solutions](midterm-20241-d29-answers.pdf) as I've been marking. In 6(c), some of you found an answer that I wasn't expecting but that does answer the question. If that was you, you got full credit for it.
+
 - 2024-03-07 22:15: I spent altogether too much of the evening struggling through 4(d), but that is now marked. I have updated [my solutions](midterm-20241-d29-answers.pdf) with what I have seen while marking. We are now 61% done.
 
 - 2024-03-06 23:00: the midterms are scanned and marking is underway. We are 31% done (some of question 2, and I did most of question 3 until I ran out of juice tonight).
