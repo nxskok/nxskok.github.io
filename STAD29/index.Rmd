@@ -13,6 +13,17 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-11 10:30: Monday update:
+  - The midterm is marked. I will be sharing the marks and the marked midterms shortly. The marks will be on Quercus, and you will be receiving an email from Crowdmark with instructions to see your marked exam. Appeals are the same procedure as for assignments, between Mar 14 and Mar 21 inclusive. *Do not expect me to overrule the grader's judgment*; thus, the only thing worth appealing is an actual grading error, such as an answer where the grader didn't mark something relevant that you wrote, after consideration of my solutions and any comments on your exam. If you have not received full marks on a question part, you should have received a comment on your exam, or it should be obvious from [my solutions](midterm-20241-d29-answers.pdf) what is missing or in error, or both of those things. Your appeal must include a clear description of the grading error (not grading judgment). If you appeal a grading judgment, you run the risk that I regrade your whole exam and your mark may go down as well as up. My philosophy on appeals is similar to that of [Jeff Rosenthal](http://probability.ca/regrade.html).
+  
+  - Assignment 6 was due last night, and is open until Tuesday night (with late penalty). Assignment 7 opens tonight.
+  - Tutorial this afternoon on zoom, with something on repeated measures.
+  - Lecture this week: discriminant analysis, and if we have time, a start on cluster analysis.
+  - Extra practice problems on this week's lecture material: [PASIAS chapter 35](https://ritsokiguess.site/pasias2/discriminant-analysis.html), and Chapter 36 if we get to cluster analysis this week (which I think is unlikely).
+  
+
+- 2024-03-09 21:30: Up to 89% done on the midterm. The last thing is the marking of question 1, which is happening now. (The grader was invigilating other midterms today.)
+
 - 2024-03-08 21:15: We have more exam-marking progress: we are up to 83% done. I have marked my part; we are now waiting on one of the TAs to finish their part. I have been updating [my solutions](midterm-20241-d29-answers.pdf) as I've been marking. In 5(c), some of you found an answer that I wasn't expecting but that does answer the question. If that was you, you got full credit for it.
 
 - 2024-03-07 22:15: I spent altogether too much of the evening struggling through 4(d), but that is now marked. I have updated [my solutions](midterm-20241-d29-answers.pdf) with what I have seen while marking. We are now 61% done.
