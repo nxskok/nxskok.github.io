@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-03-15 12:45: [Worksheet 8](worksheet_8_c33.html) for tutorial on Monday. This will prepare you for Assignment 8, which opens on Monday night. 
+
 - 2024-03-11 11:00: Monday update:
   - The midterm is marked. Stats: Q1 51.25 (76%), median 56 (83%), Q3 60 (89%). I will be sharing the marks and the marked midterms shortly. The marks will be on Quercus, and you will be receiving an email from Crowdmark with instructions to see your marked exam. 
     - Appeals are the same procedure as for assignments, between Mar 14 and Mar 21 inclusive. *Do not expect me to overrule the grader's judgment*; thus, the only thing worth appealing is an actual grading error, such as an answer where the grader didn't mark something relevant that you wrote, after consideration of my solutions and any comments on your exam. If you have not received full marks on a question part, you should have received a comment on your exam, or it should be obvious from [my solutions](midterm-20241-c33-answers.pdf) what is missing or in error, or both of those things. Your appeal must include a clear description of the grading error (not grading judgment). If you appeal a grading judgment, you run the risk that I regrade your whole exam and your mark may go down as well as up. My philosophy on appeals is similar to that of [Jeff Rosenthal](http://probability.ca/regrade.html).
