@@ -15,6 +15,11 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-03-18 11:00: Monday update:
+  - Tutorial today, featuring [Worksheet 8](worksheet_8_c33.html).
+  - Assignment 7 was due last night. Assignment 8 opens tonight and is due next Sunday night.
+  - Lectures this week are on regression, starting with the windmill case study on Tuesday.
+
 - 2024-03-15 12:45: 
   - [Worksheet 8](worksheet_8_c33.html) for tutorial on Monday. This will prepare you for Assignment 8, which opens on Monday night. 
   - Assignment 8 is the last assignment, but I will make worksheets the rest of the way, and there will be tutorials on the remaining Mondays. This is to help you get prepared for the final exam, which will definitely include some things that didn't make it onto assignments (examples: the regression stuff we do next week, writing functions, Bayesian analysis, and anything else we get to).
