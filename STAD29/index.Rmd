@@ -13,6 +13,16 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-13 16:30: before I forget, from today's class, loading MASS like this:
+
+```{r}
+#| eval: false
+
+library(MASS, exclude = "select")
+```
+
+loads the whole of `MASS` except for the one troublesome function `select` that gets tangled up with the `tidyverse` `select`, and if you load `MASS` this way, you don't have to worry about the `conflicted` stuff. (You can also use `include` to say "load only these functions and no others", which is in the same spirit as the Python `from x import y`). 
+
 - 2024-03-13 11:20: my solutions to [assignment 6](a6_d29_2024.html).
 
 - 2024-03-11 10:30: Monday update:
