@@ -13,6 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-21 11:45: Assignments 3 and 5 are graded, and I am about to release the grades. Appeals by usual process between Mar 24 and Mar 31.
+
+- 2024-03-18 11:00: Monday update:
+  - Assignment 7 was due last night, and Assignment 8 (the last one) opens tonight.
+  - Tutorial this afternoon on zoom, something on discriminant analysis.
+  - Lecture this week on cluster analysis. (There is another example in the discriminant analysis notes, which you can read if you like.)
+  - Extra practice problems on cluster analysis: [PASIAS](https://ritsokiguess.site/pasias2/) chapters 36 and 37.
+
 - 2024-03-13 16:30: before I forget, from today's class, loading MASS like this:
 
 ```{r}
