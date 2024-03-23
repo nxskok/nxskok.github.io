@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-03-22 12:45: [worksheet 9](worksheet_9_c33.html) for tutorial on Monday. The third question is on multiple regression; some of the things in it we sped through on Thursday or will not see until Tuesday next week.
+
 - 2024-03-18 11:00: Monday update:
   - Tutorial today, featuring [Worksheet 8](worksheet_8_c33.html).
   - Assignment 7 was due last night. Assignment 8 opens tonight and is due next Sunday night.
