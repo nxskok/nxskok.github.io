@@ -2,235 +2,259 @@
 title: "STAC33"
 ---
 
-#  Introduction to Applied Statistics
+# Introduction to Applied Statistics
 
 ## Ken Butler
 
-![bad picture](ken.jpg){width=400px}
+![bad picture](ken.jpg){width="400px"}
 
 Welcome to the home page for STAC33. This is the place to look for all things course-related (notes, announcements etc.) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
 
 In this course, we learn R, and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to *get* the answers, but you also need to be able to *explain to others* what the results mean, and *convince others why* what you have done is sensible. This is what a real-world data analyst does, and so you will need to demonstrate an ability to do that as well.
 
-
 ## News (most recent at the top)
 
-- 2024-03-18 11:00: Monday update:
-  - Tutorial today, featuring [Worksheet 8](worksheet_8_c33.html).
-  - Assignment 7 was due last night. Assignment 8 opens tonight and is due next Sunday night.
-  - Lectures this week are on regression, starting with the windmill case study on Tuesday.
+- 2024-03-25 10:30: Monday update:
+  - tutorial today, featuring [worksheet 9](work)
 
-- 2024-03-15 12:45: 
-  - [Worksheet 8](worksheet_8_c33.html) for tutorial on Monday. This will prepare you for Assignment 8, which opens on Monday night. 
-  - Assignment 8 is the last assignment, but I will make worksheets the rest of the way, and there will be tutorials on the remaining Mondays. This is to help you get prepared for the final exam, which will definitely include some things that didn't make it onto assignments (examples: the regression stuff we do next week, writing functions, Bayesian analysis, and anything else we get to).
+-   2024-03-21 15:20: for those interested, the actual Box-Cox formula says that you replace the response $y$ by $(y^\lambda - 1)/\lambda$. This introduces $\lambda$ as an extra parameter, which you can estimate by maximum likelihood. The graph that we saw in lecture today is of the (profile) log-likelihood as a function of $\lambda$. If $\lambda \ne 0$, it is a linear function of $y^\lambda$, but as $\lambda \rightarrow 0$, $(y^\lambda - 1)/\lambda \rightarrow \ln y$. To see this, write $y^\lambda = e^{\lambda \; \ln y}$. Remember that $y$ is fixed here; think of the Box-Cox transformation as a function of $\lambda$. As $\lambda$ heads for zero, the limit becomes $0/0$, so use L'Hôpital's rule to show that the limit is $\ln y$.
 
-- 2024-03-13 11:20: my solutions to [assignment 6](a6_c33_2024.html).
+-   2024-03-18 11:00: Monday update:
 
-- 2024-03-12 11:00: Power went out here (on campus) for a few minutes, but is now back, whether from actual hydro or from a generator, I don't know. So class goes ahead, as far as I know.
+    -   Tutorial today, featuring [Worksheet 8](worksheet_8_c33.html).
+    -   Assignment 7 was due last night. Assignment 8 opens tonight and is due next Sunday night.
+    -   Lectures this week are on regression, starting with the windmill case study on Tuesday.
 
-- 2024-03-11 11:00: Monday update:
-  - The midterm is marked. Stats: Q1 51.25 (76%), median 56 (83%), Q3 60 (89%). I will be sharing the marks and the marked midterms shortly. The marks will be on Quercus, and you will be receiving an email from Crowdmark with instructions to see your marked exam. 
-    - Appeals are the same procedure as for assignments, between Mar 14 and Mar 21 inclusive. *Do not expect me to overrule the grader's judgment*; thus, the only thing worth appealing is an actual grading error, such as an answer where the grader didn't mark something relevant that you wrote, after consideration of my solutions and any comments on your exam. If you have not received full marks on a question part, you should have received a comment on your exam, or it should be obvious from [my solutions](midterm-20241-c33-answers.pdf) what is missing or in error, or both of those things. Your appeal must include a clear description of the grading error (not grading judgment). If you appeal a grading judgment, you run the risk that I regrade your whole exam and your mark may go down as well as up. My philosophy on appeals is similar to that of [Jeff Rosenthal](http://probability.ca/regrade.html).
-  - Tutorials are happening today; [worksheet 7](worksheet_7_c33.html). If you run out of time, as you probably will, you can leave the last question (the home prices data) until next week.
-  - Assignment 6 was due last night. A reminder that there are *no extensions*, as stated in the course outline; you have the option of handing the assignment in before Tuesday night and taking the late penalty, or of counting it as one of your two worst assignments (or both). It is up to you to manage your time.
-  - Assignment 7 opens tonight.
-  - Lectures this week:
-    - Tuesday: the rest of tidying data (there are two other small sections of notes, "tidying extras" and "when pivot-wider goes wrong").
-    - Thursday: the first case study, on simple regression.
+-   2024-03-15 12:45:
 
+    -   [Worksheet 8](worksheet_8_c33.html) for tutorial on Monday. This will prepare you for Assignment 8, which opens on Monday night.
+    -   Assignment 8 is the last assignment, but I will make worksheets the rest of the way, and there will be tutorials on the remaining Mondays. This is to help you get prepared for the final exam, which will definitely include some things that didn't make it onto assignments (examples: the regression stuff we do next week, writing functions, Bayesian analysis, and anything else we get to).
 
-- 2024-03-09 21:30: the end is in sight: the midterm is now 90% marked. I had a totally thrilling day getting the marking done that I assigned to myself on this exam, and I am now done. I'm not sure I shared [my solutions](midterm-20241-c33-answers.pdf), which are updated with extra comments on the bits that I marked.
+-   2024-03-13 11:20: my solutions to [assignment 6](a6_c33_2024.html).
 
-- 2024-03-08 21:15: two updates:
-  - the midterm is now 62% marked. I spent today working on my other midterm, but tomorrow I plan to get to my marking on this one. The TAs are most of the way through their shares of the marking.
-  - there is tutorial on Monday, in which you'll be working on [this worksheet](worksheet_7_c33.html), which will prepare you for Assignment 7 (that opens on Monday night).
+-   2024-03-12 11:00: Power went out here (on campus) for a few minutes, but is now back, whether from actual hydro or from a generator, I don't know. So class goes ahead, as far as I know.
 
-- 2024-03-07 22:15: a little bit of progress today: we are now at 33% done. I have been focusing on my other midterm, which I gave myself more of to mark.
+-   2024-03-11 11:00: Monday update:
 
-- 2024-03-06 23:00: the midterms are scanned and marking is underway. We are at 29% done.
+    -   The midterm is marked. Stats: Q1 51.25 (76%), median 56 (83%), Q3 60 (89%). I will be sharing the marks and the marked midterms shortly. The marks will be on Quercus, and you will be receiving an email from Crowdmark with instructions to see your marked exam.
+        -   Appeals are the same procedure as for assignments, between Mar 14 and Mar 21 inclusive. *Do not expect me to overrule the grader's judgment*; thus, the only thing worth appealing is an actual grading error, such as an answer where the grader didn't mark something relevant that you wrote, after consideration of my solutions and any comments on your exam. If you have not received full marks on a question part, you should have received a comment on your exam, or it should be obvious from [my solutions](midterm-20241-c33-answers.pdf) what is missing or in error, or both of those things. Your appeal must include a clear description of the grading error (not grading judgment). If you appeal a grading judgment, you run the risk that I regrade your whole exam and your mark may go down as well as up. My philosophy on appeals is similar to that of [Jeff Rosenthal](http://probability.ca/regrade.html).
+    -   Tutorials are happening today; [worksheet 7](worksheet_7_c33.html). If you run out of time, as you probably will, you can leave the last question (the home prices data) until next week.
+    -   Assignment 6 was due last night. A reminder that there are *no extensions*, as stated in the course outline; you have the option of handing the assignment in before Tuesday night and taking the late penalty, or of counting it as one of your two worst assignments (or both). It is up to you to manage your time.
+    -   Assignment 7 opens tonight.
+    -   Lectures this week:
+        -   Tuesday: the rest of tidying data (there are two other small sections of notes, "tidying extras" and "when pivot-wider goes wrong").
+        -   Thursday: the first case study, on simple regression.
 
-- 2024-03-05 13:30: the [blog post about Tukey's method](https://ritsokiguess.site/blogg/posts/2024-02-29-honestly-significant-differences/) that I mentioned in lecture, if you want more background.
+-   2024-03-09 21:30: the end is in sight: the midterm is now 90% marked. I had a totally thrilling day getting the marking done that I assigned to myself on this exam, and I am now done. I'm not sure I shared [my solutions](midterm-20241-c33-answers.pdf), which are updated with extra comments on the bits that I marked.
 
-- 2024-03-04 11:00: Monday update:
-  - there is *no TA strike*. Last night, the university and the TA union came to a "tentative agreement", which the TAs still have to vote on (so we are not safe yet), but for now there is no strike.
-  - on the midterm, questions 2(f) and 2(g) were impossible to answer with the information I gave you, so I have removed them from the exam (which is now out of 67 points).
-  - exam marking will begin once the exams have been scanned and uploaded to Crowdmark.
-  - reminder that there are *no tutorials* today. If you have not yet worked through [worksheet 6](worksheet_6_c33.html), now would be a good time to do so, in preparation for Assignment 6 (which is due next Sunday night).
-  - lectures this week:
-    - Tuesday: the rest of analysis of variance
-    - Thursday: tidying data
-  - extra practice problems in [PASIAS](https://ritsokiguess.site/pasias2/): chapter 13 (analysis of variance), chapter 17 (tidying data). The intervening chapters are on writing reports, on which there is [lecture material](https://ritsokiguess.site/lecture-notes/reports.html), but I won't be talking about that this time.
+-   2024-03-08 21:15: two updates:
 
-- 2024-03-01 12:20:
-  - my solutions to [Assignment 5](a5_c33_2024.html)
-  - if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an [absence declaration](https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn) so that there is a record. (added 2024-03-03 20:30: if you already used your absence declaration, I do not need to see any additional documentation, but any other professors affected by your absence might, so be prepared.)
-  - conversely, if your final exam is better than your midterm, the final exam counts instead of your midterm.
-  - there will be *no tutorials* on Monday (regardless of whether the TAs are on strike) because if the TAs are working, they will be marking your midterm.
+    -   the midterm is now 62% marked. I spent today working on my other midterm, but tomorrow I plan to get to my marking on this one. The TAs are most of the way through their shares of the marking.
+    -   there is tutorial on Monday, in which you'll be working on [this worksheet](worksheet_7_c33.html), which will prepare you for Assignment 7 (that opens on Monday night).
 
+-   2024-03-07 22:15: a little bit of progress today: we are now at 33% done. I have been focusing on my other midterm, which I gave myself more of to mark.
 
-- 2024-02-26 11:35: Monday update:
-  - Midterm time and location is on an announcement on Quercus labelled Midterm. See the notes from Feb 20 and 22 for course coverage and exam procedures.
-  - Assignment 5 was due last night. Assignment 6 opens tonight; you have two weeks to complete this (so that it is not due the same weekend as the midterm), but the material on it is on the midterm, so you would do well to work on it as part of your preparation.
-  - Tutorial today, where you have the chance to ask subject-matter questions of your TAs as well as work on [worksheet 6](worksheet_6_c33.html), which will prepare you for Assignment 6, which will help you prepare for the midterm.
-  - See the Feb 20 note for what is on the midterm.
-  - Lectures this week:
-    - Tuesday: matched pairs sign test, Mood median test
-    - Thursday: analysis of variance
-  - Extra practice problems in [PASIAS](https://ritsokiguess.site/pasias2/) (the chapters get out of order here):
-    - Chapter 12: normal quantile plots
-    - Chapter 11: matched pairs
-    - Chapter 10: Mood's median test
-    - Chapter 13: analysis of variance.
-  - if you have questions as you prepare for the midterm, post them on the [Quercus discussion board](https://q.utoronto.ca/courses/333288/discussion_topics) or catch me after lecture.
+-   2024-03-06 23:00: the midterms are scanned and marking is underway. We are at 29% done.
 
-- 2024-02-22 21:00: one more thing today: [Worksheet 6](worksheet_6_c33.html), for tutorial on Monday. If you have subject-matter questions about the material on the exam, you can also ask your TA about those on Monday. If you have administrative questions about the exam that are not answered elsewhere, put them on the Quercus discussion board.
+-   2024-03-05 13:30: the [blog post about Tukey's method](https://ritsokiguess.site/blogg/posts/2024-02-29-honestly-significant-differences/) that I mentioned in lecture, if you want more background.
 
-- 2024-02-22 12:05: 
-  - the midterm is open-book. You can bring what you wish, such as your lecture notes, assignments, my slides, assignment solutions, etc, **printed** (no computers or other devices at the exam). You will need to organize whatever you bring, so that you can quickly find what you are looking for (and so there is an upper limit on what there is any point in bringing). If you are not well prepared, you can expect to run out of time; you will not have time to look everything up or go searching for things.
-  - the exam is on its way to be printed. There are 6 questions, with a total of 30 parts worth 73 points altogether (the parts are typically worth 2 or 3 points and are about as much work as you would do on an assignment for 2 or 3 points). Expect to be writing code and explanations (for example, I might ask for code to do a task, or give you code or output and ask questions about it).
-  - at the exam, you will of course get an exam paper with spaces to write your answers, but you also get a booklet with numbered Figures to refer to during the exam. The exam will say things like "In Figure 10, what is..." and you will need to find Figure 10 in the other booklet.
-  - this is a Crowdmark exam, so it is best to use a pen or a *sharp* pencil, otherwise we may have trouble reading your answers.
-  - looking ahead to next week, there will be a tutorial on Monday for which there will be a worksheet (on the material from last week), and there will be lectures on Tuesday and Thursday on new material. This lecture material will not be on the midterm, but you can count on it being on the final exam, and it will  help you understand what follows in the course.
+-   2024-03-04 11:00: Monday update:
 
-- 2024-02-20 13:40 (edit 14:05): ok, so there is a Tuesday update instead:
-  - Assignments 3 and 4 are graded, and I will post the marks in a moment. Appeals by the usual procedure, between Feb 23 and Mar 1 (for both). There was some work that was rather obviously AI-generated; I will decide whether I want to pursue academic integrity violations on any of it. A reminder that the sorts of things I ask you to do yourself on assignments are the same sorts of things you will need to do yourself on the exams, so by using anything other than your own brain and the course materials on the assignments, you are *setting yourself up for failure* on the exams.
-  - Assignment 3 appears to be graded; I will post the marks once I have confirmation from the grader. (edit: it has been graded.)
-  - Coverage for the midterm is what we did in lecture before reading week, up to and including the "cliffhanger" (that is to say, the matched pairs $t$-test). 
+    -   there is *no TA strike*. Last night, the university and the TA union came to a "tentative agreement", which the TAs still have to vote on (so we are not safe yet), but for now there is no strike.
+    -   on the midterm, questions 2(f) and 2(g) were impossible to answer with the information I gave you, so I have removed them from the exam (which is now out of 67 points).
+    -   exam marking will begin once the exams have been scanned and uploaded to Crowdmark.
+    -   reminder that there are *no tutorials* today. If you have not yet worked through [worksheet 6](worksheet_6_c33.html), now would be a good time to do so, in preparation for Assignment 6 (which is due next Sunday night).
+    -   lectures this week:
+        -   Tuesday: the rest of analysis of variance
+        -   Thursday: tidying data
+    -   extra practice problems in [PASIAS](https://ritsokiguess.site/pasias2/): chapter 13 (analysis of variance), chapter 17 (tidying data). The intervening chapters are on writing reports, on which there is [lecture material](https://ritsokiguess.site/lecture-notes/reports.html), but I won't be talking about that this time.
 
+-   2024-03-01 12:20:
 
-- 2024-02-18 22:15: A Sunday night "Monday update" to remind you that this upcoming week is Reading Week, so there are no tutorials tomorrow or lectures on Tuesday or Thursday. We resume on the 26th.
+    -   my solutions to [Assignment 5](a5_c33_2024.html)
+    -   if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an [absence declaration](https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn) so that there is a record. (added 2024-03-03 20:30: if you already used your absence declaration, I do not need to see any additional documentation, but any other professors affected by your absence might, so be prepared.)
+    -   conversely, if your final exam is better than your midterm, the final exam counts instead of your midterm.
+    -   there will be *no tutorials* on Monday (regardless of whether the TAs are on strike) because if the TAs are working, they will be marking your midterm.
 
-- 2024-02-15 13:30: in what seems like a repeat of previous announcements, it is snowing, but I am here and campus is open, so class goes ahead. Today, normal quantile plots and however much of matched pairs we get to.
+-   2024-02-26 11:35: Monday update:
 
-- 2024-02-14 13:30: My solutions to [Assignment 4](a4_c33_2024.html).
+    -   Midterm time and location is on an announcement on Quercus labelled Midterm. See the notes from Feb 20 and 22 for course coverage and exam procedures.
+    -   Assignment 5 was due last night. Assignment 6 opens tonight; you have two weeks to complete this (so that it is not due the same weekend as the midterm), but the material on it is on the midterm, so you would do well to work on it as part of your preparation.
+    -   Tutorial today, where you have the chance to ask subject-matter questions of your TAs as well as work on [worksheet 6](worksheet_6_c33.html), which will prepare you for Assignment 6, which will help you prepare for the midterm.
+    -   See the Feb 20 note for what is on the midterm.
+    -   Lectures this week:
+        -   Tuesday: matched pairs sign test, Mood median test
+        -   Thursday: analysis of variance
+    -   Extra practice problems in [PASIAS](https://ritsokiguess.site/pasias2/) (the chapters get out of order here):
+        -   Chapter 12: normal quantile plots
+        -   Chapter 11: matched pairs
+        -   Chapter 10: Mood's median test
+        -   Chapter 13: analysis of variance.
+    -   if you have questions as you prepare for the midterm, post them on the [Quercus discussion board](https://q.utoronto.ca/courses/333288/discussion_topics) or catch me after lecture.
 
-- 2024-02-12 10:50: Monday update:
-  - tutorials today; the [worksheet](worksheet_5_c33.html).
-  - assignments: 
-    - Assignment 2 is graded; I will release the marks shortly. Appeals by the same procedure as Assignment 1 between Feb 15 and Feb 22.
-    - Assignment 3 is almost graded.
-    - Assignment 4 was due last night. Reminders: the late penalty is *1% per hour*; if you are a few minutes late, you will lose 1%, and it is not worth your time or mine to quibble about that. Also, a complete submission is the rendered version of your Quarto document; if your document does not render, it is up to you to find out why and to fix it.
-    - Assignment 5 opens tonight. You have two weeks to do this one (it is due on Sunday night at the end of reading week).
-  - lectures: I think I am done with power of hypothesis tests. There are some more examples in the lecture notes, which you can read if you want to gain some extra understanding.
-    - Tuesday: sign test
-    - Thursday: normal quantile plot, matched pairs
-  - Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 8 (power and sample size), 9 (sign test), 11 (matched pairs), 12 (normal quantile plots).
+-   2024-02-22 21:00: one more thing today: [Worksheet 6](worksheet_6_c33.html), for tutorial on Monday. If you have subject-matter questions about the material on the exam, you can also ask your TA about those on Monday. If you have administrative questions about the exam that are not answered elsewhere, put them on the Quercus discussion board.
 
-- 2024-02-08 12:00: [Worksheet 5](worksheet_5_c33.html) for Monday's tutorial.
+-   2024-02-22 12:05:
 
-- 2024-02-08 10:50: my solutions to [Assignment 3](a3_c33_2024.html).
+    -   the midterm is open-book. You can bring what you wish, such as your lecture notes, assignments, my slides, assignment solutions, etc, **printed** (no computers or other devices at the exam). You will need to organize whatever you bring, so that you can quickly find what you are looking for (and so there is an upper limit on what there is any point in bringing). If you are not well prepared, you can expect to run out of time; you will not have time to look everything up or go searching for things.
+    -   the exam is on its way to be printed. There are 6 questions, with a total of 30 parts worth 73 points altogether (the parts are typically worth 2 or 3 points and are about as much work as you would do on an assignment for 2 or 3 points). Expect to be writing code and explanations (for example, I might ask for code to do a task, or give you code or output and ask questions about it).
+    -   at the exam, you will of course get an exam paper with spaces to write your answers, but you also get a booklet with numbered Figures to refer to during the exam. The exam will say things like "In Figure 10, what is..." and you will need to find Figure 10 in the other booklet.
+    -   this is a Crowdmark exam, so it is best to use a pen or a *sharp* pencil, otherwise we may have trouble reading your answers.
+    -   looking ahead to next week, there will be a tutorial on Monday for which there will be a worksheet (on the material from last week), and there will be lectures on Tuesday and Thursday on new material. This lecture material will not be on the midterm, but you can count on it being on the final exam, and it will help you understand what follows in the course.
 
-- 2024-02-06 11:30: On assignment 4, question 2, I was a little bit eager on the delete key! I just put back the actual question and the link to the data file, so that you now know what you were supposed to be doing. Re-download the questions from Quercus if you need to.
+-   2024-02-20 13:40 (edit 14:05): ok, so there is a Tuesday update instead:
 
-- 2024-02-05 15:15: assignment planning: there will be no assignments due during reading week or the weekend of the midterm. That means you'll get two weeks to do each of Assignment 5 (due the Sunday night at the end of reading week) and Assignment 6 (due March 10). The eighth and final assignment will be due on March 24, so you'll get a break at the end of the course.
-- 2024-02-05 11:45: Monday update:
-  - Tutorials happening today as usual; see the note three days ago for the worksheet.
-  - Assignments: there will be a delay in marking assignment #2 (which is my fault), but I now have graders for #2 and #3. #3 was due yesterday, but remains open until Tuesday with late penalty. #4 opens tonight.
-  - Lectures: 
-    - Tuesday: the rest of the bootstrap stuff, including the code that we skipped last week.
-    - Thursday: power of hypothesis tests. In with both of those is a procedure for how you might do simulations in general. My take is that statistical theory will only take you so far; you will run into places where the math is beyond you and simulation is the only way to understand what is happening.
-  - Extra practice problems: PASIAS [chapter 8](https://ritsokiguess.site/pasias2/power.html) for power. For examples of bootstrap distribution of sample mean, look in the Extras to the problems in chapters 6 and 7.
+    -   Assignments 3 and 4 are graded, and I will post the marks in a moment. Appeals by the usual procedure, between Feb 23 and Mar 1 (for both). There was some work that was rather obviously AI-generated; I will decide whether I want to pursue academic integrity violations on any of it. A reminder that the sorts of things I ask you to do yourself on assignments are the same sorts of things you will need to do yourself on the exams, so by using anything other than your own brain and the course materials on the assignments, you are *setting yourself up for failure* on the exams.
+    -   Assignment 3 appears to be graded; I will post the marks once I have confirmation from the grader. (edit: it has been graded.)
+    -   Coverage for the midterm is what we did in lecture before reading week, up to and including the "cliffhanger" (that is to say, the matched pairs $t$-test).
 
-- 2024-02-02 12:45: [Worksheet 4](worksheet_4_c33.html), for tutorial on Monday.
+-   2024-02-18 22:15: A Sunday night "Monday update" to remind you that this upcoming week is Reading Week, so there are no tutorials tomorrow or lectures on Tuesday or Thursday. We resume on the 26th.
 
-- 2024-02-01 10:30: My solutions to [Assignment 2](a2_c33_2024.html).
-- 2024-01-30 13:45: I was sure I had posted [my solutions to assignment 1](a1-c33-2024.html), but they seemed to have disappeared. Click the link just above to see them.
+-   2024-02-15 13:30: in what seems like a repeat of previous announcements, it is snowing, but I am here and campus is open, so class goes ahead. Today, normal quantile plots and however much of matched pairs we get to.
 
-- 2024-01-29 13:15: Monday update:
-  - Assignment 1 has been graded (see below for appeal procedure)
-  - Assignment 2 was due last night and is open (with late penalty) until Tuesday night
-  - Assignment 3 opens tonight, and is due next Sunday night.
-  - Tutorials are happening today as usual; you'll be working on [worksheet 3](worksheet_3_c33.html).
-  - In lectures this week:
-    - Tuesday: the rest of one-sample inference
-    - Thursday: two-sample inference (which is a bit more complicated than you learned in B57). I might get into the bootstrap sampling distribution of the sample mean this week, or it might be next week.
-  - Practice problems for this week's material: chapters 6 and 7 of [PASIAS](https://ritsokiguess.site/pasias2/).
+-   2024-02-14 13:30: My solutions to [Assignment 4](a4_c33_2024.html).
 
-- 2024-01-29 11:00: Assignment 1 has been graded, and I am about to post the marks. 
-  - If you wish to appeal your mark, first read sections 3.19 through 3.23 of the detailed [course policies](policies.pdf). For your appeal to be successful, you will need to demonstrate an *error* in the grading: that is to say, you will need to *demonstrate* that your work was actually correct despite not receiving full marks. Read carefully the last sentence of 3.19 as well as the whole of 3.20 in the detailed course policies. You are also warned that I have the right to regrade your entire assignment, and so your mark can go down as well as up.
-  - To appeal your mark on an assignment, write me an email with the word "appeal", the course code, and the assignment number in the subject line, for assignment 1 *between February 2 and February 9 inclusive*, in which you explain how there was *an error* in the grading of your assignment: that is to say, the grader missed something you wrote that was completely correct according to my solutions or that you argue also was a complete answer to the question. This also includes such things as addition errors in your assignment mark.
+-   2024-02-12 10:50: Monday update:
 
-- 2024-01-26 12:00: [Worksheet 3](worksheet_3_c33.html) for tutorial on Monday. (Edit 2024-01-27 20:20: thanks to the eagle eyes of one of your TAs, a typo has been corrected.)
+    -   tutorials today; the [worksheet](worksheet_5_c33.html).
+    -   assignments:
+        -   Assignment 2 is graded; I will release the marks shortly. Appeals by the same procedure as Assignment 1 between Feb 15 and Feb 22.
+        -   Assignment 3 is almost graded.
+        -   Assignment 4 was due last night. Reminders: the late penalty is *1% per hour*; if you are a few minutes late, you will lose 1%, and it is not worth your time or mine to quibble about that. Also, a complete submission is the rendered version of your Quarto document; if your document does not render, it is up to you to find out why and to fix it.
+        -   Assignment 5 opens tonight. You have two weeks to do this one (it is due on Sunday night at the end of reading week).
+    -   lectures: I think I am done with power of hypothesis tests. There are some more examples in the lecture notes, which you can read if you want to gain some extra understanding.
+        -   Tuesday: sign test
+        -   Thursday: normal quantile plot, matched pairs
+    -   Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 8 (power and sample size), 9 (sign test), 11 (matched pairs), 12 (normal quantile plots).
 
-- 2024-01-24 23:30: if you seem to be unable to create new Quarto documents, this is probably because you are running an old version of R Studio on your own computer. You can check what version you are currently running by selecting Help and About R Studio. Mine is 2023.12.0. Versions 2022.07.1 and newer include Quarto in them (including the ability to create new Quarto documents). If yours is older than that, now is a good time to upgrade.
+-   2024-02-08 12:00: [Worksheet 5](worksheet_5_c33.html) for Monday's tutorial.
 
-- 2024-01-24 11:25: We have a midterm date. See the announcement on Quercus for date, time, and place.
+-   2024-02-08 10:50: my solutions to [Assignment 3](a3_c33_2024.html).
 
-- 2024-01-23 11:30: hint for one of the parts of Assignment 2: `geom_line` joins neighbouring points on a graph with a line.
+-   2024-02-06 11:30: On assignment 4, question 2, I was a little bit eager on the delete key! I just put back the actual question and the link to the data file, so that you now know what you were supposed to be doing. Re-download the questions from Quercus if you need to.
 
-- 2024-01-22 13:40: this week:
-  - Assignment 1 was due last night, and remains open until Tuesday with late penalty.
-  - tutorial today, to work through [Worksheet 2](worksheet_2_c33.html).
-  - Assignment 2, on the same material as worksheet 2, opens tonight and is due next Sunday night.
-  - in lectures this week:
-    - Choosing things from dataframes (this is a lot, but it goes fast)
-    - the first part of statistical inference.
-  - More practice problems: chapters 1 through about 6 of [PASIAS](https://ritsokiguess.site/pasias2/).
-  
+-   2024-02-05 15:15: assignment planning: there will be no assignments due during reading week or the weekend of the midterm. That means you'll get two weeks to do each of Assignment 5 (due the Sunday night at the end of reading week) and Assignment 6 (due March 10). The eighth and final assignment will be due on March 24, so you'll get a break at the end of the course.
 
-- 2024-01-18 22:00: I just took a look through the assignment 0's that were handed in:
-    - If you seemed to have done the right thing and I could see it including your graph, you should have 1 mark (out of 1). If you handed something in and for some reason it didn't work, you'll have a mark of zero plus a comment. Mostly this was that I couldn't see your graph. If that happened to you, figure out how to fix it before you hand in assignment 1. (Hint: did you include the "embed-resources" thing described in 2(j) on Worksheet 1? If you had re-downloaded the file you handed in, you would have been able to see that your graph did not make it.)
-    - You can have as many attempts at Assignment 0 as you wish. If you didn't get it the first time, I encourage you to have another go. I intend to take a look in the next day or two at any more that are handed in since I looked just now. 
-    - My past experience is that most of the people who have trouble handing in Assignment 1 properly did not even attempt assignment 0. You have a free chance here to make sure that you understand the procedure.
+-   2024-02-05 11:45: Monday update:
 
-- 2024-01-18 15:30: 
-  - [Worksheet 2](worksheet_2_c33.html), on this week's material, for tutorial on Monday.
-  - The waitlist for this course is now closed. The course is full, so I will not enrol any extra people in the class (and bear in mind that *everyone* on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn't make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible. I try to save some places for 4th years (by UTSC's definition: 14 or more credits).
+    -   Tutorials happening today as usual; see the note three days ago for the worksheet.
+    -   Assignments: there will be a delay in marking assignment #2 (which is my fault), but I now have graders for #2 and #3. #3 was due yesterday, but remains open until Tuesday with late penalty. #4 opens tonight.
+    -   Lectures:
+        -   Tuesday: the rest of the bootstrap stuff, including the code that we skipped last week.
+        -   Thursday: power of hypothesis tests. In with both of those is a procedure for how you might do simulations in general. My take is that statistical theory will only take you so far; you will run into places where the math is beyond you and simulation is the only way to understand what is happening.
+    -   Extra practice problems: PASIAS [chapter 8](https://ritsokiguess.site/pasias2/power.html) for power. For examples of bootstrap distribution of sample mean, look in the Extras to the problems in chapters 6 and 7.
 
-- 2024-01-15 11:00: On the agenda this week:
-  - Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).
-  - Lectures:
-    - making graphs (Tuesday)
-    - numerical summaries, choosing things from dataframes (start) (Thursday)
-  - next week's tutorial (on Monday, a week from today) will feature a worksheet on the things in this week's lectures.
-  - Assignment 2 (opening Monday next week) will also be on those things.
+-   2024-02-02 12:45: [Worksheet 4](worksheet_4_c33.html), for tutorial on Monday.
 
-- 2024-01-15 09:30: reminder: your tutorial is *today*, for practice on Worksheet 1 and handing in "Assignment 0" (the first "real assignment" will be due next week).
+-   2024-02-01 10:30: My solutions to [Assignment 2](a2_c33_2024.html).
 
-- 2024-01-11 15:15: 
-  - [Worksheet 1](worksheet_1_c33.html), for practice on this week's material. 
-  - The two datafiles I forgot earlier: [coffee.txt](coffee.txt), [migraine.txt](migraine.txt). You should be able to find course datafiles at a URL like `http://ritsokiguess.site/datafiles/filename.txt` where you replace `filename.txt` by whatever the file is called.
+-   2024-01-30 13:45: I was sure I had posted [my solutions to assignment 1](a1-c33-2024.html), but they seemed to have disappeared. Click the link just above to see them.
 
-- 2024-01-11 11:45: looking out of my office window, I might as well repeat Tuesday's announcement!
-  - after today's lecture, I will post Worksheet 1, which gives you a chance to work through some of the stuff we've seen so far. You can work through it during tutorial, or before (and bring any problems or confusions to tutorial).
-  - Assignment 1 will open after Monday's tutorial, and will be due the following Sunday night (Jan 21). Expect the same structure each week: working through the worksheet, with help available in tutorial, will prepare you for the next assignment, and doing the assignments (yourself!) will prepare you for the exams.
-  - Data files for today's lecture: [test1.xls](test1.xls), [test1.csv](test1.csv), [test2.xls](test2.xls)
+-   2024-01-29 13:15: Monday update:
 
-- 2024-01-09 10:40: campus is open, I am here, and the weather looks worse than it actually is, so class goes ahead today. On the agenda for this week:
-  - today: course outline and running R
-  - Thursday: reading data from files.
+    -   Assignment 1 has been graded (see below for appeal procedure)
+    -   Assignment 2 was due last night and is open (with late penalty) until Tuesday night
+    -   Assignment 3 opens tonight, and is due next Sunday night.
+    -   Tutorials are happening today as usual; you'll be working on [worksheet 3](worksheet_3_c33.html).
+    -   In lectures this week:
+        -   Tuesday: the rest of one-sample inference
+        -   Thursday: two-sample inference (which is a bit more complicated than you learned in B57). I might get into the bootstrap sampling distribution of the sample mean this week, or it might be next week.
+    -   Practice problems for this week's material: chapters 6 and 7 of [PASIAS](https://ritsokiguess.site/pasias2/).
 
-- 2024-01-08 12:25: first lecture is tomorrow; your ACORN has the location. Here is a short description of how things will go:
-  - Two one-hour lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture, or you can post in the Quercus discussions for the course.
-  - You should be registered in one of the three tutorials (on Mondays, starting next week, in week 2 of classes).
-  - In tutorial, you will get a worksheet to work through yourself (with my answers and extra discussion). There will be at least one TA in attendance. Ask for help if you get stuck or confused.
-  - There will be weekly assignments, with the first one opening on January 15 after tutorial (and due the following Sunday night). There will be about eight assignments altogether, with no assignments due during reading week or around the midterm.
-  - Each item helps you with the next on the list: doing the worksheet will help you with the corresponding assignment, and doing the assignments will help you with the exams.
-  - The first part of the [lecture notes](https://ritsokiguess.site/STAC33/notes.html) contains the course outline. Read this now, to get a more detailed idea of what to expect.
+-   2024-01-29 11:00: Assignment 1 has been graded, and I am about to post the marks.
 
-- 2024-01-03 11:10: lecture 1 is just under a week away. I am assuming that you are completely familiar with basic statistical techniques, such as:
-  - what graphs are available to you for each kind of data, and how to interpret them
-  - what a hypothesis test does and does not do
-  - tests for one and two and more than two means ($t$-tests for the first two and ANOVA for the third)
-  - how to apply all of these to data and to interpret the results
-  - basic probability distributions
-  - we will learn how to do all of the above in R (I assume you know nothing about R).
-  
-  There is very little actual math in this course, but there are a lot of ideas, and there is a lot of explanation of those ideas as they apply to data. Thus, you need to understand the theory that you have learned, but you also need to know how it applies to the data in front of you.
-  
-  If you have learned some R before, you may see that I do things differently from what you learned before. I am expecting you to do things in this course *as I teach them*. All the work in this course can be done using ideas from this course, except where I say otherwise.
+    -   If you wish to appeal your mark, first read sections 3.19 through 3.23 of the detailed [course policies](policies.pdf). For your appeal to be successful, you will need to demonstrate an *error* in the grading: that is to say, you will need to *demonstrate* that your work was actually correct despite not receiving full marks. Read carefully the last sentence of 3.19 as well as the whole of 3.20 in the detailed course policies. You are also warned that I have the right to regrade your entire assignment, and so your mark can go down as well as up.
+    -   To appeal your mark on an assignment, write me an email with the word "appeal", the course code, and the assignment number in the subject line, for assignment 1 *between February 2 and February 9 inclusive*, in which you explain how there was *an error* in the grading of your assignment: that is to say, the grader missed something you wrote that was completely correct according to my solutions or that you argue also was a complete answer to the question. This also includes such things as addition errors in your assignment mark.
 
-- 2023-12-14 14:05: I found room for a few more students, 4th years in either our Major or Specialist programs. I know there are not very many C or D level courses in the winter semester, so these seemed to be the people whose need was greatest.
+-   2024-01-26 12:00: [Worksheet 3](worksheet_3_c33.html) for tutorial on Monday. (Edit 2024-01-27 20:20: thanks to the eagle eyes of one of your TAs, a typo has been corrected.)
 
-- 2023-12-12 16:30: I've been doing some planning for this course. Here's what to expect:
-  - lectures Tuesday and Thursday (1 hour each)
-  - tutorial Monday, in a computer lab, in which you will get a worksheet to work through on the material from the previous week's lecture, with a TA or two around to help if you get stuck or confused. Tutorials start in week 2.
-  - weekly assignments open on Monday night, on the same material as the worksheet you just did, and are due the following Sunday night. The first assignment will open in week 2.
-  - there will be about 8 assignments.
-  - a midterm (2 hours) and a final exam (3 hours) as usual, on dates to be announced. I will move any assignments with due dates close to the midterm, as needed. My exams are always open book.
-  - the worksheets will help you with the assignments, and the assignments will help you with the exams, provided you do them yourself.
+-   2024-01-24 23:30: if you seem to be unable to create new Quarto documents, this is probably because you are running an old version of R Studio on your own computer. You can check what version you are currently running by selecting Help and About R Studio. Mine is 2023.12.0. Versions 2022.07.1 and newer include Quarto in them (including the ability to create new Quarto documents). If yours is older than that, now is a good time to upgrade.
 
-- 2023-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.
+-   2024-01-24 11:25: We have a midterm date. See the announcement on Quercus for date, time, and place.
 
-- 2023-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. *Do not* appeal to me for special treatment. The choice of students to add is mine.
+-   2024-01-23 11:30: hint for one of the parts of Assignment 2: `geom_line` joins neighbouring points on a graph with a line.
 
+-   2024-01-22 13:40: this week:
+
+    -   Assignment 1 was due last night, and remains open until Tuesday with late penalty.
+    -   tutorial today, to work through [Worksheet 2](worksheet_2_c33.html).
+    -   Assignment 2, on the same material as worksheet 2, opens tonight and is due next Sunday night.
+    -   in lectures this week:
+        -   Choosing things from dataframes (this is a lot, but it goes fast)
+        -   the first part of statistical inference.
+    -   More practice problems: chapters 1 through about 6 of [PASIAS](https://ritsokiguess.site/pasias2/).
+
+-   2024-01-18 22:00: I just took a look through the assignment 0's that were handed in:
+
+    -   If you seemed to have done the right thing and I could see it including your graph, you should have 1 mark (out of 1). If you handed something in and for some reason it didn't work, you'll have a mark of zero plus a comment. Mostly this was that I couldn't see your graph. If that happened to you, figure out how to fix it before you hand in assignment 1. (Hint: did you include the "embed-resources" thing described in 2(j) on Worksheet 1? If you had re-downloaded the file you handed in, you would have been able to see that your graph did not make it.)
+    -   You can have as many attempts at Assignment 0 as you wish. If you didn't get it the first time, I encourage you to have another go. I intend to take a look in the next day or two at any more that are handed in since I looked just now.
+    -   My past experience is that most of the people who have trouble handing in Assignment 1 properly did not even attempt assignment 0. You have a free chance here to make sure that you understand the procedure.
+
+-   2024-01-18 15:30:
+
+    -   [Worksheet 2](worksheet_2_c33.html), on this week's material, for tutorial on Monday.
+    -   The waitlist for this course is now closed. The course is full, so I will not enrol any extra people in the class (and bear in mind that *everyone* on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn't make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible. I try to save some places for 4th years (by UTSC's definition: 14 or more credits).
+
+-   2024-01-15 11:00: On the agenda this week:
+
+    -   Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).
+    -   Lectures:
+        -   making graphs (Tuesday)
+        -   numerical summaries, choosing things from dataframes (start) (Thursday)
+    -   next week's tutorial (on Monday, a week from today) will feature a worksheet on the things in this week's lectures.
+    -   Assignment 2 (opening Monday next week) will also be on those things.
+
+-   2024-01-15 09:30: reminder: your tutorial is *today*, for practice on Worksheet 1 and handing in "Assignment 0" (the first "real assignment" will be due next week).
+
+-   2024-01-11 15:15:
+
+    -   [Worksheet 1](worksheet_1_c33.html), for practice on this week's material.
+    -   The two datafiles I forgot earlier: [coffee.txt](coffee.txt), [migraine.txt](migraine.txt). You should be able to find course datafiles at a URL like `http://ritsokiguess.site/datafiles/filename.txt` where you replace `filename.txt` by whatever the file is called.
+
+-   2024-01-11 11:45: looking out of my office window, I might as well repeat Tuesday's announcement!
+
+    -   after today's lecture, I will post Worksheet 1, which gives you a chance to work through some of the stuff we've seen so far. You can work through it during tutorial, or before (and bring any problems or confusions to tutorial).
+    -   Assignment 1 will open after Monday's tutorial, and will be due the following Sunday night (Jan 21). Expect the same structure each week: working through the worksheet, with help available in tutorial, will prepare you for the next assignment, and doing the assignments (yourself!) will prepare you for the exams.
+    -   Data files for today's lecture: [test1.xls](test1.xls), [test1.csv](test1.csv), [test2.xls](test2.xls)
+
+-   2024-01-09 10:40: campus is open, I am here, and the weather looks worse than it actually is, so class goes ahead today. On the agenda for this week:
+
+    -   today: course outline and running R
+    -   Thursday: reading data from files.
+
+-   2024-01-08 12:25: first lecture is tomorrow; your ACORN has the location. Here is a short description of how things will go:
+
+    -   Two one-hour lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture, or you can post in the Quercus discussions for the course.
+    -   You should be registered in one of the three tutorials (on Mondays, starting next week, in week 2 of classes).
+    -   In tutorial, you will get a worksheet to work through yourself (with my answers and extra discussion). There will be at least one TA in attendance. Ask for help if you get stuck or confused.
+    -   There will be weekly assignments, with the first one opening on January 15 after tutorial (and due the following Sunday night). There will be about eight assignments altogether, with no assignments due during reading week or around the midterm.
+    -   Each item helps you with the next on the list: doing the worksheet will help you with the corresponding assignment, and doing the assignments will help you with the exams.
+    -   The first part of the [lecture notes](https://ritsokiguess.site/STAC33/notes.html) contains the course outline. Read this now, to get a more detailed idea of what to expect.
+
+-   2024-01-03 11:10: lecture 1 is just under a week away. I am assuming that you are completely familiar with basic statistical techniques, such as:
+
+    -   what graphs are available to you for each kind of data, and how to interpret them
+    -   what a hypothesis test does and does not do
+    -   tests for one and two and more than two means ($t$-tests for the first two and ANOVA for the third)
+    -   how to apply all of these to data and to interpret the results
+    -   basic probability distributions
+    -   we will learn how to do all of the above in R (I assume you know nothing about R).
+
+    There is very little actual math in this course, but there are a lot of ideas, and there is a lot of explanation of those ideas as they apply to data. Thus, you need to understand the theory that you have learned, but you also need to know how it applies to the data in front of you.
+
+    If you have learned some R before, you may see that I do things differently from what you learned before. I am expecting you to do things in this course *as I teach them*. All the work in this course can be done using ideas from this course, except where I say otherwise.
+
+-   2023-12-14 14:05: I found room for a few more students, 4th years in either our Major or Specialist programs. I know there are not very many C or D level courses in the winter semester, so these seemed to be the people whose need was greatest.
+
+-   2023-12-12 16:30: I've been doing some planning for this course. Here's what to expect:
+
+    -   lectures Tuesday and Thursday (1 hour each)
+    -   tutorial Monday, in a computer lab, in which you will get a worksheet to work through on the material from the previous week's lecture, with a TA or two around to help if you get stuck or confused. Tutorials start in week 2.
+    -   weekly assignments open on Monday night, on the same material as the worksheet you just did, and are due the following Sunday night. The first assignment will open in week 2.
+    -   there will be about 8 assignments.
+    -   a midterm (2 hours) and a final exam (3 hours) as usual, on dates to be announced. I will move any assignments with due dates close to the midterm, as needed. My exams are always open book.
+    -   the worksheets will help you with the assignments, and the assignments will help you with the exams, provided you do them yourself.
+
+-   2023-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.
+
+-   2023-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. *Do not* appeal to me for special treatment. The choice of students to add is mine.
