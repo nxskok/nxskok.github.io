@@ -18,6 +18,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
   - Tutorial this afternoon, with something on cluster analysis.
   - Lecture this week: drawing maps, principal components.
   - Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 39. I thought there was a chapter on drawing maps as well; I will have to see what happened to that.
+  - My solutions to [Assignment 7](a7_d29_2024.html).
   
 
 - 2024-03-22 12:50: Assignment 4 is graded as well, marks coming your way. Appeals as usual between Mar 25 and Apr 1.
