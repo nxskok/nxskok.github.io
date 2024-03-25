@@ -13,6 +13,15 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-03-25 10:35: Monday update:
+  - Assignment 8 (the last one!) was due last night.
+  - Tutorial this afternoon, with something on cluster analysis.
+  - Lecture this week: drawing maps, principal components.
+  - Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 39. I thought there was a chapter on drawing maps as well; I will have to see what happened to that.
+  
+
+- 2024-03-22 12:50: Assignment 4 is graded as well, marks coming your way. Appeals as usual between Mar 25 and Apr 1.
+
 - 2024-03-21 11:45: Assignments 3 and 5 are graded, and I am about to release the grades. Appeals by usual process between Mar 24 and Mar 31.
 
 - 2024-03-18 11:00: Monday update:
