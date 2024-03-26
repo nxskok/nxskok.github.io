@@ -6,5 +6,6 @@ listing:
     - "a?_d29_2024.html"
   fields: [file-modified, filename]
   sort: file-modified
+  date-format: iso
 ---
 
