@@ -6,6 +6,7 @@ listing:
     - "*.csv" 
     - "*.dat"
     - "*.txt"
+    - "*.xlsx"
   fields: [filename]
   sort: filename
 ---
