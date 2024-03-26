@@ -25,18 +25,14 @@ In this course, we learn R, and how to use this software for data organization a
 
 - 2024-03-22 12:45: [worksheet 9](worksheet_9_c33.html) for tutorial on Monday. The third question is on multiple regression; some of the things in it we sped through on Thursday or will not see until Tuesday next week.
 
+
+-   2024-03-21 15:20: for those interested, the actual Box-Cox formula says that you replace the response $y$ by $(y^\lambda - 1)/\lambda$. This introduces $\lambda$ as an extra parameter, which you can estimate by maximum likelihood. The graph that we saw in lecture today is of the (profile) log-likelihood as a function of $\lambda$. If $\lambda \ne 0$, it is a linear function of $y^\lambda$, but as $\lambda \rightarrow 0$, $(y^\lambda - 1)/\lambda \rightarrow \ln y$. To see this, write $y^\lambda = e^{\lambda \; \ln y}$. Remember that $y$ is fixed here; think of the Box-Cox transformation as a function of $\lambda$. As $\lambda$ heads for zero, the limit becomes $0/0$, so use L'Hôpital's rule to show that the limit is $\ln y$.
+
 - 2024-03-18 11:00: Monday update:
   - Tutorial today, featuring [Worksheet 8](worksheet_8_c33.html).
   - Assignment 7 was due last night. Assignment 8 opens tonight and is due next Sunday night.
   - Lectures this week are on regression, starting with the windmill case study on Tuesday.
 
--   2024-03-21 15:20: for those interested, the actual Box-Cox formula says that you replace the response $y$ by $(y^\lambda - 1)/\lambda$. This introduces $\lambda$ as an extra parameter, which you can estimate by maximum likelihood. The graph that we saw in lecture today is of the (profile) log-likelihood as a function of $\lambda$. If $\lambda \ne 0$, it is a linear function of $y^\lambda$, but as $\lambda \rightarrow 0$, $(y^\lambda - 1)/\lambda \rightarrow \ln y$. To see this, write $y^\lambda = e^{\lambda \; \ln y}$. Remember that $y$ is fixed here; think of the Box-Cox transformation as a function of $\lambda$. As $\lambda$ heads for zero, the limit becomes $0/0$, so use L'Hôpital's rule to show that the limit is $\ln y$.
-
--   2024-03-18 11:00: Monday update:
-
-    -   Tutorial today, featuring [Worksheet 8](worksheet_8_c33.html).
-    -   Assignment 7 was due last night. Assignment 8 opens tonight and is due next Sunday night.
-    -   Lectures this week are on regression, starting with the windmill case study on Tuesday.
 
 -   2024-03-15 12:45:
 
