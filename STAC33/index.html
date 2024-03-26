@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.3.361">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,13 +45,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -60,7 +54,6 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -70,33 +63,6 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
 <link rel="stylesheet" href="../styles.css">
 </head>
 
@@ -104,9 +70,9 @@ window.Quarto = {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Ken’s website</span>
     </a>
@@ -118,58 +84,58 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../programs-and-courses/"> 
-<span class="menu-text">Programs and courses</span></a>
+    <a class="nav-link" href="../programs-and-courses/" rel="" target="">
+ <span class="menu-text">Programs and courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../STAC32/"> 
-<span class="menu-text">STAC32</span></a>
+    <a class="nav-link" href="../STAC32/" rel="" target="">
+ <span class="menu-text">STAC32</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../STAC33/"> 
-<span class="menu-text">STAC33</span></a>
+    <a class="nav-link" href="../STAC33/" rel="" target="">
+ <span class="menu-text">STAC33</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../STAD29/"> 
-<span class="menu-text">STAD29</span></a>
+    <a class="nav-link" href="../STAD29/" rel="" target="">
+ <span class="menu-text">STAD29</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../datafiles/"> 
-<span class="menu-text">Data files</span></a>
+    <a class="nav-link" href="../datafiles/" rel="" target="">
+ <span class="menu-text">Data files</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="http://ritsokiguess.site/pasias2/"> 
-<span class="menu-text">PASIAS</span></a>
+    <a class="nav-link" href="http://ritsokiguess.site/pasias2/" rel="" target="">
+ <span class="menu-text">PASIAS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="http://q.utoronto.ca"> 
-<span class="menu-text">Quercus</span></a>
+    <a class="nav-link" href="http://q.utoronto.ca" rel="" target="">
+ <span class="menu-text">Quercus</span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools ms-auto">
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../STAC33/index.html">STAC33</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../STAC33/index.html">STAC33</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -186,13 +152,48 @@ window.Quarto = {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../STAC33/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">STAC33</span></a>
+            <a href="../STAD29/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">STAD29</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../STAD29/all_assignments.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assignment solutions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../STAD29/notes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lecture notes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../STAD29/old_exams.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Old exams</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../STAD29/R-code.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">R code</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../STAC33/index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">STAC33</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../STAC33/all_assignments.html" class="sidebar-item-text sidebar-link">
@@ -235,23 +236,6 @@ window.Quarto = {
       <div class="sidebar-item-container"> 
             <a href="../programs-and-courses/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Programs and Courses</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../programs-and-courses/faq.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Frequently Asked Questions about the Applied Statistics Minor program</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a href="../STAD29/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">STAD29</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -259,26 +243,8 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../STAD29/all_assignments.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Assignment solutions</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAD29/notes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Lecture notes</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAD29/old_exams.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Old exams</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../STAD29/R-code.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">R code</span></a>
+  <a href="../programs-and-courses/faq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Frequently Asked Questions about the Applied Statistics Minor program</span></a>
   </div>
 </li>
       </ul>
@@ -333,7 +299,7 @@ window.Quarto = {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -366,9 +332,7 @@ window.Quarto = {
   </div>
   
 
-
 </header>
-
 
 <section id="introduction-to-applied-statistics" class="level1">
 <h1>Introduction to Applied Statistics</h1>
@@ -377,7 +341,7 @@ window.Quarto = {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="ken.jpg" class="img-fluid figure-img" width="400"></p>
-<figcaption>bad picture</figcaption>
+<figcaption class="figure-caption">bad picture</figcaption>
 </figure>
 </div>
 <p>Welcome to the home page for STAC33. This is the place to look for all things course-related (notes, announcements etc.) except for assignment hand-ins and marks, which will be on <a href="http://q.utoronto.ca">Quercus</a>.</p>
@@ -387,12 +351,230 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="news-most-recent-at-the-top">News (most recent at the top)</h2>
 <ul>
 <li><p>2024-03-22 12:45: <a href="worksheet_9_c33.html">worksheet 9</a> for tutorial on Monday. The third question is on multiple regression; some of the things in it we sped through on Thursday or will not see until Tuesday next week.</p></li>
+<li><p>2024-03-21 15:20: for those interested, the actual Box-Cox formula says that you replace the response <span class="math inline">\(y\)</span> by <span class="math inline">\((y^\lambda - 1)/\lambda\)</span>. This introduces <span class="math inline">\(\lambda\)</span> as an extra parameter, which you can estimate by maximum likelihood. The graph that we saw in lecture today is of the (profile) log-likelihood as a function of <span class="math inline">\(\lambda\)</span>. If <span class="math inline">\(\lambda \ne 0\)</span>, it is a linear function of <span class="math inline">\(y^\lambda\)</span>, but as <span class="math inline">\(\lambda \rightarrow 0\)</span>, <span class="math inline">\((y^\lambda - 1)/\lambda \rightarrow \ln y\)</span>. To see this, write <span class="math inline">\(y^\lambda = e^{\lambda \; \ln y}\)</span>. Remember that <span class="math inline">\(y\)</span> is fixed here; think of the Box-Cox transformation as a function of <span class="math inline">\(\lambda\)</span>. As <span class="math inline">\(\lambda\)</span> heads for zero, the limit becomes <span class="math inline">\(0/0\)</span>, so use L’Hôpital’s rule to show that the limit is <span class="math inline">\(\ln y\)</span>.</p></li>
 <li><p>2024-03-18 11:00: Monday update:</p>
 <ul>
 <li>Tutorial today, featuring <a href="worksheet_8_c33.html">Worksheet 8</a>.</li>
 <li>Assignment 7 was due last night. Assignment 8 opens tonight and is due next Sunday night.</li>
 <li>Lectures this week are on regression, starting with the windmill case study on Tuesday.</li>
 </ul></li>
+<li><p>2024-03-15 12:45:</p>
+<ul>
+<li><a href="worksheet_8_c33.html">Worksheet 8</a> for tutorial on Monday. This will prepare you for Assignment 8, which opens on Monday night.</li>
+<li>Assignment 8 is the last assignment, but I will make worksheets the rest of the way, and there will be tutorials on the remaining Mondays. This is to help you get prepared for the final exam, which will definitely include some things that didn’t make it onto assignments (examples: the regression stuff we do next week, writing functions, Bayesian analysis, and anything else we get to).</li>
+</ul></li>
+<li><p>2024-03-13 11:20: my solutions to <a href="a6_c33_2024.html">assignment 6</a>.</p></li>
+<li><p>2024-03-12 11:00: Power went out here (on campus) for a few minutes, but is now back, whether from actual hydro or from a generator, I don’t know. So class goes ahead, as far as I know.</p></li>
+<li><p>2024-03-11 11:00: Monday update:</p></li>
+<li><p>The midterm is marked. Stats: Q1 51.25 (76%), median 56 (83%), Q3 60 (89%). I will be sharing the marks and the marked midterms shortly. The marks will be on Quercus, and you will be receiving an email from Crowdmark with instructions to see your marked exam.</p></li>
+<li><p>Appeals are the same procedure as for assignments, between Mar 14 and Mar 21 inclusive. <em>Do not expect me to overrule the grader’s judgment</em>; thus, the only thing worth appealing is an actual grading error, such as an answer where the grader didn’t mark something relevant that you wrote, after consideration of my solutions and any comments on your exam. If you have not received full marks on a question part, you should have received a comment on your exam, or it should be obvious from <a href="midterm-20241-c33-answers.pdf">my solutions</a> what is missing or in error, or both of those things. Your appeal must include a clear description of the grading error (not grading judgment). If you appeal a grading judgment, you run the risk that I regrade your whole exam and your mark may go down as well as up. My philosophy on appeals is similar to that of <a href="http://probability.ca/regrade.html">Jeff Rosenthal</a>.</p></li>
+<li><p>Tutorials are happening today; <a href="worksheet_7_c33.html">worksheet 7</a>. If you run out of time, as you probably will, you can leave the last question (the home prices data) until next week. - Assignment 6 was due last night. A reminder that there are <em>no extensions</em>, as stated in the course outline; you have the option of handing the assignment in before Tuesday night and taking the late penalty, or of counting it as one of your two worst assignments (or both). It is up to you to manage your time. - Assignment 7 opens tonight. - Lectures this week:</p>
+<ul>
+<li>Tuesday: the rest of tidying data (there are two other small sections of notes, “tidying extras” and “when pivot-wider goes wrong”).</li>
+<li>Thursday: the first case study, on simple regression.</li>
+</ul></li>
+<li><p>2024-03-09 21:30: the end is in sight: the midterm is now 90% marked. I had a totally thrilling day getting the marking done that I assigned to myself on this exam, and I am now done. I’m not sure I shared <a href="midterm-20241-c33-answers.pdf">my solutions</a>, which are updated with extra comments on the bits that I marked.</p></li>
+<li><p>2024-03-08 21:15: two updates:</p></li>
+<li><p>the midterm is now 62% marked. I spent today working on my other midterm, but tomorrow I plan to get to my marking on this one. The TAs are most of the way through their shares of the marking.</p></li>
+<li><p>there is tutorial on Monday, in which you’ll be working on <a href="worksheet_7_c33.html">this worksheet</a>, which will prepare you for Assignment 7 (that opens on Monday night).</p></li>
+<li><p>2024-03-07 22:15: a little bit of progress today: we are now at 33% done. I have been focusing on my other midterm, which I gave myself more of to mark.</p></li>
+<li><p>2024-03-06 23:00: the midterms are scanned and marking is underway. We are at 29% done.</p></li>
+<li><p>2024-03-05 13:30: the <a href="https://ritsokiguess.site/blogg/posts/2024-02-29-honestly-significant-differences/">blog post about Tukey’s method</a> that I mentioned in lecture, if you want more background.</p></li>
+<li><p>2024-03-04 11:00: Monday update:</p></li>
+<li><p>there is <em>no TA strike</em>. Last night, the university and the TA union came to a “tentative agreement”, which the TAs still have to vote on (so we are not safe yet), but for now there is no strike.</p></li>
+<li><p>on the midterm, questions 2(f) and 2(g) were impossible to answer with the information I gave you, so I have removed them from the exam (which is now out of 67 points).</p></li>
+<li><p>exam marking will begin once the exams have been scanned and uploaded to Crowdmark.</p></li>
+<li><p>reminder that there are <em>no tutorials</em> today. If you have not yet worked through <a href="worksheet_6_c33.html">worksheet 6</a>, now would be a good time to do so, in preparation for Assignment 6 (which is due next Sunday night).</p></li>
+<li><p>lectures this week:</p>
+<ul>
+<li>Tuesday: the rest of analysis of variance</li>
+<li>Thursday: tidying data - extra practice problems in <a href="https://ritsokiguess.site/pasias2/">PASIAS</a>: chapter 13 (analysis of variance), chapter 17 (tidying data). The intervening chapters are on writing reports, on which there is <a href="https://ritsokiguess.site/lecture-notes/reports.html">lecture material</a>, but I won’t be talking about that this time.</li>
+</ul></li>
+<li><p>2024-03-01 12:20:</p>
+<ul>
+<li>my solutions to <a href="a5_c33_2024.html">Assignment 5</a></li>
+<li>if you have to miss the midterm, the weight goes automatically onto the final exam. Complete an <a href="https://www.utsc.utoronto.ca/registrar/absence-declaration-acorn">absence declaration</a> so that there is a record. (added 2024-03-03 20:30: if you already used your absence declaration, I do not need to see any additional documentation, but any other professors affected by your absence might, so be prepared.)</li>
+<li>conversely, if your final exam is better than your midterm, the final exam counts instead of your midterm.</li>
+<li>there will be <em>no tutorials</em> on Monday (regardless of whether the TAs are on strike) because if the TAs are working, they will be marking your midterm.</li>
+</ul></li>
+<li><p>2024-02-26 11:35: Monday update:</p>
+<ul>
+<li>Midterm time and location is on an announcement on Quercus labelled Midterm. See the notes from Feb 20 and 22 for course coverage and exam procedures.</li>
+<li>Assignment 5 was due last night. Assignment 6 opens tonight; you have two weeks to complete this (so that it is not due the same weekend as the midterm), but the material on it is on the midterm, so you would do well to work on it as part of your preparation.</li>
+<li>Tutorial today, where you have the chance to ask subject-matter questions of your TAs as well as work on <a href="worksheet_6_c33.html">worksheet 6</a>, which will prepare you for Assignment 6, which will help you prepare for the midterm.</li>
+<li>See the Feb 20 note for what is on the midterm.</li>
+<li>Lectures this week:
+<ul>
+<li>Tuesday: matched pairs sign test, Mood median test</li>
+<li>Thursday: analysis of variance</li>
+</ul></li>
+<li>Extra practice problems in <a href="https://ritsokiguess.site/pasias2/">PASIAS</a> (the chapters get out of order here):
+<ul>
+<li>Chapter 12: normal quantile plots</li>
+<li>Chapter 11: matched pairs</li>
+<li>Chapter 10: Mood’s median test</li>
+<li>Chapter 13: analysis of variance.</li>
+</ul></li>
+<li>if you have questions as you prepare for the midterm, post them on the <a href="https://q.utoronto.ca/courses/333288/discussion_topics">Quercus discussion board</a> or catch me after lecture.</li>
+</ul></li>
+<li><p>2024-02-22 21:00: one more thing today: <a href="worksheet_6_c33.html">Worksheet 6</a>, for tutorial on Monday. If you have subject-matter questions about the material on the exam, you can also ask your TA about those on Monday. If you have administrative questions about the exam that are not answered elsewhere, put them on the Quercus discussion board.</p></li>
+<li><p>2024-02-22 12:05:</p>
+<ul>
+<li>the midterm is open-book. You can bring what you wish, such as your lecture notes, assignments, my slides, assignment solutions, etc, <strong>printed</strong> (no computers or other devices at the exam). You will need to organize whatever you bring, so that you can quickly find what you are looking for (and so there is an upper limit on what there is any point in bringing). If you are not well prepared, you can expect to run out of time; you will not have time to look everything up or go searching for things.</li>
+<li>the exam is on its way to be printed. There are 6 questions, with a total of 30 parts worth 73 points altogether (the parts are typically worth 2 or 3 points and are about as much work as you would do on an assignment for 2 or 3 points). Expect to be writing code and explanations (for example, I might ask for code to do a task, or give you code or output and ask questions about it).</li>
+<li>at the exam, you will of course get an exam paper with spaces to write your answers, but you also get a booklet with numbered Figures to refer to during the exam. The exam will say things like “In Figure 10, what is…” and you will need to find Figure 10 in the other booklet.</li>
+<li>this is a Crowdmark exam, so it is best to use a pen or a <em>sharp</em> pencil, otherwise we may have trouble reading your answers.</li>
+<li>looking ahead to next week, there will be a tutorial on Monday for which there will be a worksheet (on the material from last week), and there will be lectures on Tuesday and Thursday on new material. This lecture material will not be on the midterm, but you can count on it being on the final exam, and it will help you understand what follows in the course.</li>
+</ul></li>
+<li><p>2024-02-20 13:40 (edit 14:05): ok, so there is a Tuesday update instead:</p>
+<ul>
+<li>Assignments 3 and 4 are graded, and I will post the marks in a moment. Appeals by the usual procedure, between Feb 23 and Mar 1 (for both). There was some work that was rather obviously AI-generated; I will decide whether I want to pursue academic integrity violations on any of it. A reminder that the sorts of things I ask you to do yourself on assignments are the same sorts of things you will need to do yourself on the exams, so by using anything other than your own brain and the course materials on the assignments, you are <em>setting yourself up for failure</em> on the exams.</li>
+<li>Assignment 3 appears to be graded; I will post the marks once I have confirmation from the grader. (edit: it has been graded.)</li>
+<li>Coverage for the midterm is what we did in lecture before reading week, up to and including the “cliffhanger” (that is to say, the matched pairs <span class="math inline">\(t\)</span>-test).</li>
+</ul></li>
+<li><p>2024-02-18 22:15: A Sunday night “Monday update” to remind you that this upcoming week is Reading Week, so there are no tutorials tomorrow or lectures on Tuesday or Thursday. We resume on the 26th.</p></li>
+<li><p>2024-02-15 13:30: in what seems like a repeat of previous announcements, it is snowing, but I am here and campus is open, so class goes ahead. Today, normal quantile plots and however much of matched pairs we get to.</p></li>
+<li><p>2024-02-14 13:30: My solutions to <a href="a4_c33_2024.html">Assignment 4</a>.</p></li>
+<li><p>2024-02-12 10:50: Monday update:</p>
+<ul>
+<li>tutorials today; the <a href="worksheet_5_c33.html">worksheet</a>.</li>
+<li>assignments:
+<ul>
+<li>Assignment 2 is graded; I will release the marks shortly. Appeals by the same procedure as Assignment 1 between Feb 15 and Feb 22.</li>
+<li>Assignment 3 is almost graded.</li>
+<li>Assignment 4 was due last night. Reminders: the late penalty is <em>1% per hour</em>; if you are a few minutes late, you will lose 1%, and it is not worth your time or mine to quibble about that. Also, a complete submission is the rendered version of your Quarto document; if your document does not render, it is up to you to find out why and to fix it.</li>
+<li>Assignment 5 opens tonight. You have two weeks to do this one (it is due on Sunday night at the end of reading week).</li>
+</ul></li>
+<li>lectures: I think I am done with power of hypothesis tests. There are some more examples in the lecture notes, which you can read if you want to gain some extra understanding.
+<ul>
+<li>Tuesday: sign test</li>
+<li>Thursday: normal quantile plot, matched pairs</li>
+</ul></li>
+<li>Extra practice problems: <a href="https://ritsokiguess.site/pasias2/">PASIAS</a> chapter 8 (power and sample size), 9 (sign test), 11 (matched pairs), 12 (normal quantile plots).</li>
+</ul></li>
+<li><p>2024-02-08 12:00: <a href="worksheet_5_c33.html">Worksheet 5</a> for Monday’s tutorial.</p></li>
+<li><p>2024-02-08 10:50: my solutions to <a href="a3_c33_2024.html">Assignment 3</a>.</p></li>
+<li><p>2024-02-06 11:30: On assignment 4, question 2, I was a little bit eager on the delete key! I just put back the actual question and the link to the data file, so that you now know what you were supposed to be doing. Re-download the questions from Quercus if you need to.</p></li>
+<li><p>2024-02-05 15:15: assignment planning: there will be no assignments due during reading week or the weekend of the midterm. That means you’ll get two weeks to do each of Assignment 5 (due the Sunday night at the end of reading week) and Assignment 6 (due March 10). The eighth and final assignment will be due on March 24, so you’ll get a break at the end of the course.</p></li>
+<li><p>2024-02-05 11:45: Monday update:</p>
+<ul>
+<li>Tutorials happening today as usual; see the note three days ago for the worksheet.</li>
+<li>Assignments: there will be a delay in marking assignment #2 (which is my fault), but I now have graders for #2 and #3. #3 was due yesterday, but remains open until Tuesday with late penalty. #4 opens tonight.</li>
+<li>Lectures:
+<ul>
+<li>Tuesday: the rest of the bootstrap stuff, including the code that we skipped last week.</li>
+<li>Thursday: power of hypothesis tests. In with both of those is a procedure for how you might do simulations in general. My take is that statistical theory will only take you so far; you will run into places where the math is beyond you and simulation is the only way to understand what is happening.</li>
+</ul></li>
+<li>Extra practice problems: PASIAS <a href="https://ritsokiguess.site/pasias2/power.html">chapter 8</a> for power. For examples of bootstrap distribution of sample mean, look in the Extras to the problems in chapters 6 and 7.</li>
+</ul></li>
+<li><p>2024-02-02 12:45: <a href="worksheet_4_c33.html">Worksheet 4</a>, for tutorial on Monday.</p></li>
+<li><p>2024-02-01 10:30: My solutions to <a href="a2_c33_2024.html">Assignment 2</a>.</p></li>
+<li><p>2024-01-30 13:45: I was sure I had posted <a href="a1-c33-2024.html">my solutions to assignment 1</a>, but they seemed to have disappeared. Click the link just above to see them.</p></li>
+<li><p>2024-01-29 13:15: Monday update:</p>
+<ul>
+<li>Assignment 1 has been graded (see below for appeal procedure)</li>
+<li>Assignment 2 was due last night and is open (with late penalty) until Tuesday night</li>
+<li>Assignment 3 opens tonight, and is due next Sunday night.</li>
+<li>Tutorials are happening today as usual; you’ll be working on <a href="worksheet_3_c33.html">worksheet 3</a>.</li>
+<li>In lectures this week:
+<ul>
+<li>Tuesday: the rest of one-sample inference</li>
+<li>Thursday: two-sample inference (which is a bit more complicated than you learned in B57). I might get into the bootstrap sampling distribution of the sample mean this week, or it might be next week.</li>
+</ul></li>
+<li>Practice problems for this week’s material: chapters 6 and 7 of <a href="https://ritsokiguess.site/pasias2/">PASIAS</a>.</li>
+</ul></li>
+<li><p>2024-01-29 11:00: Assignment 1 has been graded, and I am about to post the marks.</p>
+<ul>
+<li>If you wish to appeal your mark, first read sections 3.19 through 3.23 of the detailed <a href="policies.pdf">course policies</a>. For your appeal to be successful, you will need to demonstrate an <em>error</em> in the grading: that is to say, you will need to <em>demonstrate</em> that your work was actually correct despite not receiving full marks. Read carefully the last sentence of 3.19 as well as the whole of 3.20 in the detailed course policies. You are also warned that I have the right to regrade your entire assignment, and so your mark can go down as well as up.</li>
+<li>To appeal your mark on an assignment, write me an email with the word “appeal”, the course code, and the assignment number in the subject line, for assignment 1 <em>between February 2 and February 9 inclusive</em>, in which you explain how there was <em>an error</em> in the grading of your assignment: that is to say, the grader missed something you wrote that was completely correct according to my solutions or that you argue also was a complete answer to the question. This also includes such things as addition errors in your assignment mark.</li>
+</ul></li>
+<li><p>2024-01-26 12:00: <a href="worksheet_3_c33.html">Worksheet 3</a> for tutorial on Monday. (Edit 2024-01-27 20:20: thanks to the eagle eyes of one of your TAs, a typo has been corrected.)</p></li>
+<li><p>2024-01-24 23:30: if you seem to be unable to create new Quarto documents, this is probably because you are running an old version of R Studio on your own computer. You can check what version you are currently running by selecting Help and About R Studio. Mine is 2023.12.0. Versions 2022.07.1 and newer include Quarto in them (including the ability to create new Quarto documents). If yours is older than that, now is a good time to upgrade.</p></li>
+<li><p>2024-01-24 11:25: We have a midterm date. See the announcement on Quercus for date, time, and place.</p></li>
+<li><p>2024-01-23 11:30: hint for one of the parts of Assignment 2: <code>geom_line</code> joins neighbouring points on a graph with a line.</p></li>
+<li><p>2024-01-22 13:40: this week:</p>
+<ul>
+<li>Assignment 1 was due last night, and remains open until Tuesday with late penalty.</li>
+<li>tutorial today, to work through <a href="worksheet_2_c33.html">Worksheet 2</a>.</li>
+<li>Assignment 2, on the same material as worksheet 2, opens tonight and is due next Sunday night.</li>
+<li>in lectures this week:
+<ul>
+<li>Choosing things from dataframes (this is a lot, but it goes fast)</li>
+<li>the first part of statistical inference.</li>
+</ul></li>
+<li>More practice problems: chapters 1 through about 6 of <a href="https://ritsokiguess.site/pasias2/">PASIAS</a>.</li>
+</ul></li>
+<li><p>2024-01-18 22:00: I just took a look through the assignment 0’s that were handed in:</p>
+<ul>
+<li>If you seemed to have done the right thing and I could see it including your graph, you should have 1 mark (out of 1). If you handed something in and for some reason it didn’t work, you’ll have a mark of zero plus a comment. Mostly this was that I couldn’t see your graph. If that happened to you, figure out how to fix it before you hand in assignment 1. (Hint: did you include the “embed-resources” thing described in 2(j) on Worksheet 1? If you had re-downloaded the file you handed in, you would have been able to see that your graph did not make it.)</li>
+<li>You can have as many attempts at Assignment 0 as you wish. If you didn’t get it the first time, I encourage you to have another go. I intend to take a look in the next day or two at any more that are handed in since I looked just now.</li>
+<li>My past experience is that most of the people who have trouble handing in Assignment 1 properly did not even attempt assignment 0. You have a free chance here to make sure that you understand the procedure.</li>
+</ul></li>
+<li><p>2024-01-18 15:30:</p>
+<ul>
+<li><a href="worksheet_2_c33.html">Worksheet 2</a>, on this week’s material, for tutorial on Monday.</li>
+<li>The waitlist for this course is now closed. The course is full, so I will not enrol any extra people in the class (and bear in mind that <em>everyone</em> on the waitlist wanted to get into the course, so your reasons for getting in are not special). If you didn’t make it this year, you are welcome to try again next year, but be aware that you will need to register as early as possible. I try to save some places for 4th years (by UTSC’s definition: 14 or more credits).</li>
+</ul></li>
+<li><p>2024-01-15 11:00: On the agenda this week:</p>
+<ul>
+<li>Assignment 1, on the stuff you are doing on the worksheet today, will open tonight and be due next Sunday night (the 21st).</li>
+<li>Lectures:
+<ul>
+<li>making graphs (Tuesday)</li>
+<li>numerical summaries, choosing things from dataframes (start) (Thursday)</li>
+</ul></li>
+<li>next week’s tutorial (on Monday, a week from today) will feature a worksheet on the things in this week’s lectures.</li>
+<li>Assignment 2 (opening Monday next week) will also be on those things.</li>
+</ul></li>
+<li><p>2024-01-15 09:30: reminder: your tutorial is <em>today</em>, for practice on Worksheet 1 and handing in “Assignment 0” (the first “real assignment” will be due next week).</p></li>
+<li><p>2024-01-11 15:15:</p>
+<ul>
+<li><a href="worksheet_1_c33.html">Worksheet 1</a>, for practice on this week’s material.</li>
+<li>The two datafiles I forgot earlier: <a href="coffee.txt">coffee.txt</a>, <a href="migraine.txt">migraine.txt</a>. You should be able to find course datafiles at a URL like <code>http://ritsokiguess.site/datafiles/filename.txt</code> where you replace <code>filename.txt</code> by whatever the file is called.</li>
+</ul></li>
+<li><p>2024-01-11 11:45: looking out of my office window, I might as well repeat Tuesday’s announcement!</p>
+<ul>
+<li>after today’s lecture, I will post Worksheet 1, which gives you a chance to work through some of the stuff we’ve seen so far. You can work through it during tutorial, or before (and bring any problems or confusions to tutorial).</li>
+<li>Assignment 1 will open after Monday’s tutorial, and will be due the following Sunday night (Jan 21). Expect the same structure each week: working through the worksheet, with help available in tutorial, will prepare you for the next assignment, and doing the assignments (yourself!) will prepare you for the exams.</li>
+<li>Data files for today’s lecture: <a href="test1.xls">test1.xls</a>, <a href="test1.csv">test1.csv</a>, <a href="test2.xls">test2.xls</a></li>
+</ul></li>
+<li><p>2024-01-09 10:40: campus is open, I am here, and the weather looks worse than it actually is, so class goes ahead today. On the agenda for this week:</p>
+<ul>
+<li>today: course outline and running R</li>
+<li>Thursday: reading data from files.</li>
+</ul></li>
+<li><p>2024-01-08 12:25: first lecture is tomorrow; your ACORN has the location. Here is a short description of how things will go:</p>
+<ul>
+<li>Two one-hour lectures a week, Tuesday and Thursday. I will have office hours after each lecture, or you can talk with me at the end of lecture, or you can post in the Quercus discussions for the course.</li>
+<li>You should be registered in one of the three tutorials (on Mondays, starting next week, in week 2 of classes).</li>
+<li>In tutorial, you will get a worksheet to work through yourself (with my answers and extra discussion). There will be at least one TA in attendance. Ask for help if you get stuck or confused.</li>
+<li>There will be weekly assignments, with the first one opening on January 15 after tutorial (and due the following Sunday night). There will be about eight assignments altogether, with no assignments due during reading week or around the midterm.</li>
+<li>Each item helps you with the next on the list: doing the worksheet will help you with the corresponding assignment, and doing the assignments will help you with the exams.</li>
+<li>The first part of the <a href="https://ritsokiguess.site/STAC33/notes.html">lecture notes</a> contains the course outline. Read this now, to get a more detailed idea of what to expect.</li>
+</ul></li>
+<li><p>2024-01-03 11:10: lecture 1 is just under a week away. I am assuming that you are completely familiar with basic statistical techniques, such as:</p>
+<ul>
+<li>what graphs are available to you for each kind of data, and how to interpret them</li>
+<li>what a hypothesis test does and does not do</li>
+<li>tests for one and two and more than two means (<span class="math inline">\(t\)</span>-tests for the first two and ANOVA for the third)</li>
+<li>how to apply all of these to data and to interpret the results</li>
+<li>basic probability distributions</li>
+<li>we will learn how to do all of the above in R (I assume you know nothing about R).</li>
+</ul>
+<p>There is very little actual math in this course, but there are a lot of ideas, and there is a lot of explanation of those ideas as they apply to data. Thus, you need to understand the theory that you have learned, but you also need to know how it applies to the data in front of you.</p>
+<p>If you have learned some R before, you may see that I do things differently from what you learned before. I am expecting you to do things in this course <em>as I teach them</em>. All the work in this course can be done using ideas from this course, except where I say otherwise.</p></li>
+<li><p>2023-12-14 14:05: I found room for a few more students, 4th years in either our Major or Specialist programs. I know there are not very many C or D level courses in the winter semester, so these seemed to be the people whose need was greatest.</p></li>
+<li><p>2023-12-12 16:30: I’ve been doing some planning for this course. Here’s what to expect:</p>
+<ul>
+<li>lectures Tuesday and Thursday (1 hour each)</li>
+<li>tutorial Monday, in a computer lab, in which you will get a worksheet to work through on the material from the previous week’s lecture, with a TA or two around to help if you get stuck or confused. Tutorials start in week 2.</li>
+<li>weekly assignments open on Monday night, on the same material as the worksheet you just did, and are due the following Sunday night. The first assignment will open in week 2.</li>
+<li>there will be about 8 assignments.</li>
+<li>a midterm (2 hours) and a final exam (3 hours) as usual, on dates to be announced. I will move any assignments with due dates close to the midterm, as needed. My exams are always open book.</li>
+<li>the worksheets will help you with the assignments, and the assignments will help you with the exams, provided you do them yourself.</li>
+</ul></li>
+<li><p>2023-08-10 13:30: I have asked to add some students to the course. These are all UTSC students, 4th years who joined the waitlist before August 9, and 3rd years who joined the waitlist before 10:30am on July 11. If you are still on the waitlist after this has been processed, you will have to take your chances.</p></li>
+<li><h1 id="i-am-aware-that-the-course-has-a-longish-waitlist.-i-have-room-to-add-a-few-more-students.-i-will-be-prioritizing-4th-years-since-i-know-that-majorsminorsspecialists-require-a-certain-number-of-upper-level-courses-to-complete-their-programs.-if-there-is-room-to-admit-3rd-years-i-will-do-so-in-the-order-that-they-joined-the-waitlist.-this-is-historically-a-popular-class-and-it-is-up-to-you-to-register-for-it-as-early-as-possible-if-you-want-to-get-in.-do-not-appeal-to-me-for-special-treatment.-the-choice-of-students-to-add-is-mine.">2023-08-10 12:50: I am aware that the course has a longish waitlist. I have room to add a few more students. I will be prioritizing 4th years, since I know that majors/minors/specialists require a certain number of upper-level courses to complete their programs. If there is room to admit 3rd years, I will do so in the order that they joined the waitlist. This is (historically) a popular class, and it is up to you to register for it as early as possible if you want to get in. <em>Do not</em> appeal to me for special treatment. The choice of students to add is mine.</h1></li>
 <li><p>2024-03-15 12:45:</p>
 <ul>
 <li><a href="worksheet_8_c33.html">Worksheet 8</a> for tutorial on Monday. This will prepare you for Assignment 8, which opens on Monday night.</li>
@@ -708,9 +890,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -720,17 +903,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -743,125 +917,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -905,7 +960,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -931,32 +985,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1017,7 +1045,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-
 
 
 
