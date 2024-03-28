@@ -15,7 +15,14 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2024-03-26 13:45: there was a Monday update here, which I suspect is still on my other computer.
+- 2024-03-28 12:00: Assignment 7 has been marked. Appeals by usual procedure between Mar 31 and Apr 7. I forgot to ask someone to mark Assignment 6; that is now in progress.
+
+- 2024-03-27 12:50: ok, a Wednesday update instead:
+  - Assignment 8 was due on Sunday and closed yesterday night. [My solutions](a8_c33_2024.html). We are now done with assignments.
+  - Lectures this week:
+    - Tuesday: finish the asphalt case study plus regression with categorical variables (done)
+    - Thursday: functions.
+  - Extra practice problems: there will be a worksheet on this stuff for next week, also [PASIAS](https://ritsokiguess.site/pasias2/) chapters 19, 20, and 22. (PASIAS also has material on dates and times, which we won't do in this course.)
 
 - 2024-03-22 12:45: [worksheet 9](worksheet_9_c33.html) for tutorial on Monday. The third question is on multiple regression; some of the things in it we sped through on Thursday or will not see until Tuesday next week.
 
