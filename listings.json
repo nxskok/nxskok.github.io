@@ -1,6 +1,10 @@
 [
   {
-    "listing": "/STAD29/all_assignments.html",
+    "listing": "/datafiles/index.html",
+    "items": []
+  },
+  {
+    "listing": "/STAC32/all_assignments.html",
     "items": []
   },
   {
@@ -12,11 +16,7 @@
     "items": []
   },
   {
-    "listing": "/datafiles/index.html",
-    "items": []
-  },
-  {
-    "listing": "/STAC32/all_assignments.html",
+    "listing": "/STAD29/all_assignments.html",
     "items": []
   },
   {
