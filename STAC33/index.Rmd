@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-03-28 21:00: it looks like we have a [worksheet 10](worksheet_10_c33.html) for the final tutorial on Monday.
+
 - 2024-03-28 12:00: Assignment 7 has been marked. Appeals by usual procedure between Mar 31 and Apr 7. I forgot to ask someone to mark Assignment 6; that is now in progress.
 
 - 2024-03-27 12:50: ok, a Wednesday update instead:
