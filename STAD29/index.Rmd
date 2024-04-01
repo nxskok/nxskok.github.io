@@ -14,6 +14,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 ## News (newest first)
 
 - 2024-04-01 12:15: the last Monday update:
+  - I will let you know when assignments 7 and 8 are marked.
+  - the last tutorial this afternoon, with something on principal components and something (maybe) on maps. 
+  - a note that leaflet maps and pdf don't go well together (leaflet maps are actually html), so look at the html notes and PASIAS chapter for the stuff on maps.
+  - lecture this week: the end of principal components, factor analysis, log-linear models. (The last is  like regression, but for tables of frequencies. The technique is new, but the ideas should be mainly familiar. I think this is a nice way to end the course.)
+  - Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapters 41 and 42. (We are not doing multidimensional scaling this time.)
 
 - 2024-03-25 10:35: Monday update:
   - Assignment 8 (the last one!) was due last night.
