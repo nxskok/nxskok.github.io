@@ -13,16 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2024-03-28 12:00: Assignment 6 is graded. Appeals by usual procedure between Mar 31 and Apr 7.
-
-
-- 2024-03-27 13:00: Assignment 8 is now closed, and we are done with assignments. [My solutions](a8_d29_2024.html).
+- 2024-04-01 12:15: the last Monday update:
 
 - 2024-03-25 10:35: Monday update:
   - Assignment 8 (the last one!) was due last night.
   - Tutorial this afternoon, with something on cluster analysis.
-  - Lecture this week: drawing maps, principal components. 
-  - Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 40. I thought there was a chapter on drawing maps as well; I will have to see what happened to that. (Added 2024-03-27: fixed. Chapter 38 is on drawing maps.)
+  - Lecture this week: drawing maps, principal components.
+  - Extra practice problems: [PASIAS](https://ritsokiguess.site/pasias2/) chapter 39. I thought there was a chapter on drawing maps as well; I will have to see what happened to that.
   - My solutions to [Assignment 7](a7_d29_2024.html).
   
 
