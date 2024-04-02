@@ -350,12 +350,13 @@ ul.task-list li input[type="checkbox"] {
 <section id="news-most-recent-at-the-top" class="level2">
 <h2 class="anchored" data-anchor-id="news-most-recent-at-the-top">News (most recent at the top)</h2>
 <ul>
-<li>2024-04-02 15:05: I got done in by having an old version of Stan. The code that I gave you (for estimating the <span class="math inline">\(\lambda\)</span> of a Poisson distribution) no longer compiles, because the way you declare arrays in Stan has changed. In what I called <code>poisson1.stan</code>, in the data section, remove</li>
+<li>2024-04-02 15:05: I got done in by having an old version of Stan. (Thanks to the student who alerted me to this.) The code that I gave you (for estimating the <span class="math inline">\(\lambda\)</span> of a Poisson distribution) no longer compiles, because the way you declare arrays in Stan has changed. In what I called <code>poisson1.stan</code>, in the data section, remove</li>
 </ul>
 <pre><code>int x[8];</code></pre>
 <p>and replace it with</p>
 <pre><code>array[8] int x;</code></pre>
 <p>The new form of array declaration is the special word <code>array</code>, with the size of the array in square brackets after it (no space), then the type of elements in the array (here <code>int</code> or integer), then finally the name of the array. Likewise, in the second version of the Poisson example, you need <code>array[n] int x;</code> instead of <code>int x[n];</code>. There are also some changes to the ANOVA example (that we will see in class on Thursday); by the time you read this, the lecture notes will have updated to reflect the changes (there are a couple) that you will need to make from my original notes.</p>
+<p>I now have a properly updated version of all the parts to Stan.</p>
 <ul>
 <li><p>2024-04-01 12:00: the last (I think) Monday update for the semester:</p>
 <ul>
