@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-04-03 21:45: I realized (after thinking about it) that we covered log-linear modelling at too high a speed this afternoon for it to be fair to put a question on that on the final exam (so I won't). Expect, though, one or both of principal components and factor analysis to make an appearance.
+
 - 2024-04-01 12:15: the last Monday update:
   - I will let you know when assignments 7 and 8 are marked.
   - the last tutorial this afternoon, with something on principal components and something (maybe) on maps. 
