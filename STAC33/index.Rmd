@@ -15,6 +15,11 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-04-04 15:10: the Stan code that I used in class. These may well download to your hard disk, and then you can do what you want with them:
+  - [Poisson 1](http://ritsokiguess.site/lecture-notes/poisson1.stan)
+  - [Poisson 2](http://ritsokiguess.site/lecture-notes/poisson2.stan)
+  - [Jumping rats](http://ritsokiguess.site/lecture-notes/anova.stan)
+
 - 2024-04-02 15:05: I got done in by having an old version of Stan. (Thanks to the student who alerted me to this.) The code that I gave you (for estimating the $\lambda$ of a Poisson distribution) no longer compiles, because the way you declare arrays in Stan has changed. In what I called `poisson1.stan`, in the data section, remove
 
 ```
