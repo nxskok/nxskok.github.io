@@ -15,7 +15,29 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2024-04-04 21:00: there is now a [Worksheet 11](worksheet_11_c33.html) on Stan. I don't think this will run on `r.datatools`, so you'll need to be running this on R on your own machine.
+
+- 2024-04-04 21:00: there is now a [Worksheet 11](worksheet_11_c33.html) on Stan. I don't think this will run on `r.datatools`, so you'll need to be running this on R on your own machine. Reminder that there are no tutorials on Monday (Monday is a makeup day for classes that missed a day on Good Friday).
+
+- 2024-04-04 15:10: the Stan code that I used in class. These may well download to your hard disk, and then you can do what you want with them:
+  - [Poisson 1](http://ritsokiguess.site/lecture-notes/poisson1.stan)
+  - [Poisson 2](http://ritsokiguess.site/lecture-notes/poisson2.stan)
+  - [Jumping rats](http://ritsokiguess.site/lecture-notes/anova.stan)
+
+- 2024-04-02 15:05: I got done in by having an old version of Stan. (Thanks to the student who alerted me to this.) The code that I gave you (for estimating the $\lambda$ of a Poisson distribution) no longer compiles, because the way you declare arrays in Stan has changed. In what I called `poisson1.stan`, in the data section, remove
+
+```
+int x[8];
+```
+
+and replace it with
+
+```
+array[8] int x;
+```
+
+The new form of array declaration is the special word `array`, with the size of the array in square brackets after it (no space), then the type of elements in the array (here `int` or integer), then finally the name of the array. Likewise, in the second version of the Poisson example, you need `array[n] int x;` instead of `int x[n];`. There are also some changes to the ANOVA example (that we will see in class on Thursday); by the time you read this, the lecture notes will have updated to reflect the changes (there are a couple) that you will need to make from my original notes.
+
+I now have a properly updated version of all the parts to Stan.
 
 - 2024-04-01 12:00: the last (I think) Monday update for the semester:
   - Assignments 6 and 8 are graded, and I will post the marks shortly. Appeals by usual process between Apr 4 and 9.
