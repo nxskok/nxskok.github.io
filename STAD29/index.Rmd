@@ -13,6 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-04-08 21:50: I have had a busy weekend finishing off your exam. In case you are curious:
+  - there is nothing on log-linear models as promised
+  - anything else from the course (that appeared in lectures) is fair game, with an emphasis on the material we talked about after the midterm
+  - there are currently 7 questions with a total of 42 parts worth a total of 90 points
+  - I probably will do a fair amount of editing between now and sending it off for printing, but don't expect the number of parts or points to change much.
+
+- 2024-04-05 13:20: Assignment 7 is marked, appeals as usual between Apr 7 and 12.
+
 - 2024-04-03 21:45: I realized (after thinking about it) that we covered log-linear modelling at too high a speed this afternoon for it to be fair to put a question on that on the final exam (so I won't). Expect, though, one or both of principal components and factor analysis to make an appearance.
 
 - 2024-04-01 12:15: the last Monday update:
