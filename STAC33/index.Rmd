@@ -15,6 +15,7 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-04-09 15:30: I think your final exam is done. For those interested: it has 8 questions with a total of 37 parts worth a total of 92 points. Some of it you will need to write code for; some of it will be written explanations.
 
 - 2024-04-04 21:00: there is now a [Worksheet 11](worksheet_11_c33.html) on Stan. I don't think this will run on `r.datatools`, so you'll need to be running this on R on your own machine. Reminder that there are no tutorials on Monday (Monday is a makeup day for classes that missed a day on Good Friday).
 
