@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-04-15 12:00: 
+  - Assignment 8 is graded, and I will post the marks shortly. Appeals by usual procedure between April 16 and 19.
+  - Rules for the exam are the same as for all my exams. See note 2024-02-22 11:50 for a guide if you unsure. Expect questions from anywhere in the course, but with an emphasis on stuff that we did in lecture after the midterm.
+
 - 2024-04-12 15:45: pre-exam office hours on *Monday* from 11:00am to about 1:00pm, depending how busy things are.
 
 - 2024-04-10 17:55: Exam off for printing. It finished up as 7 questions with 40 parts and 87 points (I took a couple of things out). Coverage is everything from the [lecture notes](https://ritsokiguess.site/STAD29/notes.html) except for "durations, intervals, and periods" and also log-linear models as promised. The rules are the same as for the midterm: bring printed material as you wish (organize it or you will run out of time trying to find things), and a non-programmable non-communicating calculator if you wish. There is more explanation than coding (as is usual for this course).
