@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2024-04-20 22:55: I spent most of the day marking my share of the final exam in my other course, but I did make some progress on our exam after that; we are now at the grand total of 5%. Not all of the exams are scanned, so I have marked 4(a) and 4(b) on the ones I do have, and will go back and finish those same questions on the other exams when I have them (endeavouring to remember what I did so that I can be consistent).
+
+- 2024-04-19 22:00: Most of the exams are scanned, and I plan to start marking over the weekend. Our TAs will also be marking some of it. [My solutions](final-20241-d29-solutions-figures.pdf), with the Figures at the back.
+
 - 2024-04-15 12:00: 
   - Assignment 8 is graded, and I will post the marks shortly. Appeals by usual procedure between April 16 and 19.
   - Rules for the exam are the same as for all my exams. See note 2024-02-22 11:50 for a guide if you unsure. Expect questions from anywhere in the course, but with an emphasis on stuff that we did in lecture after the midterm.

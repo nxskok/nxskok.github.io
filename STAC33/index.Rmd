@@ -15,6 +15,10 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2024-04-20 22:55: progress report: 20% done. I finished my share of the marking, spending an eternity marking 7(a) for which there were a thousand and one ways to get it right (or not). There are smatterings of progress on most of the questions, as most of the graders have started their work.
+
+- 2024-04-19 21:55: the final exam has been scanned, and marking has begun. We are now at 11% done, which I think is mostly me so far. [My solutions](final-20241-c33-solutions-figures.pdf), with the Figures at the back if you need them.
+
 - 2024-04-12 15:45: 
   - pre-exam office hours on *Monday* from 11:00am to about 1:00pm, depending how busy things are.
   - final exam rules are the same as for the midterm (see note on 2024-02-22 12:05).
