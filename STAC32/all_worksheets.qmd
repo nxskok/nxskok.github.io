@@ -2,7 +2,7 @@
 title: "Worksheets"
 listing:
   type: table
-  contents: "worksheet_*_c32.html"
+  contents: "worksheet_*_c32_*.html"
   fields: [file-modified, filename]
   sort: file-modified
   date-format: iso
