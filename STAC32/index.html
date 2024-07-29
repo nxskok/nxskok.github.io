@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -358,6 +387,14 @@ ul.task-list li input[type="checkbox"] {
 <section id="news-most-recent-at-the-top" class="level2">
 <h2 class="anchored" data-anchor-id="news-most-recent-at-the-top">News (most recent at the top):</h2>
 <ul>
+<li>2024-07-29 10:45:
+<ul>
+<li>I have found space for a few more students in the course, and have asked for these students to be added. Once this is done, the course will be <em>full</em>, since we will be at maximum capacity for our lecture room and I am not allowed to enlarge the class any further.</li>
+<li>In the next couple of days, you will see either that you have been enrolled in the course or that you have moved up the waitlist. A warning that the waitlist in this class historically moves very slowly, so if you are still on the waitlist after this, I advise you to make backup plans for your courses.</li>
+<li>The waitlist is long, so I had to make some choices about who to admit. Since STAC32 and STAD29 are two of the last courses in the Statistics Applied Minor program, I prioritized those students in the program who are closest to graduating, on the basis that this may be their last year, whereas students who are further from graduating can take these courses next year. This is based on the number of credits that each student will have completed by the end of the summer (assuming they pass any summer courses), with the students on the waitlist ranked from greatest to least. If you are in your 3rd year of study (as determined by UTSC), you need to be very close to the 14.0 credits that will make you 4th year to get in this time (if you don’t, you will have a higher priority next year).</li>
+<li>You can find your total number of credits in your Degree Explorer: under Degree and Completed Credits you will see something like 17.00/20.00 (includes 7.00 In Progress). This student will have 17.0 credits <em>once they have completed the courses they are now enrolled in</em>, and thus they have <span class="math inline">\(17-7 = 10\)</span> credits completed now and are in their 3rd year of study.</li>
+<li>My decision of students to enrol is final and is not open to appeal, and, as I say, the course is full once these students are enrolled because the lecture room is full.</li>
+</ul></li>
 <li>2024-06-28 19:00: time to open things up for the fall 2024 edition of this course:
 <ul>
 <li>I’m aware that the course is filling up fast. After the 3rd years have had a chance to enrol, I will look more carefully at who is on the waitlist, with the aim of making sure that those who really need the course are able to take it, subject to space being available. My priority order is: students in the Statistics Applied Minor program, and within those, students in the fourth year of study (or beyond) as calculated by UTSC, then students in earlier years of study in the program, and then students in other programs. Appealing directly to me will not change that.</li>
