@@ -29,9 +29,9 @@ future.
   - The [course outline](https://ritsokiguess.site/lecture-notes/outline_c32.html#/title-slide), so that you can get a sense of what to expect.
   - Highlights:
     - lectures on Tuesday and Thursday (1 hour each)
-    - tutorial on Wednesday in a computer lab, **starting in week 1**. In tutorial, you get a worksheet to work through using R with TA help if you get stuck. The first worksheet takes you through things from the very beginning and comes with answers, including a practice assignment hand-in. Later worksheets don't come with answers (so you have to work it out yourself), but I will publish answers after the tutorials are done.
+    - tutorial on Wednesday in a computer lab, **starting in week 1**. In tutorial, you get a worksheet to work through using R with TA help if you get stuck. The first worksheet takes you through things from the very beginning and comes with answers, including a practice assignment hand-in. Later worksheets don't come with answers (so you have to work it out yourself), but I will publish answers after each week's tutorials are done.
     - tutorial worksheets prepare you for the assignments.
-    - assignments are due weekly on Mondays and open the previous Wednesday night (the first one opens in week 2 and is due the Monday of week 3), on the same material that the previous worksheet was on. Your assignment answers will need to show code, output, and explanation of the results. (The practice assignment shows you what is needed.)
+    - assignments are due weekly on Mondays and open the previous Wednesday night (the first one opens in week 2 and is due the Monday of week 3), on the same material that the previous worksheet was on. Your assignment answers will need to show code, output, and explanation of the results. (The practice assignment shows you what is needed.) I publish complete solutions after each assignment has been handed in.
     - if you do your own work on the worksheets, this will help you for the assignments; if you do your own work on the assignments, this will help you on the exams and will thus help your course grade.
     - there will be one out-of-class midterm on a date to be announced, around halfway through the course.
     - there will be a final exam, also on a date to be announced, during the final exam period.
