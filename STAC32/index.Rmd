@@ -24,6 +24,20 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-08-12 12:00:
+  - A reminder that the course is full because the lecture room is full, and so I cannot admit any more students even if I wanted to.
+  - The [course outline](https://ritsokiguess.site/lecture-notes/outline_c32.html#/title-slide), so that you can get a sense of what to expect.
+  - Highlights:
+    - lectures on Tuesday and Thursday (1 hour each)
+    - tutorial on Wednesday in a computer lab, **starting in week 1**. In tutorial, you get a worksheet to work through using R with TA help if you get stuck. The first worksheet takes you through things from the very beginning and comes with answers, including a practice assignment hand-in. Later worksheets don't come with answers (so you have to work it out yourself), but I will publish answers after the tutorials are done.
+    - tutorial worksheets prepare you for the assignments.
+    - assignments are due weekly on Mondays and open the previous Wednesday night (the first one opens in week 2 and is due the Monday of week 3), on the same material that the previous worksheet was on. Your assignment answers will need to show code, output, and explanation of the results. (The practice assignment shows you what is needed.)
+    - if you do your own work on the worksheets, this will help you for the assignments; if you do your own work on the assignments, this will help you on the exams and will thus help your course grade.
+    - there will be one out-of-class midterm on a date to be announced, around halfway through the course.
+    - there will be a final exam, also on a date to be announced, during the final exam period.
+    - exams are handwritten with short-answer questions, some of which may ask you to write code. Exams are open-book, but bear in mind that you need to organize what you bring, or else you will run out of time trying to find things.
+    - the course materials (and your brain) will contain everything you need to succeed in this course, except for a few places where I ask you to find something out.
+
 - 2024-07-29 10:45: 
   - I have found space for a few more students in the course, and have asked for these students to be added. Once this is done, the course will be *full*, since we will be at maximum capacity for our lecture room and I am not allowed to enlarge the class any further.
   - In the next couple of days, you will see either that you have been enrolled in the course or that you have moved up the waitlist. A warning that the waitlist in this class historically moves very slowly, so if you are still on the waitlist after this, I advise you to make backup plans for your courses.
