@@ -1,0 +1,430 @@
+model,repair,compare_avg
+AMC Ambassador 8,BR,+
+AMC Ambassador 8,FU,-
+AMC Ambassador 8,EL,-
+AMC Ambassador 8,EX,-
+AMC Ambassador 8,ST,-
+AMC Ambassador 8,EM,-
+AMC Ambassador 8,RS,-
+AMC Ambassador 8,RA,+
+AMC Ambassador 8,RU,-
+AMC Ambassador 8,SA,-
+AMC Ambassador 8,TC,-
+AMC Ambassador 8,WA,-
+AMC Ambassador 8,OT,-
+Buick Special 6,BR,-
+Buick Special 6,FU,-
+Buick Special 6,EL,-
+Buick Special 6,EX,-
+Buick Special 6,ST,-
+Buick Special 6,EM,-
+Buick Special 6,RS,+
+Buick Special 6,RA,-
+Buick Special 6,RU,+
+Buick Special 6,SA,-
+Buick Special 6,TC,-
+Buick Special 6,WA,-
+Buick Special 6,OT,+
+Buick Special 8,BR,-
+Buick Special 8,FU,-
+Buick Special 8,EL,-
+Buick Special 8,EX,-
+Buick Special 8,ST,-
+Buick Special 8,EM,-
+Buick Special 8,RS,+
+Buick Special 8,RA,-
+Buick Special 8,RU,-
+Buick Special 8,SA,+
+Buick Special 8,TC,-
+Buick Special 8,WA,+
+Buick Special 8,OT,+
+Buick 8 Full,BR,-
+Buick 8 Full,FU,-
+Buick 8 Full,EL,-
+Buick 8 Full,EX,+
+Buick 8 Full,ST,-
+Buick 8 Full,EM,+
+Buick 8 Full,RS,+
+Buick 8 Full,RA,-
+Buick 8 Full,RU,+
+Buick 8 Full,SA,+
+Buick 8 Full,TC,-
+Buick 8 Full,WA,+
+Buick 8 Full,OT,-
+Buick Riviera,BR,-
+Buick Riviera,FU,-
+Buick Riviera,EL,+
+Buick Riviera,EX,+
+Buick Riviera,ST,-
+Buick Riviera,EM,-
+Buick Riviera,RS,-
+Buick Riviera,RA,-
+Buick Riviera,RU,-
+Buick Riviera,SA,+
+Buick Riviera,TC,-
+Buick Riviera,WA,-
+Buick Riviera,OT,-
+Chevy II,BR,-
+Chevy II,FU,+
+Chevy II,EL,-
+Chevy II,EX,-
+Chevy II,ST,+
+Chevy II,EM,-
+Chevy II,RS,+
+Chevy II,RA,+
+Chevy II,RU,+
+Chevy II,SA,-
+Chevy II,TC,-
+Chevy II,WA,+
+Chevy II,OT,-
+Chevelle 6,BR,-
+Chevelle 6,FU,-
+Chevelle 6,EL,-
+Chevelle 6,EX,-
+Chevelle 6,ST,-
+Chevelle 6,EM,+
+Chevelle 6,RS,+
+Chevelle 6,RA,-
+Chevelle 6,RU,+
+Chevelle 6,SA,-
+Chevelle 6,TC,-
+Chevelle 6,WA,-
+Chevelle 6,OT,-
+Chevelle 8,BR,-
+Chevelle 8,FU,+
+Chevelle 8,EL,-
+Chevelle 8,EX,+
+Chevelle 8,ST,+
+Chevelle 8,EM,-
+Chevelle 8,RS,+
+Chevelle 8,RA,-
+Chevelle 8,RU,+
+Chevelle 8,SA,+
+Chevelle 8,TC,-
+Chevelle 8,WA,+
+Chevelle 8,OT,-
+Chevrolet Full,BR,-
+Chevrolet Full,FU,+
+Chevrolet Full,EL,+
+Chevrolet Full,EX,+
+Chevrolet Full,ST,+
+Chevrolet Full,EM,-
+Chevrolet Full,RS,+
+Chevrolet Full,RA,+
+Chevrolet Full,RU,+
+Chevrolet Full,SA,+
+Chevrolet Full,TC,+
+Chevrolet Full,WA,+
+Chevrolet Full,OT,-
+Corvair 6,BR,-
+Corvair 6,FU,+
+Corvair 6,EL,-
+Corvair 6,EX,-
+Corvair 6,ST,+
+Corvair 6,EM,+
+Corvair 6,RS,-
+Corvair 6,RA,+
+Corvair 6,RU,-
+Corvair 6,SA,+
+Corvair 6,TC,+
+Corvair 6,WA,+
+Corvair 6,OT,+
+Corvette,BR,-
+Corvette,FU,-
+Corvette,EL,-
+Corvette,EX,+
+Corvette,ST,-
+Corvette,EM,-
+Corvette,RS,+
+Corvette,RA,+
+Corvette,RU,-
+Corvette,SA,-
+Corvette,TC,+
+Corvette,WA,-
+Corvette,OT,-
+Chrysler Newport,BR,+
+Chrysler Newport,FU,-
+Chrysler Newport,EL,-
+Chrysler Newport,EX,-
+Chrysler Newport,ST,-
+Chrysler Newport,EM,-
+Chrysler Newport,RS,-
+Chrysler Newport,RA,-
+Chrysler Newport,RU,-
+Chrysler Newport,SA,-
+Chrysler Newport,TC,-
+Chrysler Newport,WA,-
+Chrysler Newport,OT,-
+New Yorker,BR,+
+New Yorker,FU,-
+New Yorker,EL,-
+New Yorker,EX,-
+New Yorker,ST,-
+New Yorker,EM,-
+New Yorker,RS,-
+New Yorker,RA,+
+New Yorker,RU,-
+New Yorker,SA,-
+New Yorker,TC,-
+New Yorker,WA,-
+New Yorker,OT,+
+Dodge Full Size,BR,+
+Dodge Full Size,FU,-
+Dodge Full Size,EL,-
+Dodge Full Size,EX,-
+Dodge Full Size,ST,-
+Dodge Full Size,EM,-
+Dodge Full Size,RS,+
+Dodge Full Size,RA,-
+Dodge Full Size,RU,-
+Dodge Full Size,SA,+
+Dodge Full Size,TC,-
+Dodge Full Size,WA,-
+Dodge Full Size,OT,-
+Falcon 6,BR,-
+Falcon 6,FU,-
+Falcon 6,EL,-
+Falcon 6,EX,-
+Falcon 6,ST,-
+Falcon 6,EM,-
+Falcon 6,RS,+
+Falcon 6,RA,-
+Falcon 6,RU,-
+Falcon 6,SA,-
+Falcon 6,TC,+
+Falcon 6,WA,+
+Falcon 6,OT,-
+Fairlane 6,BR,-
+Fairlane 6,FU,-
+Fairlane 6,EL,-
+Fairlane 6,EX,-
+Fairlane 6,ST,-
+Fairlane 6,EM,-
+Fairlane 6,RS,+
+Fairlane 6,RA,-
+Fairlane 6,RU,-
+Fairlane 6,SA,-
+Fairlane 6,TC,-
+Fairlane 6,WA,-
+Fairlane 6,OT,-
+Fairlane 8,BR,-
+Fairlane 8,FU,-
+Fairlane 8,EL,-
+Fairlane 8,EX,+
+Fairlane 8,ST,-
+Fairlane 8,EM,-
+Fairlane 8,RS,+
+Fairlane 8,RA,+
+Fairlane 8,RU,-
+Fairlane 8,SA,-
+Fairlane 8,TC,-
+Fairlane 8,WA,+
+Fairlane 8,OT,-
+Ford Full Size,BR,-
+Ford Full Size,FU,-
+Ford Full Size,EL,-
+Ford Full Size,EX,+
+Ford Full Size,ST,+
+Ford Full Size,EM,-
+Ford Full Size,RS,-
+Ford Full Size,RA,-
+Ford Full Size,RU,-
+Ford Full Size,SA,+
+Ford Full Size,TC,-
+Ford Full Size,WA,+
+Ford Full Size,OT,+
+Thunderbird,BR,-
+Thunderbird,FU,-
+Thunderbird,EL,+
+Thunderbird,EX,-
+Thunderbird,ST,+
+Thunderbird,EM,+
+Thunderbird,RS,-
+Thunderbird,RA,-
+Thunderbird,RU,-
+Thunderbird,SA,-
+Thunderbird,TC,-
+Thunderbird,WA,+
+Thunderbird,OT,+
+Mercury Full,BR,-
+Mercury Full,FU,-
+Mercury Full,EL,-
+Mercury Full,EX,-
+Mercury Full,ST,-
+Mercury Full,EM,-
+Mercury Full,RS,-
+Mercury Full,RA,-
+Mercury Full,RU,-
+Mercury Full,SA,-
+Mercury Full,TC,-
+Mercury Full,WA,+
+Mercury Full,OT,-
+Olds Full,BR,+
+Olds Full,FU,+
+Olds Full,EL,-
+Olds Full,EX,-
+Olds Full,ST,-
+Olds Full,EM,-
+Olds Full,RS,+
+Olds Full,RA,-
+Olds Full,RU,-
+Olds Full,SA,+
+Olds Full,TC,-
+Olds Full,WA,+
+Olds Full,OT,-
+Plymouth Full,BR,+
+Plymouth Full,FU,-
+Plymouth Full,EL,-
+Plymouth Full,EX,-
+Plymouth Full,ST,-
+Plymouth Full,EM,-
+Plymouth Full,RS,-
+Plymouth Full,RA,-
+Plymouth Full,RU,-
+Plymouth Full,SA,-
+Plymouth Full,TC,-
+Plymouth Full,WA,-
+Plymouth Full,OT,-
+Pontiac Tempest,BR,-
+Pontiac Tempest,FU,+
+Pontiac Tempest,EL,-
+Pontiac Tempest,EX,-
+Pontiac Tempest,ST,-
+Pontiac Tempest,EM,-
+Pontiac Tempest,RS,+
+Pontiac Tempest,RA,-
+Pontiac Tempest,RU,+
+Pontiac Tempest,SA,+
+Pontiac Tempest,TC,-
+Pontiac Tempest,WA,+
+Pontiac Tempest,OT,-
+Pontiac Full,BR,+
+Pontiac Full,FU,+
+Pontiac Full,EL,+
+Pontiac Full,EX,-
+Pontiac Full,ST,-
+Pontiac Full,EM,-
+Pontiac Full,RS,+
+Pontiac Full,RA,-
+Pontiac Full,RU,+
+Pontiac Full,SA,+
+Pontiac Full,TC,-
+Pontiac Full,WA,+
+Pontiac Full,OT,-
+Rambler Rebel 6,BR,-
+Rambler Rebel 6,FU,-
+Rambler Rebel 6,EL,+
+Rambler Rebel 6,EX,-
+Rambler Rebel 6,ST,-
+Rambler Rebel 6,EM,-
+Rambler Rebel 6,RS,-
+Rambler Rebel 6,RA,+
+Rambler Rebel 6,RU,-
+Rambler Rebel 6,SA,-
+Rambler Rebel 6,TC,+
+Rambler Rebel 6,WA,-
+Rambler Rebel 6,OT,+
+Mercedes,BR,-
+Mercedes,FU,-
+Mercedes,EL,-
+Mercedes,EX,-
+Mercedes,ST,-
+Mercedes,EM,-
+Mercedes,RS,-
+Mercedes,RA,-
+Mercedes,RU,-
+Mercedes,SA,+
+Mercedes,TC,-
+Mercedes,WA,-
+Mercedes,OT,-
+MG 1100,BR,-
+MG 1100,FU,-
+MG 1100,EL,+
+MG 1100,EX,+
+MG 1100,ST,-
+MG 1100,EM,-
+MG 1100,RS,-
+MG 1100,RA,-
+MG 1100,RU,-
+MG 1100,SA,-
+MG 1100,TC,-
+MG 1100,WA,-
+MG 1100,OT,-
+Peugeot,BR,-
+Peugeot,FU,-
+Peugeot,EL,-
+Peugeot,EX,-
+Peugeot,ST,-
+Peugeot,EM,-
+Peugeot,RS,-
+Peugeot,RA,-
+Peugeot,RU,-
+Peugeot,SA,-
+Peugeot,TC,+
+Peugeot,WA,-
+Peugeot,OT,-
+Porsche,BR,-
+Porsche,FU,-
+Porsche,EL,-
+Porsche,EX,-
+Porsche,ST,-
+Porsche,EM,-
+Porsche,RS,-
+Porsche,RA,-
+Porsche,RU,-
+Porsche,SA,-
+Porsche,TC,-
+Porsche,WA,-
+Porsche,OT,-
+Renault,BR,-
+Renault,FU,-
+Renault,EL,-
+Renault,EX,-
+Renault,ST,-
+Renault,EM,-
+Renault,RS,-
+Renault,RA,-
+Renault,RU,-
+Renault,SA,-
+Renault,TC,+
+Renault,WA,-
+Renault,OT,-
+Volvo,BR,-
+Volvo,FU,-
+Volvo,EL,-
+Volvo,EX,+
+Volvo,ST,-
+Volvo,EM,-
+Volvo,RS,-
+Volvo,RA,+
+Volvo,RU,-
+Volvo,SA,-
+Volvo,TC,-
+Volvo,WA,-
+Volvo,OT,-
+VW bug,BR,+
+VW bug,FU,-
+VW bug,EL,+
+VW bug,EX,+
+VW bug,ST,+
+VW bug,EM,+
+VW bug,RS,-
+VW bug,RA,-
+VW bug,RU,-
+VW bug,SA,-
+VW bug,TC,+
+VW bug,WA,-
+VW bug,OT,-
+VW bus,BR,-
+VW bus,FU,-
+VW bus,EL,+
+VW bus,EX,-
+VW bus,ST,-
+VW bus,EM,+
+VW bus,RS,-
+VW bus,RA,-
+VW bus,RU,+
+VW bus,SA,-
+VW bus,TC,+
+VW bus,WA,-
+VW bus,OT,-
