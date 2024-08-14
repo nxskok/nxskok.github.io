@@ -1,0 +1,34 @@
+model,cluster
+Buick Riviera,A
+Rambler Rebel 6,A
+MG 1100,A
+VW bug,A
+VW bus,A
+AMC Ambassador 8,B
+Buick Special 6,B
+Chevelle 6,B
+Corvette,B
+Chrysler Newport,B
+New Yorker,B
+Falcon 6,B
+Fairlane 6,B
+Fairlane 8,B
+Mercury Full,B
+Plymouth Full,B
+Mercedes,B
+Peugeot,B
+Porsche,B
+Renault,B
+Volvo,B
+Buick Special 8,C
+Corvair 6,C
+Ford Full Size,C
+Thunderbird,C
+Buick 8 Full,D
+Chevy II,D
+Chevelle 8,D
+Chevrolet Full,D
+Dodge Full Size,D
+Olds Full,D
+Pontiac Tempest,D
+Pontiac Full,D
