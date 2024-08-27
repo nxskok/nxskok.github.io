@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-08-23 15:45: breaking news: we are seeing whether we can open a second section of this course. This is contingent on being able to find a classroom to hold it in at a time that those of you on the waitlist (and I) can manage, which (as is usually the case at UTSC) is the biggest part of the problem. Expect more news early next week. (If need be, we will also hold a second section of STAD29, so there will be room in any case in that course for everyone that makes it through STAC32.)
+
 - 2024-08-12 12:00:
   - A reminder that the course is full because the lecture room is full, and so I cannot admit any more students even if I wanted to.
   - The [course outline](https://ritsokiguess.site/lecture-notes/outline_c32.html#/title-slide), so that you can get a sense of what to expect.
