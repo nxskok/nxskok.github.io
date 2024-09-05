@@ -24,7 +24,9 @@ future.
 
 ## News (most recent at the top):
 
-- 2024-09-05 10:20: Today's class: reading in data. Files for today's class:
+
+- 2024-09-05 10:20: Today's class: reading in data. Files for today's class (added after: it looks as if they all work now):
+  - [Test 1 (xlsx)](test1.xlsx)
   - [Test 1 (csv)](test1.csv)
   - [Coffee cups](coffee.txt)
   - [Migraine data](migraine.txt)
