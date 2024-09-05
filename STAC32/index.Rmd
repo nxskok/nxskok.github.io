@@ -24,7 +24,13 @@ future.
 
 ## News (most recent at the top):
 
-- 2024-09-04 17:30: I think I forgot to mention exams in my go-through of the course outline on Tuesday. The information you need is [on the Assessment page of the course outline](https://ritsokiguess.site/lecture-notes/outline_c32.html#/assessment), at the bottom.
+- 2024-09-05 10:20: Today's class: reading in data. Files for today's class:
+  - [Test 1 (csv)](test1.csv)
+  - [Coffee cups](coffee.txt)
+  - [Migraine data](migraine.txt)
+  - [Test 2 (xlsx)](test2.xlsx)
+
+- 2024-09-04 17:30: I think I forgot to mention exams in my go-through of the course outline on Tuesday. The information you need is [on the Assessment page of the course outline](https://ritsokiguess.site/lecture-notes/outline_c32.html#/assessment), at the bottom (you might need to scroll down).
 
 - 2024-09-03 12:50: [Worksheet 1](worksheet_1_c32_a.html), for tutorial next week, in case you want to start on it now.
 
