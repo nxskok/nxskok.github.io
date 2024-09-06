@@ -24,6 +24,13 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-09-06 13:00: I thought I would write out my plans for the course and [share them with you (Google sheet)](https://docs.google.com/spreadsheets/d/11KZFdNBysLUyXEPPTfImqTkLGOuzB3nUO9WaRLoCFfo/edit?usp=sharing): 
+  - I went about as far as reading week, because I am usually too ambitious. Expect there to be edits material-wise.
+  - There is a midterm to be scheduled; I try not to have an assignment and a midterm the same week (eg. if the midterm is on a Friday, there won't be an assignment due the Monday after). 
+  - This means that the last assignment will probably end up being due on Nov 25 and not as shown. Expect that the material in assignment $n$ will be the same as on worksheet $n+1$ (the questions will of course be different), at least up until the midterm when things might get further out of sync.
+  - Depending on when the midterm is scheduled, the last tutorial before it might be a chance for you to bring exam-related questions to the TA.
+  - I made assignment 4 due the day after Thanksgiving rather than Thanksgiving itself.
+
 
 - 2024-09-05 10:20: Today's class: reading in data. Files for today's class (added after: it looks as if they all work now):
   - [Test 1 (xlsx)](test1.xlsx)
