@@ -26,9 +26,10 @@ future.
 
 - 2024-09-09 13:20: on the table for this week:
   - lectures: 
-    - the rest of reading files  (Tuesday start)
-    - making graphs (Tuesday)
-    - numerical summaries (Thursday)
+    - the rest of [reading files](http://ritsokiguess.site/lecture-notes/readfile.html)  (Tuesday, to start)
+    - [making graphs](http://ritsokiguess.site/lecture-notes/graphs.html) (Tuesday)
+    - [numerical summaries](http://ritsokiguess.site/lecture-notes/numsum.html) (Thursday)
+    - [choosing things from dataframes](http://ritsokiguess.site/lecture-notes/choosing.html) (possibly Thursday, possibly next week)
   - tutorials: start this week, on Wednesday. Your chance to work through (or finish working through) Worksheet 1 with a TA there to help, as well as handing in the practice Assignment 0 (checking that your graphs successfully made it).
 
 - 2024-09-06 13:00: I thought I would write out my plans for the course and [share them with you (Google sheet)](https://docs.google.com/spreadsheets/d/11KZFdNBysLUyXEPPTfImqTkLGOuzB3nUO9WaRLoCFfo/edit?usp=sharing): 
