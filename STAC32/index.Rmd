@@ -24,6 +24,13 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-09-09 13:20: on the table for this week:
+  - lectures: 
+    - the rest of reading files  (Tuesday start)
+    - making graphs (Tuesday)
+    - numerical summaries (Thursday)
+  - tutorials: start this week, on Wednesday. Your chance to work through (or finish working through) Worksheet 1 with a TA there to help, as well as handing in the practice Assignment 0 (checking that your graphs successfully made it).
+
 - 2024-09-06 13:00: I thought I would write out my plans for the course and [share them with you (Google sheet)](https://docs.google.com/spreadsheets/d/11KZFdNBysLUyXEPPTfImqTkLGOuzB3nUO9WaRLoCFfo/edit?usp=sharing): 
   - I went about as far as reading week, because I am usually too ambitious. Expect there to be edits material-wise.
   - There is a midterm to be scheduled; I try not to have an assignment and a midterm the same week (eg. if the midterm is on a Friday, there won't be an assignment due the Monday after). 
