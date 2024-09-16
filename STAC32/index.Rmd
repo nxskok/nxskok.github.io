@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-09-16 12:55: Assignment 1 is now on Quercus, and will open for you on Wed night. Note that it is available until Wed of next week, but it is *due on Monday night*, and there is a late penalty (1% per hour) if you submit it after 11:59pm Monday. If you have an official Accessibility accommodation that grants you an extension on assignments, it is *up to you* to claim it (by emailing me) before the official due date each time you need it. The maximum such extension is two days, since I will be publishing solutions for everyone after that. There are no other extensions or make-ups, as per the syllabus. You may hand in your assignment up to two days late, but the late penalty will apply. (You will recall from your reading of the syllabus that the worst two assignments are dropped; if life circumstances intervene and you cannot hand in an assignment before it closes, that will automatically count as one of your dropped assignments.)
+
 - 2024-09-16 12:15: Monday update:
   - lectures: the rest of numerical summaries (Tuesday), choosing things from dataframes (both days), one-sample $t$ (start Thursday).
   - tutorial: [worksheet 2](worksheet_2_c32_q.html). Note that this week (and from here forward) *this only has the questions*. The idea is that by learning how to do the worksheet yourself (using your lecture notes and your brain), you are also learning how to do the assignment that depends on this worksheet (and thereby preparing yourself for any midterm questions on the material in this worksheet). After you have made an honest effort  on this worksheet yourself, feel free to ask your tutorial TA for guidance if you get stuck. I will post my solutions on Wed evening.
