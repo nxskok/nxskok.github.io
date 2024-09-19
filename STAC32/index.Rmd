@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-09-19 15:30: I just took a look through the Assignment 0's. If you got a 1 and a "yep", you are all good. Most people got both of those. If you handed in something and didn't get a 1, or got a 1 and a comment, you need to figure out what happened. The commonest things missing were the `embed-resources: true` thing that meant that there were no graphs, and the `df-print: paged` thing that meant that there was no nice display of dataframes. See question 13 in worksheet 1; these go in the "YAML block" at the very top of your document. If you got a 0, you are welcome to try again and I will endeavour to take a look at your revised version. (I was pretty relaxed about *what* you included; if you had some code, some output and a graph, ideally with some text of your own, I was good with it.)
+
 - 2024-09-19 10:35: two things:
   - [Assignment 1](https://q.utoronto.ca/courses/361123/assignments/1382828) is now open, due next Monday.
   - September 16 was the last day to register yourself in a tutorial. If you haven't done so yet, you will now need to go through the Registrar's office to do this.
