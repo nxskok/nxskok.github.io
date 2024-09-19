@@ -26,7 +26,7 @@ future.
 
 - 2024-09-19 00:15: before I go to bed, my [solutions to Worksheet 2](worksheet_2_c32_a.html).
 
-- 2024-09-18 12:00: We have a date for the midterm. I don't want to share the time and place publicly, so I am about to post an announcement on Quercus so that you can make plans.
+- 2024-09-18 12:00: We have a date for the midterm. I don't want to share the time and place publically, so I am about to post an announcement on Quercus so that you can make plans.
 
 - 2024-09-16 12:55: Assignment 1 is now on Quercus, and will open for you on Wed night. Note that it is available until Wed of next week, but it is *due on Monday night*, and there is a late penalty (1% per hour) if you submit it after 11:59pm Monday. If you have an official Accessibility accommodation that grants you an extension on assignments, it is *up to you* to claim it (by emailing me) before the official due date each time you need it. The maximum such extension is two days, since I will be publishing solutions for everyone after that. There are no other extensions or make-ups, as per the syllabus. You may hand in your assignment up to two days late, but the late penalty will apply. (You will recall from your reading of the syllabus that the worst two assignments are dropped; if life circumstances intervene and you cannot hand in an assignment before it closes, that will automatically count as one of your dropped assignments.)
 
