@@ -24,9 +24,7 @@ future.
 
 ## News (most recent at the top):
 
-- 2024-09-22 15:00: If you are having trouble accessing the assignment, your first port of call should be the student computer helpdesk to find out why that is (you are probably also going to have trouble handing in the assignment if you do not get this sorted out). For this week only, [here are the questions](a1_c32_2024_q.html).
-
-- 2024-09-19 15:30: I just took a look through the Assignment 0's. If you got a 1 and a "yep", you are all good. Most people got both of those. If you handed in something and didn't get a 1, or got a 1 and a comment, you need to figure out what happened. The commonest things missing were the `embed-resources: true` thing that meant that there were no graphs, and the `df-print: paged` thing that meant that there was no nice display of dataframes. See question 13 in worksheet 1; these go in the "YAML block" at the very top of your document. If you got a 0, you are welcome to try again and I will endeavour to take a look at your revised version. (I was pretty relaxed about *what* you included; if you had some code, some output and a graph, ideally with some text of your own, I was good with it.)
+- 2024-09-24 12:15: We have an official second section of STAD29, which will run Monday 1-3pm (one two-hour lecture a week, same as the other section). It should be big enough to accommodate all the students currently on the waitlist. If you are in section 1 currently and want to move to the new second section, that should be possible (which would allow space for students currently on the waitlist to join section 1, if that suits them better).
 
 - 2024-09-23 11:50: Monday update:
   - [Assignment 1](https://q.utoronto.ca/courses/361123/assignments/1382828) due tonight.
@@ -35,6 +33,12 @@ future.
     - Thursday: two-sample $t$ and start of bootstrap for sample mean
   - Tutorial: [Worksheet 3](worksheet_3_c32_q.html) questions. Questions 18 and 19 relate to Tuesday's lecture this week.
   - [Assignment 2](https://q.utoronto.ca/courses/361123/assignments/1385382) will open on Wednesday night.
+
+
+- 2024-09-22 15:00: If you are having trouble accessing the assignment, your first port of call should be the student computer helpdesk to find out why that is (you are probably also going to have trouble handing in the assignment if you do not get this sorted out). For this week only, [here are the questions](a1_c32_2024_q.html).
+
+- 2024-09-19 15:30: I just took a look through the Assignment 0's. If you got a 1 and a "yep", you are all good. Most people got both of those. If you handed in something and didn't get a 1, or got a 1 and a comment, you need to figure out what happened. The commonest things missing were the `embed-resources: true` thing that meant that there were no graphs, and the `df-print: paged` thing that meant that there was no nice display of dataframes. See question 13 in worksheet 1; these go in the "YAML block" at the very top of your document. If you got a 0, you are welcome to try again and I will endeavour to take a look at your revised version. (I was pretty relaxed about *what* you included; if you had some code, some output and a graph, ideally with some text of your own, I was good with it.)
+
 
 - 2024-09-19 10:35: two things:
   - [Assignment 1](https://q.utoronto.ca/courses/361123/assignments/1382828) is now open, due next Monday.
