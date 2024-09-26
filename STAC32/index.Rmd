@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-09-24 12:15: We have an official second section of STAD29, which will run Monday 1-3pm (one two-hour lecture a week, same as the other section). It should be big enough to accommodate all the students currently on the waitlist. If you are in section 1 currently and want to move to the new second section, that should be possible (which would allow space for students currently on the waitlist to join section 1, if that suits them better).
+
 - 2024-09-23 11:50: Monday update:
   - [Assignment 1](https://q.utoronto.ca/courses/361123/assignments/1382828) due tonight.
   - Lectures: I got to the end of "choosing things" last Thursday, so we have for this week:
