@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-02 18:45: dinner is on the way, and I fixed my solutions.
+
 - 2024-10-02 18:10: a temporary version of [my solutions to worksheet 4](worksheet_4_c32_a.html). I realized that I put the wrong plot in for question 6 (we haven't seen the normal quantile plot in lecture yet), so will fix this, but I need to eat dinner first.
 
 - 2024-09-30 11:10: Monday update:
