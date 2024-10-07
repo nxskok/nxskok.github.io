@@ -24,6 +24,15 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-07 11:00: Monday update:
+  - Assignment 3 is due tonight.
+  - Assignment 2 has been marked, and I will release the marks shortly. Appeals between Oct 10 and 17 inclusive by the procedure described at 2024-09-27 11:25.
+  - [Assignment 4](https://q.utoronto.ca/courses/361123/assignments/1394416) will open on Wed night.
+  - Lectures this week, approximately:
+    - Tuesday: the rest of power of hypothesis tests
+    - Thursday: the sign test. After that is normal quantile plots.
+  - [Worksheet 5](worksheet_5_c32_q.html) for tutorial on Wednesday (which should be doable after Tuesday's lecture, and will prepare you for Assignment 4).
+
 - 2024-10-02 18:45: dinner is on the way, and I fixed my solutions.
 
 - 2024-10-02 18:10: a temporary version of [my solutions to worksheet 4](worksheet_4_c32_a.html). I realized that I put the wrong plot in for question 6 (we haven't seen the normal quantile plot in lecture yet), so will fix this, but I need to eat dinner first.
