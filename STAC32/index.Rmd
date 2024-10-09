@@ -24,6 +24,17 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-09 12:30: about the midterm:
+  - The date, time, and place of the midterm is in an announcement on Quercus, edited today. I am not announcing these to people outside the class.
+  - The midterm is open-book. You can bring what you wish, such as your lecture notes, assignments, my slides, assignment solutions, etc, **printed** (no computers or other devices at the exam). You will need to organize whatever you bring, so that you can quickly find what you are looking for (and so there is an upper limit on what there is any point in bringing). If you are not well prepared, you can expect to run out of time; you will not have time to look everything up or go searching for things.
+  - The exam coverage is everything that is done in lecture up to and including Thursday Oct 24. This is currently scheduled to include up to Analysis of Variance, but that may change. If I haven't talked about it in class by the end of that day's lecture, it's not on the exam.
+  - Expect to be writing code and explanations (for example, I might ask for code to do a task, or give you code or output and ask questions about it).
+  - At the exam, you will get an exam paper with spaces to write your answers, and you also get a booklet with numbered Figures to refer to during the exam. The exam will say things like "In Figure 10, what is..." and you will need to find Figure 10 in the other booklet.
+  - This is a Crowdmark exam, so it is best to use a pen or a *sharp* pencil, otherwise we may have trouble reading your answers. (Your exam will be scanned and then marked online, so if we cannot read the scan of your writing, we cannot give it points.) Only the front of the pages will be scanned, so do not write anything on the back of the pages, since no-one will see it. I add a blank page at the end of the exam which you can use for writing answers if you run out of space elsewhere.
+  - if you have an exam accommodation, you will be writing with Accessability, and should make arrangements with them.
+  - Any questions about exam procedures should go in Quercus discussions.
+
+
 - 2024-10-07 11:00: Monday update:
   - Assignment 3 is due tonight.
   - Assignment 2 has been marked, and I will release the marks shortly. Appeals between Oct 10 and 17 inclusive by the procedure described at 2024-09-27 11:25.
