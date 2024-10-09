@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-09 15:30: I have taken a look at the appeals for Assignment 1. You should have a comment from me on Quercus, together with a possibly adjusted mark. 
+
 - 2024-10-09 12:30: about the midterm:
   - The date, time, and place of the midterm is in an announcement on Quercus, edited today. I am not announcing these to people outside the class.
   - The midterm is open-book. You can bring what you wish, such as your lecture notes, assignments, my slides, assignment solutions, etc, **printed** (no computers or other devices at the exam). You will need to organize whatever you bring, so that you can quickly find what you are looking for (and so there is an upper limit on what there is any point in bringing). If you are not well prepared, you can expect to run out of time; you will not have time to look everything up or go searching for things.
