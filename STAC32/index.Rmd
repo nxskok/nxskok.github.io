@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-09 22:30: my [worksheet 5 solutions](worksheet_5_c32_a.html). 
+
 - 2024-10-09 15:30: I have taken a look at the appeals for Assignment 1. You should have a comment from me on Quercus, together with a possibly adjusted mark. 
 
 - 2024-10-09 12:30: about the midterm:
