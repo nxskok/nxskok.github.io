@@ -24,6 +24,10 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-16 12:30: A late-night check-in:
+  - Assignment 3 is graded. Appeals by the same procedure as for Assignments 1 and 2, between Oct 19 and Oct 26 inclusive.
+  - My solutions to [Worksheet 6](worksheet_6_c32_a.html).
+
 - 2024-10-11 13:15: An early "Monday update", since Monday is a holiday:
   - Assignment 4 is due on *Tuesday* night.
   - Assignment 3 marking is under way. [My solutions](a3_c32_2024_a.html).
