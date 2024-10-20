@@ -24,6 +24,19 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-20 16:00: 
+  - One of the most powerful ways to find out whether you know something is to solve problems on it, and when you have given the problems your best effort, *then* you look at my solutions and grade yourself. It then becomes very clear where any gaps in your knowledge are, and you know what to go back and study again. This is why I give you my worksheets first, and then give you the solutions, and why I post my detailed solutions to the assignments after you have had a chance to work on them. (I will post my solutions to the midterm after you have written it, for the same reason. You will be able to see your graded exam, so you should go through that with my solutions.)
+  - This means that the best way you have of studying for the midterm is:
+    - go to tutorial and do the worksheets yourself, *then* look at my solutions and grade yourself.
+    - do the assignments yourself, and *afterwards* look at my solutions and see what you were missing.
+    - if you want more practice, look at the problems in [PASIAS](https://ritsokiguess.site/pasias2/). Each problem appears twice in its chapter, the first time without answers, the second time with. Attempt the problem as it appears *without* answers, then read the same problem as it appears *with* answers and grade yourself. 
+    - after you have graded yourself, go back to your lecture notes and re-read the things you are weak on (and, ideally, when you are ready, do another practice problem to see whether you understand it now).
+    - There are [old midterms](https://ritsokiguess.site/STAC32/old_exams.html). Use these in the same way: write the ones without answers first, under exam conditions with the notes you intend to bring to the actual exam, and then grade yourself using my solutions. See also Brian Harrington's [reddit post](https://www.reddit.com/r/UTSC/comments/16kns8q/past_exams/) on using old exams.
+    - If you *don't* do these things (for example, you read through things with answers instead of taking the time to solve these problems yourself), you are setting yourself up to *struggle* in my exams, because solving my problems without knowing what the answers are is literally what you will need to do on the exams.
+  - All this applies in any STEM-like course where later material depends on earlier material. You learn by *solving* problems (yourself) like the ones you will see on the exam, and preferably enough of them that you are ready for anything that might appear on the exam. There is no shortcut to success apart from this.
+
+- 2024-10-20 15:55: I had a couple of questions about `read.csv` last week after class. The key thing for you to know is that *I did not teach this* as a way of reading in a CSV file, so that in this course it is *wrong* and only `read_csv` with an underscore is correct. To have any hope of getting credit for using it, you need to say where you got it from, *and* to say why it is better for the purpose than what I taught you. It is also rather a signal that you got help from outside the course, and I warned you in [the syllabus](https://ritsokiguess.site/lecture-notes/outline_c32.html#/expectations-13) that this is unlikely to help you in anything other than the very short run.
+
 - 2024-10-16 23:30: A late-night check-in:
   - Assignment 3 is graded. Appeals by the same procedure as for Assignments 1 and 2, between Oct 19 and Oct 26 inclusive.
   - My solutions to [Worksheet 6](worksheet_6_c32_a.html).
