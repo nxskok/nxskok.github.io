@@ -25,7 +25,7 @@ future.
 ## News (most recent at the top):
 
 - 2024-10-20 16:00: 
-  - One of the most powerful ways to find out whether you know something is to solve problems on it, and when you have given the problems your best effort, *then* you look at my solutions and grade yourself. It then becomes very clear where any gaps in your knowledge are, and you know what to go back and study again. This is why I give you my worksheets first, and then give you the solutions, and why I post my detailed solutions to the assignments after you have had a chance to work on them. (I will post my solutions to the midterm after you have written it, for the same reason. You will be able to see your graded exam, so you should go through that with my solutions.)
+  - One of the most powerful ways to find out whether you know something is to solve problems on it, and when you have given the problems your best effort, *then* you look at the solutions and grade yourself. It then becomes very clear where any gaps in your knowledge are, and you know what to go back and study again. This is why I give you my worksheets first, and then later give you the solutions, and why I post my detailed solutions to the assignments after you have had a chance to work on them. (I will post my solutions to the midterm after you have written it, for the same reason. You will be able to see your graded exam, so you should go through that with my solutions.)
   - This means that the best way you have of studying for the midterm is:
     - go to tutorial and do the worksheets yourself, *then* look at my solutions and grade yourself.
     - do the assignments yourself, and *afterwards* look at my solutions and see what you were missing.
