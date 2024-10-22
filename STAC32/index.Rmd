@@ -24,9 +24,19 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-21 12:30: Monday update:
+  - Assignment 5 is due tonight. If you are having difficulty installing `smmr`, make sure you have read the lecture notes and see the discussion on Quercus, or see [the `smmr` homepage](https://github.com/nxskok/smmr) for another way.
+  - Assignment 4 marking is done. [My solutions](a4_c32_2024_a.html). I will post the marks shortly. Appeals by the usual process between Oct 24 and Oct 31 inclusive. Common errors (according to the TA): missing the `alternative` in question 5 (and hence getting a different answer in question 6); not considering sample size in question 8). 
+  - [Assignment 6](https://q.utoronto.ca/courses/361123/assignments/1400478) will open on Wed night. This is rather long (sorry!), but it is not due until Nov 11, so you have almost three weeks to do it.
+  - Lectures:
+    - Tuesday: the last bit of matched pairs, then the start of analysis of variance. 
+    - Thursday: The rest of analysis of variance. 
+  - [Worksheet 7](worksheet_7_c32_q.html) for tutorial on Wednesday. This is again rather long, because I wanted to give you practice on everything that might appear on the midterm. Questions 1-10 should be doable after Tuesday's lecture, but you might want to wait until after Thursday's lecture before tackling the rest of it. I will post all my solutions on Wednesday as usual, but (see note 2024-10-20 16:00) you should not look at my solutions to question 11 and on until *after* you have made an honest attempt at solving them yourself.
+
+
 - 2024-10-20 16:00: 
   - One of the most powerful ways to find out whether you know something is to solve problems on it, and when you have given the problems your best effort, *then* you look at the solutions and grade yourself. It then becomes very clear where any gaps in your knowledge are, and you know what to go back and study again. This is why I give you my worksheets first, and then later give you the solutions, and why I post my detailed solutions to the assignments after you have had a chance to work on them. (I will post my solutions to the midterm after you have written it, for the same reason. You will be able to see your graded exam, so you should go through that with my solutions.)
-  - This means that the best way you have of studying for the midterm is:
+  - This means that the best way you have of studying for the midterm is, after reading through your lecture notes:
     - go to tutorial and do the worksheets yourself, *then* look at my solutions and grade yourself.
     - do the assignments yourself, and *afterwards* look at my solutions and see what you were missing.
     - if you want more practice, look at the problems in [PASIAS](https://ritsokiguess.site/pasias2/). Each problem appears twice in its chapter, the first time without answers, the second time with. Attempt the problem as it appears *without* answers, then read the same problem as it appears *with* answers and grade yourself. 
@@ -38,7 +48,7 @@ future.
 - 2024-10-20 15:55: I had a couple of questions about `read.csv` last week after class. The key thing for you to know is that *I did not teach this* as a way of reading in a CSV file, so that in this course it is *wrong* and only `read_csv` with an underscore is correct. To have any hope of getting credit for using it, you need to say where you got it from, *and* to say why it is better for the purpose than what I taught you. It is also rather a signal that you got help from outside the course, and I warned you in [the syllabus](https://ritsokiguess.site/lecture-notes/outline_c32.html#/expectations-13) that this is unlikely to help you in the long run.
 
 - 2024-10-16 23:30: A late-night check-in:
-  - Assignment 3 is graded. Appeals by the same procedure as for Assignments 1 and 2, between Oct 19 and Oct 26 inclusive.
+  - Assignment 3 is graded. Appeals by the same procedure as for Assignments 1 and 2, between Oct 19 and Oct 26 inclusive. Added 2024-10-21 12:45: Common errors: questions 1 and 5 use of `read.csv` (see note 2024-10-20 15:55); question 4 and 9 failure to mention sample size and overcoming the skewness; question 7 and 8 make sure to use `greater`.
   - My solutions to [Worksheet 6](worksheet_6_c32_a.html).
 
 - 2024-10-11 13:15: An early "Monday update", since Monday is a holiday:
