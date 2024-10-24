@@ -27,6 +27,8 @@ future.
 - 2024-10-24 11:30: a quick Thursday update:
   - reminder that next week is Reading Week: no lectures or tutorials.
   - I forgot to tell you where one of the data files was on Assignment 6! This is now fixed (thank you to the student who noticed it).
+  - [My solutions](a5_c32_2024_a.html) to Assignment 5.
+  - [My solutions](worksheet_7_c32_a.html) to Worksheet 7.
   - I intend to hold pre-exam office hours on about Wednesday of next week (during reading week). I'm anticipating 2:00-4:00pm in my office.
 
 - 2024-10-21 12:30: Monday update:
