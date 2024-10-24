@@ -24,6 +24,11 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-24 11:30: a quick Thursday update:
+  - reminder that next week is Reading Week: no lectures or tutorials.
+  - I forgot to tell you where one of the data files was on Assignment 6! This is now fixed (thank you to the student who noticed it).
+  - I intend to hold pre-exam office hours on about Wednesday of next week (during reading week). I'm anticipating 2:00-4:00pm in my office.
+
 - 2024-10-21 12:30: Monday update:
   - Assignment 5 is due tonight. If you are having difficulty installing `smmr`, make sure you have read the lecture notes and see the discussion on Quercus, or see [the `smmr` homepage](https://github.com/nxskok/smmr) for another way.
   - Assignment 4 marking is done. [My solutions](a4_c32_2024_a.html). I will post the marks shortly. Appeals by the usual process between Oct 24 and Oct 31 inclusive. Common errors (according to the TA): missing the `alternative` in question 5 (and hence getting a different answer in question 6); not considering sample size in question 8). 
