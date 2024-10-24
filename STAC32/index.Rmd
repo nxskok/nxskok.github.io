@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-24 15:50: I think I am happy with the midterm. It has 33 numbered questions worth a total of 83 points, some of which are writing code and some of which are explaining things. 
+
 - 2024-10-24 11:30: a quick Thursday update:
   - reminder that next week is Reading Week: no lectures or tutorials.
   - I forgot to tell you where one of the data files was on Assignment 6! This is now fixed (thank you to the student who noticed it).
