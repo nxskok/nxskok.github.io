@@ -3,7 +3,7 @@ title: "Old exams"
 ---
 
 - My exams come with a booklet of questions (with space to write your answers). In the exam, there are references to Figures which are in a separate booklet (in the column Figures below). Print that out, or otherwise have it available as you work through each exam. 
-- Here are old midterm and final exams going back to 2015. You will notice that the best way of doing things *has changed over time*. Be guided by how things are done now rather than in the past.
+- Here are old midterm and final exams going back to 2015. You will notice that the best way of doing things *has changed over time*. Be guided by how things are done now rather than in the past. (The missing years are COVID, of course.)
 - I now teach R only in my courses. 2018 was the first year that I started with R and finished with SAS. Before that, I did R and SAS both for each statistical technique. Thus, for example, you will see some SAS in old midterms, which you won't see now. Make allowances for this.
 - One of the *most effective* ways to find out whether you know something is to answer questions on it. (Another way is to explain it to someone else.) Thus, your best use of these exams is to *do them under exam conditions* without looking at the solutions, and *then* look at the solutions and grade yourself. This is the fastest way to find out what you don't understand. Read through your notes and work through examples on what you missed, then tackle another exam.
 - I would recommend starting with last year's exams (the most similar to the exams you'll see) and working backwards.
@@ -19,6 +19,8 @@ Year  | Exam                          | Figures                         | Soluti
 2018  | [exam](midterm-20189-q.pdf)  | [figures](midterm-20189-f.pdf)   | [solutions](midterm-20189-s.pdf) |
 2019  | [exam](midterm-20199-q.pdf)  | [figures](midterm-20199-f.pdf)   | [solutions](midterm-20199-s.pdf) |
 2022  | [exam](midterm-20229-q.pdf)  | [figures](midterm-20229-f.pdf)   | [solutions](midterm-20229-s.pdf) |
+2023  | [exam](midterm-20239-c32_qq.pdf)  | [figures](midterm-20239-c32_figures.pdf)   | [solutions](midterm-20239-c32.pdf) |
+
 
  
 ## Old final exams
@@ -31,3 +33,4 @@ Year  | Exam                       | Figures                       | Solutions
 2018  | [exam](final-20189-q.pdf)  | [figures](final-20189-f.pdf)  | [solutions](final-20189-s.pdf)
 2019  | [exam](final-20199-q.pdf)  | [figures](final-20199-f.pdf)  | [solutions](final-20199-s.pdf)
 2022  | [exam](final-20229-q.pdf)  | [figures](final-20229-f.pdf)  | [solutions](final-20229-s.pdf)
+2023  | [exam](final-20239-c32-solutions.pdf)  | [figures](final-20239-c32-figures.pdf)  | [solutions](final-20239-c32-solutions.pdf)
