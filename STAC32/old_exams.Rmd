@@ -9,13 +9,15 @@ title: "Old exams"
 - I would recommend starting with last year's exams (the most similar to the exams you'll see) and working backwards.
 - If all you do is read through the solutions, you have *wasted a huge learning opportunity*, because you will not be prepared to deal with what you face on exam day.
 
+2024-10-28 22:50: The 2017 midterm has been "2024-ified", with all the SAS removed and R questions inserted in their place. It took me a long time, so don't expect the same treatment for the previous midterms. The 2018 midterm was all R anyway, so you can attempt that one.
+
 ## Old midterm exams
 
 Year  | Exam                          | Figures                         | Solutions
 ------|-------------------------------|---------------------------------|-------------------------------------------
 2015  | [exam](midterm-20159-q.pdf)  | [figures](midterm-20159-f.pdf)   | [solutions](midterm-20159-s.pdf) |
 2016  | [exam](midterm-20169-q.pdf)  | [figures](midterm-20169-f.pdf)   | [solutions](midterm-20169-s.pdf) |
-2017  | [exam](midterm-20179-q.pdf)  | [figures](midterm-20179-f.pdf)   | [solutions](midterm-20179-s.pdf) |
+2017  | [exam](midterm-20179-c32_qq.pdf)  | [figures](midterm-20179-c32_f.pdf)   | [solutions](midterm-20179-c32_a.pdf) |
 2018  | [exam](midterm-20189-q.pdf)  | [figures](midterm-20189-f.pdf)   | [solutions](midterm-20189-s.pdf) |
 2019  | [exam](midterm-20199-q.pdf)  | [figures](midterm-20199-f.pdf)   | [solutions](midterm-20199-s.pdf) |
 2022  | [exam](midterm-20229-q.pdf)  | [figures](midterm-20229-f.pdf)   | [solutions](midterm-20229-s.pdf) |
