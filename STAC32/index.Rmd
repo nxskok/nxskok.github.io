@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-10-29 23:40: reminder of pre-exam office hours Wed 2:00-4:00pm in my office (see [course outline](https://ritsokiguess.site/lecture-notes/outline_c32.html#/this-course) for where that is).
+
 - 2024-10-25 17:00: when I was a bit younger than you are now (that is to say, a long time ago now), I was given some tips about writing exams, which I pass on below. This exam has 33 questions grouped together under a number of "scenarios" with a title at the top (as on the assignments and worksheets); you will probably want to attempt the questions for a particular scenario together:
   - budget your time. For my exams (and, I suspect, for most exams), the number of points is a reasonable proxy for the amount of time that it will take for a well-prepared student to answer the question. You know how many total points the exam is worth (see yesterday's note), and you know how many minutes you have, so you know how long things should be taking. If you can, allow yourself a few minutes at the end for checking your answers.
   - before you answer *any* of the questions, read (or at least skim) through the *whole* exam, and note anything that you know how to answer.
