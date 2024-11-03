@@ -8,6 +8,7 @@ listing:
     - "*.txt"
     - "*.xlsx"
     - "*.xls"
+    - "*.html"
   fields: [filename]
   sort: filename
 ---
