@@ -9,7 +9,7 @@ title: "Old exams"
 - I would recommend starting with last year's exams (the most similar to the exams you'll see) and working backwards.
 - If all you do is read through the solutions, you have *wasted a huge learning opportunity*, because you will not be prepared to deal with what you face on exam day.
 
-2024-10-28 22:50: The 2017 midterm has been "2024-ified", with all the SAS removed and R questions inserted in their place. It took me a long time, so don't expect the same treatment for the previous midterms. The 2018 midterm was all R anyway, so you can attempt that one.
+2024-10-28 22:50: The 2017 midterm has been "2024-ified", with all the SAS removed and R questions inserted in their place. It took me a long time, so don't expect the same treatment for the previous midterms. The 2018 midterm was all R anyway, so you can attempt that one as is.
 
 ## Old midterm exams
 
