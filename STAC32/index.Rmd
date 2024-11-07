@@ -24,6 +24,10 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-06 22:00: update:
+  - my [worksheet 8 solutions](worksheet_8_c32_a.html). I messed up getting these to the TAs in time, so if your TA seemed underinformed in tutorial today, that was my fault.
+  - exam marking progress report: we are 28% done as of right now. I got through most of the ANOVA question today. I aim to do some more in between the two lectures tomorrow. It's always a challenge to mark midterms while simultaneously keeping track of everything else in the course. Hence, you might need to remind me in lecture tomorrow (Thursday) of where we got to on Tuesday.
+
 - 2024-11-03 16:45: an early "Monday update":
   - Midterm on *Monday night*! [See Quercus announcement](https://q.utoronto.ca/courses/361123/discussion_topics/2761171) for time and place(s).
   - There are no assignments due this week. Assignment 6 will be due on Mon Nov 11, and there will be two more assignments after that.
