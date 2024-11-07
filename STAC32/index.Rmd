@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-07 11:45: [my midterm solutions](midterm-20249-c32_a.pdf) as they stand now (will be updated as marking continues).
+
 - 2024-11-06 22:00: update:
   - my [worksheet 8 solutions](worksheet_8_c32_a.html). I messed up getting these to the TAs in time, so if your TA seemed underinformed in tutorial today, that was my fault.
   - exam marking progress report: we are 28% done as of right now. I got through most of the ANOVA question today. I aim to do some more in between the two lectures tomorrow. It's always a challenge to mark midterms while simultaneously keeping track of everything else in the course. Hence, you might need to remind me in lecture tomorrow (Thursday) of where we got to on Tuesday.
