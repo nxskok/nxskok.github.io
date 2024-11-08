@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-07 23:45: Midterm marking now at 38%. I did question 33 between lectures today and question 25 tonight, which was probably further than I expected to get today. (I'm working kinda backwards.) Tomorrow will be a (hopefully) productive day.
+
 - 2024-11-07 11:45: [my midterm solutions](midterm-20249-c32_a.pdf) as they stand now (will be updated as marking continues).
 
 - 2024-11-06 22:00: update:
