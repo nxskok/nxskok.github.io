@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-10 21:10: now at 90% marked. Remaining questions seem to be 5, 6, 12, and 24. Results tomorrow, maybe.
+
 - 2024-11-09 20:50: we are now up to 68% of the midterm graded. I am done my share, and we are waiting on the TAs to finish their parts.
 
 - 2024-11-08 21:55: looks as if it's been a productive day of marking; we are up to 53% done. I am approaching the end of my share of the marking. My updated [solutions](midterm-20249-c32_a.pdf).
