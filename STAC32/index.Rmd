@@ -24,6 +24,28 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-11 15:15: I am about ready to post the midterm marks and send you your marked exam. 
+  - Stats: median 57.25 (69%), Q1 45.75 (55%), Q3 70.25 (85%).
+  - Appeals by the same procedure as for assignments, between Nov 14 and Nov 21 inclusive. Appeals will only be considered for grading *errors*, that you can demonstrate by reference to [my solutions](midterm-20249-c32_a.pdf). In addition, the graders have been as consistent as possible across students, so I will not consider appeals for partial credit. Hence the only thing worth appealing is an answer where you can make the case for full credit for your answer, with reference to my solutions. To do this, you will need to demonstrate that the grader didn't see something you wrote, or graded inconsistently with my solutions.
+  - If you are disappointed by your exam mark: 
+    - Your first task is to go through your marked exam carefully with my solutions and *understand* where you earned and did not earn points. 
+    - If, despite your best efforts, you do not understand what you were missing, talk to me in office hours. These conversations are only about your understanding, not about your marks.
+
+- 2024-11-11 14:45: a (late) Monday update:
+  - the midterm is marked! After I have finished checking it over, I will upload the marks to Quercus, and send you your marked exam (you will get an email from Crowdmark with your marked exam attached).
+  - Assignment 6 is due *tonight* at the usual time.
+  - Lectures:
+    - Tuesday: the last little bit of tidying data, then the windmill case study (regression).
+    - Thursday: the rest of the windmill case study, and maybe start on the asphalt case study (multiple regression).
+  - [Worksheet 9](worksheet_9_c32_q.html) for tutorial on Wednesday. 
+  - There are two more assignments after \#6 and two more worksheets after \#9.
+
+- 2024-11-10 21:10: now at 90% marked. Remaining questions seem to be 5, 6, 12, and 24. Results tomorrow, maybe.
+
+- 2024-11-09 20:50: we are now up to 68% of the midterm graded. I am done my share, and we are waiting on the TAs to finish their parts.
+
+- 2024-11-08 21:55: looks as if it's been a productive day of marking; we are up to 53% done. I am approaching the end of my share of the marking. My updated [solutions](midterm-20249-c32_a.pdf).
+
 - 2024-11-07 23:45: Midterm marking now at 38%. I did question 33 between lectures today and question 25 tonight, which was probably further than I expected to get today. (I'm working kinda backwards.) Tomorrow will be a (hopefully) productive day.
 
 - 2024-11-07 11:45: [my midterm solutions](midterm-20249-c32_a.pdf) as they stand now (will be updated as marking continues).
