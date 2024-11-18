@@ -24,6 +24,18 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-18 11:20: Monday update (the second-to-last one):
+  - Assignments:
+    - Assignment 5 appears to be marked. When the grader confirms that it is all done, I will post the marks. 
+    - Assignment 6 marking is under way.
+    - Assignment 7 is due tonight.
+    - Assignment 8 (the last one) opens on Wednesday and is due on Monday of next week (the 25th).
+  - Lectures:
+    - Tuesday: asphalt case study
+    - Thursday: regression with categorical (explanatory) variables
+    - remaining: writing functions
+  - [Worksheet 10](worksheet_10_c32_q.html) for tutorial on Wednesday. There is one more tutorial and one more worksheet after this.
+
 - 2024-11-14 10:30: solutions to things:
   - [Assignment 6](a6_c32_2024_a.html)
   - [Worksheet 9](worksheet_9_c32_a.html)
