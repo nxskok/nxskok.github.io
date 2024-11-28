@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-28 13:05: final exam time and location is [on Quercus](https://q.utoronto.ca/courses/361123/discussion_topics/2860170).
+
 - 2024-11-28 11:15: Some solutions of mine:
   - to [Assignment 8](a8_c32_2024_a.html) (which closed last night)
   - to [Worksheet 11](worksheet_11_c32_a.html) from tutorial yesterday.
