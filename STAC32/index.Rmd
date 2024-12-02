@@ -24,6 +24,20 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-11-25 11:30: the final Monday update:
+  - Assignments:
+    - Assignment 7: [my solutions](a7_c32_2024_a.html)
+    - Assignment 8 (the last one) due tonight.
+  - Lectures:
+    - Tuesday: functions part 1
+    - Thursday: functions part 2. Once we are done this, we are *done*.
+    - no lectures after that (Dec 2 and Dec 3 are makeup Mondays).
+  - [Worksheet 11](worksheet_11_c32_q.html) for tutorial on Wednesday. 
+  - Tutorial at 9:00am on Wednesday is *cancelled*. If you were going to that one, please go to one of the others (12 noon, 3:00pm, 4:00pm in the same room).
+  - The final exam is under construction. I will let you know the number of pages and questions when it is finished.
+
+  
+
 - 2024-11-21 22:05: My solutions to [worksheet 10](worksheet_10_c32_a.html). Sorry for the delay, and thanks to the student who reminded me.
 
 - 2024-11-21 10:35: Assignment 6 has also been marked, and I am about to post the marks. Appeals by usual procedure between Nov 24 and Dec 1 inclusive.
