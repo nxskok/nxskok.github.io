@@ -24,6 +24,10 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-12-03 11:30: final exam:
+  - the final exam is comprehensive: you are responsible for anything in the course.
+  - specifically: expect to see most of the material from after our midterm, and a selection of material from before.
+
 - 2024-12-02 14:45: updates:
   - I think I am happy with the final exam. It has 37 questions worth a total of 91 points; in that regard it is not much bigger than the midterm, but I think you can expect to have to work harder for each point here than you did on the midterm.
   - I will have pre-exam office hours on Monday Dec 9, 1:00-3:00pm.
