@@ -35,4 +35,4 @@ Year  | Exam                       | Figures                       | Solutions
 2018  | [exam](final-20189-q.pdf)  | [figures](final-20189-f.pdf)  | [solutions](final-20189-s.pdf)
 2019  | [exam](final-20199-q.pdf)  | [figures](final-20199-f.pdf)  | [solutions](final-20199-s.pdf)
 2022  | [exam](final-20229-q.pdf)  | [figures](final-20229-f.pdf)  | [solutions](final-20229-s.pdf)
-2023  | [exam](final-20239-c32-solutions.pdf)  | [figures](final-20239-c32-figures.pdf)  | [solutions](final-20239-c32-solutions.pdf)
+2023  | [exam](final-20239-c32-questions.pdf)  | [figures](final-20239-c32-figures.pdf)  | [solutions](final-20239-c32-solutions.pdf)
