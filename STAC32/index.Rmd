@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-12-04 12:45: Assignment 8 is now marked, and the marks will be released in a moment. Appeals by the usual procedure between Dec 5 and Dec 10 (so that I can get to them before the final exam). Assignment 7 will be coming your way soon.
+
 - 2024-12-03 11:30: final exam:
   - the final exam is comprehensive: you are responsible for anything in the course.
   - specifically: expect to see most of the material from after our midterm, and a selection of material from before.
