@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-12-04 18:55: weather permitting, I'll be in my office tomorrow (Thursday), sometime around early afternoon. (If the door is open, but I'm not there, I'm somewhere around and will be back soon.)
+
 - 2024-12-04 12:45: 
   - Assignment 8 is now marked, and the marks will be released in a moment. Appeals by the usual procedure between Dec 5 and Dec 10 (so that I can get to them before the final exam). Assignment 7 will be coming your way soon.
   - in response to a question on [the discussion board](https://q.utoronto.ca/courses/361123/discussion_topics/2867066), I rewrote some of my solutions to [worksheet 11](worksheet_11_c32_a.html) to fit better with the way we have been doing things.
