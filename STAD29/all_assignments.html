@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-file-modified','listing-filename',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-filename-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-file-modified','listing-filename',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-filename","listing-file-modified"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -397,22 +397,6 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-filename-sort" data-direction="asc">
-          File Name
-        </option>
-         <option value="listing-file-modified-sort" data-direction="asc">
-          Modified - Oldest
-        </option>
-         <option value="listing-file-modified-sort" data-direction="desc">
-          Modified - Newest
-        </option>
-     </select>
-  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
@@ -422,78 +406,14 @@ window.Quarto = {
 <thead>
 <tr>
 <th>
-<a class="sort" data-sort="listing-file-modified-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Modified</a>
+Modified
 </th>
 <th>
-<a class="sort" data-sort="listing-filename-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">File Name</a>
+File Name
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1726370483312" data-listing-filename-sort="a1_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a1_d29_2024.html" class="filename listing-filename">a1_d29_2024.html</a>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1726370483313" data-listing-filename-sort="a2_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a2_d29_2024.html" class="filename listing-filename">a2_d29_2024.html</a>
-</td>
-</tr>
-<tr data-index="2" data-listing-file-modified-sort="1726370483314" data-listing-filename-sort="a3_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a3_d29_2024.html" class="filename listing-filename">a3_d29_2024.html</a>
-</td>
-</tr>
-<tr data-index="3" data-listing-file-modified-sort="1726370483315" data-listing-filename-sort="a4_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a4_d29_2024.html" class="filename listing-filename">a4_d29_2024.html</a>
-</td>
-</tr>
-<tr data-index="4" data-listing-file-modified-sort="1726370483316" data-listing-filename-sort="a5_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a5_d29_2024.html" class="filename listing-filename">a5_d29_2024.html</a>
-</td>
-</tr>
-<tr data-index="5" data-listing-file-modified-sort="1726370483318" data-listing-filename-sort="a6_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a6_d29_2024.html" class="filename listing-filename">a6_d29_2024.html</a>
-</td>
-</tr>
-<tr data-index="6" data-listing-file-modified-sort="1726370483319" data-listing-filename-sort="a7_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a7_d29_2024.html" class="filename listing-filename">a7_d29_2024.html</a>
-</td>
-</tr>
-<tr data-index="7" data-listing-file-modified-sort="1726370483320" data-listing-filename-sort="a8_d29_2024.html">
-<td>
-<span class="listing-file-modified">2024-09-14</span>
-</td>
-<td>
-<a href="../STAD29/a8_d29_2024.html" class="filename listing-filename">a8_d29_2024.html</a>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="listing-no-matching d-none">
