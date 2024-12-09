@@ -8,10 +8,14 @@ title: "STAD29"
 
 ![bad picture](ken.jpg){width=400px}
 
-Welcome to the home page for STA 1007 / STAD29. This is the place to look for things course-related (notes, code, old exams etc., linked above) except for lecture videos, assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
+Welcome to the home page for STA 1007 / STAD29. This is the place to look for things course-related (notes, code, old exams etc., linked above) except for lecture videos, assignment hand-ins and marks, which will be on [Quercus](https://q.utoronto.ca/courses/374269/pages/welcome) (link to 2025 page).
 
 
 ## News (newest first)
+
+- 2024-12-09 14:45: Here's where this year's news is going to end up. We have a [Quercus page](https://q.utoronto.ca/courses/374269/pages/welcome). Lectures begin on Wed Jan 8 (section 1) and Mon Jan 6 (section 2). See Acorn for locations and times.
+
+## Last year's news
 
 - 2024-04-25 15:00: all done, and grades submitted. They will reach you about two business days after being approved.
 
