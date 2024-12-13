@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-12-12 21:30: final exam marking is under way. We are now 11% done (which is actually all me so far). Your TAs have been briefed about the marking of their questions, and they will get to it when they have a chance.
+
 - 2024-12-10 14:15: 
   - we haven't forgotten about Assignment 7. This will be marked and included in your course grade.
   - final exam *tomorrow*. See Quercus announcement for where and when.
