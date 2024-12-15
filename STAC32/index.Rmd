@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2024-12-14 21:10: tonight's report: 43% done, including (I think) all of mine.
+
 - 2024-12-13 21:15: We are up to 26% done. Expect your TAs and me to devote our weekend to marking your exam. [My solutions](final-20249-c32_a.pdf), with edits from the questions I've been marking. The figures are at the end.
 
 - 2024-12-12 21:30: final exam marking is under way. We are now 11% done (which is actually all me so far). Your TAs have been briefed about the marking of their questions, and they will get to it when they have a chance.
