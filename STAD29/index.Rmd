@@ -20,7 +20,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
     - There is no tutorial in this course. Instead, I am expecting you to spend time on your own working through the week's [worksheet](https://ritsokiguess.site/STAD29/all_worksheets.html). Each worksheet should be available by Monday, and should make sense to you after your lecture for the week.
     - Worksheet solutions will be published on Fridays.
     - Assignments will open on Fridays and will be due the following Friday night. As in C32, expect there to be eight assignments, best six count. The first assignment will open at the end of week 1 and will be due at the end of week 2.
-    - There will be no assignment due close to the midterm date (whenever that is), and so the last assignment will probably be due in the last week of March.
+    - There will be no assignment due close to the midterm date (whenever that is), and so the last assignment will probably be due in the last or second-last week of March.
     
 
 - 2024-12-09 14:45: Here's where this year's news is going to end up. We have a [Quercus page](https://q.utoronto.ca/courses/374269/pages/welcome). Lectures begin on Wed Jan 8 (section 1) and Mon Jan 6 (section 2). See Acorn for locations and times.
