@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-01-09 12:20: it feels rather strange to say that week 1 is done, but for me it is. A couple of reminders:
+  - worksheet 1, on the [worksheets page](all_worksheets.qmd), is available for practice on the stuff we did in class this week. I will post my solutions in the same place tonight (if I remember) or tomorrow (if I don't). (If the worksheets display in an odd order, use the pulldown above the list of files to display them in file name order.)
+  - assigment 1, [on Quercus](https://q.utoronto.ca/courses/374269/assignments/1440703), opens tomorrow and is due on Jan 17 (at 11:59pm).
+  - next week's lecture: approximately the first half of [logistic regression](http://ritsokiguess.site/lecture-notes/logistic.html).
+
 - 2025-01-05 20:00: Sunday update (not sure yet whether this will be a regular thing):
   - classes start Monday (section 2), Wednesday (section 1), place and time in Acorn
   - this week, [course outline](http://ritsokiguess.site/lecture-notes/outline_d29.html) that is very similar to C32's, some [multiple regression](http://ritsokiguess.site/lecture-notes/regression.html) stuff that is partly review and partly some new ideas. Some of the more review-y stuff I will speed through or skip depending how we're doing for time.
