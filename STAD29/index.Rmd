@@ -13,6 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-01-13 11:15: some reminders:
+  - worksheet 1 solutions are on the [worksheets page](all_worksheets.qmd).
+  - [assignment 1](https://q.utoronto.ca/courses/374269/assignments/1440703) is open, due on Friday (Jan 17) on the same material as Worksheet 1. My solutions to it will go up after it closes.
+  - this week's lecture on [logistic regression](http://ritsokiguess.site/lecture-notes/logistic.html), up until about the stuff on odds and log-odds.
+  - worksheet 2 is on the [worksheets page](all_worksheets.qmd), and should make sense after this week's lecture. My solutions to it will go up on the same page towards the end of the week.
+  - more practice problems in [PASIAS chapter 27](https://ritsokiguess.site/pasias2/logistic-regression.html).
+  - assignment 2 will open on Friday Jan 17 and will be due on Friday Jan 24.
+
 - 2025-01-09 12:20: it feels rather strange to say that week 1 is done, but for me it is. A couple of reminders:
   - worksheet 1, on the [worksheets page](all_worksheets.qmd), is available for practice on the stuff we did in class this week. I will post my solutions in the same place tonight (if I remember) or tomorrow (if I don't). (If the worksheets display in an odd order, use the pulldown above the list of files to display them in file name order.)
   - assigment 1, [on Quercus](https://q.utoronto.ca/courses/374269/assignments/1440703), opens tomorrow and is due on Jan 17 (at 11:59pm).
