@@ -3,7 +3,7 @@ title: "Assignment solutions"
 listing:
   type: table
   contents: 
-    - "a?_d29_2024.html"
+    - "a?_d29_2025_a.html"
   fields: [file-modified, filename]
   sort: file-modified
   date-format: iso
