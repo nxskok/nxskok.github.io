@@ -14,7 +14,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 ## News (newest first)
 
 - 2025-01-20 11:35: 
-  - I have a cold. Try not to get too close to me this week. I feel as if I am running at half speed. Anyway, we will get to where we get. If I am out of juice, we may end early this week. Curiously, the material on [worksheet 3](all_worksheets.qmd) and assignment 3 is only about the first half of what I was planning to do today, so it is actually OK if we don't get as far as I had originally planned.
+  - I have a cold. Try not to get too close to me this week. I feel as if I am running at half speed. Anyway, we will get to where we get. If I am out of juice, we may end early this week. Curiously, the material on [worksheet 3](all_worksheets.qmd) and assignment 3 is only about the first half of what I was planning to do this week, so it is actually OK if we don't get as far as I had originally planned.
   - Solutions to Assignment 1 (which is now closed) are on the [assignment solutions page](all_assignments.qmd).
 
 - 2025-01-17 14:20: we appear to be on a Friday update this week. To add to the earlier reminders:
