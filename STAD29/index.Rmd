@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-01-23 15:30: Assignment 1 is graded, and I am about to release the marks. Appeals by the same procedure as STAC32 between Jan 26 and Feb 2 inclusive: that is to say, for your appeal to be successful, you will have to demonstrate that your work was graded inconsistently with my solutions. This time, the grader created a rubric that I hope to share with you, which will also help to explain why you earned the mark you did.
+
 - 2025-01-22 11:55: my cold continues. I did about 90 minutes of class on Monday before running out of energy, and I expect today to be about the same. On Monday, I went more or less straight home after class and took a nap, and I may need to do the same today. So, don't count on finding me in my office after class today; if you have questions, ask me after lecture, or put them on the [Quercus discussion board](https://q.utoronto.ca/courses/374269/discussion_topics).
 
 - 2025-01-20 11:35: 
