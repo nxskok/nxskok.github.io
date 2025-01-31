@@ -13,6 +13,15 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-01-31 14:30: Friday update:
+  - Midterm date, time, and place is official. See the announcement on Quercus for details. (I am not sharing details with anyone outside the class, for your safety.) Material is probably up to the week before the midterm, but it is too soon to say specifically what that will be.
+  - Lecture next week on [survival analysis](http://ritsokiguess.site/lecture-notes/survival.html).
+  - Worksheet 4 solutions and worksheet 5 questions are up on the  [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html). 
+  - For extra practice on survival analysis, see [Chapter 30 of PASIAS](https://ritsokiguess.site/pasias2/survival-analysis.html).
+  - Assignment 3 is due tonight (open until Sunday night), and assignment 4 is open now.
+
+  
+
 - 2025-01-27 11:00: Assignment 2 is closed. My solutions are on the [assignment solutions page](all_assignments.qmd). The cold is improving, though I still have a cough. [Assignment 3](https://q.utoronto.ca/courses/374269/assignments/1467960) is open.
 
 - 2025-01-24 14:30: Friday update:
