@@ -13,9 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02-03 15:15: On Assignment 4 question 5, if you cannot get `step` to work for you without giving an error message: show the error message in the work you hand in (you will probably also need to add `#| error: true` as the top line of the code chunk in question), and then proceed in question 6 as if the best model has bill length, bill depth, and sex in it (if `step` does not work for you, you will need to explicitly fit this model in order to obtain predictions later).
+
 - 2025-02-03 12:15: Assignment update:
   - Assignment 4 is open.
-  - Assignment 3 is closed.
+  - Assignment 3 is closed and solutions are posted [on the assignment solutions page](all_assignments.qmd).
   - Assignment 2 is marked. Appeals by usual process between Feb 6 and Feb 13 inclusive.
 
 - 2025-01-31 14:30: Friday update:
