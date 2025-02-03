@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02
+
 - 2025-01-27 11:00: Assignment 2 is closed. My solutions are on the [assignment solutions page](all_assignments.qmd). The cold is improving, though I still have a cough. [Assignment 3](https://q.utoronto.ca/courses/374269/assignments/1467960) is open.
 
 - 2025-01-24 14:30: Friday update:
