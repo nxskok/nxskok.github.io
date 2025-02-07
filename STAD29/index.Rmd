@@ -13,33 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2025-01-31 14:30: Friday update:
-  - Midterm date, time, and place is official. See the announcement on Quercus for details. (I am not sharing details with anyone outside the class, for your safety.) Material is probably up to the week before the midterm, but it is too soon to say specifically what that will be.
-  - Lecture next week on [survival analysis](http://ritsokiguess.site/lecture-notes/survival.html).
-  - Worksheet 4 solutions and worksheet 5 questions are up on the  [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html). 
-  - For extra practice on survival analysis, see [Chapter 30 of PASIAS](https://ritsokiguess.site/pasias2/survival-analysis.html).
-  - Assignment 3 is due tonight (open until Sunday night), and assignment 4 is open now.
-
-  
-
-- 2025-01-27 11:00: Assignment 2 is closed. My solutions are on the [assignment solutions page](all_assignments.qmd). The cold is improving, though I still have a cough. [Assignment 3](https://q.utoronto.ca/courses/374269/assignments/1467960) is open.
-
-- 2025-01-24 14:30: Friday update:
-  - we have a tentative **midterm date** of *March 7*. I will let you know when this is official, though it is not likely to change.
-  - next week's lectures on:
-    - the rest of [logistic regression](http://ritsokiguess.site/lecture-notes/logistic.html), that is to say the odds and ends at the end of the brand-preference example.
-    - [dates and times](http://ritsokiguess.site/lecture-notes/dates_and_times.html), possibly also including [durations, intervals, and periods](http://ritsokiguess.site/lecture-notes/dip.html).
-    - The reason for looking at dates and times now is to prepare us for [survival analysis](http://ritsokiguess.site/lecture-notes/survival.html), which is the study of the time until an event happens.
-  - worksheets, on the [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html):
-    - solutions to #3 are up (thanks to the student who reminded me)
-    - worksheet #4 is up, which will make sense after next week's lecture (though in fact you may be able to do some of it now).
-  - assignments: 
-    - #2 due *tonight*, open until Sunday night
-    - #3 opened today, and is due on Friday of next week. Reminder that each assignment is based on the worksheet with the same number.
-  
-  
-
-- 2025-01-23 15:30: Assignment 1 is graded, and I am about to release the marks. Appeals by the same procedure as STAC32 between Jan 26 and Feb 2 inclusive: that is to say, for your appeal to be successful, you will have to demonstrate that your work was graded inconsistently with my solutions and the rubric (see next sentence). This time, the grader created a rubric that you can see, which will also help to explain why you earned the mark you did (as well as making the grading quicker and more consistent).
+- 2025-01-23 15:30: Assignment 1 is graded, and I am about to release the marks. Appeals by the same procedure as STAC32 between Jan 26 and Feb 2 inclusive: that is to say, for your appeal to be successful, you will have to demonstrate that your work was graded inconsistently with my solutions. This time, the grader created a rubric that I hope to share with you, which will also help to explain why you earned the mark you did.
 
 - 2025-01-22 11:55: my cold continues. I did about 90 minutes of class on Monday before running out of energy, and I expect today to be about the same. On Monday, I went more or less straight home after class and took a nap, and I may need to do the same today. So, don't count on finding me in my office after class today; if you have questions, ask me after lecture, or put them on the [Quercus discussion board](https://q.utoronto.ca/courses/374269/discussion_topics).
 
