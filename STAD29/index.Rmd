@@ -13,6 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02-07 15:30: a late Friday update this week, because I have been marking deferred exams:
+  - Lecture next week is [ANOVA revisited](https://ritsokiguess.site/lecture-notes/anova.html), including two-way ANOVA, interactions, simple effects, contrasts and the like.
+  - On the [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html), solutions to worksheet 5 and questions for worksheet 6 (on the ANOVA stuff).
+  - For extra practice on this material, see [PASIAS chapter 31](https://ritsokiguess.site/pasias2/anova-revisited.html).
+  - Assignment 4 is due tonight, and Assignment 5 is open.
+  - Looking ahead a bit, Feb 17-21 is reading week; there are no lectures that week, and no assignment is due. (Assignment 5 is due just before reading week, and assignment 6 will not be due until the end of the week after reading week). There will also be no assignment due the day of the midterm, and after that the worksheets and assignments will probably be out of sync number-wise.
+
 - 2025-02-06 20:45: worksheet 5 solutions are up on the [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html). Assignment 5 opens at midnight.
 
 - 2025-02-03 15:15: On Assignment 4 question 5, if you cannot get `step` to work for you without giving an error message: show the error message in the work you hand in (you will probably also need to add `#| error: true` as the top line of the code chunk in question), and then proceed in question 6 as if the best model has bill length, bill depth, and sex in it (if `step` does not work for you, you will need to explicitly fit this model in order to obtain predictions later).
