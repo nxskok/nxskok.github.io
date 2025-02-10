@@ -18,7 +18,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
   - On the [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html), solutions to worksheet 5 and questions for worksheet 6 (on the ANOVA stuff).
   - For extra practice on this material, see [PASIAS chapter 31](https://ritsokiguess.site/pasias2/anova-revisited.html).
   - Assignment 4 is due tonight, and Assignment 5 is open.
-  - Looking ahead a bit, Feb 17-21 is reading week; there are no lectures that week, and no assignment is due. (Assignment 5 is due just before reading week, and assignment 6 will not be due until the end of the week after reading week). There will also be no assignment due the day of the midterm, and after that the worksheets and assignments will probably be out of sync number-wise.
+  - Looking ahead a bit, Feb 17-21 is reading week; there are no lectures that week, and no assignment is due. (Assignment 5 is due just before reading week, and assignment 6 will not be due until the end of the week after reading week, ie. Feb 28). There will also be no assignment due the day of the midterm, and after that the worksheets and assignments will probably be out of sync number-wise.
 
 - 2025-02-06 20:45: worksheet 5 solutions are up on the [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html). Assignment 5 opens at midnight.
 
