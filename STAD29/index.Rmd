@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02-11 16:30: weather forecast is calling for a snowstorm right after lecture ends tomorrow. Check the [university status page](https://www.utoronto.ca/campus-status) to make sure that campus is open before you head in. If campus is closed there is, of course, no lecture, but if campus is open and the snowstorm is imminent, my contingency plan is to do lecture without a break and end early so that you can get home.
+
 - 2025-02-07 15:30: a late Friday update this week, because I have been marking deferred exams:
   - Lecture next week is [ANOVA revisited](https://ritsokiguess.site/lecture-notes/anova.html), including two-way ANOVA, interactions, simple effects, contrasts and the like.
   - On the [worksheets page](https://ritsokiguess.site/STAD29/all_worksheets.html), solutions to worksheet 5 and questions for worksheet 6 (on the ANOVA stuff).
