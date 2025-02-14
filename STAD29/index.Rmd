@@ -13,6 +13,17 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02-14 11:45: Friday update:
+  - next week is reading week! No lectures on Mon/Wed and no assignment due on Friday of reading week.
+  - Assignment 5 is due tonight (open until Sun with late penalty).
+  - Worksheet 6 solutions are up on the [worksheets page](all_worksheets.qmd).
+  - Assignment 6, on this week's material, is open but is not due until Feb 28.
+  - When we come back from reading week, the Feb 24/26 lecture will be on some or all of:
+    - contrasts (at the end of the [ANOVA Revisited](https://ritsokiguess.site/lecture-notes/anova.html) slides)
+    - [analysis of covariance](https://ritsokiguess.site/lecture-notes/ancova.html)
+    - [multivariate analysis of variance](https://ritsokiguess.site/lecture-notes/manova.html)
+  - Have a happy Family Day!
+
 - 2025-02-11 16:30: weather forecast is calling for a snowstorm right after lecture ends tomorrow. Check the [university status page](https://www.utoronto.ca/campus-status) to make sure that campus is open before you head in. If campus is closed there is, of course, no lecture, but if campus is open and the snowstorm is imminent, my contingency plan is to do lecture without a break and end early so that you can get home. 
   - Edit 2025-02-12 12:30: contingency plan applies: we'll go without a break and finish before 3:30 today. No office hours today, since I want to get home too! Catch me after class or post on the quercus discussion board if you have questions.
 
