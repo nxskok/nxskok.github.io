@@ -13,6 +13,21 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02-20 14:20: we appear to have a Thursday update this week:
+  - Assignment 6 is due on Feb 28 (Friday of the first week back after reading week)
+  - My solutions to Assignments 4 and 5 are up on the assignment [solutions page](all_assignments.qmd). 
+  - Grading of Assignments 3 and 4 is under way.
+  - Next week's lecture is on some or all of these, in this order:
+    - contrasts (at the end of the [ANOVA Revisited](https://ritsokiguess.site/lecture-notes/anova.html) slides)
+    - [analysis of covariance](https://ritsokiguess.site/lecture-notes/ancova.html)
+    - [multivariate analysis of variance](https://ritsokiguess.site/lecture-notes/manova.html)
+  - Whatever of these we get to is on the midterm; anything we don't (which might be some of MANOVA) is not. There is a lecture the week of Mar 3, scheduled to be on [repeated measures](https://ritsokiguess.site/lecture-notes/profile.html). This will not be on the midterm, but *will* be on the final exam (you can count on it), so miss it at your peril! 
+  - It is up to you to organize your own review for the midterm. I have twelve weeks of material to share with you, so we need to keep going.
+  - The current draft of the midterm has 6 scenarios with a total of 30 questions, but that may change between now and the midterm date.
+  - There is a [Worksheet 7](all_worksheets.qmd) up on the Worksheets page, which is on the material in next week's lecture.
+  - Looking ahead, Assignment 7 is not due until Mar 14 (so that you don't have an assignment due the same day as the midterm), but starting it early will help you prepare for the midterm. It will open on Feb 28.
+  
+
 - 2025-02-14 11:45: Friday update:
   - next week is reading week! No lectures on Mon/Wed and no assignment due on Friday of reading week.
   - Assignment 5 is due tonight (open until Sun with late penalty).
