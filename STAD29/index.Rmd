@@ -25,7 +25,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
   - Next week's lecture is on some or all of these, in this order:
     - contrasts (at the end of the [ANOVA Revisited](https://ritsokiguess.site/lecture-notes/anova.html) slides)
     - [analysis of covariance](https://ritsokiguess.site/lecture-notes/ancova.html)
-    - [multivariate analysis of variance](https://ritsokiguess.site/lecture-notes/manova.html)
+    - [multivariate analysis of variance](https://ritsokiguess.site/lecture-notes/manova.html) with [link to discussion of Box M test](https://www.statisticshowto.com/boxs-m-test/)
   - Whatever of these we get to is on the midterm; anything we don't (which might be some of MANOVA) is not. There is a lecture the week of Mar 3, scheduled to be on [repeated measures](https://ritsokiguess.site/lecture-notes/profile.html). This will not be on the midterm, but *will* be on the final exam (you can count on it), so miss it at your peril! 
   - It is up to you to organize your own review for the midterm. I have twelve weeks of material to share with you, so we need to keep going.
   - The current draft of the midterm has 6 scenarios with a total of 30 questions, but that may change between now and the midterm date.
