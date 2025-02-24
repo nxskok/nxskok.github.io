@@ -13,7 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2025-02-24 10:35: assignment 3 appears to be graded (checking with the TA) and assignment 4 and 5 grading is under way. Assignment 6 is open, and is due on Friday (Feb 28).
+- 2025-02-24 10:35: assignment 3 is graded. Any appeals between Feb 27 and Mar 6 inclusive. Assignment 4 and 5 grading is under way. Assignment 6 is open, and is due on Friday (Feb 28).
 
 - 2025-02-20 14:20: we appear to have a Thursday update this week:
   - Assignment 6 is due on Feb 28 (Friday of the first week back after reading week)
