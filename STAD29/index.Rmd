@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02-25 14:20: assignment 5 is graded. Appeals between Feb 28 and Mar 7 by the usual process, which is:
+  - send me an email with the word "appeal" and the assignment number in the subject header
+  - explain precisely which question on the assignment has been incorrectly graded according to my solutions/the rubric, and how your answer is correct.
+  - "my answer is the same as the solutions" is not persuasive, because the grader clearly thought it was not.
+
 - 2025-02-24 10:35: Assignments:
   - Assignment 3 is graded. Any appeals between Feb 27 and Mar 6 inclusive by the usual process. 
   - Assignment 4 and 5 grading is under way. 
