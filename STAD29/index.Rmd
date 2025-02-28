@@ -13,6 +13,24 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-02-28 11:10: Friday update (back to the usual day this week):
+  - reminder of *midterm* on Mar 7: 
+    - See [Quercus announcement](https://q.utoronto.ca/courses/374269/discussion_topics/2951382) for time, place, and details. One thing I forgot to mention: the rules for the exams in this course are the same as for STAC32: bring any *printed* material you like, but make sure it's organized, or else you will waste too much time looking things up.
+    - material on the midterm is everything up to and including last week's lecture. Last week's (Thursday) update will tell you what that is.
+    - the midterm has gone for printing. It has 6 scenarios with 30 questions total, worth a total of 67 marks.
+  - Assignments:
+    - Assignment 4 is graded, and the marks will be posted shortly. Appeals by usual procedure between Mar 3 and Mar 10. I deal with appeals at the end of the date range, so that I can look at them all together.
+    - Assignment 6 is due tonight and is open until Sunday night (with late penalty).
+    - Assignment 7 (on the same material as Worksheet 7) will open today, but is not due until Mar 14. You may want to start work on it to help you prepare for the midterm.
+  - Lecture next week:
+    - the remainder of MANOVA (quickly, since there are only a few new ideas in the second example)
+    - repeated measures
+  - Worksheets:
+    - My solutions to worksheet 7 are up on the [worksheets page](all_worksheets.qmd).
+    - Worksheet 8 is also up on the [worksheets page](all_worksheets.qmd).
+    
+  
+
 - 2025-02-25 14:20: assignment 5 is graded. Appeals between Feb 28 and Mar 7 by the usual process, which is:
   - send me an email with the word "appeal" and the course and assignment number in the subject header between the appropriate dates
   - explain precisely which question on the assignment has been incorrectly graded according to my solutions/the rubric, and how your answer is correct.
