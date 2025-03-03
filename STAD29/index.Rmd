@@ -13,7 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2025-02-28 11:10 with addition 2025-03-03 11:15: Friday update (back to the usual day this week):
+- 2025-02-28 11:10 with additions 2025-03-03 11:15: Friday update (back to the usual day this week):
   - reminder of *midterm* on Mar 7: 
     - See [Quercus announcement](https://q.utoronto.ca/courses/374269/discussion_topics/2951382) for time, place, and details. One thing I forgot to mention: the rules for the exams in this course are the same as for STAC32: bring any *printed* material you like, but make sure it's organized, or else you will waste too much time looking things up.
     - material on the midterm is everything up to and including last week's lecture. Last week's (Thursday) update will tell you what that is.
