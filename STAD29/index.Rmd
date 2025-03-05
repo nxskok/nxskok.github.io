@@ -13,7 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2025s03s05 17:00: Assignment 6 solutions are up on the [assignment solution page](all_assignments.qmd).
+- 2025-03-05 17:00: Assignment 6 solutions are up on the [assignment solution page](all_assignments.qmd).
 
 - 2025-03-05 13:10: I have just updated the MANOVA and repeated measures lecture notes:
   - there was a question on Monday about Box's M test for interactions (in the peanuts example). I have added a little about this to the lecture notes, and put a more detailed answer on the Quercus discussion board.
