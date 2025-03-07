@@ -13,6 +13,9 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-07 17:30: A very late Friday update (which I will add to later):
+  - Midterm exam *tonight*! See the Quercus announcement for place and time (we are in two rooms, so make sure you are in the correct one). If you miss the midterm for any reason, the weight goes onto the final exam. I do not need documentation for this.
+
 - 2025-03-05 17:00: Assignment 6 solutions are up on the [assignment solution page](all_assignments.qmd).
 
 - 2025-03-05 13:10: I have just updated the MANOVA and repeated measures lecture notes:
