@@ -15,7 +15,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 - 2025-03-08 13:30: the update turned out to be so late that it is now Saturday!
   - The midterm will be scanned on (probably) Monday, and marking will begin after that. I may not have much time this coming week outside of lectures because I will be marking my share of your midterm.
-  - Now that you have written the exam, you can get back to the repeated measures material. There is a worksheet on [the worksheets page](all_worksheets.qmd) about that; the answers are also up. (There is also a worksheet 9 on the upcoming week's material.)
+  - Now that you have written the exam, you can get back to the repeated measures material. There is a worksheet 8 on [the worksheets page](all_worksheets.qmd) about that; the answers are also up. (There is also a worksheet 9 on the upcoming week's material.)
   - Next week's lecture is on [discriminant analysis](http://ritsokiguess.site/lecture-notes/discrim.html). This is the natural followup to MANOVA; you'll remember that MANOVA doesn't tell us much beyond "there is something going on", and discriminant analysis will help you  discover what the "something" is.
   - Assignment 7 is due on March 14. Assignment 8 opens on that day, and is due on March 21. Assignment 8 is on the material in worksheets *8 and 9*. There are no more assignments after that. (I appreciate that you may have term papers and the like that are due at the end of classes, and I don't want to be part of that problem.) There will be worksheets the rest of the way to help you practice what you have learned.
   - If you want extra practice, [PASIAS](https://ritsokiguess.site/pasias2/) is the place to look:
