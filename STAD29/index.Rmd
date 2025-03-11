@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-10 23:00: The exams are scanned and on Crowdmark. We are now at the dizzying heights of 3% done (meaning, I have marked one question). I was going to do a second one tonight, but I ran out of juice. Tomorrow, I am hoping to make some decent progress.
+
 - 2025-03-08 13:30: the update turned out to be so late that it is now Saturday!
   - The midterm will be scanned on (probably) Monday, and marking will begin after that. I may not have much time this coming week outside of lectures because I will be marking my share of your midterm.
   - Now that you have written the exam, you can get back to the repeated measures material. There is a worksheet 8 on [the worksheets page](all_worksheets.qmd) about that; the answers are also up. (There is also a worksheet 9 on the upcoming week's material.)
