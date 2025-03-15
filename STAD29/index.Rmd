@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-15 10:45: your TAs had a busy Friday, and we are now all the way to 90% done marking the midterm.
+
 - 2025-03-14.159265359: happy pi day! 
   - Midterm marking is now 60% done.
   - Lectures next week are on [cluster analysis](http://ritsokiguess.site/lecture-notes/cluster.html). I think we are on course to finish everything: maps (maybe) and principal components the week after next, multiway frequency tables in the last week. (Yes, we are that near the end.)
