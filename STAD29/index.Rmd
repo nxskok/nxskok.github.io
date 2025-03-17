@@ -15,6 +15,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 - 2025-03-17 10:45: we have midterm marks!
   - [my solutions](midterm-20251-d29_a.pdf)
+  - stats: Q3 52 (78%), median 45.5 (68%), Q1 37 (55%). These are about in line with historical averages for my exams. 
   - you will see your mark on Quercus shortly
   - you will get an email from Crowdmark with your marked exam in it. If you have not earned full marks for a question, you should have a comment from the grader on your marked exam; that, plus a review of my solutions, should help you understand *why* you did not earn full marks.
   - I am happy that the graders have marked consistently and in accordance with my solutions, and therefore I am *not* allowing appeals of the midterm marks. You should be able to answer any questions about the marking by carefully reading the grader's comments and carefully reading my solutions.
