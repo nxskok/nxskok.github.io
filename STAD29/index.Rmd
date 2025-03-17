@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-16 20:30: the exam is now at 97% marked, just part of question 14 left.
+
 - 2025-03-15 10:45: your TAs had a busy Friday, and we are now all the way to 90% done marking the midterm.
 
 - 2025-03-14.159265359: happy pi day! 
