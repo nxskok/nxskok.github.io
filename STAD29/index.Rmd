@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-19 13:20:
+  - thanks to the student who found a discrepancy in the discriminant analysis lecture notes. I went through those notes and the cluster analysis ones (where I feared there would be similar problems), and the versions of those two sets of slides on the [lecture notes page](notes.Rmd) should now be correct.
+  - I think I am now up to date on all the appeals and Quercus discussion board posts.
+
 - 2025-03-17 10:45: we have midterm marks!
   - [my solutions](midterm-20251-d29_a.pdf)
   - stats: Q3 52 (78%), median 45.5 (68%), Q1 37 (55%). These are about in line with historical averages for my exams. 
