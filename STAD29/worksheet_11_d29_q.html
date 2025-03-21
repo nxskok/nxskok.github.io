@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-03-20">
+<meta name="dcterms.date" content="2025-03-21">
 
 <title>Worksheet 11</title>
 <style>
@@ -8434,7 +8434,7 @@ window.onload = function() {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 20, 2025</p>
+      <p class="date">March 21, 2025</p>
     </div>
   </div>
   
@@ -8482,12 +8482,12 @@ window.onload = function() {
 </section>
 <section id="need-for-cognition" class="level2">
 <h2 class="anchored" data-anchor-id="need-for-cognition">Need for cognition</h2>
-<p>Questionnaires are often used to identify aspects of personality. The data in <a href="http://www.utsc.utoronto.ca/~butler/d29/cognition.txt" class="uri">http://www.utsc.utoronto.ca/~butler/d29/cognition.txt</a>, were the results of a questionnaire intended to identify people’s “need for cognition”. The questionnaire items are shown <a href="http://www.utsc.utoronto.ca/~butler/d29/cognition.PDF">here</a>. Each response is on a scale of 1–5, with 5 denoting “strongly agree”” and 1 denoting “strongly disagree”. Some of the items are “reverse-coded”, which means that “strongly disagree” is intended to correspond to a strong “need for cognition”. (This is to stop people from simply answering “strongly agree” all the way down the list.) The questionnaire item file indicates which items were reverse-coded. The column <code>id</code> is a serial number identifying the respondent, and the questionnaire responses are in columns <code>c1</code> through <code>c18</code>.</p>
+<p>Questionnaires are often used to identify aspects of personality. The data in <a href="http://www.utsc.utoronto.ca/~butler/d29/cognition.txt" class="uri">http://www.utsc.utoronto.ca/~butler/d29/cognition.txt</a>, were the results of a questionnaire intended to identify people’s “need for cognition”. The questionnaire items are shown <a href="http://www.utsc.utoronto.ca/~butler/d29/cognition.PDF">here</a>.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> Each response is on a scale of 1–5, with 5 denoting “strongly agree”” and 1 denoting “strongly disagree”. Some of the items are “reverse-coded”, which means that “strongly disagree” is intended to correspond to a strong “need for cognition”. (This is to stop people from simply answering “strongly agree” all the way down the list.) The questionnaire item file indicates which items were reverse-coded. The column <code>id</code> is a serial number identifying the respondent, and the questionnaire responses are in columns <code>c1</code> through <code>c18</code>.</p>
 <ol start="7" class="example" type="1">
-<li>Read in and display some of the data. Hint: the values are separated by single spaces, but there are some extra spaces on the beginning of the rows to make the columns line up. You might get a warning that you can ignore.</li>
+<li>Read in and display some of the data. Hint: the values are separated by single spaces, but there are some extra spaces on the beginning of the rows to make the columns line up. You might get one “parsing failure” warning that you can ignore.</li>
 </ol>
 <ol start="8" class="example" type="1">
-<li>Check that all of the responses to the questionnaire items are between 1 and 5, except for some missing ones.</li>
+<li>Check that all of the responses to the questionnaire items are between 1 and 5, except for some missing ones. (In this question and the next one, you might want to use a search engine to hunt for ideas, but <em>you have seen the solution ideas before</em>, so that when you see the search results, you need to be able to look at them and say “ah yes, we saw that before” or something similar that tells you that you know it will solve your problem because it has done so before.)</li>
 </ol>
 <ol start="9" class="example" type="1">
 <li>Create and save a dataframe in which the respondents with any missing values at all are dropped.</li>
@@ -8502,7 +8502,7 @@ window.onload = function() {
 <li>Look at the <code>summary</code> output of your principal components analysis. What does this tell you about your proposed number(s) of components?</li>
 </ol>
 <ol start="13" class="example" type="1">
-<li>Look at the loadings on component 1. Can you explain the pattern of plus and minus signs on the loadings? (Hint: look at the description of the items given above.)</li>
+<li>Look at the loadings on component 1. Can you explain the pattern of plus and minus signs on the loadings? (Hint: look at the description of the items linked above.)</li>
 </ol>
 <ol start="14" class="example" type="1">
 <li>What items does component 2 mainly depend on? (For me, there were five loadings noticeably higher than the rest.) What do these items seem to have in common?</li>
@@ -8523,6 +8523,7 @@ window.onload = function() {
 
 <ol>
 <li id="fn1"><p>Rugby league is also played in Australia, traditionally around the city of Sydney, and in places in the Pacific like New Zealand and Papua New Guinea.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>This was rather evidently made by putting a textbook on top of a photocopier and saying “scan this”.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main>
 <!-- /main column -->
