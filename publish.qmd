@@ -1,0 +1,6 @@
+code to publish website
+
+```{bash}
+quarto publish gh-pages --no-prompt --no-browser
+```
+
