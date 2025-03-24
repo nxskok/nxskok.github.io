@@ -13,6 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-21 16:00: Friday update:
+  - Assignment 8 and last is due tonight. My solutions to Assignment 7 are up on the [assignment solutions page](all_assignments.qmd).
+  - My solutions to Worksheet 10 are up on the [worksheets page](all_worksheets.qmd).
+  - Next week's lectures are on [drawing maps](http://ritsokiguess.site/lecture-notes/mapping.html) and [principal components](http://ritsokiguess.site/lecture-notes/princomp.html). I don't think we'll have time to get to factor analysis this time around, but the ideas there should make sense once we have studied principal components. There is a worksheet 11 [up](all_worksheets.qmd) on those.
+  - PASIAS [chapter 38 on maps](https://ritsokiguess.site/pasias2/maps.html) and [chapter 40 on principal components](https://ritsokiguess.site/pasias2/pc.html).
+  
+  
+
 - 2025-03-19 13:20:
   - thanks to the student who found a discrepancy in the discriminant analysis lecture notes. I went through those notes and the cluster analysis ones (where I feared there would be similar problems), and the versions of those two sets of slides on the [lecture notes page](notes.Rmd) should now be correct.
   - I think I am now up to date on all the appeals and Quercus discussion board posts.
