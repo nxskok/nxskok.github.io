@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-24 12:20: a couple of notes:
+  - Assignment 8 is closed. My solutions to it are on the [assignment solutions page](all_assignments.qmd).
+  - If your final exam mark is higher than your midterm mark, the final counts instead of the midterm.
+
 - 2025-03-21 16:00: Friday update:
   - Assignment 8 and last is due tonight. My solutions to Assignment 7 are up on the [assignment solutions page](all_assignments.qmd).
   - My solutions to Worksheet 10 are up on the [worksheets page](all_worksheets.qmd).
