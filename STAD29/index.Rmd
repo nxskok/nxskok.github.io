@@ -13,6 +13,12 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-03-28 15:30: Friday update time:
+  - one more week to go. Lecture is on [multiway frequency tables](http://ritsokiguess.site/lecture-notes/multiway.html), as analyzed by log-linear models. I like to end with this because it has a lot in common with regression, so many of the ideas are familiar (though there are one or two that are not).
+  - solutions to last week's worksheet, and a worksheet for the upcoming week are on the [worksheets page](all_worksheets.qmd).
+  - More practice problems in [PASIAS chapter 42](https://ritsokiguess.site/pasias2/loglin.html).
+  - Final exam is on April 12. I will post an announcement on Quercus with where and exactly when. I will have extra office hours sometime during the week before (thinking probably Wednesday).
+
 - 2025-03-24 12:20: a couple of notes:
   - Assignment 8 is closed. My solutions to it are on the [assignment solutions page](all_assignments.qmd).
   - If your final exam mark is higher than your midterm mark, the final counts instead of the midterm.
