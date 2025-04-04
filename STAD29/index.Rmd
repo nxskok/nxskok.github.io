@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-04-03 15:45: 
+  - the final exam is about to go for printing. It has 39 questions based on 7 scenarios worth a total of 87 points.
+  - my solutions to worksheet 12 are up on the [worksheets page](all_worksheets.qmd).
+
 - 2025-04-01 16:30 edited 2025-04-02 16:30: Assignments 7 and 8 are marked, and the marks are posted. Any appeals by usual process between Apr 4 and Apr 9 for both (so that I can get them out of the way before the final exam).
 
 - 2025-03-28 15:30: Friday update time:
