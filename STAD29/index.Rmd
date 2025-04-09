@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-04-09 14:30: worksheet 12 solutions are up on the [worksheets page](all_worksheets.qmd). Sorry for the delay: I forgot to post them.
+
 - 2025-04-07 13:00: 
   - pre-exam office hours on Wednesday April 9, 1:00-3:00pm. I realize that this is the first day of finals, so if you have an afternoon exam that day, there is time to pop in before that.
   - you have until tomorrow (I think it is) to complete a course evaluation, if you have not done so. These are used by my department to assess effectiveness of teaching, so if you have something to say on that, make sure you say it.
