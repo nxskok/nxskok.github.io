@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2025-04-16 22:45: we are now at 37% done (as I write); both of our TAs have started work on their questions. I have been updating my solutions (link yesterday) with extra things I'm noticing while marking.
+
 - 2025-04-15 22:30: a day of marking (for me), so we are now 21% done: that is to say, 8 of the 39 questions are marked. [My solutions](final-20251-d29_a.pdf).
 
 - 2025-04-14 23:10: we have scanned exams and grading is under way: that is to say, I have marked two questions, so we are now 5% done.
