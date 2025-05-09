@@ -1,0 +1,7 @@
+group  y
+low   10
+high   7
+high  13
+low   12
+low    6
+high   9
