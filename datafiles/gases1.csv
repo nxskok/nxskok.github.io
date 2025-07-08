@@ -1,9 +1,0 @@
-id,temperature,pressure,value
-100,low,low,67
-100,low,hi,71
-100,hi,low,66
-100,hi,hi,70
-101,low,low,77
-101,low,hi,81
-101,hi,low,76
-101,hi,hi,80
