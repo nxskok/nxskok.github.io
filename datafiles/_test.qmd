@@ -1,0 +1,10 @@
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+d <- read_delim("soap.txt", " ")
+d %>% select(-case) %>% write_csv("soap.csv")
+```
+
