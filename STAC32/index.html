@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -35,10 +69,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-e1be6e79049f3df03a364ce8a24ef0a0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +101,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -157,30 +220,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../programs-and-courses/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Programs and Courses</span></a>
+            <a href="../STAC32/index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">STAC32</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../programs-and-courses/faq.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Frequently Asked Questions about the Applied Statistics Minor program</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a href="../STAC32/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">STAC32</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../STAC32/all_assignments.html" class="sidebar-item-text sidebar-link">
@@ -223,11 +269,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../STAC33/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">STAC33</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../STAC33/all_assignments.html" class="sidebar-item-text sidebar-link">
@@ -258,17 +304,23 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">R code</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../STAC33/testing1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Untitled</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="../STAD29/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">STAD29</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../STAD29/all_assignments.html" class="sidebar-item-text sidebar-link">
@@ -297,6 +349,23 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../STAD29/R-code.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">R code</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../programs-and-courses/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Programs and Courses</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../programs-and-courses/faq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Frequently Asked Questions about the Applied Statistics Minor program</span></a>
   </div>
 </li>
       </ul>
@@ -358,15 +427,391 @@ ul.task-list li input[type="checkbox"] {
 <section id="news-most-recent-at-the-top" class="level2">
 <h2 class="anchored" data-anchor-id="news-most-recent-at-the-top">News (most recent at the top):</h2>
 <ul>
-<li>2025-07-29 13:00: time to open things up for the fall 2025 edition of this course:
+<li><p>2024-12-18 15:00: The final exams are marked, coursework appeals are dealt with, grades are submitted. You should be receiving them shortly.</p>
 <ul>
-<li>I’m aware that there is a long waitlist for this course. The problem is that the department literally does not have resources to make the course any bigger (for example, there is literally no-one to teach another section). Thus, if you are not already in this course, you will need to take your chances with the waitlist. I advise you to have backup plans. For example, if you are in your 3rd or earlier year of study according to your Degree Explorer, you may have to wait until next year to take STAC32 and STAD29. Appealing to me about this <em>will not help you</em>.</li>
-<li>Other things:
+<li>Reminders:
 <ul>
-<li><a href="https://ritsokiguess.site/lecture-notes/outline_c32.html">Last year’s syllabus</a> and <a href="https://ritsokiguess.site/STAC32/policies.pdf">detailed course policies</a>. Expect this year’s to be similar. You are expected to <em>attend lectures</em>, <em>take notes</em>, and <em>cite any help you get from outside the course</em>. (The problems you see on assignments and exams will in any case be solvable with the course materials and your brain.)</li>
-<li>I will be checking prerequisites. To take STAC32, you <em>must</em> have completed (by the time STAC32 starts in September) either STAB27 or PSYC08 or MGEB12, or another equivalent <em>that has already been approved by me</em>. If you have not completed one of these courses by then, you will be removed from STAC32.</li>
-<li>Program <a href="https://ritsokiguess.site/programs-and-courses/faq.html">FAQ</a>.</li>
+<li>Read <a href="https://ritsokiguess.site/STAC32/policies.pdf">section 5, Grades</a> in the detailed course policies.</li>
+<li>I am not allowed to discuss or negotiate grades. Do not attempt to do so.</li>
+<li>If you are unhappy with your grade, the only avenues of appeal you have are through the Registrar’s office.</li>
+<li>Course grades are based only on the work you have done in a course, and not on any external circumstances. If you want a certain grade, it is up to you to do the work needed to obtain it.</li>
 </ul></li>
+<li>Happy holidays to everyone, in whatever way you celebrate. I hope to see you in D29!</li>
+</ul></li>
+<li><p>2024-12-17 11:45: Assignment 7 is marked, grades to be posted shortly. We are on a tight timeline, so any appeals (by the usual procedure) need to reach me by <em>12 noon tomorrow</em>, Dec 18.</p></li>
+<li><p>2024-12-16 22:15: now 65% done.</p></li>
+<li><p>2024-12-14 21:10: tonight’s report: 43% done, including (I think) all of mine.</p></li>
+<li><p>2024-12-13 21:15: We are up to 26% done. Expect your TAs and me to devote our weekend to marking your exam. <a href="final-20249-c32_a.pdf">My solutions</a>, with edits from the questions I’ve been marking. The figures are at the end.</p></li>
+<li><p>2024-12-12 21:30: final exam marking is under way. We are now 11% done (which is actually all me so far). Your TAs have been briefed about the marking of their questions, and they will get to it when they have a chance.</p></li>
+<li><p>2024-12-10 14:15:</p>
+<ul>
+<li>we haven’t forgotten about Assignment 7. This will be marked and included in your course grade.</li>
+<li>final exam <em>tomorrow</em>. See Quercus announcement for where and when.</li>
+</ul></li>
+<li><p>2024-12-04 18:55: weather permitting, I’ll be in my office tomorrow (Thursday), sometime around early afternoon. (If the door is open, but I’m not there, I’m somewhere around and will be back soon.)</p></li>
+<li><p>2024-12-04 12:45:</p>
+<ul>
+<li>Assignment 8 is now marked, and the marks will be released in a moment. Appeals by the usual procedure between Dec 5 and Dec 10 (so that I can get to them before the final exam). Assignment 7 will be coming your way soon.</li>
+<li>in response to a question on <a href="https://q.utoronto.ca/courses/361123/discussion_topics/2867066">the discussion board</a>, I rewrote some of my solutions to <a href="worksheet_11_c32_a.html">worksheet 11</a> to fit better with the way we have been doing things.</li>
+</ul></li>
+<li><p>2024-12-03 11:30: final exam:</p>
+<ul>
+<li>the final exam is comprehensive: you are responsible for anything in the course.</li>
+<li>specifically: expect to see most of the material from after our midterm, and a selection of material from before.</li>
+</ul></li>
+<li><p>2024-12-02 14:45: updates:</p>
+<ul>
+<li>I think I am happy with the final exam. It has 37 questions worth a total of 91 points; in that regard it is not much bigger than the midterm, but I think you can expect to have to work harder for each point here than you did on the midterm.</li>
+<li>I will have pre-exam office hours on Monday Dec 9, 1:00-3:00pm.</li>
+<li>I may also be in the office this week, depending on the forecast for snow. I was thinking of Wed or Thursday, but as I write, the forecast is for snow both days, so we’ll see.</li>
+</ul></li>
+<li><p>2024-11-28 13:05: final exam time and location is <a href="https://q.utoronto.ca/courses/361123/discussion_topics/2860170">on Quercus</a>.</p></li>
+<li><p>2024-11-28 11:15: Some solutions of mine:</p>
+<ul>
+<li>to <a href="a8_c32_2024_a.html">Assignment 8</a> (which closed last night)</li>
+<li>to <a href="worksheet_11_c32_a.html">Worksheet 11</a> from tutorial yesterday.</li>
+</ul></li>
+<li><p>2024-11-25 11:30: the final Monday update:</p>
+<ul>
+<li>Assignments:
+<ul>
+<li>Assignment 7: my solutions</li>
+<li>Assignment 8 (the last one) due tonight.</li>
+</ul></li>
+<li>Lectures:
+<ul>
+<li>Tuesday: functions part 1</li>
+<li>Thursday: functions part 2. Once we are done this, we are done.</li>
+<li>no lectures after that (Dec 2 and Dec 3 are makeup Mondays).</li>
+</ul></li>
+<li>Worksheet 11 for tutorial on Wednesday.
+<ul>
+<li>Tutorial at 9:00am on Wednesday is cancelled. If you were going to that one, please go to one of the others (12 noon, 3:00pm, 4:00pm in the same room).</li>
+</ul></li>
+<li>The final exam is under construction. I will let you know the number of pages and questions when it is finished.</li>
+</ul></li>
+<li><p>2024-11-21 22:05: My solutions to <a href="worksheet_10_c32_a.html">worksheet 10</a>. Sorry for the delay, and thanks to the student who reminded me.</p></li>
+<li><p>2024-11-21 10:35: Assignment 6 has also been marked, and I am about to post the marks. Appeals by usual procedure between Nov 24 and Dec 1 inclusive.</p></li>
+<li><p>2024-11-19 10:50: Assignment 5 has been marked, and I am about to post the marks. Appeals by usual procedure between Nov 22 and Nov 29 inclusive.</p></li>
+<li><p>2024-11-18 11:20: Monday update (the second-to-last one):</p>
+<ul>
+<li>Assignments:
+<ul>
+<li>Assignment 5 appears to be marked. When the grader confirms that it is all done, I will post the marks.</li>
+<li>Assignment 6 marking is under way.</li>
+<li>Assignment 7 is due tonight.</li>
+<li>Assignment 8 (the last one) opens on Wednesday and is due on Monday of next week (the 25th).</li>
+</ul></li>
+<li>Lectures:
+<ul>
+<li>Tuesday: asphalt case study</li>
+<li>Thursday: regression with categorical (explanatory) variables</li>
+<li>remaining: writing functions</li>
+</ul></li>
+<li><a href="worksheet_10_c32_q.html">Worksheet 10</a> for tutorial on Wednesday. There is one more tutorial and one more worksheet after this.</li>
+</ul></li>
+<li><p>2024-11-14 10:30: solutions to things:</p>
+<ul>
+<li><a href="a6_c32_2024_a.html">Assignment 6</a></li>
+<li><a href="worksheet_9_c32_a.html">Worksheet 9</a></li>
+</ul></li>
+<li><p>2024-11-11 15:15: I am about ready to post the midterm marks. You have received an email from Crowdmark with instructions for retrieving your marked exam.</p>
+<ul>
+<li>Stats: median 57.25 (69%), Q1 45.75 (55%), Q3 70.25 (85%).</li>
+<li>Appeals by the same procedure as for assignments, between Nov 14 and Nov 21 inclusive. Appeals will only be considered for grading <em>errors</em>, that you can demonstrate by reference to <a href="midterm-20249-c32_a.pdf">my solutions</a>. In addition, the graders have been as consistent as possible across students, so I will not consider appeals for partial credit. Hence the only thing worth appealing is an answer where you can make the case for full credit for your answer, with reference to my solutions. To do this, you will need to demonstrate that the grader didn’t see something you wrote, or graded inconsistently with my solutions.</li>
+<li>If you are disappointed by your exam mark:
+<ul>
+<li>Your first task is to go through your marked exam carefully with my solutions and <em>understand</em> where you earned and did not earn points.</li>
+<li>If, despite your best efforts, you do not understand what you were missing, talk to me in office hours. These conversations are only about your understanding, not about your marks.</li>
+</ul></li>
+</ul></li>
+<li><p>2024-11-11 14:45: a (late) Monday update:</p>
+<ul>
+<li>the midterm is marked! After I have finished checking it over, I will upload the marks to Quercus, and send you your marked exam (you will get an email from Crowdmark with your marked exam attached).</li>
+<li>Assignment 6 is due <em>tonight</em> at the usual time.</li>
+<li>Lectures:
+<ul>
+<li>Tuesday: the last little bit of tidying data, then the windmill case study (regression).</li>
+<li>Thursday: the rest of the windmill case study, and maybe start on the asphalt case study (multiple regression).</li>
+</ul></li>
+<li><a href="worksheet_9_c32_q.html">Worksheet 9</a> for tutorial on Wednesday.</li>
+<li>There are two more assignments after #6 and two more worksheets after #9.</li>
+</ul></li>
+<li><p>2024-11-10 21:10: now at 90% marked. Remaining questions seem to be 5, 6, 12, and 24. Results tomorrow, maybe.</p></li>
+<li><p>2024-11-09 20:50: we are now up to 68% of the midterm graded. I am done my share, and we are waiting on the TAs to finish their parts.</p></li>
+<li><p>2024-11-08 21:55: looks as if it’s been a productive day of marking; we are up to 53% done. I am approaching the end of my share of the marking. My updated <a href="midterm-20249-c32_a.pdf">solutions</a>.</p></li>
+<li><p>2024-11-07 23:45: Midterm marking now at 38%. I did question 33 between lectures today and question 25 tonight, which was probably further than I expected to get today. (I’m working kinda backwards.) Tomorrow will be a (hopefully) productive day.</p></li>
+<li><p>2024-11-07 11:45: <a href="midterm-20249-c32_a.pdf">my midterm solutions</a> as they stand now (will be updated as marking continues).</p></li>
+<li><p>2024-11-06 22:00: update:</p>
+<ul>
+<li>my <a href="worksheet_8_c32_a.html">worksheet 8 solutions</a>. I messed up getting these to the TAs in time, so if your TA seemed underinformed in tutorial today, that was my fault.</li>
+<li>exam marking progress report: we are 28% done as of right now. I got through most of the ANOVA question today. I aim to do some more in between the two lectures tomorrow. It’s always a challenge to mark midterms while simultaneously keeping track of everything else in the course. Hence, you might need to remind me in lecture tomorrow (Thursday) of where we got to on Tuesday.</li>
+</ul></li>
+<li><p>2024-11-03 16:45: an early “Monday update”:</p>
+<ul>
+<li>Midterm on <em>Monday night</em>! <a href="https://q.utoronto.ca/courses/361123/discussion_topics/2761171">See Quercus announcement</a> for time and place(s).</li>
+<li>There are no assignments due this week. Assignment 6 will be due on Mon Nov 11, and there will be two more assignments after that.</li>
+<li>Lectures:
+<ul>
+<li>Tuesday: the first part of tidying data</li>
+<li>Thursday: the second part of tidying data</li>
+</ul></li>
+<li><a href="worksheet_8_c32_q.html">Worksheet 8</a> for tutorial on Wednesday.</li>
+</ul></li>
+<li><p>2024-10-30 13:15: course grade procedures:</p>
+<ul>
+<li>if you miss the midterm for any reason, the weight is automatically transferred to the final exam (you don’t have to ask me or provide documentation).</li>
+<li>if you <em>write</em> the midterm, but your final exam is better, your final exam automatically counts instead of your midterm.</li>
+<li>therefore, it is in your best interest to write the midterm if you can: it is “marks in the bank” if you do well, and is ignored if you do better on the final.</li>
+<li>on the other hand, if you are sick on exam day (particularly if you have something that is contagious or will disturb the person sitting next to you), <em>stay home</em>.</li>
+</ul></li>
+<li><p>2024-10-29 23:40: reminder of pre-exam office hours Wed 2:00-4:00pm in my office (see <a href="https://ritsokiguess.site/lecture-notes/outline_c32.html#/this-course">course outline</a> for where that is).</p></li>
+<li><p>2024-10-25 17:00: when I was a bit younger than you are now (that is to say, a long time ago now), I was given some tips about writing exams, which I pass on below. This exam has 33 questions grouped together under a number of “scenarios” with a title at the top (as on the assignments and worksheets); you will probably want to attempt the questions for a particular scenario together:</p>
+<ul>
+<li>budget your time. For my exams (and, I suspect, for most exams), the number of points is a reasonable proxy for the amount of time that it will take for a well-prepared student to answer the question. You know how many total points the exam is worth (see yesterday’s note), and you know how many minutes you have, so you know how long things should be taking. If you can, allow yourself a few minutes at the end for checking your answers.</li>
+<li>before you answer <em>any</em> of the questions, read (or at least skim) through the <em>whole</em> exam, and note anything that you know how to answer.</li>
+<li>start with the questions that look easiest, and make sure you get the points for those.</li>
+<li>if a question is taking you too long (given your time budget), <em>leave it</em> and do another one. Your job is <em>not</em> to do all the questions, but to get as many points as possible. If you spend too long on a question, you are stopping yourself from getting points elsewhere. The worst thing is to not even attempt questions that you know how to do.</li>
+<li>if you follow the principle of doing the easiest remaining questions at any point, anything you don’t have time for will be something that you weren’t going to get many points on anyway. (Note how different this is from the strategy of starting at the beginning and continuing until you run out of time.)</li>
+</ul></li>
+<li><p>2024-10-25 16:40:</p>
+<ul>
+<li>I added last year’s exams to the <a href="old_exams.html">old exam page</a>. In contrast to this year, last year’s midterm was <em>early</em>, so there is a lot of material that can be on this year’s midterm that was not on last year’s. Midterms vary in how far through the semester they are, so be careful about using previous midterms as a guide to what will appear on this year’s.</li>
+<li>I used to teach SAS in this course as well as R, so if you go back far enough, you will find questions on SAS in the exams. You can ignore those, or, perhaps better, think about how you would accomplish the same task with R.</li>
+<li>Also, if you go back far enough, you may in addition find R things done differently from how they are now. This is the nature of a course using developing software. Your aim is to do these tasks <em>as they are done now</em>, meaning as I am teaching them this year. There are, I think, some notes in my solutions indicating how things have changed, but I doubt I have caught everything. I plan to take another look at those during reading week and see what I can fix up.</li>
+</ul></li>
+<li><p>2024-10-24 15:50: I think I am happy with the midterm. It has 33 numbered questions worth a total of 83 points, some of which are writing code and some of which are explaining things.</p></li>
+<li><p>2024-10-24 11:30: a quick Thursday update:</p>
+<ul>
+<li>reminder that next week is Reading Week: no lectures or tutorials.</li>
+<li>I forgot to tell you where one of the data files was on Assignment 6! This is now fixed (thank you to the student who noticed it).</li>
+<li><a href="a5_c32_2024_a.html">My solutions</a> to Assignment 5.</li>
+<li><a href="worksheet_7_c32_a.html">My solutions</a> to Worksheet 7.</li>
+<li>I intend to hold pre-exam office hours on about Wednesday of next week (during reading week). I’m anticipating 2:00-4:00pm in my office.</li>
+</ul></li>
+<li><p>2024-10-21 12:30: Monday update:</p>
+<ul>
+<li>Assignment 5 is due tonight. If you are having difficulty installing <code>smmr</code>, make sure you have read the lecture notes and see the discussion on Quercus, or see <a href="https://github.com/nxskok/smmr">the <code>smmr</code> homepage</a> for another way.</li>
+<li>Assignment 4 marking is done. <a href="a4_c32_2024_a.html">My solutions</a>. I will post the marks shortly. Appeals by the usual process between Oct 24 and Oct 31 inclusive. Common errors (according to the TA): missing the <code>alternative</code> in question 5 (and hence getting a different answer in question 6); not considering sample size in question 8).</li>
+<li><a href="https://q.utoronto.ca/courses/361123/assignments/1400478">Assignment 6</a> will open on Wed night. This is rather long (sorry!), but it is not due until Nov 11, so you have almost three weeks to do it.</li>
+<li>Lectures:
+<ul>
+<li>Tuesday: the last bit of matched pairs, then the start of analysis of variance.</li>
+<li>Thursday: The rest of analysis of variance.</li>
+</ul></li>
+<li><a href="worksheet_7_c32_q.html">Worksheet 7</a> for tutorial on Wednesday. This is again rather long, because I wanted to give you practice on everything that might appear on the midterm. Questions 1-10 should be doable after Tuesday’s lecture, but you might want to wait until after Thursday’s lecture before tackling the rest of it. I will post all my solutions on Wednesday as usual, but (see note 2024-10-20 16:00) you should not look at my solutions to question 11 and on until <em>after</em> you have made an honest attempt at solving them yourself.</li>
+</ul></li>
+<li><p>2024-10-20 16:00:</p>
+<ul>
+<li>One of the most powerful ways to find out whether you know something is to solve problems on it, and when you have given the problems your best effort, <em>then</em> you look at the solutions and grade yourself. It then becomes very clear where any gaps in your knowledge are, and you know what to go back and study again. This is why I give you my worksheets first, and then later give you the solutions, and why I post my detailed solutions to the assignments after you have had a chance to work on them. (I will post my solutions to the midterm after you have written it, for the same reason. You will be able to see your graded exam, so you should go through that with my solutions.)</li>
+<li>This means that the best way you have of studying for the midterm is, after reading through your lecture notes:
+<ul>
+<li>go to tutorial and do the worksheets yourself, <em>then</em> look at my solutions and grade yourself.</li>
+<li>do the assignments yourself, and <em>afterwards</em> look at my solutions and see what you were missing.</li>
+<li>if you want more practice, look at the problems in <a href="https://ritsokiguess.site/pasias2/">PASIAS</a>. Each problem appears twice in its chapter, the first time without answers, the second time with. Attempt the problem as it appears <em>without</em> answers, then read the same problem as it appears <em>with</em> answers and grade yourself.</li>
+<li>after you have graded yourself, go back to your lecture notes and re-read the things you are weak on (and, ideally, when you are ready, do another practice problem to see whether you understand it now).</li>
+<li>There are <a href="https://ritsokiguess.site/STAC32/old_exams.html">old midterms</a>. Use these in the same way: write the ones without answers first, under exam conditions with the notes you intend to bring to the actual exam, and then grade yourself using my solutions. Be mindful that in some of the older exams I do things differently from how I do them now. If you are confused by any of those, ask on the Quercus discussion board. See also Brian Harrington’s <a href="https://www.reddit.com/r/UTSC/comments/16kns8q/past_exams/">reddit post</a> on using old exams.</li>
+<li>If you <em>don’t</em> do these things (for example, you read through things with answers instead of taking the time to solve these problems yourself), you are setting yourself up to <em>struggle</em> in my exams, because solving my problems without knowing what the answers are is literally what you will need to do on the exams.</li>
+</ul></li>
+<li>All this applies in any STEM-like course where later material depends on earlier material. You learn by <em>solving</em> problems (yourself) like the ones you will see on the exam, and preferably enough of them that you are ready for anything that might appear on the exam. There is no shortcut to success apart from this.</li>
+</ul></li>
+<li><p>2024-10-20 15:55: I had a couple of questions about <code>read.csv</code> last week after class. The key thing for you to know is that <em>I did not teach this</em> as a way of reading in a CSV file, so that in this course it is <em>wrong</em> and only <code>read_csv</code> with an underscore is correct. To have any hope of getting credit for using it, you need to say <em>in your assignment</em> where you got it from, <em>and</em> to say why it is better for the purpose than what I taught you. (It is too late to put that in an appeal.) It is also rather a signal that you got help from outside the course, and I warned you in <a href="https://ritsokiguess.site/lecture-notes/outline_c32.html#/expectations-13">the syllabus</a> that this is unlikely to help you in the long run.</p></li>
+<li><p>2024-10-16 23:30: A late-night check-in:</p>
+<ul>
+<li>Assignment 3 is graded. Appeals by the same procedure as for Assignments 1 and 2, between Oct 19 and Oct 26 inclusive. Added 2024-10-21 12:45: Common errors: questions 1 and 5 use of <code>read.csv</code> (see note 2024-10-20 15:55); question 4 and 9 failure to mention sample size and overcoming the skewness; question 7 and 8 make sure to use <code>greater</code>.</li>
+<li>My solutions to <a href="worksheet_6_c32_a.html">Worksheet 6</a>.</li>
+</ul></li>
+<li><p>2024-10-11 13:15: An early “Monday update”, since Monday is a holiday:</p>
+<ul>
+<li>Assignment 4 is due on <em>Tuesday</em> night.</li>
+<li>Assignment 3 marking is under way. <a href="a3_c32_2024_a.html">My solutions</a>.</li>
+<li><a href="https://q.utoronto.ca/courses/361123/assignments/1396596">Assignment 5</a> will open on Wed night.</li>
+<li>Lectures next week, approximately:
+<ul>
+<li>Tuesday: the last little bit of sign test, then normal quantile plots.</li>
+<li>Thursday: Mood’s median test</li>
+</ul></li>
+<li><a href="worksheet_6_c32_q.html">Worksheet 6</a> for tutorial on Wednesday. You should be able to do the first question now, and the second one after (next) Tuesday’s lecture.</li>
+</ul></li>
+<li><p>2024-10-09 22:30: my <a href="worksheet_5_c32_a.html">worksheet 5 solutions</a>.</p></li>
+<li><p>2024-10-09 15:30: I have taken a look at the appeals for Assignment 1. You should have a comment from me on Quercus, together with a possibly adjusted mark.</p></li>
+<li><p>2024-10-09 12:30: about the midterm:</p>
+<ul>
+<li>The date, time, and place of the midterm is in an announcement on Quercus, edited today. I am not announcing these to people outside the class.</li>
+<li>The midterm is open-book. You can bring what you wish, such as your lecture notes, assignments, my slides, assignment solutions, etc, <strong>printed</strong> (no computers or other devices at the exam). You will need to organize whatever you bring, so that you can quickly find what you are looking for (and so there is an upper limit on what there is any point in bringing). If you are not well prepared, you can expect to run out of time; you will not have time to look everything up or go searching for things.</li>
+<li>The exam coverage is everything that is done in lecture up to and including Thursday Oct 24. This is currently scheduled to include up to Analysis of Variance, but that may change. If I haven’t talked about it in class by the end of that day’s lecture, it’s not on the exam.</li>
+<li>Expect to be writing code and explanations (for example, I might ask for code to do a task, or give you code or output and ask questions about it).</li>
+<li>At the exam, you will get an exam paper with spaces to write your answers, and you also get a booklet with numbered Figures to refer to during the exam. The exam will say things like “In Figure 10, what is…” and you will need to find Figure 10 in the other booklet.</li>
+<li>This is a Crowdmark exam, so it is best to use a pen or a <em>sharp</em> pencil, otherwise we may have trouble reading your answers. (Your exam will be scanned and then marked online, so if we cannot read the scan of your writing, we cannot give it points.) Only the front of the pages will be scanned, so do not write anything on the back of the pages, since no-one will see it. I add a blank page at the end of the exam which you can use for writing answers if you run out of space elsewhere.</li>
+<li>The exam will have some number of numbered questions worth 2 or 3 or 4 or so points each, as on the assignments. I will tell you later how many questions there are.</li>
+<li>if you have an exam accommodation, you will be writing with Accessability, and should make arrangements with them.</li>
+<li>Any questions about exam procedures should go in Quercus discussions.</li>
+</ul></li>
+<li><p>2024-10-07 11:00: Monday update:</p>
+<ul>
+<li>Assignment 3 is due tonight.</li>
+<li>Assignment 2 has been marked, and I will release the marks shortly. Appeals between Oct 10 and 17 inclusive by the procedure described at 2024-09-27 11:25.</li>
+<li><a href="https://q.utoronto.ca/courses/361123/assignments/1394416">Assignment 4</a> will open on Wed night.</li>
+<li>Lectures this week, approximately:
+<ul>
+<li>Tuesday: the rest of power of hypothesis tests</li>
+<li>Thursday: the sign test. After that is normal quantile plots.</li>
+</ul></li>
+<li><a href="worksheet_5_c32_q.html">Worksheet 5</a> for tutorial on Wednesday (which should be doable after Tuesday’s lecture, and will prepare you for Assignment 4).</li>
+</ul></li>
+<li><p>2024-10-02 18:45: dinner is on the way, and I fixed my solutions.</p></li>
+<li><p>2024-10-02 18:10: a temporary version of <a href="worksheet_4_c32_a.html">my solutions to worksheet 4</a>. I realized that I put the wrong plot in for question 6 (we haven’t seen the normal quantile plot in lecture yet), so will fix this, but I need to eat dinner first.</p></li>
+<li><p>2024-09-30 11:10: Monday update:</p>
+<ul>
+<li>Assignment 2 is due tonight.</li>
+<li>Lectures:
+<ul>
+<li>Tuesday: bootstrap sampling distribution of the sample mean (this will help us answer the question of “is our sample big enough for the Central Limit Theorem to help?”)</li>
+<li>Thursday: power of hypothesis tests (this may spill into next week)</li>
+</ul></li>
+<li>Tutorial: <a href="worksheet_4_c32_q.html">Worksheet 4</a></li>
+<li>Assignment 3, on the same material as Worksheet 4, will open on Wednesday night.</li>
+</ul></li>
+<li><p>2024-09-27 11:25: Assignment 1 is now graded. I will release the marks shortly:</p>
+<ul>
+<li><a href="a1_c32_2024_a.html">My solutions</a></li>
+<li>If you wish to appeal your mark, you will need to follow the procedures given <a href="policies.pdf">here</a> precisely, in particular items 18–22 in section 3. In short, you need to find an <em>error</em> in the marking, and you need to explain clearly what that error is and how your work is in fact a correct answer to the question. Grader’s judgement is not an error, and not liking your mark is in no way grounds for an appeal. The time window for appeals on Assignment 1 is September 30 - October 7 inclusive. Appeals sent outside that window will not be considered.</li>
+</ul></li>
+<li><p>2024-09-25 20:30: My solutions to <a href="worksheet_3_c32_a.html">worksheet 3</a>. Assignment 2 should now be open.</p></li>
+<li><p>2024-09-24 12:15: We have an official second section of STAD29, which will run Monday 1-3pm (one two-hour lecture a week, same as the other section). It should be big enough to accommodate all the students currently on the waitlist. If you are in section 1 currently and want to move to the new second section, that should be possible (which would allow space for students currently on the waitlist to join section 1, if that suits them better).</p></li>
+<li><p>2024-09-23 11:50: Monday update:</p>
+<ul>
+<li><a href="https://q.utoronto.ca/courses/361123/assignments/1382828">Assignment 1</a> due tonight.</li>
+<li>Lectures: I got to the end of “choosing things” last Thursday, so we have for this week:
+<ul>
+<li>Tuesday: one-sample <span class="math inline">\(t\)</span></li>
+<li>Thursday: two-sample <span class="math inline">\(t\)</span> and start of bootstrap for sample mean</li>
+</ul></li>
+<li>Tutorial: <a href="worksheet_3_c32_q.html">Worksheet 3</a> questions. Questions 18 and 19 relate to Tuesday’s lecture this week.</li>
+<li><a href="https://q.utoronto.ca/courses/361123/assignments/1385382">Assignment 2</a> will open on Wednesday night.</li>
+</ul></li>
+<li><p>2024-09-22 15:00: If you are having trouble accessing the assignment, your first port of call should be the student computer helpdesk to find out why that is (you are probably also going to have trouble handing in the assignment if you do not get this sorted out). For this week only, <a href="a1_c32_2024_q.html">here are the questions</a>.</p></li>
+<li><p>2024-09-19 15:30: I just took a look through the Assignment 0’s. If you got a 1 and a “yep”, you are all good. Most people got both of those. If you handed in something and didn’t get a 1, or got a 1 and a comment, you need to figure out what happened. The commonest things missing were the <code>embed-resources: true</code> thing that meant that there were no graphs, and the <code>df-print: paged</code> thing that meant that there was no nice display of dataframes. See question 13 in worksheet 1; these go in the “YAML block” at the very top of your document. If you got a 0, you are welcome to try again and I will endeavour to take a look at your revised version. (I was pretty relaxed about <em>what</em> you included; if you had some code, some output and a graph, ideally with some text of your own, I was good with it.)</p></li>
+<li><p>2024-09-19 10:35: two things:</p>
+<ul>
+<li><a href="https://q.utoronto.ca/courses/361123/assignments/1382828">Assignment 1</a> is now open, due next Monday.</li>
+<li>September 16 was the last day to register yourself in a tutorial. If you haven’t done so yet, you will now need to go through the Registrar’s office to do this.</li>
+</ul></li>
+<li><p>2024-09-19 00:15: before I go to bed, my <a href="worksheet_2_c32_a.html">solutions to Worksheet 2</a>.</p></li>
+<li><p>2024-09-18 12:00: We have a date for the midterm. I don’t want to share the time and place in public, so I am about to post an announcement on Quercus so that you can make plans.</p></li>
+<li><p>2024-09-16 12:55: Assignment 1 is now on Quercus, and will open for you on Wed night. Note that it is available until Wed of next week, but it is <em>due on Monday night</em>, and there is a late penalty (1% per hour) if you submit it after 11:59pm Monday. If you have an official Accessibility accommodation that grants you an extension on assignments, it is <em>up to you</em> to claim it (by emailing me) before the official due date each time you need it. The maximum such extension is two days, since I will be publishing solutions for everyone after that. There are no other extensions or make-ups, as per the syllabus. You may hand in your assignment up to two days late, but the late penalty will apply. (You will recall from your reading of the syllabus that the worst two assignments are dropped; if life circumstances intervene and you cannot hand in an assignment before it closes, that will automatically count as one of your dropped assignments.)</p></li>
+<li><p>2024-09-16 12:15: Monday update:</p>
+<ul>
+<li>lectures: the rest of numerical summaries (Tuesday), choosing things from dataframes (both days), one-sample <span class="math inline">\(t\)</span> (start Thursday).</li>
+<li>tutorial: <a href="worksheet_2_c32_q.html">worksheet 2</a>. Note that this week (and from here forward) <em>this only has the questions</em>. The idea is that by learning how to do the worksheet yourself (using your lecture notes and your brain), you are also learning how to do the assignment that depends on this worksheet (and thereby preparing yourself for any midterm questions on the material in this worksheet). After you have made an honest effort on this worksheet yourself, feel free to ask your tutorial TA for guidance if you get stuck. I will post my solutions on Wed evening.</li>
+<li>assignment 1 will be posted on Wednesday evening, after all the tutorials are done and I have posted my worksheet solutions, and will be due the following Monday night (at the traditional time of 11:59pm). The idea is that you do the assignment <em>yourself</em>, based on what you have learned from doing the worksheet (and from the material in your lecture notes and by using your brain); expect minimal help from me. You have practiced the submission procedure on worksheet 1 (“assignment 0”), so you should be able to figure that out for Assignment 1.</li>
+</ul></li>
+<li><p>2024-09-11 18:00: to answer the question from lecture: if you’re reading in data from an Excel sheet, can you get hold of the names of the sheets in R, so that you can figure out which one contains the data you want? The answer turns out to be yes. To use the <code>test2.xlsx</code> from lecture:</p></li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>book <span class="ot">&lt;-</span> <span class="st">"test2.xlsx"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">excel_sheets</span>(book)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "data"  "notes"</code></pre>
+</div>
+</div>
+<p>and hence</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>xy <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(book, <span class="st">"data"</span>)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>xy</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 6 × 4
+  id        x     y group
+  &lt;chr&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;
+1 p1       10    21 upper
+2 p2       11    20 lower
+3 p3       13    25 upper
+4 p4       15    27 lower
+5 p5       16    30 upper
+6 p6       17    31 lower</code></pre>
+</div>
+</div>
+<p>Coding tip: I knew I was going to be referring to the spreadsheet file twice (once to get the names of the sheets in it, and once to access the sheet I wanted), so I saved the filename (in <code>book</code>, short for “workbook”) to avoid typing the filename twice. (I also gave the dataframe a name that says at least something about what it contains, even though we don’t know what <code>x</code> and <code>y</code> actually <em>are</em>.)</p>
+<ul>
+<li><p>2024-09-09 13:20: on the table for this week:</p>
+<ul>
+<li>lectures:
+<ul>
+<li>the rest of <a href="http://ritsokiguess.site/lecture-notes/readfile.html">reading files</a> (Tuesday, to start)</li>
+<li><a href="http://ritsokiguess.site/lecture-notes/graphs.html">making graphs</a> (Tuesday)</li>
+<li><a href="http://ritsokiguess.site/lecture-notes/numsum.html">numerical summaries</a> (Thursday)</li>
+<li><a href="http://ritsokiguess.site/lecture-notes/choosing.html">choosing things from dataframes</a> (possibly Thursday, possibly next week)</li>
+</ul></li>
+<li>tutorials: start this week, on Wednesday. Your chance to work through (or finish working through) Worksheet 1 with a TA there to help, as well as handing in the practice Assignment 0 (checking that your graphs successfully made it).</li>
+</ul></li>
+<li><p>2024-09-06 13:00: I thought I would write out my plans for the course and <a href="https://docs.google.com/spreadsheets/d/11KZFdNBysLUyXEPPTfImqTkLGOuzB3nUO9WaRLoCFfo/edit?usp=sharing">share them with you (Google sheet)</a>:</p>
+<ul>
+<li>I went about as far as reading week, because I am usually too ambitious. Expect there to be edits material-wise.</li>
+<li>There is a midterm to be scheduled; I try not to have an assignment and a midterm the same week (eg. if the midterm is on a Friday, there won’t be an assignment due the Monday after).</li>
+<li>This means that the last assignment will probably end up being due on Nov 25 and not as shown. Expect that the material in assignment <span class="math inline">\(n\)</span> will be the same as on worksheet <span class="math inline">\(n+1\)</span> (the questions will of course be different), at least up until the midterm when things might get further out of sync.</li>
+<li>Depending on when the midterm is scheduled, the last tutorial before it might be a chance for you to bring exam-related questions to the TA.</li>
+<li>I made assignment 4 due the day after Thanksgiving rather than Thanksgiving itself.</li>
+</ul></li>
+<li><p>2024-09-05 10:20: Today’s class: reading in data. Files for today’s class (added after: it looks as if they all work now):</p>
+<ul>
+<li><a href="test1.xlsx">Test 1 (xlsx)</a></li>
+<li><a href="test1.csv">Test 1 (csv)</a></li>
+<li><a href="coffee.txt">Coffee cups</a></li>
+<li><a href="migraine.txt">Migraine data</a></li>
+<li><a href="test2.xlsx">Test 2 (xlsx)</a></li>
+</ul></li>
+<li><p>2024-09-04 17:30: I think I forgot to mention exams in my go-through of the course outline on Tuesday. The information you need is <a href="https://ritsokiguess.site/lecture-notes/outline_c32.html#/assessment">on the Assessment page of the course outline</a>, at the bottom (you might need to scroll down).</p></li>
+<li><p>2024-09-03 12:50: <a href="worksheet_1_c32_a.html">Worksheet 1</a>, for tutorial next week, in case you want to start on it now.</p></li>
+<li><p>2024-09-03 11:30: There were three fourth-year students on the waitlist this morning, and I have asked for them to be added to the course. Otherwise, the course is full because the classrooms for both lecture sections are full.</p></li>
+<li><p>2024-08-29 14:30: there is indeed a fourth tutorial:</p>
+<ul>
+<li>Since there has been some last-minute reorganization, tutorials start in <em>week 2</em> this year. This means that some of the early worksheets (and therefore assignments) will be a bit behind what appears in the lectures, but we will catch up as we go. The first worksheet should actually be doable after the very first lecture, so I will make sure it’s up in case you want to start on it right away. It looks as if there will be eight assignments this year (the first one will be due after week 3), of which the best six will count.</li>
+<li>If you are still on the waitlist, it’s up to you to register yourself for the new LEC02. Also, if you are in LEC01 but would rather be in LEC02, you should be able to move to that section.</li>
+</ul></li>
+<li><p>2024-08-28 14:20: there will soon be a fourth tutorial (on Wednesday in BV 498, like the others, is the plan). It doesn’t matter which lecture section you are in; the tutorials are all good for both sections.</p></li>
+<li><p>2024-08-27 11:40: we have a second lecture section, and there should be space in it for everyone on the waitlist as of right now:</p>
+<ul>
+<li>the lectures for LEC02 (taught by me as well) are Tu 15:00-16:00 and Th 17:00-18:00</li>
+<li>if you are currently on the waitlist, you can sign up for LEC02 right away</li>
+<li>there will be tutorial space for everyone on Wed (it doesn’t matter which tutorial you are in, because the two lecture sections will run in parallel). Expect a fourth tutorial to be created soon. You have (I think) the option to switch tutorials, up to a certain date. Since things are in a chaotic state right now, I may switch the tutorials back to starting in week 2 (and not what I said on August 12).</li>
+<li>Acorn will tell you the locations of everything.</li>
+<li>The times for LEC01 are unchanged.</li>
+<li>if you are currently in LEC01 and want to switch to LEC02, you can do that, which would allow people on the waitlist/in LEC02 to switch to LEC01 if that suits them better.</li>
+</ul></li>
+<li><p>2024-08-23 15:45: breaking news: we are seeing whether we can open a second section of this course. This is contingent on being able to find a classroom to hold it in at a time that those of you on the waitlist (and I) can manage, which (as is usually the case at UTSC) is the biggest part of the problem. Expect more news early next week. (If need be, we will also hold a second section of STAD29, so there will be room in any case in that course for everyone that makes it through STAC32.)</p></li>
+<li><p>2024-08-12 12:00:</p>
+<ul>
+<li>A reminder that the course is full because the lecture room is full, and so I cannot admit any more students even if I wanted to.</li>
+<li>The <a href="https://ritsokiguess.site/lecture-notes/outline_c32.html#/title-slide">course outline</a>, so that you can get a sense of what to expect.</li>
+<li>Highlights:
+<ul>
+<li>lectures on Tuesday and Thursday (1 hour each)</li>
+<li>tutorial on Wednesday in a computer lab, <strong>starting in week 1</strong>. In tutorial, you get a worksheet to work through using R with TA help if you get stuck. The first worksheet takes you through things from the very beginning and comes with answers, including a practice assignment hand-in. Later worksheets don’t come with answers (so you have to work it out yourself), but I will publish answers after each week’s tutorials are done.</li>
+<li>tutorial worksheets prepare you for the assignments.</li>
+<li>assignments are due weekly on Mondays and open the previous Wednesday night (the first one opens in week 2 and is due the Monday of week 3), on the same material that the previous worksheet was on. Your assignment answers will need to show code, output, and explanation of the results. (The practice assignment shows you what is needed.) I publish complete solutions after each assignment has been handed in.</li>
+<li>if you do your own work on the worksheets, this will help you for the assignments; if you do your own work on the assignments, this will help you on the exams and will thus help your course grade.</li>
+<li>there will be one out-of-class midterm on a date to be announced, around halfway through the course.</li>
+<li>there will be a final exam, also on a date to be announced, during the final exam period.</li>
+<li>exams are handwritten with short-answer questions, some of which may ask you to write code. Exams are open-book, but bear in mind that you need to organize what you bring, or else you will run out of time trying to find things.</li>
+<li>the course materials (and your brain) will contain everything you need to succeed in this course, except for a few places where I ask you to find something out.</li>
+</ul></li>
+</ul></li>
+<li><p>2024-07-29 10:45:</p>
+<ul>
+<li>I have found space for a few more students in the course, and have asked for these students to be added. Once this is done, the course will be <em>full</em>, since we will be at maximum capacity for our lecture room and I am not allowed to enlarge the class any further.</li>
+<li>In the next couple of days, you will see either that you have been enrolled in the course or that you have moved up the waitlist. A warning that the waitlist in this class historically moves very slowly, so if you are still on the waitlist after this, I advise you to make backup plans for your courses.</li>
+<li>The waitlist is long, so I had to make some choices about who to admit. Since STAC32 and STAD29 are two of the last courses in the Statistics Applied Minor program, I prioritized those students in the program who are closest to graduating, on the basis that this may be their last year, whereas students who are further from graduating can take these courses next year. This is based on the number of credits that each student will have completed by the end of the summer (assuming they pass any summer courses), with the students on the waitlist ranked from greatest to least. If you are in your 3rd year of study (as determined by UTSC), you need to be very close to the 14.0 credits that will make you 4th year to get in this time (if you don’t, you will have a higher priority next year).</li>
+<li>You can find your total number of credits in your Degree Explorer: under Degree and Completed Credits you will see something like 17.00/20.00 (includes 7.00 In Progress). This student will have 17.0 credits <em>once they have completed the courses they are now enrolled in</em>, and thus they have <span class="math inline">\(17-7 = 10\)</span> credits completed now and are in their 3rd year of study.</li>
+<li>My decision of students to enrol is final and is not open to appeal, and, as I say, the course is full once these students are enrolled because the lecture room is full.</li>
+</ul></li>
+<li><p>2024-06-28 19:00: time to open things up for the fall 2024 edition of this course:</p>
+<ul>
+<li>I’m aware that the course is filling up fast. After the 3rd years have had a chance to enrol, I will look more carefully at who is on the waitlist, with the aim of making sure that those who really need the course are able to take it, subject to space being available. My priority order is: students in the Statistics Applied Minor program, and within those, students in the fourth year of study (or beyond) as calculated by UTSC, then students in earlier years of study in the program, and then students in other programs. Appealing directly to me will not change that.</li>
+<li>There are (COVID-era old) recordings of the lecture material. Things have changed since they were made, but they will be available in case you must miss an occasional lecture (for example, you are sick). They are <em>not</em> a substitute for routinely missing lecture; if you do that, you risk missing important material and thereby hurting your grade.</li>
+<li>I will be checking prerequisites. To take STAC32, you <em>must</em> have completed (by the time STAC32 starts in September) either STAB27 or PSYC08 or MGEB12. If you have not completed one of these courses by then, you will be removed from STAC32.</li>
+<li>Looking ahead to next winter’s STAD29: my aim is to make sure that there will be enough space in that course for everyone that wants to take it (and has completed STAC32).</li>
+<li>Program <a href="https://ritsokiguess.site/programs-and-courses/faq.html">FAQ</a>.</li>
 </ul></li>
 </ul>
 
@@ -457,6 +902,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -567,6 +1014,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
