@@ -1,8 +1,5 @@
 ---
 title: "Frequently Asked Questions about the Applied Statistics Minor program"
-format:
-  html:
-    number-sections: true
 ---
 
 ## Introduction
