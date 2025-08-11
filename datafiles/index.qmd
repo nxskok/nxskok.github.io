@@ -5,6 +5,7 @@ listing:
   contents: 
     - "*.csv" 
     - "*.dat"
+    - "*.rds"
     - "*.txt"
     - "*.xlsx"
     - "*.xls"
