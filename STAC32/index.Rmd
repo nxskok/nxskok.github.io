@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-08-20 15:30: link to [planned course schedule](https://docs.google.com/spreadsheets/d/11KZFdNBysLUyXEPPTfImqTkLGOuzB3nUO9WaRLoCFfo/edit?usp=sharing), to be updated as we go.
+
 - 2025-08-20 14:30: updates:
   - if you are in your 4th year of study (by credits completed) and joined the waitlist before today, you should be able to get into STAC32 this fall (and thus complete the program).
   - otherwise, unfortunately we do not have the resources to enlarge the class to accommodate the waitlist, so you will have to take your chances with the waitlist.
