@@ -24,7 +24,13 @@ future.
 
 ## News (most recent at the top):
 
-- 2025-09-04 13:30: If you want to get ahead of the game, here's [next week's worksheet](worksheet_1_c32_a.html) that you'll be working on in tutorial next week.
+- 2025-09-04 13:30: 
+  - If you want to get ahead of the game, here's [next week's worksheet](worksheet_1_c32_a.html) that you'll be working on in tutorial next week.
+  - Some people reported to me that they couldn't get `file.choose` to work for finding files on their computer. If this happens to you:
+    - make sure you have created a new project (that is associated with a folder) with a name like `STAC32`.
+    - Open any files you want to work with, from wherever they are (eg `Downloads`), and "save as", saving them in your project folder (eg `STAC32`)
+    - Then you can read them into R using eg. `read_csv` with a filename, as I was doing in class.
+  - Hint: if the data you want to read in is on the web somewhere, use `read_csv` and friends with the URL, rather than downloading the file to your computer. It is sometimes a good idea to look at the file in your web browser first (for example, you are not sure what the data values are separated by), but you should not need to download it. (Exception: if the file is an Excel spreadsheet that you want to read in with `read_excel`. In that case, you *do* have to download it.)
 
 - 2025-09-04 10:30: some data files for today's class:
   - [test1.xlsx](test1.xlsx)
