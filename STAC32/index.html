@@ -358,7 +358,17 @@ ul.task-list li input[type="checkbox"] {
 <section id="news-most-recent-at-the-top" class="level2">
 <h2 class="anchored" data-anchor-id="news-most-recent-at-the-top">News (most recent at the top):</h2>
 <ul>
-<li><p>2025-09-04 13:30: If you want to get ahead of the game, here’s <a href="worksheet_1_c32_a.html">next week’s worksheet</a> that you’ll be working on in tutorial next week.</p></li>
+<li><p>2025-09-04 13:30:</p>
+<ul>
+<li>If you want to get ahead of the game, here’s <a href="worksheet_1_c32_a.html">next week’s worksheet</a> that you’ll be working on in tutorial next week.</li>
+<li>Some people reported to me that they couldn’t get <code>file.choose</code> to work for finding files on their computer. If this happens to you:
+<ul>
+<li>make sure you have created a new project (that is associated with a folder) with a name like <code>STAC32</code>.</li>
+<li>Open any files you want to work with, from wherever they are (eg <code>Downloads</code>), and “save as”, saving them in your project folder (eg <code>STAC32</code>)</li>
+<li>Then you can read them into R using eg. <code>read_csv</code> with a filename, as I was doing in class.</li>
+</ul></li>
+<li>Hint: if the data you want to read in is on the web somewhere, use <code>read_csv</code> and friends with the URL, rather than downloading the file to your computer. It is sometimes a good idea to look at the file in your web browser first (for example, if it is a file with a <code>.txt</code> on the end of its name, and you are not sure what the data values are separated by), but you should not need to download it.</li>
+</ul></li>
 <li><p>2025-09-04 10:30: some data files for today’s class:</p>
 <ul>
 <li><a href="test1.xlsx">test1.xlsx</a></li>
