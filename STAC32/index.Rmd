@@ -24,6 +24,13 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-09-04 10:30: some data files for today's class:
+  - [test1.xlsx](test1.xlsx)
+  - [test1.csv](test1.csv)
+  - [coffee.txt](coffee.txt)
+  - [migraine.txt](migraine.txt)
+  - [test2.xlsx](test2.xlsx)
+
 - 2025-09-01 17:20: we begin tomorrow. Here's the lecture schedule for this week:
   - Tuesday: syllabus highlights, running R
   - Thursday: reading data files.
