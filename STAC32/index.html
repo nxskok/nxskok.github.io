@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -365,7 +394,8 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="http://ritsokiguess.site/lecture-notes/graphs_c32.html">Drawing graphs</a></li>
 <li><a href="http://ritsokiguess.site/lecture-notes/numsum.html">Numerical summaries</a> That is to say, we will be thinking about not only how to get these, but also how to interpret them (and what they tell us about our data).</li>
 </ul></li>
-<li>Tutorials start this week (so make sure you are registered in one). You’ll be</li>
+<li>Tutorials start this week (so make sure you are registered in one). You’ll be working on <a href="worksheet_1_c32_a.html">Worksheet 1</a>, with a TA around to help you if you get stuck. This worksheet comes with answers (because the goal is for you to see what to do); later worksheets will <em>not</em> come with answers, because the struggle is part of the process (but the TAs will have the answers if you want to check after you have done some thinking for yourself). I will post the worksheet answers on Wed nights, on the <a href="../STAC32/all_worksheets.html">worksheets page</a>.</li>
+<li>Looking ahead: the first assignment opens <em>next</em> week, and will be based on the material in worksheets 1 and 2. Assignments will be due on Monday night, with the first one due on Mon Sep 22. After the first assignment, assignment <span class="math inline">\(n\)</span> will be based on worksheet <span class="math inline">\(n + 1\)</span>.</li>
 </ul></li>
 <li><p>2025-09-04 13:30:</p>
 <ul>
