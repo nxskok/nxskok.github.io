@@ -24,6 +24,38 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-09-08 13:00: Monday update:
+  - Lectures this week:
+    - [Drawing graphs](http://ritsokiguess.site/lecture-notes/graphs_c32.html)
+    - [Numerical summaries](http://ritsokiguess.site/lecture-notes/numsum.html)
+    
+    That is to say, we will be thinking about not only how to get these, but also how to interpret them (and what they tell us about our data).
+  - Tutorials start this week (so make sure you are registered in one). You'll be working on [Worksheet 1](worksheet_1_c32_a.html), with a TA around to help you if you get stuck. This worksheet comes with answers (because the goal is for you to see what to do); later worksheets will *not* come with answers, because the struggle is part of the process (but the TAs will have the answers if you want to check after you have done some thinking for yourself). I will post the worksheet answers on Wed nights, on the [worksheets page](all_worksheets.qmd).
+  - Looking ahead: the first assignment opens *next* week, and will be based on the material in worksheets 1 and 2. Assignments will be due on Monday night, with the first one due on Mon Sep 22. After the first assignment, assignment $n$ will be based on worksheet $n + 1$.
+
+- 2025-09-04 13:30: 
+  - If you want to get ahead of the game, here's [next week's worksheet](worksheet_1_c32_a.html) that you'll be working on in tutorial next week.
+  - Some people reported to me that they couldn't get `file.choose` to work for finding files on their computer. If this happens to you:
+    - make sure you have created a new project (that is associated with a folder) with a name like `STAC32`.
+    - Open any files you want to work with, from wherever they are (eg `Downloads`), and "save as", saving them in your project folder (eg `STAC32`)
+    - Then you can read them into R using eg. `read_csv` with a filename, as I was doing in class.
+  - Hint: if the data you want to read in is on the web somewhere, use `read_csv` and friends with the URL, rather than downloading the file to your computer. It is sometimes a good idea to look at the file in your web browser first (for example, you are not sure what the data values are separated by), but you should not need to download it. (Exception: if the file is an Excel spreadsheet that you want to read in with `read_excel`. In that case, you *do* have to download it.)
+
+- 2025-09-04 10:30: some data files for today's class:
+  - [test1.xlsx](test1.xlsx)
+  - [test1.csv](test1.csv)
+  - [coffee.txt](coffee.txt)
+  - [migraine.txt](migraine.txt)
+  - [test2.xlsx](test2.xlsx)
+
+- 2025-09-01 17:20: we begin tomorrow. Here's the lecture schedule for this week:
+  - Tuesday: syllabus highlights, running R
+  - Thursday: reading data files.
+  
+  We might start on making graphs this week. (edit: we didn't.)
+
+
+
 - 2025-08-20 15:30: link to [planned course schedule](https://docs.google.com/spreadsheets/d/11KZFdNBysLUyXEPPTfImqTkLGOuzB3nUO9WaRLoCFfo/edit?usp=sharing), to be updated as we go.
 
 - 2025-08-20 14:30: updates:
