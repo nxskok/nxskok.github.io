@@ -24,7 +24,9 @@ future.
 
 ## News (most recent at the top):
 
-- 2025-09-12 13:45: next week's worksheet questions are up on the [worksheet page](all_worksheets.qmd). Answers will be available after tutorial next week.
+- 2025-09-17 20:15: worksheet 2 solutions on the [worksheets page](all_worksheets.qmd). Assignment 1 should now be open.
+
+- 2025-09-12 13:45: next week's worksheet questions are up on the [worksheets page](all_worksheets.qmd). Answers will be available after tutorial next week.
 
 - 2025-09-11 22:00: a late-night Thursday update:
   - I'll pick up the last bit of numerical summaries again in lecture on Tuesday. There are probably some things there that don't make much sense yet.
