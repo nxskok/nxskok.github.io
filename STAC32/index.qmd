@@ -26,7 +26,16 @@ future.
 
 - 2025-09-17 20:15: worksheet 2 solutions on the [worksheets page](all_worksheets.qmd). Assignment 1 should now be open.
 
-- 2025-09-12 13:45: next week's worksheet questions are up on the [worksheets page](all_worksheets.qmd). Answers will be available after tutorial next week.
+- 2025-09-15 11:30: Monday update:
+  - Lectures this week:
+    - the last bit of "numerical summaries" (the stuff with `across`)
+    - choosing things in dataframes. This is long, so will probably take us the rest of the week.
+  - Worksheet 2 for tutorial on Wednesday is on the [worksheets page](all_worksheets.qmd). Answers will be available after tutorial.
+  - "Grades" for "Assignment 0" are posted. If you got less than 1/1, read the comment and try again.
+  - Assignment 1 opens on Wed night, and is due next Monday night (Sep 22). If you have an accommodation for extended time on assignments and want to use it, claim it before the original due date. There are no other extensions. (Remember, I count only the six best assignments; this is everybody's accommodation for life events that prevent them from doing their best work.)
+  - I have a provisional midterm date; I will let you know when it is official.
+
+- 2025-09-12 13:45: next week's worksheet questions are up on the [worksheet page](all_worksheets.qmd). Answers will be available after tutorial next week.
 
 - 2025-09-11 22:00: a late-night Thursday update:
   - I'll pick up the last bit of numerical summaries again in lecture on Tuesday. There are probably some things there that don't make much sense yet.
