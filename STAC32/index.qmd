@@ -24,6 +24,10 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-09-19 15:45: a Friday update:
+  - the midterm time and place is now official. See the announcement on Quercus about where and when. (For your safety, I am not posting the time or place here.) I am hoping the Quercus announcement will also answer a lot of your questions about the exam.
+  - [worksheet 3](worksheet_3_c32_q.html) questions are up on the [worksheets page](all_worksheets.qmd). Most of this should be doable now if you want to get started.
+
 - 2025-09-17 20:15: worksheet 2 solutions on the [worksheets page](all_worksheets.qmd). Assignment 1 should now be open.
 
 - 2025-09-15 11:30: Monday update:
