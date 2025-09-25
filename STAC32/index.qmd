@@ -24,6 +24,10 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-09-25 15:05: Worksheet 4, for next week's tutorial, is up on the [worksheets page](all_worksheets.qmd).
+
+- 2025-09-25 10:15: Assignment 1 is closed; my solutions are up on the [assignment solutions page](all_assignments.qmd). My solutions to yesterday's Worksheet 3 are up on the [worksheets page](all_worksheets.qmd). Assignment 2 is open.
+
 - 2025-09-21 15:00: an early "Monday" update:
   - Lectures this week on [one-sample and two-sample inference](http://ritsokiguess.site/lecture-notes/inference_1.html). The statistical material should be (almost all) familiar, but the coding will be new, and we will look at things with more depth than you did in your first course.
   - Tutorial this week: Worksheet 3 questions on the [worksheets page](all_worksheets.qmd). My solutions will go up after tutorial.
