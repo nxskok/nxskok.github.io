@@ -24,6 +24,24 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-09-29 11:00: Assignment 1 has been marked, and I am about to post the marks. Before I do, note the following:
+  - the marking has been carried out according to a rubric (which is attached to your marked assignment on Quercus). You should read through the rubric along with [my solutions on this page](all_assignments.qmd) to the assignment to understand why you earned the mark you did.
+  - the marker has been as consistent as possible across all students, and you may not appeal the marker's judgment.
+  - the marker can only assess the work they can see. For example, if your graphs or code are not visible in the work you submit, you cannot get credit for them. It is *your* responsibility to check that the work you submit is the work you intended to submit, and to fix any problems if it is not. (You may resubmit an assignment until the assignment closes, but the grader will only mark the *last* of your submissions.)
+  - if there is an *error* (not a marking judgment) in the marking of your assignment, you may appeal by doing the following, *between the dates of October 2 and October 9, inclusive, only* for this assignment:
+    - send me email with, in the subject line, the course number, the assignment number, and the word "appeal"
+    - explain precisely what and where the *error* (not marking judgment) was in the marking of your work, with reference to the rubric and to my solutions. 
+    - after the appeals on this assignment have closed, I will re-read the question you referred to, and may also re-read the rest of your assignment, and make adjustments as I deem appropriate. Note that this means your assignment mark may go *down* after your appeal. After I have read your appeal and made any adjustments, the assignment mark is final.
+  - appealing your mark before the opening date (Oct 2 for this assignment) *disqualifies* you from any further appeals on that assignment.
+
+- 2025-09-28 12:30: another "Monday update" on Sunday:
+  - Lectures this week:
+    - bootstrap sampling distribution of sample mean
+    - power of hypothesis tests
+  - tutorial this week: Worksheet 4, on one-sample and two-sample $t$-tests and confidence intervals, with solutions available Wed night
+  - assignment 2 due on Monday night (29th); assignment 3 opens on Wed night and is due the following Monday night (Oct 6th). 
+  
+
 - 2025-09-25 15:05: Worksheet 4, for next week's tutorial, is up on the [worksheets page](all_worksheets.qmd).
 
 - 2025-09-25 10:15: Assignment 1 is closed; my solutions are up on the [assignment solutions page](all_assignments.qmd). My solutions to yesterday's Worksheet 3 are up on the [worksheets page](all_worksheets.qmd). Assignment 2 is open.
