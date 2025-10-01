@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-01 15:30: we have a [midterm](https://q.utoronto.ca/courses/406234/discussion_topics/3197125) exam in more or less final form. It has 30 questions, along the lines of the ones in the assignments, worth a total of 69 marks.
+
 - 2025-09-29 11:00: Assignment 1 has been marked, and I am about to post the marks. Before I do, note the following:
   - the marking has been carried out according to a rubric (which is attached to your marked assignment on Quercus). You should read through the rubric along with [my solutions on this page](all_assignments.qmd) to the assignment to understand why you earned the mark you did.
   - the marker has been as consistent as possible across all students, and you may not appeal the marker's judgment.
