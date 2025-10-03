@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content>
-<meta name="dcterms.date" content="2025-10-01">
+<meta name="dcterms.date" content="2025-10-03">
 
 <title>Worksheet 5</title>
 <style>
@@ -3630,7 +3630,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 1, 2025</p>
+      <p class="date">October 3, 2025</p>
     </div>
   </div>
   
@@ -3680,43 +3680,22 @@ window.Quarto = {
 <li>A standard level of power in studies in child psychology is 80% (0.80). According to what you have seen so far, is it necessary to interview 20 working mothers, or more, or less? Explain briefly. Use <code>power.t.test</code> to obtain an appropriate sample size, under the assumptions you have made.</li>
 </ol>
 </section>
-<section id="two-sample-power" class="level2">
-<h2 class="anchored" data-anchor-id="two-sample-power">Two-sample power</h2>
-<p>Suppose we have two populations, which we are supposing to both be normally distributed. The first population has a mean of 20, and the second population has a mean of 25. Both populations have the same SD of 9.</p>
-<ol start="9" class="example" type="1">
-<li>Suppose we take samples of 30 observations from each population. Use <code>power.t.test</code> to find the probability that a two-sample <span class="math inline">\(t\)</span>-test will (correctly) reject the null hypothesis that the two populations have the same mean, in favour of a one-sided alternative. (Hint: <code>delta</code> should be positive.)</li>
-</ol>
-<ol start="10" class="example" type="1">
-<li>Find the sample size needed to obtain a power of 0.75. Comment briefly on whether your sample size makes sense.</li>
-</ol>
-<ol start="11" class="example" type="1">
-<li>Reproduce your power result from Question 9 by simulation. Some things to consider:</li>
-</ol>
-<ul>
-<li>you will need to generate <em>two</em> columns of random samples, one from each population</li>
-<li><code>t.test</code> can also run a two-sample <span class="math inline">\(t\)</span>-test by giving the two columns separately, rather than as we have done it before by having a column with all the measurements and a separate column saying which group they came from.</li>
-<li>you will need to get the right <code>alternative</code>. With two columns input like this, the alternative is relative to the column you give first.</li>
-</ul>
-<ol start="12" class="example" type="1">
-<li>Give an example of a situation where the simulation approach could be used and <code>power.t.test</code> not.</li>
-</ol>
-</section>
 <section id="child-psychology-revisited" class="level2">
 <h2 class="anchored" data-anchor-id="child-psychology-revisited">Child psychology, revisited</h2>
 <p>This is a continuation of an earlier question about talking to children.</p>
-<ol start="13" class="example" type="1">
+<ol start="9" class="example" type="1">
 <li>Another distribution that might be suitable for time spent talking to children is the <em>gamma distribution</em>. Values from a gamma distribution are guaranteed to be greater than zero (which is suitable for times spent talking to children). As far as R is concerned, a random value from a gamma distribution is generated using the function <code>rgamma</code>. This, for us, has three inputs: the number of values to generate, a parameter called <code>shape</code> for which we will use the value 27.23, and a parameter called <code>scale</code> for which we will use the value 0.44. Generate a random sample of 1000 values from a gamma distribution with the given parameter values. Hint: make sure that the inputs that need names actually have names, and organize your results as a column in a dataframe.</li>
 </ol>
-<ol start="14" class="example" type="1">
+<ol start="10" class="example" type="1">
 <li>Find the mean and SD of your random sample of values from the gamma distribution. Are the mean and SD somewhere close to the mean and SD you used in your first power analysis? Explain (very) briefly.</li>
 </ol>
-<ol start="15" class="example" type="1">
+<ol start="11" class="example" type="1">
 <li>Make a histogram of your random sample of gamma-distributed values, and comment briefly on its shape.</li>
 </ol>
-<ol start="16" class="example" type="1">
+<ol start="12" class="example" type="1">
 <li>Suppose now that you want to assume that the data have a gamma distribution with this scale and shape (and thus the same mean and SD that you used previously). Modify your simulation to estimate the power of the <span class="math inline">\(t\)</span>-test against a null mean of 11 against the alternative that the mean is greater than 11, using a sample size of 20, with the data coming from this gamma distribution.</li>
 </ol>
-<ol start="17" class="example" type="1">
+<ol start="13" class="example" type="1">
 <li>Compare the estimated power from earlier and the previous part. Does the similarity or difference make sense? Explain briefly.</li>
 </ol>
 </section>
