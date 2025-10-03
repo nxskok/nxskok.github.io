@@ -24,6 +24,9 @@ future.
 
 ## News (most recent at the top):
 
+
+- 2025-10-03 16:30: Worksheet 5, for the Oct 8 tutorial, is up on the [worksheets page](all_worksheets.qmd).
+
 - 2025-10-02 00:45: Assignment 2 is closed. My solutions are on the [assignment solutions page](all_assignments.qmd).
 
 - 2025-10-01 20:30: Assignment 3 is open. My solutions to worksheet 4 are on the [worksheets page](all_worksheets.qmd).
