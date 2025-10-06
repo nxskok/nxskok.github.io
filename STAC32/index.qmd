@@ -24,6 +24,13 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-06 12:00: Monday update:
+  - lectures this week:
+    - the rest of power of hypothesis tests
+    - sign test (probably Thursday)
+  - worksheet 5, for Wednesday's tutorial, up on the [worksheets page](all_worksheets.qmd), which will help you in preparing for the midterm. Solutions to it will be available Wed night.
+  - assignment 3 is due *tonight*, and solutions to it will be available after it closes on Wed night. Assignment 4 will open on Wed night, but is not due until October 20.
+  - MIDTERM on Friday. See announcement on Quercus for where, when, and what.
 
 - 2025-10-03 16:30: Worksheet 5, for the Oct 8 tutorial, is up on the [worksheets page](all_worksheets.qmd).
 
