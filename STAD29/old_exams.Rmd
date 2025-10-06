@@ -13,6 +13,8 @@ Year  | Exam                       | Figures                        | Solutions
 2020  | [exam](midterm-20201-q.pdf)  | [figures](midterm-20201-f.pdf) | [solutions](midterm-20201-s.pdf)
 2022  | [exam](midterm-20221-q.pdf)  | [figures](midterm-20221-f.pdf) | [solutions](midterm-20221-s.pdf)
 2023  | [exam](midterm-20231-d29-questions.pdf)  | [figures](midterm-20231-d29-figures.pdf) | [solutions](midterm-20231-d29-answers.pdf)
+2024  | [exam](midterm-20241-d29_questions.pdf)  | [figures](midterm-20241-d29_figures.pdf) | [solutions](midterm-20241-d29-answers.pdf)
+2025  | [exam](midterm-20251-d29_qq.pdf)  | [figures](midterm-20251-d29_f.pdf) | [solutions](midterm-20251-d29_a.pdf)
 
 We had a very late midterm in 2023, so there is more material on there than you can expect to see in other midterms. 
 
@@ -27,3 +29,5 @@ Year  | Exam                     | Figures                      | Solutions
 2019  | [exam](final-20191-q.pdf)  | [figures](final-20191-f.pdf) | [solutions](final-20191-s.pdf) 
 2022  | [exam](final-20221-q.pdf)  | [figures](final-20221-f.pdf) | [solutions](final-20221-s.pdf) 
 2023  | [exam](final-20231-d29_q.pdf)  | [figures](final-20231-d29_f.pdf) | [solutions](final-20231-d29_s.pdf) 
+2024  | [exam](final-20241-d29-questions.pdf)  | [figures](final-20241-d29-figures.pdf) | [solutions](final-20241-d29-solutions-figures.pdf) 
+2025  | [exam](final-20251-d29_qq.pdf)  | [figures](final-20251-d29_f.pdf) | [solutions](final-20251-d29_a.pdf)

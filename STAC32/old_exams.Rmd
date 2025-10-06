@@ -22,6 +22,7 @@ Year  | Exam                          | Figures                         | Soluti
 2019  | [exam](midterm-20199-q.pdf)  | [figures](midterm-20199-f.pdf)   | [solutions](midterm-20199-s.pdf) |
 2022  | [exam](midterm-20229-q.pdf)  | [figures](midterm-20229-f.pdf)   | [solutions](midterm-20229-s.pdf) |
 2023  | [exam](midterm-20239-c32_qq.pdf)  | [figures](midterm-20239-c32_figures.pdf)   | [solutions](midterm-20239-c32.pdf) |
+2024  | [exam](midterm-20249-c32_qq.pdf)  | [figures](midterm-20249-c32_f.pdf)   | [solutions](midterm-20249-c32_a.pdf) |
 
 
  
@@ -36,3 +37,4 @@ Year  | Exam                       | Figures                       | Solutions
 2019  | [exam](final-20199-q.pdf)  | [figures](final-20199-f.pdf)  | [solutions](final-20199-s.pdf)
 2022  | [exam](final-20229-q.pdf)  | [figures](final-20229-f.pdf)  | [solutions](final-20229-s.pdf)
 2023  | [exam](final-20239-c32-questions.pdf)  | [figures](final-20239-c32-figures.pdf)  | [solutions](final-20239-c32-solutions.pdf)
+2024  | [exam](final-20249-c32_qq.pdf)  | [figures](final-20249-c32_f.pdf)   | [solutions](final-20249-c32_a.pdf) |
