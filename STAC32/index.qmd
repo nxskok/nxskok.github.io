@@ -24,6 +24,10 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-08 19:30:
+  - my solutions to Worksheet 5, up on the [worksheets page](all_worksheets.qmd).
+  - Assignment 3 closes tonight. I will post my solutions after it closes. In the unlikely event that you care, Assignment 4 is open (not due until Oct 20).
+
 - 2025-10-06 15:00: two more items of news:
   - I added something to the [power analysis](http://ritsokiguess.site/lecture-notes/inference_2.html) lecture notes, that you will see in lecture tomorrow (related to what you see on the worksheet).
   - Assignment 2 is now graded, and I am about to post the marks. A reminder that to have any chance of credit, if you use anything from outside the course materials, *you must say where you got it from* (this is not negotiable). Unless it explicitly says otherwise, the best answer to a problem in this course uses ideas from the course materials. Appeals on other matters by the same procedure as for Assignment 1, between Oct 9 and Oct 16 inclusive.
