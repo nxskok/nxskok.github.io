@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-09 00:10: Assignment 3 is closed; my solutions are on the [assignment solutions page](all_assignments.qmd).
+
 - 2025-10-08 19:30:
   - my solutions to Worksheet 5, up on the [worksheets page](all_worksheets.qmd).
   - Assignment 3 closes tonight. I will post my solutions after it closes. In the unlikely event that you care, Assignment 4 is open (not due until Oct 20).
