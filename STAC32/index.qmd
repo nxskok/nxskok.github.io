@@ -24,6 +24,12 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-10 13:45: midterm *today*, see Quercus announcement for where, when, what, and how. I forgot to mention that your exams will be scanned and marked online, so I advise you to use a pen or *sharp* pencil to write your exam, otherwise we may have trouble reading what you wrote (and if we can't read it, we can't award you points for it). A couple more things:
+  - there is a class in the exam room before our exam, so we may be a little late starting and ending.
+  - I'm aware that a number of you are also writing the C53 midterm tonight at 7:00pm. We will be done in plenty of time to allow you to get dinner, do some last-minute studying, or whatever.
+  - if you don't write the midterm in this course (for whatever reason), the weight goes to the final exam (and conversely, if you do better on the final exam than the midterm, the final exam counts instead of the midterm). All of this is automatic; you don't need to ask for it or tell me why you're missing the midterm. One piece of advice, though: if you miss the midterm and then defer the final exam, you are putting a *lot* of pressure on yourself, so do your best not to do that.
+  - I hope you are able, on the midterm, to show me what you understand.
+
 - 2025-10-09 00:10: Assignment 3 is closed; my solutions are on the [assignment solutions page](all_assignments.qmd).
 
 - 2025-10-08 19:30:
