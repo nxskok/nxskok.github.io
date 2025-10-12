@@ -24,6 +24,15 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-12 14:15: a couple of things, which turned into a "Monday update":
+  - Midterm marking: Monday is a holiday, so the exam won't get scanned until Tuesday (probably), and marking will start after that.
+  - Worksheet 6, for tutorial on Wednesday, is up on the [worksheets page](all_worksheets.qmd).
+  - Lectures this week will be:
+    - the rest of the sign test
+    - matched pairs
+    - Mood's median test
+  - Assignment 4 is not due until Monday October 20.
+  
 - 2025-10-10 13:45: midterm *today*, see Quercus announcement for where, when, what, and how. I forgot to mention that your exams will be scanned and marked online, so I advise you to use a pen or *sharp* pencil to write your exam, otherwise we may have trouble reading what you wrote (and if we can't read it, we can't award you points for it). A couple more things:
   - there is a class in the exam room before our exam, so we may be a little late starting and ending.
   - I'm aware that a number of you are also writing the C53 midterm tonight at 7:00pm. We will be done in plenty of time to allow you to get dinner, do some last-minute studying, or whatever.
