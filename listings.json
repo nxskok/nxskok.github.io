@@ -4,7 +4,11 @@
     "items": []
   },
   {
-    "listing": "/STAC33/all_assignments.html",
+    "listing": "/STAC33/all_worksheets.html",
+    "items": []
+  },
+  {
+    "listing": "/STAC32/extra.html",
     "items": []
   },
   {
@@ -16,15 +20,11 @@
     "items": []
   },
   {
+    "listing": "/STAC33/all_assignments.html",
+    "items": []
+  },
+  {
     "listing": "/datafiles/index.html",
-    "items": []
-  },
-  {
-    "listing": "/STAC32/extra.html",
-    "items": []
-  },
-  {
-    "listing": "/STAC33/all_worksheets.html",
     "items": []
   },
   {
