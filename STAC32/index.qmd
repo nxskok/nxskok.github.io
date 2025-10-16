@@ -24,6 +24,10 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-15 22:30: 
+  - Assignment 3 is marked, and I am about to post the grades. Appeals by usual procedure between Oct 18 and Oct 25.
+  - Midterm marking is in progress. We are now 33% done.
+
 - 2025-10-12 14:15: a couple of things, which turned into a "Monday update":
   - Midterm marking: Monday is a holiday, so the exam won't get scanned until Tuesday (probably), and marking will start after that.
   - Worksheet 6, for tutorial on Wednesday, is up on the [worksheets page](all_worksheets.qmd).
