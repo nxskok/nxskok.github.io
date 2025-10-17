@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-17 12:15: my solutions to Worksheet 6 are up on the [worksheets page](all_worksheets.qmd). Sorry for the delay.
+
 - 2025-10-16 21:00: exam marking update: we are now 47% done. Two of us are done (including me, so I will go and chill as soon as I post this). I gave myself that final question 30 to mark, which was a bit more of an adventure than I might have chosen for myself, but there were some very good answers to it. I updated [my solutions to the midterm](midterm-20259-c32_a.pdf) to include what I saw while marking today.
 
 - 2025-10-16 11:55 (right before class):
