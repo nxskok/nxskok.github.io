@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-22 19:30: Midterm marking update: now at 94% done, as our last two graders finish off their shares.
+
 - 2025-10-20 11:45: Monday update:
   - midterm marking is 70% done as of right now
   - Assignment 4 is due *tonight*
