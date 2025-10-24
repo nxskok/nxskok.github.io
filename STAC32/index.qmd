@@ -24,6 +24,8 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-10-24 13:00: I ended up doing some more editing of worksheet 8, but the questions are up now on the [worksheets page](all_worksheets.qmd).
+
 - 2025-10-24 11:30: My solutions for worksheet 7 are up on the [worksheets page](all_worksheets.qmd). In case you want to work ahead, there will shortly be a worksheet 8 (which is for tutorial the week after reading week), most of which you'll be able to do now. (There is a slicker way to do the tidying question, which we'll see after we get back from reading week.)
 
 - 2025-10-23 19:00: 
