@@ -29,6 +29,7 @@ future.
 
 - 2025-10-23 19:00: 
   - Midterm marks and marked exams are ready. I am about to post the marks; the marked exams will follow shortly. The appeal procedure is the same as for assignments, between Oct 26 and Nov 3 only. Note that I will not overrule grader's judgment; the appeal process is for errors, such as where your work is completely correct (according to [my solutions](midterm-20259-c32_a.pdf)) but has not received any credit. 
+  - (added 21:00) Exam stats: Q1 44/69 (64%); median 53/69 (77%); Q3 57.5/69 (83%).
   - I think you access your marked exam one of these ways: 
     - in Quercus, find Modules, then the one labelled Crowdmark LTI. Then click "Load Crowdmark LTI in a new window", and you should be able to see your exam. (This is the first time I've used Crowdmark through Quercus, so I am hoping everything will work.) You might get a message like "You do not have access rights to Crowdmark", in which case this is not the way. 
     - Check your email. You might have email from Crowdmark with instructions to access your exam.
