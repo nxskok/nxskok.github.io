@@ -24,6 +24,11 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-11-06 11:00: 
+  - my solutions to Assignment 5, which closed yesterday, are up on the [assignment solutions page](all_assignments.qmd).
+  - my solutions to Worksheet 8, for tutorial yesterday, are up on the [worksheets page](all_worksheets.qmd).
+
+
 - 2025-10-30 12:50: a rather early "Monday update", with nothing in it to worry about until next week (so you can enjoy the rest of your reading week):
   - assignment 5 is due on Nov 3
   - lectures: the rest of tidying (that is, [tidying data](http://ritsokiguess.site/lecture-notes/tidying.html), [tidying extras](http://ritsokiguess.site/lecture-notes/tidy_extra.html), [when pivot-wider goes wrong](http://ritsokiguess.site/lecture-notes/wider_wrong.html))
