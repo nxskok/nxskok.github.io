@@ -24,7 +24,7 @@ future.
 
 ## News (most recent at the top):
 
-- 2025-11-07 22:00: in case you want to start on it, next week's Worksheet 9 is up on the  [worksheets page](all_worksheets.qmd).
+- 2025-11-07 22:00: in case you want to start on it, next week's Worksheet 9 is up on the  [worksheets page](all_worksheets.qmd). I changed my mind about what was going to be on Worksheet 9 (and thus next week's Assignment 7), adding an extra question to the worksheet to give you some more practice.
 
 - 2025-11-06 11:00: 
   - my solutions to Assignment 5, which closed yesterday, are up on the [assignment solutions page](all_assignments.qmd).
