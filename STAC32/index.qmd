@@ -24,6 +24,16 @@ future.
 
 ## News (most recent at the top):
 
+- 2025-11-10 11:15: Monday update:
+  - Assignment 4 is marked. I will release the marks shortly. Appeals by usual procedure between Nov 13 and Nov 20 only. (The TA had computer problems, which are now hopefully fixed.)
+  - Assignment 6 is due tonight, and closes on Wednesday.
+  - Lectures: we go on to regression, with two case studies:
+    - [Windmill](http://ritsokiguess.site/lecture-notes/windmill.html), simple regression
+    - [Asphalt](http://ritsokiguess.site/lecture-notes/asphalt.html), multiple regression
+    - I also have a piece on [regression with categorical variables](http://ritsokiguess.site/lecture-notes/with_categ.html), but it is likely that we won't get to that until next week.
+  - Worksheet 9, for tutorial on Wednesday, is up on the [worksheets page](all_worksheets.qmd), with two problems on tidying data.
+  - Assignment 7, on the same material as Worksheet 9, opens on Wed night.
+
 - 2025-11-07 22:00: in case you want to start on it, next week's Worksheet 9 is up on the  [worksheets page](all_worksheets.qmd). I changed my mind about what was going to be on Worksheet 9 (and thus next week's Assignment 7), adding an extra question to the worksheet to give you some more practice.
 
 - 2025-11-06 11:00: 
