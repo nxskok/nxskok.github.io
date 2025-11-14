@@ -24,7 +24,7 @@ future.
 
 ## News (most recent at the top):
 
-- 2025-11-13 11:00: My solutions to Assigment 6 and Worksheet 9 are up on the [assignment solutions page](all_assignments.qmd) and the [worksheets page](all_worksheets.qmd) respectively.
+- 2025-11-13 11:00: My solutions to Assigment 6 and Worksheet 9 are up on the [assignment solutions page](all_assignments.qmd) and the [worksheets page](all_worksheets.qmd) respectively. Added 21:30: Worksheet 10, for next week's tutorial, is also up.
 
 - 2025-11-10 11:15: Monday update:
   - Assignment 4 is marked. I will release the marks shortly. Appeals by usual procedure between Nov 13 and Nov 20 only. (The TA had computer problems, which are now hopefully fixed.)
